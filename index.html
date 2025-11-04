@@ -74,6 +74,20 @@
 
     <script>
         $(document).ready(function () {
+
+            // Ordenação sensível a locale (pt-BR) para considerar acentos corretamente.
+            // Strip HTML tags from cell content before comparison (os títulos possuem <strong>).
+            $.fn.dataTable.ext.type.order['locale-pt-asc'] = function (a, b) {
+                var x = (a === null || a === undefined) ? '' : a.toString().replace(/<[^>]*>/g, '').trim();
+                var y = (b === null || b === undefined) ? '' : b.toString().replace(/<[^>]*>/g, '').trim();
+                return x.localeCompare(y, 'pt-BR', { sensitivity: 'variant', numeric: true });
+            };
+            $.fn.dataTable.ext.type.order['locale-pt-desc'] = function (a, b) {
+                var x = (a === null || a === undefined) ? '' : a.toString().replace(/<[^>]*>/g, '').trim();
+                var y = (b === null || b === undefined) ? '' : b.toString().replace(/<[^>]*>/g, '').trim();
+                return y.localeCompare(x, 'pt-BR', { sensitivity: 'variant', numeric: true });
+            };
+
             fetch('musicas.json')
                 .then(response => response.json())
                 .then(data => {
@@ -98,14 +112,18 @@
                         language: {
                             url: "https://cdn.datatables.net/plug-ins/1.13.7/i18n/pt-BR.json",
                             searchPlaceholder: ''
-                        },                        
+                        },
+                        // Aplica a ordenação locale-pt na coluna 0 e desabilita ordenação nas colunas 2 e 3
                         columnDefs: [
-                            { orderable: false, targets: [2, 3] }
-                        ]
+                            { orderable: false, targets: [2, 3] },
+                            { type: 'locale-pt', targets: 0 }
+                        ],
+                        // opcional: definir ordem inicial pela coluna 0
+                        order: [[0, 'asc']]
                     });
                 })
                 .catch(error => {
-                    $('#musicasTable tbody').html('<tr><td colspan="2">Erro ao carregar músicas.</td></tr>');
+                    $('#musicasTable tbody').html('<tr><td colspan="4">Erro ao carregar músicas.</td></tr>');
                 });
         });    
     </script>
