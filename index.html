@@ -1,61 +1,105 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
-    <meta charset="UTF-8">
-    <title>Lista de Músicas</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <title>Personal - Start Bootstrap Theme</title>
+    <!-- Favicon-->
+    <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.7/css/dataTables.bootstrap5.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+
+    <!-- Custom Google font-->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+        rel="stylesheet" />
+    <!-- Bootstrap icons-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css" rel="stylesheet" />
+    <!-- Core theme CSS (includes Bootstrap)-->
+    <link href="css/styles.css" rel="stylesheet" />
 </head>
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 <link rel="stylesheet" href="https://cdn.datatables.net/1.13.7/css/dataTables.bootstrap5.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+
+<link
+    href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
+    rel="stylesheet">
+
 <body>
-    <div class="container mt-5">
-        <h2>Lista de Músicas - Ministério de Louvor - Pedra Viva</h2>
-        <table id="musicasTable" class="table table-striped">
-            <thead>
-                <tr>
-                    <th>Título</th>
-                    <th>Artista</th>
-                    <th>Tom</th>
-                    <th>Link</th>
-                </tr>
-            </thead>
-            <tbody>
-            </tbody>
-        </table>
+
+    <div class="container">
+        <div class="row mt-5">
+            <div class="col-12">
+                <h3 class="text-center fs-10 fs-md-6">Lista de Músicas - Ministério de Louvor - Pedra Viva</h3>
+            </div>
+        </div>
+        <hr>
+        <div class="row mt-5 fs-6 fs-md-4">
+            <div class="table-responsive">
+                <table id="musicasTable" class="table table-striped table-condensed">
+                    <thead>
+                        <tr>
+                            <th>Título</th>
+                            <th>Artista</th>
+                            <th width="1%">Tom</th>
+                            <th width="1%">Link</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    </tbody>
+                </table>
+            </div>
+        </div>
     </div>
+
+    <!-- Bootstrap core JS-->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Core theme JS-->
+    <script src="js/scripts.js"></script>
+
     <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
     <script src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js"></script>
     <script src="https://cdn.datatables.net/1.13.7/js/dataTables.bootstrap5.min.js"></script>
+
     <script>
-    $(document).ready(function() {
-        fetch('musicas.json')
-            .then(response => response.json())
-            .then(data => {
-                let rows = '';
-                data.forEach(musica => {
-                    rows += `<tr>
-                                <td>${musica.title}</td>
-                                <td>${musica.artist}</td>
-                                <td>${musica.key}</td>
-                                <td>
-                                    <a href="${musica.streaming.audio.youtube}" target="_blank" rel="noopener noreferrer">
-                                        <i class="fab fa-youtube" style="color:#FF0000; font-size:1.5em;"></i>
-                                    </a>
-                                </td>
-                             </tr>`;
-                             console.log
+        $(document).ready(function () {
+            fetch('musicas.json')
+                .then(response => response.json())
+                .then(data => {
+                    let rows = '';
+                    data.forEach(musica => {
+                        rows += `<tr>
+                                    <td>${musica.title}</td>
+                                    <td>${musica.artist}</td>
+                                    <td align='center'><strong>${musica.key}</strong></td>
+                                    <td align='center'>
+                                        <a href="${musica.streaming.audio.youtube}" target="_blank" rel="noopener noreferrer">
+                                            <i class="fab fa-youtube" style="color:#FF0000; font-size:1.5em;"></i>
+                                        </a>
+                                    </td>
+                                </tr>`;
+                        console.log
+                    });
+                    $('#musicasTable tbody').html(rows);
+                    $('#musicasTable').DataTable({
+                        language: {
+                            url: "https://cdn.datatables.net/plug-ins/1.13.7/i18n/pt-BR.json"
+                        }
+                    });
+                })
+                .catch(error => {
+                    $('#musicasTable tbody').html('<tr><td colspan="2">Erro ao carregar músicas.</td></tr>');
                 });
-                $('#musicasTable tbody').html(rows);
-                $('#musicasTable').DataTable({
-                    language: {
-                        url: "https://cdn.datatables.net/plug-ins/1.13.7/i18n/pt-BR.json"
-                    }
-                });
-            })
-            .catch(error => {
-                $('#musicasTable tbody').html('<tr><td colspan="2">Erro ao carregar músicas.</td></tr>');
-            });
-    });    
+        });    
     </script>
 </body>
+
 </html>
