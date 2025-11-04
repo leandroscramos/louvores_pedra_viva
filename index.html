@@ -40,7 +40,8 @@
             <div class="col-12">
                 <h1 class="text-center">Repertório</h1>
                 <h2 class="text-center"><i>Ministério de Louvor | Pedra Viva</i></h2>
-                <h6 class="text-center"><i>Atualizado em: 04/11/2025 18:00</i></h6>
+                <h6 class="text-center"><i>Atualizado em: <strong>04/11/2025 18:00</strong> | <span
+                            id="num_musicas"><strong></strong></span> músicas</i></h6>
             </div>
         </div>
         <hr>
@@ -77,6 +78,8 @@
                 .then(response => response.json())
                 .then(data => {
                     let rows = '';
+                    let num_musicas = data.length;
+                    $('#num_musicas strong').text(num_musicas);
                     data.forEach(musica => {
                         rows += `<tr>
                                     <td><strong>${musica.title}</strong></td>
@@ -88,13 +91,13 @@
                                         </a>
                                     </td>
                                 </tr>`;
-                        console.log
+
                     });
                     $('#musicasTable tbody').html(rows);
                     $('#musicasTable').DataTable({
                         language: {
                             url: "https://cdn.datatables.net/plug-ins/1.13.7/i18n/pt-BR.json"
-                        }
+                        }                        
                     });
                 })
                 .catch(error => {
@@ -105,8 +108,3 @@
 </body>
 
 </html>
-
-
-
-
-
