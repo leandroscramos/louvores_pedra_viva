@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
 <body>
     <div class="container mt-5">
-        <h2>Lista de Músicas</h2>
+        <h2>Lista de Músicas - Ministério de Louvor - Pedra Viva</h2>
         <table id="musicasTable" class="table table-striped">
             <thead>
                 <tr>
@@ -46,14 +46,16 @@
                              console.log
                 });
                 $('#musicasTable tbody').html(rows);
-                $('#musicasTable').DataTable();
+                $('#musicasTable').DataTable({
+                    language: {
+                        url: "https://cdn.datatables.net/plug-ins/1.13.7/i18n/pt-BR.json"
+                    }
+                });
             })
             .catch(error => {
                 $('#musicasTable tbody').html('<tr><td colspan="2">Erro ao carregar músicas.</td></tr>');
             });
-    });
-
-    
+    });    
     </script>
 </body>
 </html>
