@@ -118,6 +118,7 @@
                             <th width="55%">Título</th>
                             <th width="43%">Artista</th>
                             <th width="1%">Tom</th>
+                            <th width="1%">Cifra</th>
                             <th width="1%">Link</th>
                         </tr>
                     </thead>
@@ -172,6 +173,11 @@
                                     <td><strong>${musica.title}</strong></td>
                                     <td>${musica.artist}</td>
                                     <td align='center'><strong>${musica.key}</strong></td>
+                                    <td align='center'>
+                                        <a href="${musica.extras.cifra}" target="_blank" rel="noopener noreferrer">
+                                            <i class="fa-regular fa-file-lines" style="color:#FF0000; font-size:1.5em;"></i>
+                                        </a>
+                                    </td>
                                     <td align='center'>
                                         <a href="${musica.streaming.audio.youtube}" target="_blank" rel="noopener noreferrer">
                                             <i class="fab fa-youtube" style="color:#FF0000; font-size:1.5em;"></i>
