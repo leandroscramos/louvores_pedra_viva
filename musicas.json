@@ -1982,6 +1982,7 @@
       }
     },
     "extras": {
+      "cifra": "bom_estarmos_aqui.txt",
       "extra": ""
     }
   },
@@ -2591,7 +2592,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Jesus\nQuero declarar Teu nome\n\nSobre toda mente e coração\n\nPois sei que existe paz\nEm Tua presença\n\nClamo Jesus\n\nJesus\nQuero declarar Teu nome\n\nQuebrando os vícios\nDesta geração\n\nDeclaro que há\nEsperança e liberdade\n\nClamo Jesus\n\nTeu nome é cura\nÉ poderoso\n\nTeu nome é vida\n\nDestrói cadeias\nDissipa as trevas\n\nVem incendiar\n\nJesus\nQuero declarar Teu nome\n\nSobre toda alma\nEm depressão\n\nAnsiedade e medo\nSaiam agora\n\nClamo Jesus\n\nDeclare pelas ruas\nO nome de Jesus\n\nSobre a escuridão\nEle vai trazer Sua luz\n\nSobre a sua família\nClame o santo nome, Jesus",
+      "full_text": "Jesus\nQuero declarar Teu nome\n\nSobre toda mente e coração\n\nPois sei que existe paz\nEm Tua presença\n\nClamo Jesus\n\nJesus\nQuero declarar Teu nome\n\nQuebrando os vícios\nDesta geração\n\nDeclaro que há\nEsperança e liberdade\n\nClamo Jesus\n\nTeu nome é cura\nÉ poderoso\nTeu nome é vida\n\nDestrói cadeias\nDissipa as trevas\nVem incendiar\n\nJesus\nQuero declarar Teu nome\n\nSobre toda alma\nEm depressão\n\nAnsiedade e medo\nSaiam agora\n\nClamo Jesus\n\nDeclare pelas ruas\nO nome de Jesus\n\nSobre a escuridão\nEle vai trazer Sua luz\n\nSobre a sua família\nClame o santo nome, Jesus",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -2653,75 +2654,61 @@
         {
           "number": 9,
           "description": "",
-          "text": "Teu nome é cura\nÉ poderoso",
+          "text": "Teu nome é cura\nÉ poderoso\nTeu nome é vida",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 10,
           "description": "",
-          "text": "Teu nome é vida",
+          "text": "Destrói cadeias\nDissipa as trevas\nVem incendiar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 11,
           "description": "",
-          "text": "Destrói cadeias\nDissipa as trevas",
+          "text": "Jesus\nQuero declarar Teu nome",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 12,
           "description": "",
-          "text": "Vem incendiar",
+          "text": "Sobre toda alma\nEm depressão",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 13,
           "description": "",
-          "text": "Jesus\nQuero declarar Teu nome",
+          "text": "Ansiedade e medo\nSaiam agora",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 14,
           "description": "",
-          "text": "Sobre toda alma\nEm depressão",
+          "text": "Clamo Jesus",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 15,
           "description": "",
-          "text": "Ansiedade e medo\nSaiam agora",
+          "text": "Declare pelas ruas\nO nome de Jesus",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 16,
           "description": "",
-          "text": "Clamo Jesus",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 17,
-          "description": "",
-          "text": "Declare pelas ruas\nO nome de Jesus",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 18,
-          "description": "",
           "text": "Sobre a escuridão\nEle vai trazer Sua luz",
           "text_with_comment": null,
           "translations": null
         },
         {
-          "number": 19,
+          "number": 17,
           "description": "",
           "text": "Sobre a sua família\nClame o santo nome, Jesus",
           "text_with_comment": null,
@@ -5462,7 +5449,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Estou preparando um caminho\nEndireitando as veredas\n\nCada vez mais diminuindo\nPorque importa que Ele cresça\n\nNEle o meu prazer está\n\nEu não sou digno de desatar\nAs Suas sandálias\n\nNEle a minha vida está\n\nE eu caminho com a certeza\nDe que Ele virá\n\nÉ Ele, por Ele que eu estou\nGastando a minha vida\n\nPerdendo tudo por amor\nE com alegria\n\nDono dos meus dias\n\nEle virá, soberano em poder Ele virá\nE o governo está nEle\n\nVejam, Ele traz Consigo\nA Sua recompensa",
+      "full_text": "Estou preparando um caminho\nEndireitando as veredas\n\nCada vez mais diminuindo\nPorque importa que Ele cresça\n\nNele o meu prazer está\n\nEu não sou digno de desatar\nAs Suas sandálias\n\nNele a minha vida está\n\nE eu caminho com a certeza\nDe que Ele virá\n\nÉ Ele, por Ele que eu estou\nGastando a minha vida\n\nPerdendo tudo por amor\nE com alegria\n\nDono dos meus dias\n\nEle virá, soberano em poder Ele virá\nE o governo está nele\n\nVejam, Ele traz Consigo\nA Sua recompensa",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -5482,7 +5469,7 @@
         {
           "number": 3,
           "description": "",
-          "text": "NEle o meu prazer está",
+          "text": "Nele o meu prazer está",
           "text_with_comment": null,
           "translations": null
         },
@@ -5496,7 +5483,7 @@
         {
           "number": 5,
           "description": "",
-          "text": "NEle a minha vida está",
+          "text": "Nele a minha vida está",
           "text_with_comment": null,
           "translations": null
         },
@@ -5531,7 +5518,7 @@
         {
           "number": 10,
           "description": "",
-          "text": "Ele virá, soberano em poder Ele virá\nE o governo está nEle",
+          "text": "Ele virá, soberano em poder Ele virá\nE o governo está nele",
           "text_with_comment": null,
           "translations": null
         },
@@ -10522,7 +10509,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Um dia eu quase parei\nQuase que eu desisti\n\nMas me lembrei que o Senhor não desiste de mim\n\nErrei tentando acertar\nProcurei em outro lugar\n\nMas só encontrei ao Teu lado, o melhor lugar\n\nMe lembro que Tua mão sempre me sustentou\n\nQue mesmo tão distante, não me abandonou\n\nÉs o meu tudo, meu lugar seguro, Deus\n\nEu tudo deixarei por Te amar\nÉs o meu salvador, o meu maior amor\n\nDepois que Te encontrei, não vou mais Te deixar, Senhor\n\nErrei tentando acertar\nProcurei em outro lugar\n\nMas só encontrei ao Teu lado, o melhor lugar\n\nMe lembro que Tua mão sempre me sustentou\n\nQue mesmo tão distante, não me abandonou\n\nÉs o meu tudo, meu lugar seguro, Deus\n\nEu tudo deixarei por Te amar\nÉs o meu salvador, o meu maior amor\n\nDepois que Te encontrei, não vou mais Te deixar, \nSenhor oh oh oh",
+      "full_text": "Um dia eu quase parei\nQuase que eu desisti\n\nMas me lembrei que o Senhor\nnão desiste de mim\n\nErrei tentando acertar\nProcurei em outro lugar\n\nMas só encontrei ao Teu lado,\no melhor lugar\n\nMe lembro que Tua mão \nsempre me sustentou\n\nQue mesmo tão distante,\nnão me abandonou\n\nÉs o meu tudo, \nmeu lugar seguro, Deus\n\nEu tudo deixarei por Te amar\nÉs o meu salvador, o meu maior amor\n\nDepois que Te encontrei,\nnão vou mais Te deixar, Senhor\n\nErrei tentando acertar\nProcurei em outro lugar\n\nMas só encontrei ao Teu lado,\no melhor lugar\n\nMe lembro que Tua mão\nsempre me sustentou\n\nQue mesmo tão distante,\nnão me abandonou\n\nÉs o meu tudo,\nmeu lugar seguro, Deus\n\nEu tudo deixarei\npor Te amar\n\nÉs o meu salvador,\no meu maior amor\n\nDepois que Te encontrei,\nnão vou mais Te deixar, \nSenhor oh oh oh",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -10535,7 +10522,7 @@
         {
           "number": 2,
           "description": "",
-          "text": "Mas me lembrei que o Senhor não desiste de mim",
+          "text": "Mas me lembrei que o Senhor\nnão desiste de mim",
           "text_with_comment": null,
           "translations": null
         },
@@ -10549,28 +10536,28 @@
         {
           "number": 4,
           "description": "",
-          "text": "Mas só encontrei ao Teu lado, o melhor lugar",
+          "text": "Mas só encontrei ao Teu lado,\no melhor lugar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Me lembro que Tua mão sempre me sustentou",
+          "text": "Me lembro que Tua mão \nsempre me sustentou",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Que mesmo tão distante, não me abandonou",
+          "text": "Que mesmo tão distante,\nnão me abandonou",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "És o meu tudo, meu lugar seguro, Deus",
+          "text": "És o meu tudo, \nmeu lugar seguro, Deus",
           "text_with_comment": null,
           "translations": null
         },
@@ -10584,7 +10571,7 @@
         {
           "number": 9,
           "description": "",
-          "text": "Depois que Te encontrei, não vou mais Te deixar, Senhor",
+          "text": "Depois que Te encontrei,\nnão vou mais Te deixar, Senhor",
           "text_with_comment": null,
           "translations": null
         },
@@ -10598,42 +10585,49 @@
         {
           "number": 11,
           "description": "",
-          "text": "Mas só encontrei ao Teu lado, o melhor lugar",
+          "text": "Mas só encontrei ao Teu lado,\no melhor lugar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 12,
           "description": "",
-          "text": "Me lembro que Tua mão sempre me sustentou",
+          "text": "Me lembro que Tua mão\nsempre me sustentou",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 13,
           "description": "",
-          "text": "Que mesmo tão distante, não me abandonou",
+          "text": "Que mesmo tão distante,\nnão me abandonou",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 14,
           "description": "",
-          "text": "És o meu tudo, meu lugar seguro, Deus",
+          "text": "És o meu tudo,\nmeu lugar seguro, Deus",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 15,
           "description": "",
-          "text": "Eu tudo deixarei por Te amar\nÉs o meu salvador, o meu maior amor",
+          "text": "Eu tudo deixarei\npor Te amar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 16,
           "description": "",
-          "text": "Depois que Te encontrei, não vou mais Te deixar, \nSenhor oh oh oh",
+          "text": "És o meu salvador,\no meu maior amor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 17,
+          "description": "",
+          "text": "Depois que Te encontrei,\nnão vou mais Te deixar, \nSenhor oh oh oh",
           "text_with_comment": null,
           "translations": null
         }
@@ -11164,34 +11158,34 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Minh'alma engrandece ao Senhor\nMeu Espírito se alegra\nEm Deus meu Salvador\n\nPois com poder tem feito grandes coisas\n\nE com misericórdia\nDemonstrado amor\n\nSanto, Santo\nSanto és Senhor\n\nSanto, Santo\nSanto és Senhor\n\nTem enchido nossas lâmpadas\nCom o óleo do Espírito\nTem feito Sua vide florescer\n\nTem enchido nossas lâmpadas\nCom o óleo do Espírito\nTem feito Sua vide florescer\n\nSanto, Santo\nSanto és Senhor\n\nSanto, Santo\nSanto és Senhor\n\nAdorado, exaltado és, Senhor\nTão amado, desejado das nações\n\nAdorado mais que todos\nMais que tudo és amado, adorado",
+      "full_text": "Minh'alma engrandece ao Senhor\n\nMeu Espírito se alegra\nEm Deus meu Salvador\n\nPois com poder tem feito grandes coisas\n\nE com misericórdia\nDemonstrado amor\n\nSanto, Santo\nSanto és Senhor\n\nSanto, Santo\nSanto és Senhor\n\nTem enchido nossas lâmpadas\nCom o óleo do Espírito\nTem feito Sua vide florescer\n\nTem enchido nossas lâmpadas\nCom o óleo do Espírito\nTem feito Sua vide florescer\n\nSanto, Santo\nSanto és Senhor\n\nSanto, Santo\nSanto és Senhor\n\nAdorado, exaltado és, Senhor\nTão amado, desejado das nações\n\nAdorado mais que todos\nMais que tudo és amado, adorado",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Minh'alma engrandece ao Senhor\nMeu Espírito se alegra\nEm Deus meu Salvador",
+          "text": "Minh'alma engrandece ao Senhor",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "Pois com poder tem feito grandes coisas",
+          "text": "Meu Espírito se alegra\nEm Deus meu Salvador",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "E com misericórdia\nDemonstrado amor",
+          "text": "Pois com poder tem feito grandes coisas",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Santo, Santo\nSanto és Senhor",
+          "text": "E com misericórdia\nDemonstrado amor",
           "text_with_comment": null,
           "translations": null
         },
@@ -11205,7 +11199,7 @@
         {
           "number": 6,
           "description": "",
-          "text": "Tem enchido nossas lâmpadas\nCom o óleo do Espírito\nTem feito Sua vide florescer",
+          "text": "Santo, Santo\nSanto és Senhor",
           "text_with_comment": null,
           "translations": null
         },
@@ -11219,7 +11213,7 @@
         {
           "number": 8,
           "description": "",
-          "text": "Santo, Santo\nSanto és Senhor",
+          "text": "Tem enchido nossas lâmpadas\nCom o óleo do Espírito\nTem feito Sua vide florescer",
           "text_with_comment": null,
           "translations": null
         },
@@ -11233,12 +11227,19 @@
         {
           "number": 10,
           "description": "",
-          "text": "Adorado, exaltado és, Senhor\nTão amado, desejado das nações",
+          "text": "Santo, Santo\nSanto és Senhor",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 11,
+          "description": "",
+          "text": "Adorado, exaltado és, Senhor\nTão amado, desejado das nações",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
           "description": "",
           "text": "Adorado mais que todos\nMais que tudo és amado, adorado",
           "text_with_comment": null,
@@ -13424,6 +13425,9 @@
   {
     "id": 1762265156309,
     "title": "Poderoso Deus",
+    "title_translations": {
+      "Espanhol": "Dios poderoso"
+    },
     "artist": "Antônio Cirilo e David Quinlan",
     "author": "Antônio Cirilo",
     "note": "",
@@ -13444,35 +13448,45 @@
           "description": "",
           "text": "Ao que está assentado no trono\nE ao Cordeiro seja o louvor",
           "text_with_comment": null,
-          "translations": null
+          "translations": {
+            "Espanhol": "Al que está sentado en el trono\nY al Cordero sea la alabanza"
+          }
         },
         {
           "number": 2,
           "description": "",
           "text": "Seja a honra, seja a glória",
           "text_with_comment": null,
-          "translations": null
+          "translations": {
+            "Espanhol": "Sea el honor, sea la gloria"
+          }
         },
         {
           "number": 3,
           "description": "",
           "text": "Seja o domínio\nPelos séculos dos séculos",
           "text_with_comment": null,
-          "translations": null
+          "translations": {
+            "Espanhol": "Sea el dominio\nDurante siglos de siglos"
+          }
         },
         {
           "number": 4,
           "description": "",
           "text": "Poderoso Deus\nPoderoso Deus",
           "text_with_comment": null,
-          "translations": null
+          "translations": {
+            "Espanhol": "Poderoso Dios\nPoderoso Dios"
+          }
         },
         {
           "number": 5,
           "description": "",
           "text": "Poderoso Deus\nMinh'alma anseia por Ti",
           "text_with_comment": null,
-          "translations": null
+          "translations": {
+            "Espanhol": "Poderoso Dios\nMi alma te anhela"
+          }
         }
       ]
     },
@@ -16407,7 +16421,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Quem é como Tu, Jesus\nNão há ninguém além de Ti\n\nQue é manso e humilde assim\nNão há ninguém igual a Ti\n\nNão há!\n\nMaravilhoso, admirável\nTão sublime, glorioso\n\nTua presença\nÉ mais desejável\nDo que o ouro\n\nMelhor que a vida\nÉ o Teu amor\n\nQuem é como Tu, Jesus\nNão há ninguém além de Ti\n\nQue é manso e humilde assim\nNão há ninguém igual a Ti\n\nNão há igual!\n\nMaravilhoso, admirável\nTão sublime, glorioso\n\nTua presença\nÉ mais desejável\nDo que o ouro\n\nMelhor que a vida\nÉ o Teu amor\n\nMaravilhoso, admirável\nTão sublime, glorioso\n\nTua presença\nÉ mais desejável\nDo que o ouro\n\nMelhor que a vida\nÉ o Teu amor\n\nAh, como espero o dia\nEm que verei a face\nDo meu amado\n\nAh, como espero o dia\nEm que a alegria\nEnfim será completa",
+      "full_text": "Quem é como Tu, Jesus\nNão há ninguém além de Ti\n\nQue é manso e humilde assim\nNão há ninguém igual a Ti\n\nNão há!\n\nMaravilhoso, admirável\nTão sublime, glorioso\n\nTua presença\nÉ mais desejável\nDo que o ouro\n\nMelhor que a vida\nÉ o Teu amor\n\nQuem é como Tu, Jesus\nNão há ninguém além de Ti\n\nQue é manso e humilde assim\nNão há ninguém igual a Ti\n\nNão há igual!\n\nMaravilhoso, admirável\nTão sublime, glorioso\n\nTua presença\nÉ mais desejável\nDo que o ouro\n\nMelhor que a vida\nÉ o Teu amor\n\nMaravilhoso, admirável\nTão sublime, glorioso\n\nTua presença\nÉ mais desejável\nDo que o ouro\n\nMelhor que a vida\nÉ o Teu amor\n\nAh, como espero o dia\nEm que verei a face\nDo meu amado\n\nAh, como espero o dia\nEm que a alegria\nEnfim será completa\n\nE Ele virá soberano em poder\nEle virá e o governo está Nele\n\nVejam, Ele traz consigo\nA sua recompensa\n\nEle virá soberano em poder\nEle virá e o governo está Nele\n\nVejam, Ele traz consigo\nA sua recompensa\n\nE é Ele, por Ele que eu estou\nGastando a minha vida\n\nPerdendo tudo por amor\nE com alegria\nDono dos meus dias",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -16526,6 +16540,48 @@
           "number": 17,
           "description": "",
           "text": "Ah, como espero o dia\nEm que a alegria\nEnfim será completa",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 18,
+          "description": "",
+          "text": "E Ele virá soberano em poder\nEle virá e o governo está Nele",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 19,
+          "description": "",
+          "text": "Vejam, Ele traz consigo\nA sua recompensa",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 20,
+          "description": "",
+          "text": "Ele virá soberano em poder\nEle virá e o governo está Nele",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 21,
+          "description": "",
+          "text": "Vejam, Ele traz consigo\nA sua recompensa",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 22,
+          "description": "",
+          "text": "E é Ele, por Ele que eu estou\nGastando a minha vida",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 23,
+          "description": "",
+          "text": "Perdendo tudo por amor\nE com alegria\nDono dos meus dias",
           "text_with_comment": null,
           "translations": null
         }
@@ -16930,7 +16986,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Nada vai me separar\nMesmo se eu me abalar\n\nTeu amor não falha\n\nMesmo sem merecer\n\nTua graça se derrama\nSobre mim\n\nTeu amor não falha\n\nTu és o mesmo pra sempre\nTeu amor não muda\n\nSe o choro dura uma noite\nA alegria vem pela manhã\n\nSe o mar se enfurecer\nEu não tenho o que temer\n\nPorque eu sei que me amas\nTeu amor não falha\n\nSe o vento é forte\nE profundo o mar\n\nTua presença vem me amparar\nTeu amor não falha\n\nDifícil era o caminhar\nNunca pensei que\n\nEu fosse alcançar\nMas Teu amor não falha\n\nTu fazes que tudo\nCoopere para o meu bem",
+      "full_text": "Nada vai me separar\nMesmo se eu me abalar\n\nTeu amor não falha\n\nMesmo sem merecer\n\nTua graça se derrama\nSobre mim\n\nna na na\nTeu amor não falha\n\nTu és o mesmo pra sempre\nTeu amor não muda\n\nSe o choro dura uma noite\nA alegria vem pela manhã\n\nSe o mar se enfurecer\nEu não tenho o que temer\n\nPorque eu sei que me amas\nTeu amor não falha\n\nSe o vento é forte\nE profundo o mar\n\nTua presença vem me amparar\nTeu amor não falha\n\nDifícil era o caminhar\nNunca pensei que\n\nEu fosse alcançar\nMas Teu amor não falha\n\nTu fazes que tudo\nCoopere para o meu bem",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -16964,7 +17020,7 @@
         {
           "number": 5,
           "description": "",
-          "text": "Teu amor não falha",
+          "text": "na na na\nTeu amor não falha",
           "text_with_comment": null,
           "translations": null
         },
