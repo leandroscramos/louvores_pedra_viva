@@ -171,11 +171,20 @@
                     let rows = '';
                     let num_musicas = data.length;
                     $('#num_musicas strong').text(num_musicas);
+
+                    // Verificar se o atributo existe antes de usar
+                    
                     data.forEach(musica => {
                         rows += `<tr>
                                     <td><strong>${musica.title}</strong></td>
                                     <td>${musica.artist}</td>
                                     <td align='center'><strong>${musica.key}</strong></td>
+                                    
+                                    ${(musica.extras && musica.extras.cifra) ? `<td align='center'>
+                                        <a href="cifras/${musica.extras.cifra}" target="_blank" rel="noopener noreferrer">
+                                            <i class="fa-regular fa-file-lines" style="color:green; font-size:1.5em;"></i>
+                                        </a>
+                                    </td>` : ''}
                                     <td align='center'>
                                         <a href="cifras/${musica.extras.cifra}" target="_blank" rel="noopener noreferrer">
                                             <i class="fa-regular fa-file-lines" style="color:green; font-size:1.5em;"></i>
