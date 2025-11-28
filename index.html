@@ -67,7 +67,7 @@
                         <tr>
                             <th width="55%">Título</th>
                             <th width="43%">Artista</th>
-                            <th width="1%">Tom</th>
+                            <!-- <th width="1%">Tom</th> -->
                             <th width="1%">Link</th>
                         </tr>
                     </thead>
@@ -75,7 +75,7 @@
                         <tr>
                             <td><strong>Lindo Momento</strong></td>
                             <td>Julliany Souza</td>
-                            <td align='center'><strong>E</strong></td>
+                            <!-- <td align='center'><strong>E</strong></td> -->
                             <td align='center'>
                                 <a href="https://youtube.com/watch?v=jVzXF2B5LVA" target="_blank"
                                     rel="noopener noreferrer">
@@ -86,7 +86,7 @@
                         <tr>
                             <td><strong>Melhor Lugar</strong></td>
                             <td>Felipe Rodrigues</td>
-                            <td align='center'><strong>Eb</strong></td>
+                            <!-- <td align='center'><strong>Eb</strong></td> -->
                             <td align='center'>
                                 <a href="https://www.youtube.com/watch?v=Co_TI8wcVkQ" target="_blank"
                                     rel="noopener noreferrer">
@@ -97,7 +97,7 @@
                         <tr>
                             <td><strong>Tuas Águas</strong></td>
                             <td>Julia Vitória e Gabriela Rocha</td>
-                            <td align='center'><strong>Gm</strong></td>
+                            <!-- <td align='center'><strong>Gm</strong></td> -->
                             <td align='center'>
                                 <a href="https://youtube.com/watch?v=DsxY7m6ZlnY" target="_blank"
                                     rel="noopener noreferrer">
@@ -120,7 +120,6 @@
                         <tr>
                             <th width="55%">Título</th>
                             <th width="43%">Artista</th>
-                            <th width="1%">Tom</th>
                             <th width="1%">Cifra</th>
                             <th width="1%">Link</th>
                         </tr>
@@ -174,8 +173,7 @@
                     data.forEach(musica => {
                         rows += `<tr>
                                     <td><strong>${musica.title}</strong></td>
-                                    <td>${musica.artist}</td>
-                                    <td align='center'><strong>${musica.key}</strong></td>                                    
+                                    <td>${musica.artist}</td>                                    
                                     ${(musica.extras && musica.extras.cifra) ? `<td align='center'>
                                         <a href="cifras/${musica.extras.cifra}" target="_blank" rel="noopener noreferrer">
                                             <i class="fa-regular fa-file-lines" style="color:green; font-size:1.5em;"></i>
