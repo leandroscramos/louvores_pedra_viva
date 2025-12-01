@@ -67,8 +67,8 @@
                         <tr>
                             <th width="55%">Título</th>
                             <th width="43%">Artista</th>
-                            <th width="1%">Cifra</th>
-                            <!-- <th width="1%">Tom</th> -->
+                            <!-- <th width="1%">Cifra</th> -->
+                            <th width="1%">Tom</th>
                             <th width="1%">Link</th>
                         </tr>
                     </thead>
@@ -76,8 +76,8 @@
                         <tr>
                             <td><strong>Lindo Momento</strong></td>
                             <td>Julliany Souza</td>
-                            <td></td>
-                            <!-- <td align='center'><strong>E</strong></td> -->
+                            <!-- <td></td> -->
+                            <td align='center'><strong>E</strong></td>
                             <td align='center'>
                                 <a href="https://youtube.com/watch?v=jVzXF2B5LVA" target="_blank"
                                     rel="noopener noreferrer">
@@ -88,8 +88,8 @@
                         <tr>
                             <td><strong>Melhor Lugar</strong></td>
                             <td>Felipe Rodrigues</td>
-                            <td></td>
-                            <!-- <td align='center'><strong>Eb</strong></td> -->
+                            <!-- <td></td> -->
+                            <td align='center'><strong>Eb</strong></td>
                             <td align='center'>
                                 <a href="https://www.youtube.com/watch?v=Co_TI8wcVkQ" target="_blank"
                                     rel="noopener noreferrer">
@@ -100,8 +100,8 @@
                         <tr>
                             <td><strong>Tuas Águas</strong></td>
                             <td>Julia Vitória e Gabriela Rocha</td>
-                            <td></td>
-                            <!-- <td align='center'><strong>Gm</strong></td> -->
+                            <!-- <td></td> -->
+                            <td align='center'><strong>Gm</strong></td>
                             <td align='center'>
                                 <a href="https://youtube.com/watch?v=DsxY7m6ZlnY" target="_blank"
                                     rel="noopener noreferrer">
@@ -124,7 +124,9 @@
                         <tr>
                             <th width="55%">Título</th>
                             <th width="43%">Artista</th>
-                            <th width="1%">Cifra</th>
+                            <th width="1%">BPM</th>
+                            <th width="1%">Compasso</th>
+                            <th width="1%">Tom</th>
                             <th width="1%">Link</th>
                         </tr>
                     </thead>
@@ -177,12 +179,16 @@
                     data.forEach(musica => {
                         rows += `<tr>
                                     <td><strong>${musica.title}</strong></td>
-                                    <td>${musica.artist}</td>                                    
-                                    ${(musica.extras && musica.extras.cifra) ? `<td align='center'>
-                                        <a href="cifras/${musica.extras.cifra}" target="_blank" rel="noopener noreferrer">
-                                            <i class="fa-regular fa-file-lines" style="color:gray; font-size:1.5em;"></i>
-                                        </a>
-                                    </td>` : '<td></td>'}                                    
+                                    <td>${musica.artist}</td>                                                                      
+                                    ${(musica.bpm) ? `<td align='center'>
+                                        ${musica.bpm}
+                                    </td>` : '<td></td>'}
+                                    ${(musica.time_sig) ? `<td align='center'>
+                                        ${musica.time_sig}
+                                    </td>` : '<td></td>'}
+                                    ${(musica.key) ? `<td align='center'>
+                                        ${musica.key}
+                                    </td>` : '<td></td>'}
                                     <td align='center'>
                                         <a href="${musica.streaming.audio.youtube}" target="_blank" rel="noopener noreferrer">
                                             <i class="fab fa-youtube" style="color:#FF0000; font-size:1.5em;"></i>
@@ -191,6 +197,11 @@
                                 </tr>`;
 
                     });
+                    // ${(musica.extras && musica.extras.cifra) ? `<td align='center'>
+                    //                     <a href="cifras/${musica.extras.cifra}" target="_blank" rel="noopener noreferrer">
+                    //                         <i class="fa-regular fa-file-lines" style="color:gray; font-size:1.5em;"></i>
+                    //                     </a>
+                    //                 </td>` : '<td></td>'}                                    
                     $('#musicasTable tbody').html(rows);
                     $('#musicasTable').DataTable({
                         language: {
