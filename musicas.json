@@ -13572,6 +13572,98 @@
     }
   },
   {
+    "id": 1764877280709,
+    "title": "Outro Igual Não Há (Ao Rei Nós Coroamos)",
+    "artist": "Gabriel Guedes",
+    "author": "Aliyah Stamper, Eniola Abioye, Jenn Johnson, Jonathan Stamper, Lindy Cofer, Nathan Carter",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "Bm",
+    "bpm": 72.0,
+    "time_sig": "4/4",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Sobre o trono está\nJesus, Santo\n\nDigno de adoração\nHonra e glória\n\nDigno é o Senhor\nO cordeiro que no trono está\nOutro igual não há\n\nToda a criação\nSó a Ele rende adoração\nOutro igual não há\n\nAo Rei nós coroamos\nAo Rei nós coroamos\n\nAo Rei nós coroamos\nDe tudo Ele é Senhor\n\nSomente o Rei é digno\nSomente o Rei é digno\n\nSomente o Rei é digno\nDe tudo Ele é Senhor",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Sobre o trono está\nJesus, Santo",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Digno de adoração\nHonra e glória",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Digno é o Senhor\nO cordeiro que no trono está\nOutro igual não há",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Toda a criação\nSó a Ele rende adoração\nOutro igual não há",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Ao Rei nós coroamos\nAo Rei nós coroamos",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Ao Rei nós coroamos\nDe tudo Ele é Senhor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Somente o Rei é digno\nSomente o Rei é digno",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Somente o Rei é digno\nDe tudo Ele é Senhor",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "https://open.spotify.com/track/6omhrigmTfXP6LlKm0Fd7A",
+        "youtube": "https://youtube.com/watch?v=z50fW8uKtYU",
+        "deezer": "https://deezer.com/track/2946516431"
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": ""
+      }
+    },
+    "extras": {
+      "extra": ""
+    }
+  },
+  {
     "id": 1762264650783,
     "title": "Pai Nosso",
     "artist": "Pedras Vivas",
@@ -14068,6 +14160,154 @@
         "spotify": "",
         "youtube": "",
         "deezer": ""
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": ""
+      }
+    },
+    "extras": {
+      "extra": ""
+    }
+  },
+  {
+    "id": 1764875686212,
+    "title": "Pra Sempre",
+    "artist": "Fernandinho",
+    "author": "Brian Johnson, Christa Black-Gifford, Gabriel Wilson, Jenn Johnson, Joel Taylor, Kari Jobe",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "C",
+    "bpm": 71.0,
+    "time_sig": "4/4",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "O Universo chora\nO sol se apagou\n\nAli estava morto o Salvador\n\nSeu corpo lá na cruz\nSeu sangue derramou\n\nO peso do pecado Ele levou\n\nDeus Pai o abandonou\nCessou Seu respirar\n\nEm trevas encontrou o filho\n\nA guerra começou\nA morte enfrentou\n\nTodo o poder das trevas\nVencido foi\n\nA Terra estremeceu\nO sepulcro se abriu\n\nE nada vencerá\nSeu grande amor\n\nOh morte, onde estás\nO Rei ressuscitou\n\nEle venceu pra sempre\n\nPra sempre Exaltado É\nPra sempre Adorado É\n\nPra sempre Ele vive\nRessuscitou, Ressuscitou\n\nCantamos Aleluia\nCantamos Aleluia\n\nCantamos Aleluia\nO Cordeiro venceu",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "O Universo chora\nO sol se apagou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Ali estava morto o Salvador",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Seu corpo lá na cruz\nSeu sangue derramou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "O peso do pecado Ele levou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Deus Pai o abandonou\nCessou Seu respirar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Em trevas encontrou o filho",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "A guerra começou\nA morte enfrentou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Todo o poder das trevas\nVencido foi",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "A Terra estremeceu\nO sepulcro se abriu",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "E nada vencerá\nSeu grande amor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Oh morte, onde estás\nO Rei ressuscitou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Ele venceu pra sempre",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "Pra sempre Exaltado É\nPra sempre Adorado É",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "Pra sempre Ele vive\nRessuscitou, Ressuscitou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 15,
+          "description": "",
+          "text": "Cantamos Aleluia\nCantamos Aleluia",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 16,
+          "description": "",
+          "text": "Cantamos Aleluia\nO Cordeiro venceu",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "https://open.spotify.com/track/4fJA1xvjFB4hLy0LRapmXX",
+        "youtube": "https://youtube.com/watch?v=fAll7coh4y0",
+        "deezer": "https://deezer.com/track/694749822"
       },
       "backing_track": {
         "spotify": "",
