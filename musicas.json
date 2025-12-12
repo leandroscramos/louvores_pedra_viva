@@ -1668,7 +1668,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Os que confiam no Senhor\nSão como os montes de Sião\n\nQue não se abalam\n\nMas permanecem\nPara sempre\n\nComo em volta de Jerusalém\nEstão os montes\n\nAssim é o Senhor\nEm volta do Seu povo\n\nAutoridade e poder\nO domínio em Sua mãos\n\nPois o Senhor é Deus\nO Senhor é Rei dos povos\n\nCale-se diante dEle a terra\n\nDobre os joelhos\nErgam as mãos\n\nPois o Senhor é Deus\nO Senhor é Rei dos povos\n\nNão dá sem Jesus, não dá\nNão dá sem Jesus, não dá\n\nPara viver, não dá\nSem Jesus, não dá\n\nPara viver, não dá\nSem Jesus, não dá",
+      "full_text": "Os que confiam no Senhor\nSão como os montes de Sião\n\nQue não se abalam\n\nMas permanecem\nPara sempre\n\nComo em volta de Jerusalém\nEstão os montes\n\nAssim é o Senhor\nEm volta do Seu povo\n\nAutoridade e poder\nO domínio em Sua mãos\n\nPois o Senhor é Deus\nO Senhor é Rei dos povos\n\nCale-se diante dele a terra\n\nDobre os joelhos\nErgam as mãos\n\nPois o Senhor é Deus\nO Senhor é Rei dos povos\n\nNão dá sem Jesus, não dá\nNão dá sem Jesus, não dá\n\nPara viver, não dá\nSem Jesus, não dá\n\nPara viver, não dá\nSem Jesus, não dá",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -1723,7 +1723,7 @@
         {
           "number": 8,
           "description": "",
-          "text": "Cale-se diante dEle a terra",
+          "text": "Cale-se diante dele a terra",
           "text_with_comment": null,
           "translations": null
         },
@@ -2937,7 +2937,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Como Tu és\nOh! Deus\n\nTu nos criaste\nComo Tu és\n\nComo Tu és\nOh! Deus\n\nÉ uma honra para nós Te adorar\n\nLevante as mãos\nPara O grande Eu Sou\n\nQue era e que é\nE que há de vir\n\nLevante as mãos\nPara O grande Eu Sou\n\nOutro igual não há",
+      "full_text": "Como Tu és\nOh! Deus\n\nTu nos criaste\nSemelhante a Ti\n\nComo Tu és\nOh! Deus\n\nÉ uma honra para nós Te adorar\n\nLevante as mãos\nPara O grande Eu Sou\n\nQue era e que é\nE que há de vir\n\nLevante as mãos\nPara O grande Eu Sou\n\nOutro igual não há",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -2950,7 +2950,7 @@
         {
           "number": 2,
           "description": "",
-          "text": "Tu nos criaste\nComo Tu és",
+          "text": "Tu nos criaste\nSemelhante a Ti",
           "text_with_comment": null,
           "translations": null
         },
@@ -11494,6 +11494,56 @@
         "spotify": "",
         "youtube": "https://www.youtube.com/watch?v=oNUErOaOuPw",
         "deezer": ""
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": ""
+      }
+    },
+    "extras": {
+      "extra": ""
+    }
+  },
+  {
+    "id": 1765560534177,
+    "title": "Minhas Guerras",
+    "artist": "Gabriel Guedes",
+    "author": "Elyssa Smith",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "C#",
+    "bpm": 70.0,
+    "time_sig": "4/4",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Assim que luto\nMinhas guerras\n\nParece que estou cercado\nMas sou guardado por Ti",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Assim que luto\nMinhas guerras",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Parece que estou cercado\nMas sou guardado por Ti",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "https://open.spotify.com/track/1rkA56iMdn6RT8IsCmAyGM",
+        "youtube": "https://youtube.com/watch?v=Tga-kPUNrSo",
+        "deezer": "https://deezer.com/track/647353672"
       },
       "backing_track": {
         "spotify": "",
