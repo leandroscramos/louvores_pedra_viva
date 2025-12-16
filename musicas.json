@@ -3722,7 +3722,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Ouvi o meu Senhor bater na porta\nE o meu coração queimou\n\nOuvi o meu Senhor bater na porta\nE o meu coração queimou\n\nEu não vou parar\nGastarei minha vida aos Teus pés\n\nEu não vou parar\nGastarei minha vida aos Teus pés\n\nEu tenho um fogo\nCerrado em meu peito\n\nQue não me dá descanso\nEu não tenho descanso\n\nDeixa queimar, deixa queimar\nDeixa queimar, deixa queimar\n\nDeixa queimar, deixa queimar",
+      "full_text": "Ouvi o meu Senhor bater na porta\nE o meu coração queimou\n\nOuvi o meu Senhor bater na porta\nE o meu coração queimou\n\nEu não vou parar\nGastarei minha vida aos Teus pés\n\nEu não vou parar\nGastarei minha vida aos Teus pés\n\nEu tenho um fogo\nCerrado em meu peito\n\nLarará, Larará, Lará...\n\nQue não me dá descanso\nEu não tenho descanso\n\nDeixa queimar, deixa queimar\nDeixa queimar, deixa queimar\n\nDeixa queimar, deixa queimar",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -3763,19 +3763,26 @@
         {
           "number": 6,
           "description": "",
-          "text": "Que não me dá descanso\nEu não tenho descanso",
+          "text": "Larará, Larará, Lará...",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Deixa queimar, deixa queimar\nDeixa queimar, deixa queimar",
+          "text": "Que não me dá descanso\nEu não tenho descanso",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
+          "description": "",
+          "text": "Deixa queimar, deixa queimar\nDeixa queimar, deixa queimar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
           "description": "",
           "text": "Deixa queimar, deixa queimar",
           "text_with_comment": null,
@@ -10725,6 +10732,189 @@
         "spotify": "https://open.spotify.com/track/3g4TegeapKCe6KnUC6XU0J",
         "youtube": "https://youtube.com/watch?v=SUiO-7lf5Lc",
         "deezer": "https://deezer.com/track/729229652"
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": ""
+      }
+    },
+    "extras": {
+      "extra": ""
+    }
+  },
+  {
+    "id": 1765911007408,
+    "title": "Medley Natal",
+    "artist": "Paulo Cesar Baruk e Palavra Tocada",
+    "author": "",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "",
+    "bpm": 0.0,
+    "time_sig": "",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Surgem anjos proclamando\npaz na Terra e a Deus louvor\n\nVão Seus hinos ecoando\nnas montanhas ao redor\n\nVão-se alegres os pastores\nver o Infante celestial\n\nE acrescentam Seus louvores\nao louvor angelical\n\nGlória a Deus nas alturas\n\nPovos, tribos, celebrai-o,\nglória a Deus também dizei\n\nDe joelhos adorai-o,\nEle é Cristo, grande Rei\n\nGlória a Deus nas alturas\nGlória a Deus nas alturas\n\nE Ele reinará para sempre\nE Ele reinará para sempre\n\nReina em mim com Teu poder\nSobre a escuridão,\nsobre os sonhos meus\n\nTu és o Senhor de tudo o que sou\nVem reinar em mim, Senhor\n\nReina em mim com Teu poder\nSobre a escuridão,\nsobre os sonhos meus\n\nTu és o Senhor de tudo o que sou\nVem reinar em mim, Senhor\n\nGlória a Deus nas alturas\nGlória a Deus nas alturas\n\nGlória a Deus nas alturas\nGlória a Deus nas alturas\n\nReina em mim com Teu poder\nSobre a escuridão,\nsobre os sonhos meus\n\nTu és o Senhor de tudo o que sou\nVem reinar em mim, Senhor\n\nReina em mim com Teu poder\nSobre a escuridão,\nsobre os sonhos meus\n\nTu és o Senhor de tudo o que sou\nVem reinar em mim, Senhor\n\nE então minh'alma canta a Ti, Senhor\nGrandioso és Tu\nGrandioso és Tu\n\nE então minh'alma canta a Ti, Senhor\nGrandioso és Tu\nGrandioso és Tu",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Surgem anjos proclamando\npaz na Terra e a Deus louvor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Vão Seus hinos ecoando\nnas montanhas ao redor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Vão-se alegres os pastores\nver o Infante celestial",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "E acrescentam Seus louvores\nao louvor angelical",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Glória a Deus nas alturas",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Povos, tribos, celebrai-o,\nglória a Deus também dizei",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "De joelhos adorai-o,\nEle é Cristo, grande Rei",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Glória a Deus nas alturas\nGlória a Deus nas alturas",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "E Ele reinará para sempre\nE Ele reinará para sempre",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Reina em mim com Teu poder\nSobre a escuridão,\nsobre os sonhos meus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Tu és o Senhor de tudo o que sou\nVem reinar em mim, Senhor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Reina em mim com Teu poder\nSobre a escuridão,\nsobre os sonhos meus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "Tu és o Senhor de tudo o que sou\nVem reinar em mim, Senhor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "Glória a Deus nas alturas\nGlória a Deus nas alturas",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 15,
+          "description": "",
+          "text": "Glória a Deus nas alturas\nGlória a Deus nas alturas",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 16,
+          "description": "",
+          "text": "Reina em mim com Teu poder\nSobre a escuridão,\nsobre os sonhos meus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 17,
+          "description": "",
+          "text": "Tu és o Senhor de tudo o que sou\nVem reinar em mim, Senhor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 18,
+          "description": "",
+          "text": "Reina em mim com Teu poder\nSobre a escuridão,\nsobre os sonhos meus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 19,
+          "description": "",
+          "text": "Tu és o Senhor de tudo o que sou\nVem reinar em mim, Senhor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 20,
+          "description": "",
+          "text": "E então minh'alma canta a Ti, Senhor\nGrandioso és Tu\nGrandioso és Tu",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 21,
+          "description": "",
+          "text": "E então minh'alma canta a Ti, Senhor\nGrandioso és Tu\nGrandioso és Tu",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "",
+        "youtube": "https://www.youtube.com/watch?v=hIYDzNoeZmk",
+        "deezer": ""
       },
       "backing_track": {
         "spotify": "",
