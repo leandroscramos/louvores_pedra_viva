@@ -297,9 +297,9 @@
     "note": "",
     "copyright": "",
     "language": "",
-    "key": "",
+    "key": "Bb",
     "bpm": 0.0,
-    "time_sig": "",
+    "time_sig": "3/4",
     "midi": null,
     "order": "",
     "arrangements": [],
@@ -473,9 +473,9 @@
     "note": "",
     "copyright": "",
     "language": "",
-    "key": "D",
-    "bpm": 0.0,
-    "time_sig": "",
+    "key": "Dm",
+    "bpm": 124.0,
+    "time_sig": "4/4",
     "midi": null,
     "order": "",
     "arrangements": [],
@@ -7428,7 +7428,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Eu vou clamar, clamar\nAté o Céu me ouvir\n\nEu vou bater, bater\nAté a porta se abrir\n\nEu não vim pra ser mais um\nEu não quero ser mais um\nEu vim viver milagres\n\nNessa multidão de vozes\nSão tantas as dificuldades\n\nEu não vim pra ser mais um\nVim pra tocar\nNas Tuas vestes diferentes\n\nSer como a criança que\nTe entrega os pães e os peixes\n\nAquela que encontra\nÁgua viva e mata a sede\n\nEu não vim pra ser mais um\nEu não quero ser mais um\nVim viver milagres\n\nDeus, eu rompo a multidão\nSei que agora é a minha vez\nDeus de toda a compaixão\n\nTe toco agora\nPra viver milagres, milagres\n\nVim viver milagres",
+      "full_text": "Eu vou clamar, clamar\nAté o Céu me ouvir\n\nEu vou bater, bater\nAté a porta se abrir\n\nEu não vim pra ser mais um\nEu não quero ser mais um\nEu vim viver milagres\n\nNessa multidão de vozes\nSão tantas as dificuldades\n\nEu não vim pra ser mais um\nVim pra tocar\nNas Tuas vestes diferente\n\nSer como a criança que\nTe entrega os pães e os peixes\n\nAquela que encontra\nÁgua viva e mata a sede\n\nEu não vim pra ser mais um\nEu não quero ser mais um\nVim viver milagres\n\nDeus, eu rompo a multidão\nSei que agora é a minha vez\nDeus de toda a compaixão\n\nTe toco agora\nPra viver milagres, milagres\n\nVim viver milagres",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -7462,7 +7462,7 @@
         {
           "number": 5,
           "description": "",
-          "text": "Eu não vim pra ser mais um\nVim pra tocar\nNas Tuas vestes diferentes",
+          "text": "Eu não vim pra ser mais um\nVim pra tocar\nNas Tuas vestes diferente",
           "text_with_comment": null,
           "translations": null
         },
@@ -15435,7 +15435,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Renova-me, Senhor Jesus\nJá não quero ser igual\n\nRenova-me, Senhor Jesus\nPõe em mim Teu coração\n\nPorque tudo que há\nDentro de mim\n\nNecessita ser mudado\nSenhor\n\nPorque tudo que há\nDentro do meu coração\n\nNecessita mais de Ti\n\nNecessita mais de Ti",
+      "full_text": "Renova-me, Senhor Jesus\nJá não quero ser igual\n\nRenova-me, Senhor Jesus\nPõe em mim Teu coração\n\nPorque tudo que há\nDentro de mim\n\nNecessita ser mudado\nSenhor\n\nPorque tudo que há\nDentro do meu coração\n\nNecessita mais de Ti\nNecessita mais de Ti",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -15476,14 +15476,7 @@
         {
           "number": 6,
           "description": "",
-          "text": "Necessita mais de Ti",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 7,
-          "description": "",
-          "text": "Necessita mais de Ti",
+          "text": "Necessita mais de Ti\nNecessita mais de Ti",
           "text_with_comment": null,
           "translations": null
         }
