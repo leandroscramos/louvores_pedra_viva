@@ -10617,6 +10617,133 @@
     }
   },
   {
+    "id": 1766939993192,
+    "title": "Me Atraiu",
+    "artist": "Gabriela Rocha",
+    "author": "Abdiel Arsenio",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "G",
+    "bpm": 64.0,
+    "time_sig": "4/4",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Eu poderia estar\nEm qualquer outro lugar\n\nMas Tua glória me atraiu\nTua presença me atraiu\n\nTentei me esconder\nPor medo de não viver\n\nMas Tua glória me atraiu\nTua presença me atraiu\n\nÉ que a sarça pegou fogo\nE não se consumiu\n\nE a voz que saiu dela\nUm dia me atraiu\n\nE o meu coração queimou\nAté que descobriu\n\nQue um dia com Tua glória\nVale mais que mil\n\nAtraído pela Tua presença\n\nNão me vejo\nSem a Tua presença\n\nAtraído pela Tua Presença\n\nNão me cansarei\nDa Tua presença\n\nEssa chama não se apaga\nE não se apagará",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Eu poderia estar\nEm qualquer outro lugar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Mas Tua glória me atraiu\nTua presença me atraiu",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Tentei me esconder\nPor medo de não viver",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Mas Tua glória me atraiu\nTua presença me atraiu",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "É que a sarça pegou fogo\nE não se consumiu",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "E a voz que saiu dela\nUm dia me atraiu",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "E o meu coração queimou\nAté que descobriu",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Que um dia com Tua glória\nVale mais que mil",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Atraído pela Tua presença",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Não me vejo\nSem a Tua presença",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Atraído pela Tua Presença",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Não me cansarei\nDa Tua presença",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "Essa chama não se apaga\nE não se apagará",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "https://open.spotify.com/track/51uirMnJ9sO1sxqrTqy1fP",
+        "youtube": "https://youtube.com/watch?v=IpXimPDgOio",
+        "deezer": "https://deezer.com/track/2163576437"
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": ""
+      }
+    },
+    "extras": {
+      "extra": ""
+    }
+  },
+  {
     "id": 1762266122411,
     "title": "Me Derramar",
     "artist": "Vineyard",
