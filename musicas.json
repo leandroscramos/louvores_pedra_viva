@@ -9714,6 +9714,126 @@
     }
   },
   {
+    "id": 1767654051972,
+    "title": "Lugares Altos",
+    "artist": "Renascer Praise",
+    "author": "Marcelo Aguiar, Esdras Gallo",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "Bb",
+    "bpm": 67.5,
+    "time_sig": "4/4",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Vem e toma o Teu lugar\n\nTens minha vida\nComo altar\n\nUm trono de louvor\n\nEntrego a Ti, Senhor\nMeu Deus\n\nGuarda o meu coração\nNo Teu jardim particular\n\nVem regar-me\nCom Tua unção\n\nPra que eu possa exalar\nTeu Ser\n\nDá-me Tuas asas\nPra Te alcançar\n\nNos lugares altos\nAonde Tu estás\n\nEstás assentado\nAcima de todos\n\nTão grande Tu és\nMas mesmo assim\n\nHabitas em mim",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Vem e toma o Teu lugar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Tens minha vida\nComo altar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Um trono de louvor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Entrego a Ti, Senhor\nMeu Deus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Guarda o meu coração\nNo Teu jardim particular",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Vem regar-me\nCom Tua unção",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Pra que eu possa exalar\nTeu Ser",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Dá-me Tuas asas\nPra Te alcançar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Nos lugares altos\nAonde Tu estás",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Estás assentado\nAcima de todos",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Tão grande Tu és\nMas mesmo assim",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Habitas em mim",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "https://open.spotify.com/track/04D8REwnhr4GbUkXIs2FYm",
+        "youtube": "https://youtube.com/watch?v=D75EsnLGTi0",
+        "deezer": "https://deezer.com/track/935544982"
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": ""
+      }
+    },
+    "extras": {
+      "extra": ""
+    }
+  },
+  {
     "id": 1761570600378,
     "title": "Mais Alto",
     "artist": "Fernandinho",
@@ -14017,7 +14137,7 @@
     "streaming": {
       "audio": {
         "spotify": "https://open.spotify.com/track/6omhrigmTfXP6LlKm0Fd7A",
-        "youtube": "https://youtube.com/watch?v=z50fW8uKtYU",
+        "youtube": "https://www.youtube.com/watch?v=nNV7QMsvhsM",
         "deezer": "https://deezer.com/track/2946516431"
       },
       "backing_track": {
@@ -14215,7 +14335,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Como ovelha muda\nFoi levado ao matadouro\n\nPor causa dos meus pecados\nJesus se entregou por mim\n\nMas seu plano é um plano perfeito\nSobre a morte Ele triunfou\n\nEstá assentado a destra do Pai\nJesus ressuscitou\n\nComo ovelha muda\nFoi levado ao matadouro\n\nPor causa dos meus pecados\nJesus se entregou por mim\n\nGlória ao cordeiro que foi morto\nGlória ao cordeiro que foi morto\nGlória ao cordeiro que ressuscitou\n\nMas seu plano é um plano perfeito\nSobre a morte Ele triunfou\n\nEstá assentado a destra do Pai\nJesus ressuscitou\n\nGlória ao cordeiro que foi morto\nGlória ao cordeiro que foi morto\nGlória ao cordeiro que ressuscitou",
+      "full_text": "Como ovelha muda\nFoi levado ao matadouro\n\nPor causa dos meus pecados\nJesus se entregou por mim\n\nMas seu plano\né um plano perfeito\n\nSobre a morte Ele triunfou\nEstá assentado\na destra do Pai\n\nJesus ressuscitou\n\nComo ovelha muda\nFoi levado ao matadouro\n\nPor causa dos meus pecados\nJesus se entregou por mim\n\nGlória ao cordeiro\nque foi morto\n\nGlória ao cordeiro\nque foi morto\n\nGlória ao cordeiro\nque ressuscitou\n\nMas seu plano\né um plano perfeito\n\nSobre a morte Ele triunfou\nEstá assentado\na destra do Pai\n\nJesus ressuscitou\n\nGlória ao cordeiro\nque foi morto\n\nGlória ao cordeiro\nque foi morto\n\nGlória ao cordeiro\nque ressuscitou",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -14235,56 +14355,98 @@
         {
           "number": 3,
           "description": "",
-          "text": "Mas seu plano é um plano perfeito\nSobre a morte Ele triunfou",
+          "text": "Mas seu plano\né um plano perfeito",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Está assentado a destra do Pai\nJesus ressuscitou",
+          "text": "Sobre a morte Ele triunfou\nEstá assentado\na destra do Pai",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Como ovelha muda\nFoi levado ao matadouro",
+          "text": "Jesus ressuscitou",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Por causa dos meus pecados\nJesus se entregou por mim",
+          "text": "Como ovelha muda\nFoi levado ao matadouro",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Glória ao cordeiro que foi morto\nGlória ao cordeiro que foi morto\nGlória ao cordeiro que ressuscitou",
+          "text": "Por causa dos meus pecados\nJesus se entregou por mim",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Mas seu plano é um plano perfeito\nSobre a morte Ele triunfou",
+          "text": "Glória ao cordeiro\nque foi morto",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 9,
           "description": "",
-          "text": "Está assentado a destra do Pai\nJesus ressuscitou",
+          "text": "Glória ao cordeiro\nque foi morto",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 10,
           "description": "",
-          "text": "Glória ao cordeiro que foi morto\nGlória ao cordeiro que foi morto\nGlória ao cordeiro que ressuscitou",
+          "text": "Glória ao cordeiro\nque ressuscitou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Mas seu plano\né um plano perfeito",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Sobre a morte Ele triunfou\nEstá assentado\na destra do Pai",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "Jesus ressuscitou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "Glória ao cordeiro\nque foi morto",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 15,
+          "description": "",
+          "text": "Glória ao cordeiro\nque foi morto",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 16,
+          "description": "",
+          "text": "Glória ao cordeiro\nque ressuscitou",
           "text_with_comment": null,
           "translations": null
         }
@@ -17446,7 +17608,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Quem é como Tu, Jesus\nNão há ninguém além de Ti\n\nQue é manso e humilde assim\nNão há ninguém igual a Ti\n\nNão há!\n\nMaravilhoso, admirável\nTão sublime, glorioso\n\nTua presença\nÉ mais desejável\nDo que o ouro\n\nMelhor que a vida\nÉ o Teu amor\n\nQuem é como Tu, Jesus\nNão há ninguém além de Ti\n\nQue é manso e humilde assim\nNão há ninguém igual a Ti\n\nNão há igual!\n\nMaravilhoso, admirável\nTão sublime, glorioso\n\nTua presença\nÉ mais desejável\nDo que o ouro\n\nMelhor que a vida\nÉ o Teu amor\n\nMaravilhoso, admirável\nTão sublime, glorioso\n\nTua presença\nÉ mais desejável\nDo que o ouro\n\nMelhor que a vida\nÉ o Teu amor\n\nAh, como espero o dia\nEm que verei a face\nDo meu amado\n\nAh, como espero o dia\nEm que a alegria\nEnfim será completa\n\nE Ele virá soberano em poder\nEle virá e o governo está Nele\n\nVejam, Ele traz consigo\nA sua recompensa\n\nEle virá soberano em poder\nEle virá e o governo está Nele\n\nVejam, Ele traz consigo\nA sua recompensa\n\nE é Ele, por Ele que eu estou\nGastando a minha vida\n\nPerdendo tudo por amor\nE com alegria\nDono dos meus dias",
+      "full_text": "Quem é como Tu, Jesus\nNão há ninguém além de Ti\n\nQue é manso e humilde assim\nNão há ninguém igual a Ti\n\nNão há!\n\nMaravilhoso, admirável\nTão sublime, glorioso\n\nTua presença\nÉ mais desejável\nDo que o ouro\n\nMelhor que a vida\nÉ o Teu amor\n\nQuem é como Tu, Jesus\nNão há ninguém além de Ti\n\nQue é manso e humilde assim\nNão há ninguém igual a Ti\n\nNão há igual!\n\nMaravilhoso, admirável\nTão sublime, glorioso\n\nTua presença\nÉ mais desejável\nDo que o ouro\n\nMelhor que a vida\nÉ o Teu amor\n\nMaravilhoso, admirável\nTão sublime, glorioso\n\nTua presença\nÉ mais desejável\nDo que o ouro\n\nMelhor que a vida\nÉ o Teu amor\n\nAh, como espero o dia\nEm que verei a face\nDo meu amado\n\nAh, como espero o dia\nEm que a alegria\nEnfim será completa\n\nE Ele virá soberano em poder\nEle virá e o governo está Nele\n\nVejam, Ele traz consigo\nA sua recompensa\n\nEle virá soberano em poder\nEle virá e o governo está Nele\n\nVejam, Ele traz consigo\nA sua recompensa",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -17593,20 +17755,6 @@
           "number": 21,
           "description": "",
           "text": "Vejam, Ele traz consigo\nA sua recompensa",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 22,
-          "description": "",
-          "text": "E é Ele, por Ele que eu estou\nGastando a minha vida",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 23,
-          "description": "",
-          "text": "Perdendo tudo por amor\nE com alegria\nDono dos meus dias",
           "text_with_comment": null,
           "translations": null
         }
