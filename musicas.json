@@ -13058,189 +13058,6 @@
     }
   },
   {
-    "id": 1764609815034,
-    "title": "O Espírito de Deus Está Aqui",
-    "artist": "Arianne",
-    "author": "Bené Gomes, Alda Célia",
-    "note": "",
-    "copyright": "",
-    "language": "",
-    "key": "G",
-    "bpm": 68.0,
-    "time_sig": "4/4",
-    "midi": null,
-    "order": "",
-    "arrangements": [],
-    "lyrics": {
-      "full_text": "O Espírito de Deus\nEstá aqui\n\nOperando\nEm nossos corações\n\nTrazendo\nSua vida e poder\n\nMinistrando\nSua graça e amor\n\nOs feridos de alma\nSão curados\n\nOs cativos e oprimidos\nLivres são\n\nOs enfermos e doentes\nSão sarados\n\nPois o Espírito de Deus\nEstá aqui\n\nPai, eu quero contemplar\nTua glória e majestade\n\nPai, eu quero Te adorar\nEm Espírito e em verdade\n\nNão apenas no átrio\nOu no santo lugar\n\nEu quero Te entronizar\nEntre os querubins\n\nOh! Leva-me à sala do trono\nPelo novo e vivo caminho\n\nPelo sangue de Jesus\nEterno sumo sacerdote\n\nOh! Leva-me à sala do trono\nPra Te adorar, Senhor\n\nOh! Leva-me à sala do trono\nPra Te adorar, Senhor\n\nPra Te adorar, Senhor\nPra Te adorar, Senhor\n\nAleluia, Aleluia, Aleluia\nLouvemos ao Senhor!\n\nAleluia, Aleluia, Aleluia\nLouvemos ao Senhor!\n\nAleluia, Te louvo\n\nPois sei que sobre todos\nÉs Senhor",
-      "full_text_with_comment": null,
-      "paragraphs": [
-        {
-          "number": 1,
-          "description": "",
-          "text": "O Espírito de Deus\nEstá aqui",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 2,
-          "description": "",
-          "text": "Operando\nEm nossos corações",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 3,
-          "description": "",
-          "text": "Trazendo\nSua vida e poder",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 4,
-          "description": "",
-          "text": "Ministrando\nSua graça e amor",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 5,
-          "description": "",
-          "text": "Os feridos de alma\nSão curados",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 6,
-          "description": "",
-          "text": "Os cativos e oprimidos\nLivres são",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 7,
-          "description": "",
-          "text": "Os enfermos e doentes\nSão sarados",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 8,
-          "description": "",
-          "text": "Pois o Espírito de Deus\nEstá aqui",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 9,
-          "description": "",
-          "text": "Pai, eu quero contemplar\nTua glória e majestade",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 10,
-          "description": "",
-          "text": "Pai, eu quero Te adorar\nEm Espírito e em verdade",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 11,
-          "description": "",
-          "text": "Não apenas no átrio\nOu no santo lugar",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 12,
-          "description": "",
-          "text": "Eu quero Te entronizar\nEntre os querubins",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 13,
-          "description": "",
-          "text": "Oh! Leva-me à sala do trono\nPelo novo e vivo caminho",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 14,
-          "description": "",
-          "text": "Pelo sangue de Jesus\nEterno sumo sacerdote",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 15,
-          "description": "",
-          "text": "Oh! Leva-me à sala do trono\nPra Te adorar, Senhor",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 16,
-          "description": "",
-          "text": "Oh! Leva-me à sala do trono\nPra Te adorar, Senhor",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 17,
-          "description": "",
-          "text": "Pra Te adorar, Senhor\nPra Te adorar, Senhor",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 18,
-          "description": "",
-          "text": "Aleluia, Aleluia, Aleluia\nLouvemos ao Senhor!",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 19,
-          "description": "",
-          "text": "Aleluia, Aleluia, Aleluia\nLouvemos ao Senhor!",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 20,
-          "description": "",
-          "text": "Aleluia, Te louvo",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 21,
-          "description": "",
-          "text": "Pois sei que sobre todos\nÉs Senhor",
-          "text_with_comment": null,
-          "translations": null
-        }
-      ]
-    },
-    "streaming": {
-      "audio": {
-        "spotify": "https://open.spotify.com/track/6xCebq97GfgcQ98WESQu8w",
-        "youtube": "https://youtube.com/watch?v=UZF-lTXme_s",
-        "deezer": "https://deezer.com/track/581734362"
-      },
-      "backing_track": {
-        "spotify": "",
-        "youtube": "",
-        "deezer": ""
-      }
-    },
-    "extras": {
-      "extra": ""
-    }
-  },
-  {
     "id": 1762266764409,
     "title": "O Que Sua Glória Fez Comigo",
     "artist": "Fernanda Brum",
@@ -14314,6 +14131,91 @@
         "spotify": "",
         "youtube": "",
         "deezer": ""
+      }
+    },
+    "extras": {
+      "extra": ""
+    }
+  },
+  {
+    "id": 1767911946004,
+    "title": "Perto Quero Estar",
+    "artist": "Amanda Wanessa e Felipe Dutra",
+    "author": "Davi Sacer, Ronald Fonseca, Kelly Carpenter",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "",
+    "bpm": 0.0,
+    "time_sig": "",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Perto quero estar\nJunto aos Teus pés\n\nPois prazer maior não há\nQue me render e Te adorar\n\nTudo que há em mim\nQuero Te ofertar\n\nMas ainda é pouco, eu sei\nSe comparado ao que ganhei\n\nNão sou apenas servo\nTeu amigo me tornei\n\nTe louvarei\nNão importam as circunstâncias\n\nAdorarei\nSomente a Ti, Jesus",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Perto quero estar\nJunto aos Teus pés",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Pois prazer maior não há\nQue me render e Te adorar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Tudo que há em mim\nQuero Te ofertar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Mas ainda é pouco, eu sei\nSe comparado ao que ganhei",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Não sou apenas servo\nTeu amigo me tornei",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Te louvarei\nNão importam as circunstâncias",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Adorarei\nSomente a Ti, Jesus",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "https://open.spotify.com/track/3Btrmt5NfZM8NJlp6mQMNJ",
+        "youtube": "https://youtube.com/watch?v=Eh3DAzV-ds8",
+        "deezer": "https://deezer.com/track/142005075"
+      },
+      "backing_track": {
+        "spotify": "https://open.spotify.com/track/0IGL7LqtR2aI2qw7fD6nuA",
+        "youtube": "https://youtube.com/watch?v=ndHWJSPXpiM",
+        "deezer": "https://deezer.com/track/142005099"
       }
     },
     "extras": {
