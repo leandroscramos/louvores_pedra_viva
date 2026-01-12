@@ -5182,6 +5182,133 @@
     }
   },
   {
+    "id": 1768224483411,
+    "title": "Digno de Tudo / Te Exaltamos",
+    "artist": "Nívea Soares",
+    "author": "",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "C",
+    "bpm": 70.0,
+    "time_sig": "4/4",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Os santos e os anjos\nProstram-se a Ti\n\nOs anciãos rendem suas\ncoroas ao Cordeiro\nE a Ele cantam\n\nTu És digno de tudo\nTu És digno de tudo\n\nPois tudo vem de Ti\nE tudo é para Ti\nTua é a glória\n\nDia e noite suba a\nTi nossa adoração\n\nTe exaltamos\nTe exaltamos\n\nTe exaltamos\nOh Senhor\n\nO Senhor é alto\nSobre toda a terra\n\nE exaltado sobre o \ntrono dos céus\n\nO Senhor é alto\nSobre toda a terra\n\nE exaltado sobre o\ntrono dos céus\n\nTe exaltamos\nTe exaltamos\n\nTe exaltamos\nOh Senhor",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Os santos e os anjos\nProstram-se a Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Os anciãos rendem suas\ncoroas ao Cordeiro\nE a Ele cantam",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Tu És digno de tudo\nTu És digno de tudo",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Pois tudo vem de Ti\nE tudo é para Ti\nTua é a glória",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Dia e noite suba a\nTi nossa adoração",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Te exaltamos\nTe exaltamos",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Te exaltamos\nOh Senhor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "O Senhor é alto\nSobre toda a terra",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "E exaltado sobre o \ntrono dos céus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "O Senhor é alto\nSobre toda a terra",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "E exaltado sobre o\ntrono dos céus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Te exaltamos\nTe exaltamos",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "Te exaltamos\nOh Senhor",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "",
+        "youtube": "https://www.youtube.com/watch?v=9ot039R1-G0",
+        "deezer": ""
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": ""
+      }
+    },
+    "extras": {
+      "extra": ""
+    }
+  },
+  {
     "id": 1761654263487,
     "title": "Digno É o Senhor",
     "artist": "Aline Barros",
