@@ -706,6 +706,126 @@
     }
   },
   {
+    "id": 1768701842881,
+    "title": "Aclame Ao Senhor",
+    "artist": "Diante do Trono",
+    "author": "Ana Paula Valadão, Darlene Zschech",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "A",
+    "bpm": 58.0,
+    "time_sig": "4/4",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Meu Jesus, Salvador\nOutro igual não há\n\nTodos os dias quero louvar\nAs maravilhas de Teu amor\n\nConsolo, abrigo\nForça e refúgio é o Senhor\n\nCom todo o meu ser\nCom tudo o que sou\n\nSempre Te adorarei\n\nAclame ao Senhor\nToda a Terra e cantemos\n\nPoder, majestade\nE louvores ao Rei\n\nMontanhas se prostrem\nE rujam os mares\n\nAo som de Teu nome\n\nAlegre Te louvo\nPor Teus grandes feitos\n\nFirmado estarei\nSempre Te amarei\n\nIncomparáveis são\nTuas promessas pra mim",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Meu Jesus, Salvador\nOutro igual não há",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Todos os dias quero louvar\nAs maravilhas de Teu amor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Consolo, abrigo\nForça e refúgio é o Senhor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Com todo o meu ser\nCom tudo o que sou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Sempre Te adorarei",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Aclame ao Senhor\nToda a Terra e cantemos",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Poder, majestade\nE louvores ao Rei",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Montanhas se prostrem\nE rujam os mares",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Ao som de Teu nome",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Alegre Te louvo\nPor Teus grandes feitos",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Firmado estarei\nSempre Te amarei",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Incomparáveis são\nTuas promessas pra mim",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "https://open.spotify.com/track/0dhpQeQ8LR4UEp9gugrITU",
+        "youtube": "https://youtube.com/watch?v=zXWlVWR_9JY",
+        "deezer": "https://deezer.com/track/582992892"
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": ""
+      }
+    },
+    "extras": {
+      "extra": ""
+    }
+  },
+  {
     "id": 1761671364147,
     "title": "Agnus Dei",
     "title_translations": null,
@@ -9601,7 +9721,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Tão lindo é cada momento\nQue me visita e faz de mim o Teu altar\n\nQuero ir Contigo mais profundo\n\nSegura a minha mão\nEu sei, nunca vai soltar\n\nLeva-me ao lugar onde só Você e eu\nDesfrutamos o momento\n\nTe amo, meu Papai\n\nEu dependo desse amor\nE sem Ti eu sei que morro\n\nMe enxergou na minha tormenta\nMe livrou em meus problemas\n\nTransformou minha tristeza\nE mudou minha vida inteira\n\nMe vestiu com roupas novas\nPôs azeite em minha cabeça\n\nMe deu um lugar na mesa\nO meu Pai não me rejeita",
+      "full_text": "Tão lindo é cada momento\nQue me visita e faz de mim o Teu altar\n\nQuero ir Contigo mais profundo\n\nSegura a minha mão\nEu sei, nunca vai soltar\n\nLeva-me ao lugar\nonde só o Senhor e eu\nDesfrutamos o momento\n\nTe amo, meu Papai\n\nEu dependo desse amor\nE sem Ti eu sei que morro\n\nMe enxergou na minha tormenta\nMe livrou em meus problemas\n\nTransformou minha tristeza\nE mudou minha vida inteira\n\nMe vestiu com roupas novas\nPôs azeite em minha cabeça\n\nMe deu um lugar na mesa\nO meu Pai não me rejeita",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -9628,7 +9748,7 @@
         {
           "number": 4,
           "description": "",
-          "text": "Leva-me ao lugar onde só Você e eu\nDesfrutamos o momento",
+          "text": "Leva-me ao lugar\nonde só o Senhor e eu\nDesfrutamos o momento",
           "text_with_comment": null,
           "translations": null
         },
