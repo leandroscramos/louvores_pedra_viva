@@ -15951,7 +15951,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Os planos que foram embora\nO sonho que se perdeu\n\nO que era festa e agora\nÉ luto do que já morreu\n\nNão podes pensar\nQue este é o teu fim\n\nNão é o que Deus planejou\n\nLevante do chão\nErga um clamor\n\nRestitui\nEu quero de volta o que é meu\n\nSara-me\nE põe Teu azeite em minha dor\n\nRestitui\nE leva-me às águas tranquilas\n\nLava-me e refrigera minh'alma\nRestitui\n\nE o tempo que roubado foi\nNão poderá se comparar\n\nA tudo aquilo que o Senhor\nTem preparado ao que clamar\n\nCreia porque o poder\nDe um clamor pode ressuscitar",
+      "full_text": "Os planos que foram embora\nO sonho que se perdeu\n\nO que era festa e agora\nÉ luto do que já morreu\n\nNão podes pensar\nQue este é o teu fim\n\nNão é o que Deus planejou\n\nLevante do chão\nErga um clamor\n\nRestitui\nEu quero de volta o que é meu\n\nSara-me\nE põe Teu azeite em minha dor\n\nRestitui\nE leva-me às águas tranquilas\n\nLava-me e refrigera minh'alma\nRestitui\n\nE o tempo que roubado foi\nNão poderá se comparar\n\nA tudo aquilo que o Senhor\nTem preparado ao que clamar\n\nCreia porque o poder\nDe um clamor pode ressuscitar\n\nDeus é poderoso pra fazer\nDeus é poderoso pra fazer\n\nDeus é poderoso pra fazer\nMuito mais",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -16035,6 +16035,20 @@
           "number": 12,
           "description": "",
           "text": "Creia porque o poder\nDe um clamor pode ressuscitar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "Deus é poderoso pra fazer\nDeus é poderoso pra fazer",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "Deus é poderoso pra fazer\nMuito mais",
           "text_with_comment": null,
           "translations": null
         }
@@ -17277,7 +17291,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Se o sol se pôr\nE a noite chegar\n\nTu és quem me guia\n\nSe a tempestade\nMe alcançar\n\nTu és meu abrigo\n\nSe o mar me submergir\n\nA Tua mão me traz\nÀ tona pra respirar\n\nE me faz andar\nSobre as águas\n\nTu és o Deus\nDa minha salvação\n\nÉs o meu dono\nMinha paixão\n\nMinha canção\nE o meu louvor\n\nAleluia, aleluia",
+      "full_text": "Se o sol se pôr\nE a noite chegar\n\nTu és quem me guia\n\nSe a tempestade\nMe alcançar\n\nTu és meu abrigo\n\nSe o mar me submergir\n\nA Tua mão me traz\nÀ tona pra respirar\n\nE me faz andar\nSobre as águas\n\nTu és o Deus\nDa minha salvação\n\nÉs o meu dono\nMinha paixão\n\nMinha canção\nE o meu louvor\n\nAleluia aleluia",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -17353,7 +17367,7 @@
         {
           "number": 11,
           "description": "",
-          "text": "Aleluia, aleluia",
+          "text": "Aleluia aleluia",
           "text_with_comment": null,
           "translations": null
         }
@@ -19023,6 +19037,168 @@
         "spotify": "https://open.spotify.com/track/4viVbBp6H0iP8VeCp3EQge",
         "youtube": "https://youtube.com/watch?v=DsxY7m6ZlnY",
         "deezer": "https://deezer.com/track/821440502"
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": ""
+      }
+    },
+    "extras": {
+      "extra": ""
+    }
+  },
+  {
+    "id": 1769431126824,
+    "title": "Um Novo Dia",
+    "artist": "Bruna Karla",
+    "author": "Chandler Moore, Jonathan Smith, Leeland Mooring, Steven Furtick, Chris Davenport",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "F#",
+    "bpm": 151.0,
+    "time_sig": "3/4",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Pela graça\nEstou sendo curado\n\nPouco a pouco\nSendo transformado\n\nPerfeito não sou\nContudo sou grato\n\nTenho lutas\nMas eu não desisto\nCom coragem sigo vencendo\n\nPerfeito não sou\nContudo sou grato\n\nUm novo dia recebi\nPra Te amar\n\nE me trouxe até aqui\nPara testemunhar\n\nO que posso dizer?\nSenão aleluia\n\nSou grato, Cristo\nSou grato, Cristo\n\nSou grato, Cristo\nNovo dia recebi, recebi\n\nQuando a noite\nSe aproximava\n\nQuase sem esperança\nEu estava\n\nMinha mão segurou\nPor isso sou grato\n\nQuando no fogo\nEu fui lançado\n\nEl Shaddai\nVocê estava ao meu lado\n\nNunca me deixou\nPor isso sou grato\n\nMeu Senhor\nEu só quero adorá-Lo\n\nVocê é tudo, é tudo\nÉ tudo para mim",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Pela graça\nEstou sendo curado",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Pouco a pouco\nSendo transformado",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Perfeito não sou\nContudo sou grato",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Tenho lutas\nMas eu não desisto\nCom coragem sigo vencendo",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Perfeito não sou\nContudo sou grato",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Um novo dia recebi\nPra Te amar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "E me trouxe até aqui\nPara testemunhar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "O que posso dizer?\nSenão aleluia",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Sou grato, Cristo\nSou grato, Cristo",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Sou grato, Cristo\nNovo dia recebi, recebi",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Quando a noite\nSe aproximava",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Quase sem esperança\nEu estava",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "Minha mão segurou\nPor isso sou grato",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "Quando no fogo\nEu fui lançado",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 15,
+          "description": "",
+          "text": "El Shaddai\nVocê estava ao meu lado",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 16,
+          "description": "",
+          "text": "Nunca me deixou\nPor isso sou grato",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 17,
+          "description": "",
+          "text": "Meu Senhor\nEu só quero adorá-Lo",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 18,
+          "description": "",
+          "text": "Você é tudo, é tudo\nÉ tudo para mim",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "",
+        "youtube": "https://www.youtube.com/watch?v=R4_eMbIT4JA",
+        "deezer": ""
       },
       "backing_track": {
         "spotify": "",
