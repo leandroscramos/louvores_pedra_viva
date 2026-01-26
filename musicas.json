@@ -1774,6 +1774,189 @@
     }
   },
   {
+    "id": 1769459589958,
+    "title": "Autor da Vida",
+    "artist": "Aline Barros",
+    "author": "Clovis Pinho",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "F#",
+    "bpm": 70.0,
+    "time_sig": "4/4",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Tentaram me parar\nMe fazer desistir\n\nMas eu não vou negar\nA fé que há em mim\n\nEu tenho a missão\nEu vou seguir Jesus\n\nPorque eu não abro mão\nDo evangelho da cruz\n\nMesmo que pedras\nVenham contra mim\n\nE com palavras\nQueiram me intimidar\n\nMaior é Aquele\nQue está em mim\n\nCom Jesus\nSempre vou me levantar\n\nEu olho pra Jesus\nPro amor de Deus na cruz\n\nEu clamo: \"Aba Pai\nOh, vem com Seu poder\"\n\nEu olho pra Jesus\nPro amor de Deus na cruz\n\nNada pode parar\nO Autor da Vida\n\nPode o silêncio até gritar\nQue Deus me abandonou\n\nEu vivo pela fé\nE tenho um Deus\n\nQue estende a mão\nPra me levantar\n\nSei em quem\nEu tenho crido\n\nE que é poderoso\nPra fazer além\n\nE essa é a hora\nDeus toca, renova\n\nTransforma\nTenho vida em Deus\n\nVida em Deus\nTenho força em Deus\n\nEsperança em Deus\nTenho tudo em Deus",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Tentaram me parar\nMe fazer desistir",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Mas eu não vou negar\nA fé que há em mim",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Eu tenho a missão\nEu vou seguir Jesus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Porque eu não abro mão\nDo evangelho da cruz",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Mesmo que pedras\nVenham contra mim",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "E com palavras\nQueiram me intimidar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Maior é Aquele\nQue está em mim",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Com Jesus\nSempre vou me levantar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Eu olho pra Jesus\nPro amor de Deus na cruz",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Eu clamo: \"Aba Pai\nOh, vem com Seu poder\"",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Eu olho pra Jesus\nPro amor de Deus na cruz",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Nada pode parar\nO Autor da Vida",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "Pode o silêncio até gritar\nQue Deus me abandonou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "Eu vivo pela fé\nE tenho um Deus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 15,
+          "description": "",
+          "text": "Que estende a mão\nPra me levantar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 16,
+          "description": "",
+          "text": "Sei em quem\nEu tenho crido",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 17,
+          "description": "",
+          "text": "E que é poderoso\nPra fazer além",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 18,
+          "description": "",
+          "text": "E essa é a hora\nDeus toca, renova",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 19,
+          "description": "",
+          "text": "Transforma\nTenho vida em Deus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 20,
+          "description": "",
+          "text": "Vida em Deus\nTenho força em Deus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 21,
+          "description": "",
+          "text": "Esperança em Deus\nTenho tudo em Deus",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "https://open.spotify.com/track/0G59rX2uOta2lX83SfB8Rk",
+        "youtube": "https://youtube.com/watch?v=e8mGWEA9ZuM",
+        "deezer": "https://deezer.com/track/704975762"
+      },
+      "backing_track": {
+        "spotify": "https://open.spotify.com/track/522RjrMp33pdvw4mEZ33gw",
+        "youtube": "https://youtube.com/watch?v=Jf7KRTq0xgw",
+        "deezer": "https://deezer.com/track/706176762"
+      }
+    },
+    "extras": {
+      "extra": ""
+    }
+  },
+  {
     "id": 1762264449107,
     "title": "Autoridade e Poder",
     "artist": "Marcos Góes",
@@ -19037,168 +19220,6 @@
         "spotify": "https://open.spotify.com/track/4viVbBp6H0iP8VeCp3EQge",
         "youtube": "https://youtube.com/watch?v=DsxY7m6ZlnY",
         "deezer": "https://deezer.com/track/821440502"
-      },
-      "backing_track": {
-        "spotify": "",
-        "youtube": "",
-        "deezer": ""
-      }
-    },
-    "extras": {
-      "extra": ""
-    }
-  },
-  {
-    "id": 1769431126824,
-    "title": "Um Novo Dia",
-    "artist": "Bruna Karla",
-    "author": "Chandler Moore, Jonathan Smith, Leeland Mooring, Steven Furtick, Chris Davenport",
-    "note": "",
-    "copyright": "",
-    "language": "",
-    "key": "F#",
-    "bpm": 151.0,
-    "time_sig": "3/4",
-    "midi": null,
-    "order": "",
-    "arrangements": [],
-    "lyrics": {
-      "full_text": "Pela graça\nEstou sendo curado\n\nPouco a pouco\nSendo transformado\n\nPerfeito não sou\nContudo sou grato\n\nTenho lutas\nMas eu não desisto\nCom coragem sigo vencendo\n\nPerfeito não sou\nContudo sou grato\n\nUm novo dia recebi\nPra Te amar\n\nE me trouxe até aqui\nPara testemunhar\n\nO que posso dizer?\nSenão aleluia\n\nSou grato, Cristo\nSou grato, Cristo\n\nSou grato, Cristo\nNovo dia recebi, recebi\n\nQuando a noite\nSe aproximava\n\nQuase sem esperança\nEu estava\n\nMinha mão segurou\nPor isso sou grato\n\nQuando no fogo\nEu fui lançado\n\nEl Shaddai\nVocê estava ao meu lado\n\nNunca me deixou\nPor isso sou grato\n\nMeu Senhor\nEu só quero adorá-Lo\n\nVocê é tudo, é tudo\nÉ tudo para mim",
-      "full_text_with_comment": null,
-      "paragraphs": [
-        {
-          "number": 1,
-          "description": "",
-          "text": "Pela graça\nEstou sendo curado",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 2,
-          "description": "",
-          "text": "Pouco a pouco\nSendo transformado",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 3,
-          "description": "",
-          "text": "Perfeito não sou\nContudo sou grato",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 4,
-          "description": "",
-          "text": "Tenho lutas\nMas eu não desisto\nCom coragem sigo vencendo",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 5,
-          "description": "",
-          "text": "Perfeito não sou\nContudo sou grato",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 6,
-          "description": "",
-          "text": "Um novo dia recebi\nPra Te amar",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 7,
-          "description": "",
-          "text": "E me trouxe até aqui\nPara testemunhar",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 8,
-          "description": "",
-          "text": "O que posso dizer?\nSenão aleluia",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 9,
-          "description": "",
-          "text": "Sou grato, Cristo\nSou grato, Cristo",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 10,
-          "description": "",
-          "text": "Sou grato, Cristo\nNovo dia recebi, recebi",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 11,
-          "description": "",
-          "text": "Quando a noite\nSe aproximava",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 12,
-          "description": "",
-          "text": "Quase sem esperança\nEu estava",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 13,
-          "description": "",
-          "text": "Minha mão segurou\nPor isso sou grato",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 14,
-          "description": "",
-          "text": "Quando no fogo\nEu fui lançado",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 15,
-          "description": "",
-          "text": "El Shaddai\nVocê estava ao meu lado",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 16,
-          "description": "",
-          "text": "Nunca me deixou\nPor isso sou grato",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 17,
-          "description": "",
-          "text": "Meu Senhor\nEu só quero adorá-Lo",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 18,
-          "description": "",
-          "text": "Você é tudo, é tudo\nÉ tudo para mim",
-          "text_with_comment": null,
-          "translations": null
-        }
-      ]
-    },
-    "streaming": {
-      "audio": {
-        "spotify": "",
-        "youtube": "https://www.youtube.com/watch?v=R4_eMbIT4JA",
-        "deezer": ""
       },
       "backing_track": {
         "spotify": "",
