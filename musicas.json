@@ -13488,6 +13488,133 @@
     }
   },
   {
+    "id": 1770293907538,
+    "title": "O Nosso General É Cristo",
+    "artist": "Comunidade Zona Sul",
+    "author": "Adhemar de Campos, Bonnie Low",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "Cm",
+    "bpm": 133.5,
+    "time_sig": "4/4",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Pelo Senhor, marchamos sim\nO Seu exército poderoso é\n\nE Sua glória será vista \nEm toda terra\n\nVamos cantar\nO canto da vitória\n\nGlória Deus!\nVencemos a batalha\n\nToda arma contra nós\nPerecerá\n\nO nosso general é Cristo\nSeguimos os Seu passos\n\nNenhum inimigo nos resistirá\n\nPelo Messias\nMarchamos sim\n\nEm Suas mãos\nA chave da vitória\n\nQue nos leva a possuir\nA terra prometida\n\nO nosso general é Cristo\nSeguimos os Seu passos\n\nNenhum inimigo nos resistirá\n\nNenhum inimigo nos resistirá",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Pelo Senhor, marchamos sim\nO Seu exército poderoso é",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "E Sua glória será vista \nEm toda terra",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Vamos cantar\nO canto da vitória",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Glória Deus!\nVencemos a batalha",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Toda arma contra nós\nPerecerá",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "O nosso general é Cristo\nSeguimos os Seu passos",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Nenhum inimigo nos resistirá",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Pelo Messias\nMarchamos sim",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Em Suas mãos\nA chave da vitória",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Que nos leva a possuir\nA terra prometida",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "O nosso general é Cristo\nSeguimos os Seu passos",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Nenhum inimigo nos resistirá",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "Nenhum inimigo nos resistirá",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "",
+        "youtube": "https://www.youtube.com/watch?v=dS35Xhf2UeI",
+        "deezer": ""
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": ""
+      }
+    },
+    "extras": {
+      "extra": ""
+    }
+  },
+  {
     "id": 1762266764409,
     "title": "O Que Sua Glória Fez Comigo",
     "artist": "Fernanda Brum",
