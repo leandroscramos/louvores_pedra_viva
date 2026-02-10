@@ -6100,6 +6100,189 @@
     }
   },
   {
+    "id": 1770678807025,
+    "title": "Eis-me Aqui",
+    "artist": "Valesca Mayssa",
+    "author": "Valesca Mayssa",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "Bm",
+    "bpm": 73.0,
+    "time_sig": "4/4",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Um Deus rodeado de glória\nÉs adorado 24 horas\n\nOs Serafins cantam:\n\"Santo, Santo\"\n\nIncansavelmente\n\"Santo, Santo\"\n\nE eu, um homem tão falho\nE de impuros lábios\n\nO que um Deus\nTão grande assim\n\nViu de importante em mim?\n\nEntão me toca\nCom essas brasas do altar\n\nE me transforma\nVem me purificar\n\nEis-me aqui\nEstou disponível\n\nEntão usa-me\n\nMe fiz exclusivo\nSó pra Te servir\n\nMeu Deus, envia-me\n\nE como dizer \"não\"\nPara o Teu chamado\n\nSe me deste unção\n\nPara ser usado\nPra Tua glória\n\nSomente pra Tua glória\n\nGeração eleita\n(Eis-me aqui)\n\nSacerdócio real\n(Eis-me aqui)\n\nPovo exclusivo de Deus\n(Eis-me aqui)\n\nNação santa\n\nSomente pra Tua glória",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Um Deus rodeado de glória\nÉs adorado 24 horas",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Os Serafins cantam:\n\"Santo, Santo\"",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Incansavelmente\n\"Santo, Santo\"",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "E eu, um homem tão falho\nE de impuros lábios",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "O que um Deus\nTão grande assim",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Viu de importante em mim?",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Então me toca\nCom essas brasas do altar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "E me transforma\nVem me purificar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Eis-me aqui\nEstou disponível",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Então usa-me",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Me fiz exclusivo\nSó pra Te servir",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Meu Deus, envia-me",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "E como dizer \"não\"\nPara o Teu chamado",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "Se me deste unção",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 15,
+          "description": "",
+          "text": "Para ser usado\nPra Tua glória",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 16,
+          "description": "",
+          "text": "Somente pra Tua glória",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 17,
+          "description": "",
+          "text": "Geração eleita\n(Eis-me aqui)",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 18,
+          "description": "",
+          "text": "Sacerdócio real\n(Eis-me aqui)",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 19,
+          "description": "",
+          "text": "Povo exclusivo de Deus\n(Eis-me aqui)",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 20,
+          "description": "",
+          "text": "Nação santa",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 21,
+          "description": "",
+          "text": "Somente pra Tua glória",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "https://open.spotify.com/track/1W0C210HKx61DqM4I55iVE",
+        "youtube": "https://youtube.com/watch?v=QNubVopgvpM",
+        "deezer": "https://deezer.com/track/2306877965"
+      },
+      "backing_track": {
+        "spotify": "https://open.spotify.com/track/5L42s6YplY526SYbmON25a",
+        "youtube": "https://youtube.com/watch?v=MyYmFOa38ic",
+        "deezer": "https://deezer.com/track/2306877955"
+      }
+    },
+    "extras": {
+      "extra": ""
+    }
+  },
+  {
     "id": 1762265184546,
     "title": "Ele é Exaltado",
     "artist": "Adhemar de Campos",
@@ -9984,6 +10167,147 @@
         "spotify": "https://open.spotify.com/track/396JT3FtF2kk9lxvLQqEaH",
         "youtube": "https://youtube.com/watch?v=jVzXF2B5LVA",
         "deezer": "https://deezer.com/track/2652642922"
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": ""
+      }
+    },
+    "extras": {
+      "extra": ""
+    }
+  },
+  {
+    "id": 1770678833783,
+    "title": "Louve (Praise)",
+    "artist": "Lu Alone",
+    "author": "Brandon Lake, Chandler Moore, Chris Brown, Cody Carnes, Pat Barrett, Steven Furtick",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "C",
+    "bpm": 127.0,
+    "time_sig": "4/4",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "(Tudo o que tem fôlego)\n(Louve ao Senhor, louve ao Senhor)\n\nEu louvo nos vales, louvo nos montes\nLouvo no dia e louvo na noite\n\nEu louvo se vejo que estou cercado\nPois meus inimigos serão derrotados\n\nEnquanto eu viver\nMinh'alma irá cantar\n\nLouve ao Senhor todo o meu ser\nLouve ao Senhor todo o meu ser\n\nEu louvo se vejo e louvo se não\n\nEu louvo pois sei que\nEstou em Tuas mãos\n\nGuerreio louvando em adoração\nCom o meu louvor muralhas cairão\n\nEnquanto eu viver\nMinh'alma irá cantar\n\nLouve ao Senhor todo o meu ser\nLouve ao Senhor todo o meu ser\n\nNão vou me calar, meu Deus vivo está\nComo não Te adorar?\n\nLouve ao Senhor\nTodo o meu ser\n\n(Tudo o que tem fôlego)\n(Louve ao Senhor, louve ao Senhor)\n\nLouvo ao Rei, louvo ao Senhor\nLouvo o Cristo que ressuscitou\n\nLouvo Aquele que é justo e fiel\nO Deus soberano na Terra e no Céu",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "(Tudo o que tem fôlego)\n(Louve ao Senhor, louve ao Senhor)",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Eu louvo nos vales, louvo nos montes\nLouvo no dia e louvo na noite",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Eu louvo se vejo que estou cercado\nPois meus inimigos serão derrotados",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Enquanto eu viver\nMinh'alma irá cantar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Louve ao Senhor todo o meu ser\nLouve ao Senhor todo o meu ser",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Eu louvo se vejo e louvo se não",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Eu louvo pois sei que\nEstou em Tuas mãos",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Guerreio louvando em adoração\nCom o meu louvor muralhas cairão",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Enquanto eu viver\nMinh'alma irá cantar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Louve ao Senhor todo o meu ser\nLouve ao Senhor todo o meu ser",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Não vou me calar, meu Deus vivo está\nComo não Te adorar?",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Louve ao Senhor\nTodo o meu ser",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "(Tudo o que tem fôlego)\n(Louve ao Senhor, louve ao Senhor)",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "Louvo ao Rei, louvo ao Senhor\nLouvo o Cristo que ressuscitou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 15,
+          "description": "",
+          "text": "Louvo Aquele que é justo e fiel\nO Deus soberano na Terra e no Céu",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "https://open.spotify.com/track/5GNkiggfjGwNM1vOGfaIvq",
+        "youtube": "https://youtube.com/watch?v=EQnWuFGDhvQ",
+        "deezer": "https://deezer.com/track/2656104552"
       },
       "backing_track": {
         "spotify": "",
@@ -15296,6 +15620,245 @@
         "spotify": "https://open.spotify.com/track/4fJA1xvjFB4hLy0LRapmXX",
         "youtube": "https://youtube.com/watch?v=fAll7coh4y0",
         "deezer": "https://deezer.com/track/694749822"
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": ""
+      }
+    },
+    "extras": {
+      "extra": ""
+    }
+  },
+  {
+    "id": 1770678928434,
+    "title": "Preciso de Ti",
+    "artist": "Diante do Trono",
+    "author": "Ana Paula Valadão",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "A",
+    "bpm": 140.0,
+    "time_sig": "4/4",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Preciso de Ti\nPreciso do Teu perdão\n\nPreciso de Ti\nQuebranta meu coração\n\nComo a corça\nAnseia por águas\n\nAssim tenho sede\n\nComo terra seca\nAssim é a minh'alma\n\nPreciso de Ti\n\nDistante de Ti, Senhor\nNão posso viver\n\nNão vale a pena existir\n\nEscuta o meu clamor\n\nMais que o ar que eu respiro\nPreciso de Ti\n\nNão posso esquecer\nO que fizeste por mim\n\nComo alto é o céu\nTua misericórdia é sem fim\n\nComo um pai\nSe compadece dos filhos\n\nAssim Tu me amas\n\nAfasta as minhas\nTransgressões\n\nPreciso de Ti\n\nDistante de Ti, Senhor\nNão posso viver\n\nNão vale a pena existir\n\nEscuta o meu clamor\n\nMais que o ar que eu respiro\nPreciso de Ti\n\nE as lutas vêm tentando\nMe afastar de Ti\n\nFrieza, escuridão\nProcuram me cegar\n\nMas eu não vou desistir\nAjuda-me Senhor\n\nEu quero permanecer\nContigo até o fim\n\nDistante de Ti, Senhor\nNão posso viver\n\nNão vale a pena existir\n\nEscuta o meu clamor\n\nMais que o ar que eu respiro\nPreciso de Ti\n\nPreciso de Ti",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Preciso de Ti\nPreciso do Teu perdão",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Preciso de Ti\nQuebranta meu coração",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Como a corça\nAnseia por águas",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Assim tenho sede",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Como terra seca\nAssim é a minh'alma",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Preciso de Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Distante de Ti, Senhor\nNão posso viver",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Não vale a pena existir",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Escuta o meu clamor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Mais que o ar que eu respiro\nPreciso de Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Não posso esquecer\nO que fizeste por mim",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Como alto é o céu\nTua misericórdia é sem fim",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "Como um pai\nSe compadece dos filhos",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "Assim Tu me amas",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 15,
+          "description": "",
+          "text": "Afasta as minhas\nTransgressões",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 16,
+          "description": "",
+          "text": "Preciso de Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 17,
+          "description": "",
+          "text": "Distante de Ti, Senhor\nNão posso viver",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 18,
+          "description": "",
+          "text": "Não vale a pena existir",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 19,
+          "description": "",
+          "text": "Escuta o meu clamor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 20,
+          "description": "",
+          "text": "Mais que o ar que eu respiro\nPreciso de Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 21,
+          "description": "",
+          "text": "E as lutas vêm tentando\nMe afastar de Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 22,
+          "description": "",
+          "text": "Frieza, escuridão\nProcuram me cegar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 23,
+          "description": "",
+          "text": "Mas eu não vou desistir\nAjuda-me Senhor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 24,
+          "description": "",
+          "text": "Eu quero permanecer\nContigo até o fim",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 25,
+          "description": "",
+          "text": "Distante de Ti, Senhor\nNão posso viver",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 26,
+          "description": "",
+          "text": "Não vale a pena existir",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 27,
+          "description": "",
+          "text": "Escuta o meu clamor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 28,
+          "description": "",
+          "text": "Mais que o ar que eu respiro\nPreciso de Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 29,
+          "description": "",
+          "text": "Preciso de Ti",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "https://open.spotify.com/track/57WRcTAI6bJ64A0IzdF4r6",
+        "youtube": "https://youtube.com/watch?v=7h7t0jzCYIY",
+        "deezer": "https://deezer.com/track/606904122"
       },
       "backing_track": {
         "spotify": "",
