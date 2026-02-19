@@ -174,6 +174,7 @@
                 <table id="musicasTable" class="table table-striped table-condensed">
                     <thead>
                         <tr>
+                            <th width="2%">#</th>
                             <th width="55%">Título</th>
                             <th width="43%">Artista</th>
                             <th width="1%">BPM</th>
@@ -229,7 +230,9 @@
                     let num_musicas = data.length;
                     $('#num_musicas strong').text(num_musicas);
                     data.forEach(musica => {
-                        rows += `<tr>
+                        $num_rand = Math.floor(Math.random() * 1000);
+                        rows += `<tr>                                    
+                                    <td><strong>`+$num_rand+`</strong></td>
                                     <td><strong>${musica.title}</strong></td>
                                     <td>${musica.artist}</td>                                                                      
                                     ${(musica.bpm) ? `<td align='center'>
@@ -262,12 +265,12 @@
                         },
                         // Aplica a ordenação locale-pt na coluna 0 e desabilita ordenação nas colunas 2 e 3
                         columnDefs: [
-                            { orderable: false, targets: [2, 3, 4, 5] },
-                            { orderSequence: ["asc", "desc"], targets: [0] },
-                            { type: 'locale-pt', targets: 0 }
+                            { orderable: false, targets: [1, 2, 3, 4, 5] },                            
+                            { type: 'locale-pt', targets: 0 },
+                            { visible: false, targets: 0 },
                         ],
                         // opcional: definir ordem inicial pela coluna 0
-                        // order: [[0, 'asc']]
+                        order: [[0, 'asc']]
                     });
                 })
                 .catch(error => {
