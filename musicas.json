@@ -13331,6 +13331,161 @@
     }
   },
   {
+    "id": 1771933887375,
+    "title": "Nada Pode Calar Um Adorador",
+    "artist": "Eyshila",
+    "author": "Eyshila",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "G",
+    "bpm": 64.0,
+    "time_sig": "4/4",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Adorador é tudo\nO que eu sou\n\nAdorador, assim\nDeus me formou\n\nE quem poderá calar\nA voz de um coração?\n\nSe eu subir aos céus\nEu sei que lá estás\n\nSe eu mergulhar\nNo mais profundo mar\n\nNunca poderei\nMe ausentar do Teu olhar\n\nTu és o Deus que me sonda\nTu és o Deus que me vê\n\nNão tenho todas as respostas\nMas de uma coisa sei\n\nPor toda a minha\nVida Te adorarei\n\nAdorar é o que sei\nAdorar é o que sou\n\nNada pode calar\nUm adorador\n\nNão existem prisões\nQue contenham a voz\n\nDe quem Te adora\nOh, Senhor!\n\nSe eu vencer (Te adoro)\nSe eu perder (Te adoro)\n\nSe eu subir (Te adoro)\nSe eu descer\n\nTe adorar é o meu prazer\nMinha força vem do Senhor\n\nNada pode calar\nUm adorador",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Adorador é tudo\nO que eu sou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Adorador, assim\nDeus me formou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "E quem poderá calar\nA voz de um coração?",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Se eu subir aos céus\nEu sei que lá estás",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Se eu mergulhar\nNo mais profundo mar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Nunca poderei\nMe ausentar do Teu olhar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Tu és o Deus que me sonda\nTu és o Deus que me vê",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Não tenho todas as respostas\nMas de uma coisa sei",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Por toda a minha\nVida Te adorarei",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Adorar é o que sei\nAdorar é o que sou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Nada pode calar\nUm adorador",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Não existem prisões\nQue contenham a voz",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "De quem Te adora\nOh, Senhor!",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "Se eu vencer (Te adoro)\nSe eu perder (Te adoro)",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 15,
+          "description": "",
+          "text": "Se eu subir (Te adoro)\nSe eu descer",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 16,
+          "description": "",
+          "text": "Te adorar é o meu prazer\nMinha força vem do Senhor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 17,
+          "description": "",
+          "text": "Nada pode calar\nUm adorador",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "https://open.spotify.com/track/1yGsdYR6HBxRTMVJzD5FED",
+        "youtube": "https://youtube.com/watch?v=TE5Yji_i_XM",
+        "deezer": "https://deezer.com/track/138067053"
+      },
+      "backing_track": {
+        "spotify": "https://open.spotify.com/track/1x7Js5VF9mAvHy7qz4FP0O",
+        "youtube": "https://youtube.com/watch?v=wJANJX6nQQE",
+        "deezer": "https://deezer.com/track/139185841"
+      }
+    },
+    "extras": {
+      "extra": ""
+    }
+  },
+  {
     "id": 1762264994118,
     "title": "Não Mais Escravos",
     "artist": "Fernandinho",
