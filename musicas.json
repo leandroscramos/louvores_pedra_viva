@@ -4025,7 +4025,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Ouvi o meu Senhor bater na porta\nE o meu coração queimou\n\nOuvi o meu Senhor bater na porta\nE o meu coração queimou\n\nEu não vou parar\nGastarei minha vida aos Teus pés\n\nEu não vou parar\nGastarei minha vida aos Teus pés\n\nEu tenho um fogo\nCerrado em meu peito\n\nLarará, Larará, Lará...\n\nQue não me dá descanso\nEu não tenho descanso\n\nDeixa queimar, deixa queimar\nDeixa queimar, deixa queimar\n\nDeixa queimar, deixa queimar",
+      "full_text": "Ouvi o meu Senhor bater na porta\nE o meu coração queimou\n\nOuvi o meu Senhor bater na porta\nE o meu coração queimou\n\nEu não vou parar\nGastarei minha vida aos Teus pés\n\nEu não vou parar\nGastarei minha vida aos Teus pés\n\nEu tenho um fogo\nCerrado em meu peito\n\nLarará, Larará, Lará...\n\nQue não me dá descanso\nEu não tenho descanso\n\nDeixa queimar,\ndeixa queimar",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -4080,14 +4080,7 @@
         {
           "number": 8,
           "description": "",
-          "text": "Deixa queimar, deixa queimar\nDeixa queimar, deixa queimar",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 9,
-          "description": "",
-          "text": "Deixa queimar, deixa queimar",
+          "text": "Deixa queimar,\ndeixa queimar",
           "text_with_comment": null,
           "translations": null
         }
@@ -7314,34 +7307,34 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Senhor,\nEu nasci pra Te chamar de Deus\n\nEu nasci pra Te chamar de Pai \nE andar ao Seu Lado\n\nSenhor,\nDesde o ventre da minha mãe\n\nEu sou povo exclusivo Teu\n\nEu sou abençoado\nSe vivo obediente\n\nMas todo dia o pecado vem, \nMe chama\n\nTodo dia as propostas vêm, \nMe chamam\n\nTodo dia vêm as tentações, \nMe chamam\n\nTodo dia o pecado vem\n\nMas eu escolho Deus\n\nEu escolho ser amigo de Deus\nEu escolho Cristo todo dia\n\nJá morri pra minha vida \nE agora eu vivo a vida de Deus\n\nSenhor,\nEu nasci pra Te chamar de amor\n\nEu nasci pra Te chamar de Pai \nE andar ao Seu lado\n\nSenhor,\nDesde o ventre da minha mãe\n\nEu sou povo exclusivo Teu\n\nEu sou abençoado\nSe vivo obediente\n\nMas todo dia o pecado vem, \nMe chama\n\nTodo dia vêm as tentações, \nMe chamam\n\nTodo dia as propostas vêm, \nMe chamam\n\nTodo dia o pecado vem\n\nMas eu escolho Deus\n\nEu escolho ser amigo de Deus\nEu escolho Cristo todo dia\n\nJá morri pra minha vida \nE agora eu vivo a vida de Deus",
+      "full_text": "Senhor, eu nasci pra\nTe chamar de Deus\n\nEu nasci pra Te\nchamar de Pai \nE andar ao Seu Lado\n\nSenhor, desde o ventre\nda minha mãe\n\nEu sou povo\nexclusivo Teu\n\nEu sou abençoado\nSe vivo obediente\n\nMas todo dia o pecado\nvem, me chama\n\nTodo dia as propostas\nvêm, me chamam\n\nTodo dia vêm as\ntentações, me chamam\n\nTodo dia o pecado vem\n\nMas eu escolho Deus\n\nEu escolho ser amigo de Deus\nEu escolho Cristo todo dia\n\nJá morri pra minha vida \nE agora eu vivo a vida de Deus\n\nSenhor, eu nasci pra\nTe chamar de amor\n\nEu nasci pra Te\nchamar de Pai \nE andar ao Seu lado\n\nSenhor, desde o ventre\nda minha mãe\n\nEu sou povo exclusivo Teu\n\nEu sou abençoado\nSe vivo obediente\n\nMas todo dia o pecado\nvem, me chama\n\nTodo dia vêm as\ntentações, me chamam\n\nTodo dia as propostas\nvêm, me chamam\n\nTodo dia o pecado vem\n\nMas eu escolho Deus\n\nEu escolho ser amigo de Deus\nEu escolho Cristo todo dia\n\nJá morri pra minha vida \nE agora eu vivo a vida de Deus",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Senhor,\nEu nasci pra Te chamar de Deus",
+          "text": "Senhor, eu nasci pra\nTe chamar de Deus",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "Eu nasci pra Te chamar de Pai \nE andar ao Seu Lado",
+          "text": "Eu nasci pra Te\nchamar de Pai \nE andar ao Seu Lado",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "Senhor,\nDesde o ventre da minha mãe",
+          "text": "Senhor, desde o ventre\nda minha mãe",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Eu sou povo exclusivo Teu",
+          "text": "Eu sou povo\nexclusivo Teu",
           "text_with_comment": null,
           "translations": null
         },
@@ -7355,21 +7348,21 @@
         {
           "number": 6,
           "description": "",
-          "text": "Mas todo dia o pecado vem, \nMe chama",
+          "text": "Mas todo dia o pecado\nvem, me chama",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Todo dia as propostas vêm, \nMe chamam",
+          "text": "Todo dia as propostas\nvêm, me chamam",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Todo dia vêm as tentações, \nMe chamam",
+          "text": "Todo dia vêm as\ntentações, me chamam",
           "text_with_comment": null,
           "translations": null
         },
@@ -7404,21 +7397,21 @@
         {
           "number": 13,
           "description": "",
-          "text": "Senhor,\nEu nasci pra Te chamar de amor",
+          "text": "Senhor, eu nasci pra\nTe chamar de amor",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 14,
           "description": "",
-          "text": "Eu nasci pra Te chamar de Pai \nE andar ao Seu lado",
+          "text": "Eu nasci pra Te\nchamar de Pai \nE andar ao Seu lado",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 15,
           "description": "",
-          "text": "Senhor,\nDesde o ventre da minha mãe",
+          "text": "Senhor, desde o ventre\nda minha mãe",
           "text_with_comment": null,
           "translations": null
         },
@@ -7439,21 +7432,21 @@
         {
           "number": 18,
           "description": "",
-          "text": "Mas todo dia o pecado vem, \nMe chama",
+          "text": "Mas todo dia o pecado\nvem, me chama",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 19,
           "description": "",
-          "text": "Todo dia vêm as tentações, \nMe chamam",
+          "text": "Todo dia vêm as\ntentações, me chamam",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 20,
           "description": "",
-          "text": "Todo dia as propostas vêm, \nMe chamam",
+          "text": "Todo dia as propostas\nvêm, me chamam",
           "text_with_comment": null,
           "translations": null
         },
@@ -12611,6 +12604,126 @@
     }
   },
   {
+    "id": 1773271073472,
+    "title": "Meu Respirar, Meu Prazer",
+    "artist": "Gabriela Rocha",
+    "author": "Marie Barnett, Márcio Pereira",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "F#",
+    "bpm": 64.0,
+    "time_sig": "4/4",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Este é o meu respirar\nEste é o meu respirar\n\nTeu Santo Espírito\nVivendo em mim\n\nE este é o meu pão\nE este é o meu pão\n\nTua vontade\nFeita em mim\n\nE eu, eu nada sou sem Ti\nE eu, perdido estou sem Ti\n\nRei dos reis e Senhor\nTe entregamos nosso viver\n\nPra Te adorar, ó Rei dos reis\nFoi que eu nasci, ó Rei Jesus\n\nMeu prazer é Te louvar\n\nMeu prazer é estar\nNos átrios do Senhor\n\nMeu prazer é viver\nNa casa de Deus\n\nOnde flui o amor\n\nE eu, eu nada sou sem Ti\nE eu, perdido estou sem Ti",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Este é o meu respirar\nEste é o meu respirar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Teu Santo Espírito\nVivendo em mim",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "E este é o meu pão\nE este é o meu pão",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Tua vontade\nFeita em mim",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "E eu, eu nada sou sem Ti\nE eu, perdido estou sem Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Rei dos reis e Senhor\nTe entregamos nosso viver",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Pra Te adorar, ó Rei dos reis\nFoi que eu nasci, ó Rei Jesus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Meu prazer é Te louvar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Meu prazer é estar\nNos átrios do Senhor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Meu prazer é viver\nNa casa de Deus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Onde flui o amor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "E eu, eu nada sou sem Ti\nE eu, perdido estou sem Ti",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "https://open.spotify.com/track/2ApWMoHANGl9rkLawKbQOp",
+        "youtube": "https://youtube.com/watch?v=5WBwV6KiVno",
+        "deezer": "https://deezer.com/track/2163576477"
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": ""
+      }
+    },
+    "extras": {
+      "extra": ""
+    }
+  },
+  {
     "id": 1760984491074,
     "title": "Mil Graus",
     "artist": "Renascer Praise",
@@ -13655,7 +13768,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Não vou calar meus lábios\nVou profetizar\n\nManifestar a graça\n\nE abençoar\nA quem Deus quer libertar\n\nSobre tua vida\nVou profetizar\n\nNenhuma maldição\nTe alcançará\n\nSei que Deus tem pra ti\nUm manancial\n\nCujas águas nunca faltarão\n\nSei que Deus tem pra ti\nUm manancial\n\nCujas águas nunca secarão",
+      "full_text": "Não vou calar meus lábios\nVou profetizar\n\nManifestar a graça\n\nE abençoar\nA quem Deus quer libertar\n\nSobre tua vida\nVou profetizar\n\nNenhuma maldição\nTe alcançará\n\nSei que Deus tem pra ti\nUm manancial\n\nCujas águas nunca secarão",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -13702,20 +13815,6 @@
         },
         {
           "number": 7,
-          "description": "",
-          "text": "Cujas águas nunca faltarão",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 8,
-          "description": "",
-          "text": "Sei que Deus tem pra ti\nUm manancial",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 9,
           "description": "",
           "text": "Cujas águas nunca secarão",
           "text_with_comment": null,
@@ -16004,7 +16103,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "O Universo chora\nO sol se apagou\n\nAli estava morto o Salvador\n\nSeu corpo lá na cruz\nSeu sangue derramou\n\nO peso do pecado Ele levou\n\nDeus Pai o abandonou\nCessou Seu respirar\n\nEm trevas encontrou o filho\n\nA guerra começou\nA morte enfrentou\n\nTodo o poder das trevas\nVencido foi\n\nA Terra estremeceu\nO sepulcro se abriu\n\nE nada vencerá\nSeu grande amor\n\nOh morte, onde estás\nO Rei ressuscitou\n\nEle venceu pra sempre\n\nPra sempre Exaltado É\nPra sempre Adorado É\n\nPra sempre Ele vive\nRessuscitou, Ressuscitou\n\nCantamos Aleluia\nCantamos Aleluia\n\nCantamos Aleluia\nO Cordeiro venceu",
+      "full_text": "O Universo chora\nO sol se apagou\n\nAli estava morto\no Salvador\n\nSeu corpo lá na cruz\nSeu sangue derramou\n\nO peso do pecado\nEle levou\n\nDeus Pai o abandonou\nCessou Seu respirar\n\nEm trevas\nencontrou o filho\n\nA guerra começou\nA morte enfrentou\n\nTodo o poder das trevas\nVencido foi\n\nA Terra estremeceu\nO sepulcro se abriu\n\nE nada vencerá\nSeu grande amor\n\nOh morte, onde estás\nO Rei ressuscitou\n\nEle venceu pra sempre\n\nPra sempre Exaltado É\nPra sempre Adorado É\n\nPra sempre Ele vive\nRessuscitou, Ressuscitou\n\nCantamos Aleluia\nCantamos Aleluia\n\nCantamos Aleluia\nO Cordeiro venceu",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -16017,7 +16116,7 @@
         {
           "number": 2,
           "description": "",
-          "text": "Ali estava morto o Salvador",
+          "text": "Ali estava morto\no Salvador",
           "text_with_comment": null,
           "translations": null
         },
@@ -16031,7 +16130,7 @@
         {
           "number": 4,
           "description": "",
-          "text": "O peso do pecado Ele levou",
+          "text": "O peso do pecado\nEle levou",
           "text_with_comment": null,
           "translations": null
         },
@@ -16045,7 +16144,7 @@
         {
           "number": 6,
           "description": "",
-          "text": "Em trevas encontrou o filho",
+          "text": "Em trevas\nencontrou o filho",
           "text_with_comment": null,
           "translations": null
         },
