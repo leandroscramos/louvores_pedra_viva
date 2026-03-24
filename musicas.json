@@ -14,74 +14,81 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Que o Senhor te abençoe\nE faça brilhar Seu rosto em ti\n\nQue conceda Sua graça\nE te dê paz\n\nAmém\n\nQue a bênção se derrame\nAté mil gerações\n\nTua família e teus filhos\nE os filhos dos teus filhos\n\nSua presença te acompanhe\nPor detrás e por diante\n\nDo teu lado e em ti\nÉ contigo, é por ti\n\nE de dia e de noite\nTua entrada e saída\n\nEm teu riso, em teu choro\nÉ contigo, é por ti\n\nÉ contigo\nÉ por ti",
+      "full_text": "Que o Senhor\nte abençoe\n\nE faça brilhar\nSeu rosto em ti\n\nQue conceda Sua graça\nE te dê paz\n\nAmém\n\nQue a bênção se derrame\nAté mil gerações\n\nTua família e teus filhos\nE os filhos dos teus filhos\n\nSua presença\nte acompanhe\nPor detrás e por diante\n\nDo teu lado e em ti\nÉ contigo, é por ti\n\nE de dia e de noite\nTua entrada e saída\n\nEm teu riso,\nem teu choro\nÉ contigo, é por ti\n\nÉ contigo\nÉ por ti",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Que o Senhor te abençoe\nE faça brilhar Seu rosto em ti",
+          "text": "Que o Senhor\nte abençoe",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "Que conceda Sua graça\nE te dê paz",
+          "text": "E faça brilhar\nSeu rosto em ti",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "Amém",
+          "text": "Que conceda Sua graça\nE te dê paz",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Que a bênção se derrame\nAté mil gerações",
+          "text": "Amém",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Tua família e teus filhos\nE os filhos dos teus filhos",
+          "text": "Que a bênção se derrame\nAté mil gerações",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Sua presença te acompanhe\nPor detrás e por diante",
+          "text": "Tua família e teus filhos\nE os filhos dos teus filhos",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Do teu lado e em ti\nÉ contigo, é por ti",
+          "text": "Sua presença\nte acompanhe\nPor detrás e por diante",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "E de dia e de noite\nTua entrada e saída",
+          "text": "Do teu lado e em ti\nÉ contigo, é por ti",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 9,
           "description": "",
-          "text": "Em teu riso, em teu choro\nÉ contigo, é por ti",
+          "text": "E de dia e de noite\nTua entrada e saída",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 10,
+          "description": "",
+          "text": "Em teu riso,\nem teu choro\nÉ contigo, é por ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
           "description": "",
           "text": "É contigo\nÉ por ti",
           "text_with_comment": null,
@@ -1717,41 +1724,62 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Nós estamos aqui tão sedentos de Ti\nVem, ó Deus, vem, ó Deus\n\nEnche este lugar, meu desejo é sentir\nTeu poder, Teu poder\n\nEntão vem me incendiar\nMeu coração é Teu altar\n\nQuero ouvir o som do céu\nTua glória contemplar\n\nTe damos honra, Te damos glória\nTeu é o poder pra sempre, amém",
+      "full_text": "Nós estamos aqui\ntão sedentos de Ti\n\nVem, ó Deus\nVem, ó Deus\n\nEnche este lugar,\nmeu desejo é sentir\n\nTeu poder\nTeu poder\n\nEntão vem me incendiar\nMeu coração é Teu altar\n\nQuero ouvir o som do céu\nTua glória contemplar\n\nTe damos honra\nTe damos glória\n\nTeu é o poder\npra sempre, amém",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Nós estamos aqui tão sedentos de Ti\nVem, ó Deus, vem, ó Deus",
+          "text": "Nós estamos aqui\ntão sedentos de Ti",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "Enche este lugar, meu desejo é sentir\nTeu poder, Teu poder",
+          "text": "Vem, ó Deus\nVem, ó Deus",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "Então vem me incendiar\nMeu coração é Teu altar",
+          "text": "Enche este lugar,\nmeu desejo é sentir",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Quero ouvir o som do céu\nTua glória contemplar",
+          "text": "Teu poder\nTeu poder",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Te damos honra, Te damos glória\nTeu é o poder pra sempre, amém",
+          "text": "Então vem me incendiar\nMeu coração é Teu altar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Quero ouvir o som do céu\nTua glória contemplar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Te damos honra\nTe damos glória",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Teu é o poder\npra sempre, amém",
           "text_with_comment": null,
           "translations": null
         }
@@ -6714,95 +6742,109 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "O inimigo tenta laços e embaraços\nPra me envergonhar, mas não vai\n\nPorque eu não estou sozinho\n\nNesta guerra está comigo\nO braço forte do Senhor\n\nAquele que acalma o vento\nAquele que aquieta o mar\n\nQue tira a força do fogo\nE faz o leão jejuar\n\nO Deus que derruba as muralhas\nDa estéril faz mãe de filhos\n\nÉ o mesmo que brada do alto\n\"Não temas, Sou contigo\"\n\nDeus já tem\nUm caminho aberto pelas águas\n\nFaz romper muitas fontes\nEm meio ao deserto\n\nHaverá nuvens que\nTrazem chuvas de bênçãos\n\nOuça a voz\nDeus te dá escape e livramento\n\nLeão da tribo de Judá\nRei dos reis, reina para sempre\n\nReina para sempre",
+      "full_text": "O inimigo tenta laços\ne embaraços\n\nPra me envergonhar,\nmas não vai\n\nPorque eu não\nestou sozinho\n\nNesta guerra está comigo\nO braço forte do Senhor\n\nAquele que acalma o vento\nAquele que aquieta o mar\n\nQue tira a força do fogo\nE faz o leão jejuar\n\nO Deus que derruba\nas muralhas\n\nDa estéril faz\nmãe de filhos\n\nÉ o mesmo que brada do alto\n\"Não temas, Sou contigo\"\n\nDeus já tem\nUm caminho aberto\npelas águas\n\nFaz romper muitas fontes\nEm meio ao deserto\n\nHaverá nuvens que\nTrazem chuvas de bênçãos\n\nOuça a voz\nDeus Te dá escape\ne livramento\n\nLeão da tribo de Judá\nRei dos reis,\nreina para sempre\n\nReina para sempre",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "O inimigo tenta laços e embaraços\nPra me envergonhar, mas não vai",
+          "text": "O inimigo tenta laços\ne embaraços",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "Porque eu não estou sozinho",
+          "text": "Pra me envergonhar,\nmas não vai",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "Nesta guerra está comigo\nO braço forte do Senhor",
+          "text": "Porque eu não\nestou sozinho",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Aquele que acalma o vento\nAquele que aquieta o mar",
+          "text": "Nesta guerra está comigo\nO braço forte do Senhor",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Que tira a força do fogo\nE faz o leão jejuar",
+          "text": "Aquele que acalma o vento\nAquele que aquieta o mar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "O Deus que derruba as muralhas\nDa estéril faz mãe de filhos",
+          "text": "Que tira a força do fogo\nE faz o leão jejuar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "É o mesmo que brada do alto\n\"Não temas, Sou contigo\"",
+          "text": "O Deus que derruba\nas muralhas",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Deus já tem\nUm caminho aberto pelas águas",
+          "text": "Da estéril faz\nmãe de filhos",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 9,
           "description": "",
-          "text": "Faz romper muitas fontes\nEm meio ao deserto",
+          "text": "É o mesmo que brada do alto\n\"Não temas, Sou contigo\"",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 10,
           "description": "",
-          "text": "Haverá nuvens que\nTrazem chuvas de bênçãos",
+          "text": "Deus já tem\nUm caminho aberto\npelas águas",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 11,
           "description": "",
-          "text": "Ouça a voz\nDeus te dá escape e livramento",
+          "text": "Faz romper muitas fontes\nEm meio ao deserto",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 12,
           "description": "",
-          "text": "Leão da tribo de Judá\nRei dos reis, reina para sempre",
+          "text": "Haverá nuvens que\nTrazem chuvas de bênçãos",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 13,
+          "description": "",
+          "text": "Ouça a voz\nDeus Te dá escape\ne livramento",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "Leão da tribo de Judá\nRei dos reis,\nreina para sempre",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 15,
           "description": "",
           "text": "Reina para sempre",
           "text_with_comment": null,
@@ -7744,21 +7786,21 @@
     }
   },
   {
-    "id": 1762265509252,
+    "id": 1773526592621,
     "title": "Eu Navegarei",
-    "artist": "Ana Nóbrega",
+    "artist": "Gabriela Rocha",
     "author": "Azmaveth C. Silva",
     "note": "",
     "copyright": "",
     "language": "",
-    "key": "F#m",
-    "bpm": 92.0,
+    "key": "G#m",
+    "bpm": 70.0,
     "time_sig": "4/4",
     "midi": null,
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Eu navegarei\nNo oceano do Espírito\n\nE ali adorarei\nAo Deus do meu amor\n\nEspírito, Espírito\nQue desce como fogo\n\nVem como em pentecostes\nE enche-me de novo\n\nEu adorarei\nAo Deus da minha vida\n\nQue me compreendeu\nSem nenhuma explicação\n\nO que tinha em pentecostes\nO que tinha em pentecostes\n\nEu quero hoje aqui\nEu quero hoje aqui",
+      "full_text": "Eu navegarei\nNo oceano do Espírito\n\nE ali adorarei\nAo Deus do meu amor\n\nEu navegarei\nNo oceano do Espírito\n\nE ali adorarei\nAo Deus do meu amor\n\nEspírito, Espírito\nQue desce como fogo\n\nVem como em pentecostes\nE enche-me de novo\n\nEspírito, Espírito\nQue desce como fogo\n\nVem como em pentecostes\nE enche-me de novo\n\nEu adorarei\nAo Deus da minha vida\n\nQue me compreendeu\nSem nenhuma explicação\n\nEu adorarei\nAo Deus da minha vida\n\nQue me compreendeu\nSem nenhuma explicação\n\nEspírito, Espírito\nQue desce como fogo\n\nVem como em pentecostes\nE enche-me de novo\n\nEspírito, Espírito\nQue desce como fogo\n\nVem como em pentecostes\nE enche-me de novo",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -7778,42 +7820,98 @@
         {
           "number": 3,
           "description": "",
-          "text": "Espírito, Espírito\nQue desce como fogo",
+          "text": "Eu navegarei\nNo oceano do Espírito",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Vem como em pentecostes\nE enche-me de novo",
+          "text": "E ali adorarei\nAo Deus do meu amor",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Eu adorarei\nAo Deus da minha vida",
+          "text": "Espírito, Espírito\nQue desce como fogo",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Que me compreendeu\nSem nenhuma explicação",
+          "text": "Vem como em pentecostes\nE enche-me de novo",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "O que tinha em pentecostes\nO que tinha em pentecostes",
+          "text": "Espírito, Espírito\nQue desce como fogo",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Eu quero hoje aqui\nEu quero hoje aqui",
+          "text": "Vem como em pentecostes\nE enche-me de novo",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Eu adorarei\nAo Deus da minha vida",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Que me compreendeu\nSem nenhuma explicação",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Eu adorarei\nAo Deus da minha vida",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Que me compreendeu\nSem nenhuma explicação",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "Espírito, Espírito\nQue desce como fogo",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "Vem como em pentecostes\nE enche-me de novo",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 15,
+          "description": "",
+          "text": "Espírito, Espírito\nQue desce como fogo",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 16,
+          "description": "",
+          "text": "Vem como em pentecostes\nE enche-me de novo",
           "text_with_comment": null,
           "translations": null
         }
@@ -7821,9 +7919,9 @@
     },
     "streaming": {
       "audio": {
-        "spotify": "https://open.spotify.com/track/1ojy079oOK8H0wRm2DECFC",
-        "youtube": "https://youtube.com/watch?v=9p5k1SYjB7s",
-        "deezer": "https://deezer.com/track/1802819847"
+        "spotify": "https://open.spotify.com/track/3pyEWO6mEOzOeMobs5BP6p",
+        "youtube": "https://youtube.com/watch?v=LOYxBHjQ8_c",
+        "deezer": "https://deezer.com/track/547001022"
       },
       "backing_track": {
         "spotify": "",
@@ -11497,144 +11595,102 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Tem ciúmes de mim\nO Seu amor é\n\nComo um furacão\nE eu me rendo\n\nAo vento de\nSua misericórdia\n\nE então de repente\nNão vejo mais\n\nMinhas aflições\nEu só vejo a glória\n\nE percebo\nQuão maravilhoso Ele é\n\nE o tanto que\nEle me quer\n\nOh, Ele me amou\nOh, Ele me ama\n\nEle me amou\n\nMe ama\nEle me ama\n\nEle me ama\nEle me ama\n\nSomos Sua herança\nE Ele é o nosso galardão\n\nSeu olhar de graça\nNos atrai à redenção\n\nSe a graça é um oceano,\nEstamos afogando\n\nO céu se une à Terra\nComo um beijo apaixonado\n\nMeu coração dispara\nEm meu peito acelerado\n\nNão tenho pra perder\nCom ressentimentos\n\nQuando penso que Ele\n\nMe ama\nEle me ama\n\nEle me ama\nEle me ama",
+      "full_text": "Tem ciúmes de mim\nO Seu amor é\nComo um furacão\n\nE eu me rendo\nAo vento de\nSua misericórdia\n\nE então de repente\nNão vejo mais\nMinhas aflições\n\nEu só vejo a glória\ne percebo Quão\nmaravilhoso Ele é\n\nE o tanto que\nEle me quer\n\nOh, Ele me amou\nOh, Ele me ama\nEle me amou\n\nMe ama\nEle me ama\n\nEle me ama\nEle me ama\n\nSomos Sua herança\nE Ele é o nosso galardão\nSeu olhar de graça\n\nNos atrai à redenção\nSe a graça é um oceano,\nEstamos afogando\n\nO céu se une à Terra\nComo um beijo apaixonado\nMeu coração dispara\n\nEm meu peito acelerado\nNão tenho pra perder\nCom ressentimentos\n\nQuando penso que Ele\nMe ama\nEle me ama\n\nEle me ama\nEle me ama",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Tem ciúmes de mim\nO Seu amor é",
+          "text": "Tem ciúmes de mim\nO Seu amor é\nComo um furacão",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "Como um furacão\nE eu me rendo",
+          "text": "E eu me rendo\nAo vento de\nSua misericórdia",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "Ao vento de\nSua misericórdia",
+          "text": "E então de repente\nNão vejo mais\nMinhas aflições",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "E então de repente\nNão vejo mais",
+          "text": "Eu só vejo a glória\ne percebo Quão\nmaravilhoso Ele é",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Minhas aflições\nEu só vejo a glória",
+          "text": "E o tanto que\nEle me quer",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "E percebo\nQuão maravilhoso Ele é",
+          "text": "Oh, Ele me amou\nOh, Ele me ama\nEle me amou",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "E o tanto que\nEle me quer",
+          "text": "Me ama\nEle me ama",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Oh, Ele me amou\nOh, Ele me ama",
+          "text": "Ele me ama\nEle me ama",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 9,
           "description": "",
-          "text": "Ele me amou",
+          "text": "Somos Sua herança\nE Ele é o nosso galardão\nSeu olhar de graça",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 10,
           "description": "",
-          "text": "Me ama\nEle me ama",
+          "text": "Nos atrai à redenção\nSe a graça é um oceano,\nEstamos afogando",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 11,
           "description": "",
-          "text": "Ele me ama\nEle me ama",
+          "text": "O céu se une à Terra\nComo um beijo apaixonado\nMeu coração dispara",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 12,
           "description": "",
-          "text": "Somos Sua herança\nE Ele é o nosso galardão",
+          "text": "Em meu peito acelerado\nNão tenho pra perder\nCom ressentimentos",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 13,
           "description": "",
-          "text": "Seu olhar de graça\nNos atrai à redenção",
+          "text": "Quando penso que Ele\nMe ama\nEle me ama",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 14,
-          "description": "",
-          "text": "Se a graça é um oceano,\nEstamos afogando",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 15,
-          "description": "",
-          "text": "O céu se une à Terra\nComo um beijo apaixonado",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 16,
-          "description": "",
-          "text": "Meu coração dispara\nEm meu peito acelerado",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 17,
-          "description": "",
-          "text": "Não tenho pra perder\nCom ressentimentos",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 18,
-          "description": "",
-          "text": "Quando penso que Ele",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 19,
-          "description": "",
-          "text": "Me ama\nEle me ama",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 20,
           "description": "",
           "text": "Ele me ama\nEle me ama",
           "text_with_comment": null,
@@ -12618,7 +12674,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Este é o meu respirar\nEste é o meu respirar\n\nTeu Santo Espírito\nVivendo em mim\n\nE este é o meu pão\nE este é o meu pão\n\nTua vontade\nFeita em mim\n\nE eu, eu nada sou sem Ti\nE eu, perdido estou sem Ti\n\nRei dos reis e Senhor\nTe entregamos nosso viver\n\nPra Te adorar, ó Rei dos reis\nFoi que eu nasci, ó Rei Jesus\n\nMeu prazer é Te louvar\n\nMeu prazer é estar\nNos átrios do Senhor\n\nMeu prazer é viver\nNa casa de Deus\n\nOnde flui o amor\n\nE eu, eu nada sou sem Ti\nE eu, perdido estou sem Ti",
+      "full_text": "Este é o meu respirar\nEste é o meu respirar\n\nTeu Santo Espírito\nVivendo em mim\n\nE este é o meu pão\nE este é o meu pão\n\nTua vontade\nFeita em mim\n\nE eu, eu nada sou sem Ti\nE eu, perdido estou sem Ti\n\nE eu, eu nada sou sem Ti\nE eu, perdido estou sem Ti\n\nRei dos reis e Senhor\nTe entregamos nosso viver\n\nRei dos reis e Senhor\nTe entregamos nosso viver\n\nPra Te adorar, ó Rei dos reis\nFoi que eu nasci, ó Rei Jesus\n\nMeu prazer é Te louvar\n\nMeu prazer é estar\nNos átrios do Senhor\n\nMeu prazer é viver\nNa casa de Deus\n\nOnde flui o amor\n\nPra Te adorar, ó Rei dos reis\nFoi que eu nasci, ó Rei Jesus\n\nMeu prazer é Te louvar\n\nMeu prazer é estar\nNos átrios do Senhor\n\nMeu prazer é viver\nNa casa de Deus\n\nOnde flui o amor\n\nE eu, eu nada sou sem Ti\nE eu, perdido estou sem Ti\n\nE eu, eu nada sou sem Ti\nE eu, perdido estou sem Ti",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -12659,47 +12715,103 @@
         {
           "number": 6,
           "description": "",
-          "text": "Rei dos reis e Senhor\nTe entregamos nosso viver",
+          "text": "E eu, eu nada sou sem Ti\nE eu, perdido estou sem Ti",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Pra Te adorar, ó Rei dos reis\nFoi que eu nasci, ó Rei Jesus",
+          "text": "Rei dos reis e Senhor\nTe entregamos nosso viver",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Meu prazer é Te louvar",
+          "text": "Rei dos reis e Senhor\nTe entregamos nosso viver",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 9,
           "description": "",
-          "text": "Meu prazer é estar\nNos átrios do Senhor",
+          "text": "Pra Te adorar, ó Rei dos reis\nFoi que eu nasci, ó Rei Jesus",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 10,
           "description": "",
-          "text": "Meu prazer é viver\nNa casa de Deus",
+          "text": "Meu prazer é Te louvar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 11,
           "description": "",
-          "text": "Onde flui o amor",
+          "text": "Meu prazer é estar\nNos átrios do Senhor",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 12,
+          "description": "",
+          "text": "Meu prazer é viver\nNa casa de Deus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "Onde flui o amor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "Pra Te adorar, ó Rei dos reis\nFoi que eu nasci, ó Rei Jesus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 15,
+          "description": "",
+          "text": "Meu prazer é Te louvar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 16,
+          "description": "",
+          "text": "Meu prazer é estar\nNos átrios do Senhor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 17,
+          "description": "",
+          "text": "Meu prazer é viver\nNa casa de Deus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 18,
+          "description": "",
+          "text": "Onde flui o amor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 19,
+          "description": "",
+          "text": "E eu, eu nada sou sem Ti\nE eu, perdido estou sem Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 20,
           "description": "",
           "text": "E eu, eu nada sou sem Ti\nE eu, perdido estou sem Ti",
           "text_with_comment": null,
@@ -14897,7 +15009,7 @@
     "streaming": {
       "audio": {
         "spotify": "https://open.spotify.com/track/2995D63yimdhCBXoZo0gi3",
-        "youtube": "https://youtube.com/watch?v=tYATcstXHHw",
+        "youtube": "https://www.youtube.com/watch?v=37NTtPilj0A",
         "deezer": "https://deezer.com/track/677296802"
       },
       "backing_track": {
@@ -16476,6 +16588,308 @@
     }
   },
   {
+    "id": 1774307118039,
+    "title": "Pretico de Ti + Lindo Momento",
+    "artist": "Áquila Amorim",
+    "author": "",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "F",
+    "bpm": 0.0,
+    "time_sig": "4/4",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Preciso de Ti\nPreciso do Teu perdão\n\nPreciso de Ti\nQuebranta meu coração\n\nComo a corça anseia\npor águas,\nassim tenho sede\n\nComo terra seca,\nassim é minh'alma\nPreciso de Ti\n\nDistante de Ti Senhor,\nnão posso viver\nNão vale a pena existir\n\nEscuta o meu clamor\nMais que o ar que eu respiro\nPreciso de Ti\n\nEu não posso esquecer\nO que fizeste por mim\n\nComo alto é o céu\nTua misericórdia é sem fim\n\nComo um pai se compadece\ndos filhos, assim Tu me amas\n\nAfasta as minhas transgressões\nPreciso de Ti\n\nDistante de Ti, Senhor,\nnão posso viver\nNão vale a pena existir\n\nEscuta o meu clamor\nMais que o ar que eu respiro\nPreciso de Ti\n\nDistante de Ti, Senhor,\nnão posso viver\nNão vale a pena\n\nEscuta o meu clamor\nMais que o ar que eu respiro\nPreciso de Ti\n\nLeva-me ao lugar\nOnde só você e eu\nDesfrutamos o momento\n\nTe amo, meu papai\nEu dependo desse amor\n\nPois, sem Ti,\neu sei que morro.\n\nLeva-me ao lugar\nOnde só você e eu\nDesfrutamos o momento\n\nTe amo, meu papai\nEu dependo desse amor\n\nPois, sem Ti,\neu sei que morro\n\nMe enxergou na minha tormenta\nMe livrou em meus problemas\n\nTransformou minha tristeza\nE mudou minha vida inteira\n\nMe vestiu com roupas novas\nPôs azeite em minha cabeça\n\nMe deu um lugar na mesa\nO meu pai não me rejeita\n\nMe enxergou na minha tormenta\nMe livrou em meus problemas\n\nTransformou minha tristeza\nE mudou minha vida inteira\n\nMe vestiu com roupas novas\nPôs azeite em minha cabeça\n\nMe deu um lugar na mesa\nO meu pai não me rejeita\n\nLeva-me ao lugar\nOnde só o Senhor e eu\nDesfrutamos o momento\n\nTe amo, meu papai\nEu dependo desse amor\n\nPois, sem Ti,\neu sei que morro\n\nLeva-me ao lugar\nOnde só o Senhor e eu\nDesfrutamos o momento\n\nTe amo, meu papai\nEu dependo desse amor\n\nPois, sem Ti,\neu sei que morro\n\nDistante de Ti, Senhor,\nnão posso viver\nNão vale a pena existir\n\nEscuta o meu clamor\nMais que o ar que eu respiro\nPreciso de Ti\n\nDistante de Ti, Senhor,\nnão posso viver\nNão vale a pena existir\n\nEscuta o meu clamor\nMais que o ar que eu respiro\nPreciso de Ti",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Preciso de Ti\nPreciso do Teu perdão",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Preciso de Ti\nQuebranta meu coração",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Como a corça anseia\npor águas,\nassim tenho sede",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Como terra seca,\nassim é minh'alma\nPreciso de Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Distante de Ti Senhor,\nnão posso viver\nNão vale a pena existir",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Escuta o meu clamor\nMais que o ar que eu respiro\nPreciso de Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Eu não posso esquecer\nO que fizeste por mim",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Como alto é o céu\nTua misericórdia é sem fim",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Como um pai se compadece\ndos filhos, assim Tu me amas",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Afasta as minhas transgressões\nPreciso de Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Distante de Ti, Senhor,\nnão posso viver\nNão vale a pena existir",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Escuta o meu clamor\nMais que o ar que eu respiro\nPreciso de Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "Distante de Ti, Senhor,\nnão posso viver\nNão vale a pena",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "Escuta o meu clamor\nMais que o ar que eu respiro\nPreciso de Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 15,
+          "description": "",
+          "text": "Leva-me ao lugar\nOnde só você e eu\nDesfrutamos o momento",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 16,
+          "description": "",
+          "text": "Te amo, meu papai\nEu dependo desse amor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 17,
+          "description": "",
+          "text": "Pois, sem Ti,\neu sei que morro.",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 18,
+          "description": "",
+          "text": "Leva-me ao lugar\nOnde só você e eu\nDesfrutamos o momento",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 19,
+          "description": "",
+          "text": "Te amo, meu papai\nEu dependo desse amor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 20,
+          "description": "",
+          "text": "Pois, sem Ti,\neu sei que morro",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 21,
+          "description": "",
+          "text": "Me enxergou na minha tormenta\nMe livrou em meus problemas",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 22,
+          "description": "",
+          "text": "Transformou minha tristeza\nE mudou minha vida inteira",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 23,
+          "description": "",
+          "text": "Me vestiu com roupas novas\nPôs azeite em minha cabeça",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 24,
+          "description": "",
+          "text": "Me deu um lugar na mesa\nO meu pai não me rejeita",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 25,
+          "description": "",
+          "text": "Me enxergou na minha tormenta\nMe livrou em meus problemas",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 26,
+          "description": "",
+          "text": "Transformou minha tristeza\nE mudou minha vida inteira",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 27,
+          "description": "",
+          "text": "Me vestiu com roupas novas\nPôs azeite em minha cabeça",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 28,
+          "description": "",
+          "text": "Me deu um lugar na mesa\nO meu pai não me rejeita",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 29,
+          "description": "",
+          "text": "Leva-me ao lugar\nOnde só o Senhor e eu\nDesfrutamos o momento",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 30,
+          "description": "",
+          "text": "Te amo, meu papai\nEu dependo desse amor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 31,
+          "description": "",
+          "text": "Pois, sem Ti,\neu sei que morro",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 32,
+          "description": "",
+          "text": "Leva-me ao lugar\nOnde só o Senhor e eu\nDesfrutamos o momento",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 33,
+          "description": "",
+          "text": "Te amo, meu papai\nEu dependo desse amor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 34,
+          "description": "",
+          "text": "Pois, sem Ti,\neu sei que morro",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 35,
+          "description": "",
+          "text": "Distante de Ti, Senhor,\nnão posso viver\nNão vale a pena existir",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 36,
+          "description": "",
+          "text": "Escuta o meu clamor\nMais que o ar que eu respiro\nPreciso de Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 37,
+          "description": "",
+          "text": "Distante de Ti, Senhor,\nnão posso viver\nNão vale a pena existir",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 38,
+          "description": "",
+          "text": "Escuta o meu clamor\nMais que o ar que eu respiro\nPreciso de Ti",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "",
+        "youtube": "https://www.youtube.com/watch?v=bZtZUAtpCtI",
+        "deezer": ""
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": ""
+      }
+    },
+    "extras": {
+      "extra": ""
+    }
+  },
+  {
     "id": 1762265723739,
     "title": "Primeira Essência",
     "artist": "Aline Barros",
@@ -16610,6 +17024,119 @@
         "spotify": "",
         "youtube": "",
         "deezer": "https://deezer.com/track/139186069"
+      }
+    },
+    "extras": {
+      "extra": ""
+    }
+  },
+  {
+    "id": 1773704573510,
+    "title": "Primeira Essência",
+    "artist": "Felipe Rodrigues",
+    "author": "Anderson Freire",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "G#",
+    "bpm": 69.0,
+    "time_sig": "4/4",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Estou no meu jardim\nTranquei a porta\nAbri meu coração\n\nReguei minhas raízes\nCom minhas lágrimas\nGotas de adoração\n\nSenhor, não quero\nQue os meus olhos\n\nPercam o brilho\nDo primeiro amor por Ti\n\nNão quero\nQue em mim se perca\nO desejo de Te adorar\n\nVem, Senhor,\ne me resgata\n\nTodos os dias,\nsó pra Te adorar\n\nQuero ser Teu\nbom perfume\n\nPrimeira essência\nJardim particular\n\nTe adoro, Te adoro\nVem sobre mim, Senhor\nVem sobre mim, Senhor\n\nVem sobre mim, Senhor\nVem sobre mim, Senhor\nTe adoro, Te adoro",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Estou no meu jardim\nTranquei a porta\nAbri meu coração",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Reguei minhas raízes\nCom minhas lágrimas\nGotas de adoração",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Senhor, não quero\nQue os meus olhos",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Percam o brilho\nDo primeiro amor por Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Não quero\nQue em mim se perca\nO desejo de Te adorar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Vem, Senhor,\ne me resgata",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Todos os dias,\nsó pra Te adorar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Quero ser Teu\nbom perfume",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Primeira essência\nJardim particular",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Te adoro, Te adoro\nVem sobre mim, Senhor\nVem sobre mim, Senhor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Vem sobre mim, Senhor\nVem sobre mim, Senhor\nTe adoro, Te adoro",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "https://open.spotify.com/track/6XV6vPHS7wUhB4B6AeosPr",
+        "youtube": "https://youtube.com/watch?v=13JQKcQFue0",
+        "deezer": "https://deezer.com/track/2912107061"
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": ""
       }
     },
     "extras": {
@@ -17238,6 +17765,168 @@
     }
   },
   {
+    "id": 1773704423721,
+    "title": "Quem Pode Livrar, Seja Engrandecido",
+    "artist": "MORADA",
+    "author": "Bené Gomes, Genésio de Souza",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "",
+    "bpm": 0.0,
+    "time_sig": "",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Quem pode livrar\ncomo o Senhor\n\nEle é poderoso para\nme guardar\n\nQuando os meus\ninimigos se levantaram\ncontra mim\n\nO Senhor estendeu\nSua mão para mim\nE me deu a vitória\n\nO Senhor estendeu\nSua mão para mim\nE me deu a vitória\n\nO Senhor estendeu\nSua mão para mim\nE me deu a vitória\n\nSeja engrandecido\nÓ Deus da minha vida\n\nTu és o Deus da\nminha salvação\n\nÉs a minha rocha,\na minha segurança\n\nMeus lábios sempre\nTe exaltarão\n\nAleluia, Te louvo\nPois sei que sobre\ntodos é o Senhor\n\nAleluia, Te louvo\nPois sei que sobre\ntodos é o Senhor\n\nÉs a minha rocha,\na minha segurança\n\nMeus lábios sempre\nTe exaltarão\n\nAleluia, Te louvo\nPois sei que sobre\ntodos é o Senhor\n\nAleluia, Te louvo\nPois sei que sobre\ntodos é o Senhor\n\nAleluia, aleluia, aleluia\nLouvemos ao Senhor\n\nAleluia, aleluia, aleluia\nLouvemos ao Senhor",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Quem pode livrar\ncomo o Senhor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Ele é poderoso para\nme guardar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Quando os meus\ninimigos se levantaram\ncontra mim",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "O Senhor estendeu\nSua mão para mim\nE me deu a vitória",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "O Senhor estendeu\nSua mão para mim\nE me deu a vitória",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "O Senhor estendeu\nSua mão para mim\nE me deu a vitória",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Seja engrandecido\nÓ Deus da minha vida",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Tu és o Deus da\nminha salvação",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "És a minha rocha,\na minha segurança",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Meus lábios sempre\nTe exaltarão",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Aleluia, Te louvo\nPois sei que sobre\ntodos é o Senhor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Aleluia, Te louvo\nPois sei que sobre\ntodos é o Senhor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "És a minha rocha,\na minha segurança",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "Meus lábios sempre\nTe exaltarão",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 15,
+          "description": "",
+          "text": "Aleluia, Te louvo\nPois sei que sobre\ntodos é o Senhor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 16,
+          "description": "",
+          "text": "Aleluia, Te louvo\nPois sei que sobre\ntodos é o Senhor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 17,
+          "description": "",
+          "text": "Aleluia, aleluia, aleluia\nLouvemos ao Senhor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 18,
+          "description": "",
+          "text": "Aleluia, aleluia, aleluia\nLouvemos ao Senhor",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "",
+        "youtube": "https://www.youtube.com/watch?v=zanzmGq38Zc",
+        "deezer": ""
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": ""
+      }
+    },
+    "extras": {
+      "extra": ""
+    }
+  },
+  {
     "id": 1762264666188,
     "title": "Quero Ser Como Criança",
     "artist": "David Quinlan",
@@ -17351,46 +18040,60 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Renova-me, Senhor Jesus\nJá não quero ser igual\n\nRenova-me, Senhor Jesus\nPõe em mim Teu coração\n\nPorque tudo que há\nDentro de mim\n\nNecessita ser mudado\nSenhor\n\nPorque tudo que há\nDentro do meu coração\n\nNecessita mais de Ti\nNecessita mais de Ti",
+      "full_text": "Renova-me,\nSenhor Jesus\n\nJá não quero\nser igual\n\nRenova-me,\nSenhor Jesus\n\nPõe em mim\nTeu coração\n\nPorque tudo que há\nDentro de mim\n\nNecessita ser mudado\nSenhor\n\nPorque tudo que há\nDentro do meu coração\n\nNecessita mais de Ti\nNecessita mais de Ti",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Renova-me, Senhor Jesus\nJá não quero ser igual",
+          "text": "Renova-me,\nSenhor Jesus",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "Renova-me, Senhor Jesus\nPõe em mim Teu coração",
+          "text": "Já não quero\nser igual",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "Porque tudo que há\nDentro de mim",
+          "text": "Renova-me,\nSenhor Jesus",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Necessita ser mudado\nSenhor",
+          "text": "Põe em mim\nTeu coração",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Porque tudo que há\nDentro do meu coração",
+          "text": "Porque tudo que há\nDentro de mim",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
+          "description": "",
+          "text": "Necessita ser mudado\nSenhor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Porque tudo que há\nDentro do meu coração",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
           "description": "",
           "text": "Necessita mais de Ti\nNecessita mais de Ti",
           "text_with_comment": null,
@@ -17401,7 +18104,7 @@
     "streaming": {
       "audio": {
         "spotify": "https://open.spotify.com/track/5fytDMLCSDAxEyITCy2YZR",
-        "youtube": "https://youtube.com/watch?v=TzX83Xva9zI",
+        "youtube": "https://www.youtube.com/watch?v=mqDHOCR9UdU",
         "deezer": "https://deezer.com/track/51546661"
       },
       "backing_track": {
@@ -20515,6 +21218,140 @@
         "spotify": "https://open.spotify.com/track/4viVbBp6H0iP8VeCp3EQge",
         "youtube": "https://youtube.com/watch?v=DsxY7m6ZlnY",
         "deezer": "https://deezer.com/track/821440502"
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": ""
+      }
+    },
+    "extras": {
+      "extra": ""
+    }
+  },
+  {
+    "id": 1774306946649,
+    "title": "Tudo é Perda",
+    "artist": "Felipe Rodrigues",
+    "author": "Felipe Rodrigues",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "Db",
+    "bpm": 63.0,
+    "time_sig": "4/4",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Tudo é perda se\nnão tenho a Ti\n\nA Tua graça é o\nque me basta\n\nSem Você não sei\npra onde ir\n\nSem Tua presença\nnada importa\n\nDo que adianta\nEu ganhar o mundo inteiro\n\nE a minha alma\nSe perder sem Ti, Senhor\n\nDo que adianta\nEu juntar os meus tesouros\n\nE me esquecer\nDAquele que me amou\n\nSe eu não tenho a Ti\nNão tenho nada\n\nNada eu serei sem\nTi, Senhor\n\nSó Tua Presença é o\nque me basta\n\nEu Te levarei por\nonde eu for\n\nTua presença é o\nque me basta\n\nQuem sou eu sem\nTeu amor, Senhor",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Tudo é perda se\nnão tenho a Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "A Tua graça é o\nque me basta",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Sem Você não sei\npra onde ir",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Sem Tua presença\nnada importa",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Do que adianta\nEu ganhar o mundo inteiro",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "E a minha alma\nSe perder sem Ti, Senhor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Do que adianta\nEu juntar os meus tesouros",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "E me esquecer\nDAquele que me amou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Se eu não tenho a Ti\nNão tenho nada",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Nada eu serei sem\nTi, Senhor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Só Tua Presença é o\nque me basta",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Eu Te levarei por\nonde eu for",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "Tua presença é o\nque me basta",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "Quem sou eu sem\nTeu amor, Senhor",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "https://open.spotify.com/track/46w8kyLAUvD5fUGPLfXXH2",
+        "youtube": "https://www.youtube.com/watch?v=qxzQR5uwWsk",
+        "deezer": "https://deezer.com/track/3252267521"
       },
       "backing_track": {
         "spotify": "",
