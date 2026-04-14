@@ -6389,6 +6389,112 @@
     }
   },
   {
+    "id": 1776167005235,
+    "title": "Ele Vem",
+    "artist": "David Quinlan",
+    "author": "Judson Oliveira",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "",
+    "bpm": 0.0,
+    "time_sig": "",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "O tempo de cantar chegou\nO tempo de dançar chegou\n\nO tempo de cantar chegou\nO tempo de dançar chegou\n\nE Ele vem, e Ele vem\nSaltando pelos montes\n\nE Ele vem, e Ele vem\nSaltando pelos montes\n\nE os Seus cabelos\nE os Seus cabelos\n\nSão brancos como a neve\n\nE nos Seus olhos\nE nos Seus olhos\n\nHá fogo!\n\nIncendeia Senhor a Sua noiva\nIncendeia Senhor a Sua Igreja\n\nIncendeia Senhor a Sua casa\nVem me incendiar",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "O tempo de cantar chegou\nO tempo de dançar chegou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "O tempo de cantar chegou\nO tempo de dançar chegou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "E Ele vem, e Ele vem\nSaltando pelos montes",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "E Ele vem, e Ele vem\nSaltando pelos montes",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "E os Seus cabelos\nE os Seus cabelos",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "São brancos como a neve",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "E nos Seus olhos\nE nos Seus olhos",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Há fogo!",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Incendeia Senhor a Sua noiva\nIncendeia Senhor a Sua Igreja",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Incendeia Senhor a Sua casa\nVem me incendiar",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": ""
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": ""
+      }
+    },
+    "extras": {
+      "extra": ""
+    }
+  },
+  {
     "id": 1762361060368,
     "title": "Ele Vem",
     "artist": "Gabriel Guedes e Gabriela Rocha",
@@ -9627,13 +9733,13 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "O fogo não me queima\nNas águas não vou afundar\n\nPois estás comigo\nNão estou sozinho\n\nEu estou guardado no esconderijo\n\nNão estou sozinho\nTu estás comigo\n\nTemer por quê?\nSe eu estou guardado\n\nPor quem nunca perdeu batalhas\n\nSeu nome é Jeová Jireh\nIrás prover de novo, eu creio em Ti\n\nHaja o que houver, venha o que vier\nIrás prover de novo, eu creio em Ti\n\nEu não vivo do que vejo\nVivo do que creio\n\nIrás prover de novo\nEu creio em Ti\n\nA tempestade e o vento forte\nNão vão roubar a minha fé\n\nEm Ti, meu Deus",
+      "full_text": "O fogo não me queima\nNas águas não\nvou afundar\n\nPois estás comigo\nNão estou sozinho\n\nEu estou guardado\nno esconderijo\n\nNão estou sozinho\nTu estás comigo\n\nTemer por quê?\nSe eu estou guardado\n\nPor quem nunca\nperdeu batalhas\n\nSeu nome é Jeová Jireh\nIrás prover de novo,\neu creio em Ti\n\nHaja o que houver,\nvenha o que vier\n\nIrás prover de novo,\neu creio em Ti\n\nEu não vivo do que vejo\nVivo do que creio\n\nIrás prover de novo\nEu creio em Ti\n\nA tempestade e\no vento forte\n\nNão vão roubar a\nminha fé\n\nEm Ti, meu Deus",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "O fogo não me queima\nNas águas não vou afundar",
+          "text": "O fogo não me queima\nNas águas não\nvou afundar",
           "text_with_comment": null,
           "translations": null
         },
@@ -9647,7 +9753,7 @@
         {
           "number": 3,
           "description": "",
-          "text": "Eu estou guardado no esconderijo",
+          "text": "Eu estou guardado\nno esconderijo",
           "text_with_comment": null,
           "translations": null
         },
@@ -9668,47 +9774,61 @@
         {
           "number": 6,
           "description": "",
-          "text": "Por quem nunca perdeu batalhas",
+          "text": "Por quem nunca\nperdeu batalhas",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Seu nome é Jeová Jireh\nIrás prover de novo, eu creio em Ti",
+          "text": "Seu nome é Jeová Jireh\nIrás prover de novo,\neu creio em Ti",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Haja o que houver, venha o que vier\nIrás prover de novo, eu creio em Ti",
+          "text": "Haja o que houver,\nvenha o que vier",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 9,
           "description": "",
-          "text": "Eu não vivo do que vejo\nVivo do que creio",
+          "text": "Irás prover de novo,\neu creio em Ti",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 10,
           "description": "",
-          "text": "Irás prover de novo\nEu creio em Ti",
+          "text": "Eu não vivo do que vejo\nVivo do que creio",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 11,
           "description": "",
-          "text": "A tempestade e o vento forte\nNão vão roubar a minha fé",
+          "text": "Irás prover de novo\nEu creio em Ti",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 12,
+          "description": "",
+          "text": "A tempestade e\no vento forte",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "Não vão roubar a\nminha fé",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
           "description": "",
           "text": "Em Ti, meu Deus",
           "text_with_comment": null,
@@ -13368,6 +13488,287 @@
         "spotify": "https://open.spotify.com/track/3rd5AusaInQQvLigUH4Y9U",
         "youtube": "https://youtube.com/watch?v=WhVtdWdST44",
         "deezer": "https://deezer.com/track/694749092"
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": ""
+      }
+    },
+    "extras": {
+      "extra": ""
+    }
+  },
+  {
+    "id": 1775076564772,
+    "title": "Nada Além do Sangue / Pra Sempre",
+    "artist": "Theo Rubia",
+    "author": "",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "",
+    "bpm": 0.0,
+    "time_sig": "",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Teu sangue\nLeva-me além,\na todas as alturas\n\nOnde eu ouço a Tua voz\nFala de Tua justiça\n\npela minha vida\nJesus este é o Teu sangue\n\nTua cruz\nMostra Tua graça,\nfala do Amor do Pai\n\nQue prepara para nós\num caminho para Ele\n\nOnde posso me achegar\nSomente pelo sangue\n\nQue nos lava dos pecados\nQue nos traz restauração\n\nNada além do sangue\nNada além do sangue\nde Jesus\n\nQue nos faz brancos\ncomo a neve\n\nAceitos como\namigos de Deus\n\nNada além do sangue\nNada além do sangue\nde Jesus\n\nEu sou livre\nEu sou livre\n\nNada além do sangue\nNada além do sangue\nde Jesus\n\nEu sou livre\nEu sou livre\n\nNada além do sangue\nNada além do sangue\nde Jesus\n\nA terra estremeceu,\no sepulcro se abriu\n\nE nada vencerá\nSeu grande amor\n\nÓ morte, onde estás?\nO rei ressuscitou\nE Ele venceu pra sempre\n\nA terra estremeceu,\no sepulcro se abriu\n\nE nada vencerá\nSeu grande amor\n\nÓ morte, onde estás?\nO rei ressuscitou\nE Ele venceu pra sempre\n\nPra sempre, exaltado é\nPra sempre, adorado é\n\nPra sempre, Ele vive\nRessuscitou, ressuscitou\n\nCantamos aleluia\nCantamos aleluia\nCantamos aleluia\n\nO cordeiro venceu\n\nCantamos aleluia\nCantamos aleluia\nCantamos aleluia\n\nÉs invencível\nInigualável\nHoje e pra sempre reinarás\n\nTeu é o reino\nTua é a glória\nAcima de todo nome está\n\nÉs invencível\nInigualável\nHoje e pra sempre reinarás\n\nTeu é o reino\nTua é a glória\nAcima de todo nome está\n\nPoderoso esse nome é\nPoderoso esse nome é\nO nome de Jesus, meu rei\n\nPoderoso esse nome é\nMaior que tudo Ele é\n\nPoderoso esse nome é\nO nome de Jesus\n\nPoderoso esse nome é\nO nome de Jesus\n\nPoderoso esse nome é\nO nome de Jesus",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Teu sangue\nLeva-me além,\na todas as alturas",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Onde eu ouço a Tua voz\nFala de Tua justiça",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "pela minha vida\nJesus este é o Teu sangue",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Tua cruz\nMostra Tua graça,\nfala do Amor do Pai",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Que prepara para nós\num caminho para Ele",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Onde posso me achegar\nSomente pelo sangue",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Que nos lava dos pecados\nQue nos traz restauração",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Nada além do sangue\nNada além do sangue\nde Jesus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Que nos faz brancos\ncomo a neve",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Aceitos como\namigos de Deus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Nada além do sangue\nNada além do sangue\nde Jesus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Eu sou livre\nEu sou livre",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "Nada além do sangue\nNada além do sangue\nde Jesus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "Eu sou livre\nEu sou livre",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 15,
+          "description": "",
+          "text": "Nada além do sangue\nNada além do sangue\nde Jesus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 16,
+          "description": "",
+          "text": "A terra estremeceu,\no sepulcro se abriu",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 17,
+          "description": "",
+          "text": "E nada vencerá\nSeu grande amor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 18,
+          "description": "",
+          "text": "Ó morte, onde estás?\nO rei ressuscitou\nE Ele venceu pra sempre",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 19,
+          "description": "",
+          "text": "A terra estremeceu,\no sepulcro se abriu",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 20,
+          "description": "",
+          "text": "E nada vencerá\nSeu grande amor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 21,
+          "description": "",
+          "text": "Ó morte, onde estás?\nO rei ressuscitou\nE Ele venceu pra sempre",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 22,
+          "description": "",
+          "text": "Pra sempre, exaltado é\nPra sempre, adorado é",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 23,
+          "description": "",
+          "text": "Pra sempre, Ele vive\nRessuscitou, ressuscitou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 24,
+          "description": "",
+          "text": "Cantamos aleluia\nCantamos aleluia\nCantamos aleluia",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 25,
+          "description": "",
+          "text": "O cordeiro venceu",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 26,
+          "description": "",
+          "text": "Cantamos aleluia\nCantamos aleluia\nCantamos aleluia",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 27,
+          "description": "",
+          "text": "És invencível\nInigualável\nHoje e pra sempre reinarás",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 28,
+          "description": "",
+          "text": "Teu é o reino\nTua é a glória\nAcima de todo nome está",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 29,
+          "description": "",
+          "text": "És invencível\nInigualável\nHoje e pra sempre reinarás",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 30,
+          "description": "",
+          "text": "Teu é o reino\nTua é a glória\nAcima de todo nome está",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 31,
+          "description": "",
+          "text": "Poderoso esse nome é\nPoderoso esse nome é\nO nome de Jesus, meu rei",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 32,
+          "description": "",
+          "text": "Poderoso esse nome é\nMaior que tudo Ele é",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 33,
+          "description": "",
+          "text": "Poderoso esse nome é\nO nome de Jesus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 34,
+          "description": "",
+          "text": "Poderoso esse nome é\nO nome de Jesus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 35,
+          "description": "",
+          "text": "Poderoso esse nome é\nO nome de Jesus",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": ""
       },
       "backing_track": {
         "spotify": "",
@@ -21244,7 +21645,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Tudo é perda se\nnão tenho a Ti\n\nA Tua graça é o\nque me basta\n\nSem Você não sei\npra onde ir\n\nSem Tua presença\nnada importa\n\nDo que adianta\nEu ganhar o mundo inteiro\n\nE a minha alma\nSe perder sem Ti, Senhor\n\nDo que adianta\nEu juntar os meus tesouros\n\nE me esquecer\nDAquele que me amou\n\nSe eu não tenho a Ti\nNão tenho nada\n\nNada eu serei sem\nTi, Senhor\n\nSó Tua Presença é o\nque me basta\n\nEu Te levarei por\nonde eu for\n\nTua presença é o\nque me basta\n\nQuem sou eu sem\nTeu amor, Senhor",
+      "full_text": "Tudo é perda se\nnão tenho a Ti\n\nA Tua graça é o\nque me basta\n\nSem Ti não sei\npra onde ir\n\nSem Tua presença\nnada importa\n\nDo que adianta\nEu ganhar o mundo inteiro\n\nE a minha alma\nSe perder sem Ti, Senhor\n\nDo que adianta\nEu juntar os meus tesouros\n\nE me esquecer\nDaquele que me amou\n\nSe eu não tenho a Ti\nNão tenho nada\n\nNada eu serei sem\nTi, Senhor\n\nSó Tua Presença é o\nque me basta\n\nEu Te levarei por\nonde eu for\n\nTua presença é o\nque me basta\n\nQuem sou eu sem\nTeu amor, Senhor",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -21264,7 +21665,7 @@
         {
           "number": 3,
           "description": "",
-          "text": "Sem Você não sei\npra onde ir",
+          "text": "Sem Ti não sei\npra onde ir",
           "text_with_comment": null,
           "translations": null
         },
@@ -21299,7 +21700,7 @@
         {
           "number": 8,
           "description": "",
-          "text": "E me esquecer\nDAquele que me amou",
+          "text": "E me esquecer\nDaquele que me amou",
           "text_with_comment": null,
           "translations": null
         },
