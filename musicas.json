@@ -21469,6 +21469,105 @@
     }
   },
   {
+    "id": 1776426906735,
+    "title": "Tua Glória",
+    "artist": "Fernanda Brum",
+    "author": "Emerson Pinheiro",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "G",
+    "bpm": 98.0,
+    "time_sig": "4/4",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Eu vejo a glória\nDo Senhor hoje aqui\n\nA Sua mão e o Seu poder\nSobre mim\n\nOs céus abertos hoje\nEu vou contemplar\n\nO amor descer neste lugar\n\nEu quero ver agora\nO Teu poder\n\nA Tua glória\nInundando o meu ser\n\nVou levantar as mãos\nE vou receber\n\nVou louvando o Teu nome\n\nPorque eu sinto\nO Senhor me tocar",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Eu vejo a glória\nDo Senhor hoje aqui",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "A Sua mão e o Seu poder\nSobre mim",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Os céus abertos hoje\nEu vou contemplar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "O amor descer neste lugar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Eu quero ver agora\nO Teu poder",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "A Tua glória\nInundando o meu ser",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Vou levantar as mãos\nE vou receber",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Vou louvando o Teu nome",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Porque eu sinto\nO Senhor me tocar",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "https://open.spotify.com/track/6hpoiNQJcl8rVg3xaxBZzI",
+        "youtube": "https://youtube.com/watch?v=wUZnvOoYJ1k",
+        "deezer": "https://deezer.com/track/93546926"
+      },
+      "backing_track": {
+        "spotify": "https://open.spotify.com/track/3fbFF64JMnPSs4jmyxZsUr",
+        "youtube": "https://youtube.com/watch?v=SJ6wTzIiTO8",
+        "deezer": "https://deezer.com/track/402495622"
+      }
+    },
+    "extras": {
+      "extra": ""
+    }
+  },
+  {
     "id": 1761050954822,
     "title": "Tuas Águas",
     "artist": "Julia Vitória e Gabriela Rocha",
