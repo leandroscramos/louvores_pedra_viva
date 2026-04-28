@@ -848,13 +848,13 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Aleluia, aleluia\nPoderoso é o Senhor, nosso Deus\n\nAleluia\n\nSanto, Santo\nÉ o Senhor Deus, poderoso\n\nDigno de louvor\nDigno de louvor\n\nTu és Santo, Santo\nÉ o Senhor Deus, Poderoso\n\nDigno de louvor\nDigno de louvor\n\nAmém",
+      "full_text": "Aleluia, aleluia\nPoderoso é o Senhor\nnosso Deus\n\nAleluia\n\nSanto, Santo\nÉ o Senhor Deus\nPoderoso\n\nDigno de louvor\nDigno de louvor\n\nTu és Santo, Santo\nÉ o Senhor Deus\nPoderoso\n\nDigno de louvor\nDigno de louvor\n\nAmém",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Aleluia, aleluia\nPoderoso é o Senhor, nosso Deus",
+          "text": "Aleluia, aleluia\nPoderoso é o Senhor\nnosso Deus",
           "text_with_comment": null,
           "translations": {
             "Espanhol": "(Aleluya, aleluya)\n(Reinas tu poderoso Dios)"
@@ -872,7 +872,7 @@
         {
           "number": 3,
           "description": "",
-          "text": "Santo, Santo\nÉ o Senhor Deus, poderoso",
+          "text": "Santo, Santo\nÉ o Senhor Deus\nPoderoso",
           "text_with_comment": null,
           "translations": {
             "Espanhol": "(Santo, Santo)\n(El Señor Dios, poderoso)"
@@ -890,7 +890,7 @@
         {
           "number": 5,
           "description": "",
-          "text": "Tu és Santo, Santo\nÉ o Senhor Deus, Poderoso",
+          "text": "Tu és Santo, Santo\nÉ o Senhor Deus\nPoderoso",
           "text_with_comment": null,
           "translations": {
             "Espanhol": "(Tú eres Santo, Santo)\n(El Señor Dios, poderoso)"
@@ -12441,7 +12441,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Estou subindo\nPra um lugar mais alto\n\nEu já queimei as pontes\nCom o passado\n\nE em meus olhos\nVejo o futuro\n\nTudo novo se fez\nTudo novo se faz\n\nE dessa estrada\nEu não me desvio nunca mais\n\nEstou firme\nEu não me desvio nunca mais\n\nVou avançar, eu vou crescer\nNinguém vai me deter\n\nMeu alvo é Cristo\nMeu alvo é Cristo\n\nEstou subindo\nPra um lugar mais alto\n\nEu já desisti de andar sozinho\nCristo vive em mim\n\nE os meus pés\n\nEstão no caminho\nEstão no caminho\n\nE dessa estrada\nEu não me desvio nunca mais\n\nEstou firme\nEu não me desvio nunca mais",
+      "full_text": "Estou subindo\nPra um lugar mais alto\n\nEu já queimei as pontes\nCom o passado\n\nE em meus olhos\nVejo o futuro\n\nTudo novo se fez\nTudo novo se faz\n\nE dessa estrada\nEu não me desvio\nnunca mais\n\nEstou firme\nEu não me desvio\nnunca mais\n\nVou avançar,\neu vou crescer\nNinguém vai me deter\n\nMeu alvo é Cristo\nMeu alvo é Cristo\n\nVou avançar,\neu vou crescer\nNinguém vai me deter\n\nMeu alvo é Cristo\nMeu alvo é Cristo\n\nEstou subindo\nPra um lugar mais alto\n\nEu já desisti de\nandar sozinho\nCristo vive em mim\n\nE os meus pés\n\nEstão no caminho\nEstão no caminho\n\nE dessa estrada\nEu não me desvio\nnunca mais\n\nEstou firme\nEu não me desvio\nnunca mais\n\nVou avançar,\neu vou crescer\nNinguém vai me deter\n\nMeu alvo é Cristo\nMeu alvo é Cristo\n\nVou avançar,\neu vou crescer\nNinguém vai me deter\n\nMeu alvo é Cristo\nMeu alvo é Cristo",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -12475,21 +12475,21 @@
         {
           "number": 5,
           "description": "",
-          "text": "E dessa estrada\nEu não me desvio nunca mais",
+          "text": "E dessa estrada\nEu não me desvio\nnunca mais",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Estou firme\nEu não me desvio nunca mais",
+          "text": "Estou firme\nEu não me desvio\nnunca mais",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Vou avançar, eu vou crescer\nNinguém vai me deter",
+          "text": "Vou avançar,\neu vou crescer\nNinguém vai me deter",
           "text_with_comment": null,
           "translations": null
         },
@@ -12503,42 +12503,84 @@
         {
           "number": 9,
           "description": "",
-          "text": "Estou subindo\nPra um lugar mais alto",
+          "text": "Vou avançar,\neu vou crescer\nNinguém vai me deter",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 10,
           "description": "",
-          "text": "Eu já desisti de andar sozinho\nCristo vive em mim",
+          "text": "Meu alvo é Cristo\nMeu alvo é Cristo",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 11,
           "description": "",
-          "text": "E os meus pés",
+          "text": "Estou subindo\nPra um lugar mais alto",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 12,
           "description": "",
-          "text": "Estão no caminho\nEstão no caminho",
+          "text": "Eu já desisti de\nandar sozinho\nCristo vive em mim",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 13,
           "description": "",
-          "text": "E dessa estrada\nEu não me desvio nunca mais",
+          "text": "E os meus pés",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 14,
           "description": "",
-          "text": "Estou firme\nEu não me desvio nunca mais",
+          "text": "Estão no caminho\nEstão no caminho",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 15,
+          "description": "",
+          "text": "E dessa estrada\nEu não me desvio\nnunca mais",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 16,
+          "description": "",
+          "text": "Estou firme\nEu não me desvio\nnunca mais",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 17,
+          "description": "",
+          "text": "Vou avançar,\neu vou crescer\nNinguém vai me deter",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 18,
+          "description": "",
+          "text": "Meu alvo é Cristo\nMeu alvo é Cristo",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 19,
+          "description": "",
+          "text": "Vou avançar,\neu vou crescer\nNinguém vai me deter",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 20,
+          "description": "",
+          "text": "Meu alvo é Cristo\nMeu alvo é Cristo",
           "text_with_comment": null,
           "translations": null
         }
@@ -13795,144 +13837,109 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Envolto em Tua presença\nAos Teus pés é onde\neu quero estar\n\nEm meio à Tua santidade\nAqui quero ficar\n\nNão vim atrás de bênçãos\nJesus, não deves\nnada para mim\n\nMais do que Tu podes fazer\nSó quero a Ti\n\nLamento por viver\nindiferente\n\nLamento por não\ncantar de coração\n\nLeva-me ao primeiro amor\nAbro o meu coração pra Ti\n\nLamento por viver só\npra mim mesmo\n\nLamento por não ver\nque És meu sustento\n\nLeva-me ao primeiro amor\nAbro o meu coração a Ti\n\nSó quero a Ti\nNada mais, nada mais\n\nNada além de Ti\nSó quero a Ti\n\nNão vim atrás de bênçãos\nJesus, não deves nada para mim\n\nMais do que Tu podes fazer\nSó quero a Ti\n\nNada mais, nada mais\nNada além de Ti\nSó quero a Ti\n\nNada mais, nada mais\nNada além de Ti\nSó quero a Ti\n\nNada mais, nada mais\nNada além de Ti\nEu só quero a Ti\n\nNada mais, nada mais\nNada além de Ti\nSó quero a Ti\n\nUma vez que eu coloquei\nOs meus olhos em Ti\nNada mais me satisfaz\n\nUma vez que eu coloquei\nOs meus olhos em Ti\nNada mais me satisfaz",
+      "full_text": "Envolto em\nTua presença\n\nAos Teus pés é onde\neu quero estar\n\nEm meio à\nTua santidade\nAqui quero ficar\n\nNão vim atrás\nde bênçãos\n\nJesus, não deves\nnada para mim\n\nMais do que Tu\npodes fazer\nSó quero a Ti\n\nLamento por viver\nindiferente\n\nLamento por não\ncantar de coração\n\nLeva-me ao primeiro amor\nAbro o meu coração a Ti\n\nLamento por viver só\npra mim mesmo\n\nLamento por não ver\nque És meu sustento\n\nLeva-me ao primeiro amor\nAbro o meu coração a Ti\n\nSó quero a Ti\nNada mais, nada mais\nNada além de Ti\n\nUma vez que eu coloquei\nOs meus olhos em Ti\nNada mais me satisfaz\n\nUma vez que eu coloquei\nOs meus olhos em Ti\nNada mais me satisfaz",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Envolto em Tua presença\nAos Teus pés é onde\neu quero estar",
+          "text": "Envolto em\nTua presença",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "Em meio à Tua santidade\nAqui quero ficar",
+          "text": "Aos Teus pés é onde\neu quero estar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "Não vim atrás de bênçãos\nJesus, não deves\nnada para mim",
+          "text": "Em meio à\nTua santidade\nAqui quero ficar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Mais do que Tu podes fazer\nSó quero a Ti",
+          "text": "Não vim atrás\nde bênçãos",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Lamento por viver\nindiferente",
+          "text": "Jesus, não deves\nnada para mim",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Lamento por não\ncantar de coração",
+          "text": "Mais do que Tu\npodes fazer\nSó quero a Ti",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Leva-me ao primeiro amor\nAbro o meu coração pra Ti",
+          "text": "Lamento por viver\nindiferente",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Lamento por viver só\npra mim mesmo",
+          "text": "Lamento por não\ncantar de coração",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 9,
           "description": "",
-          "text": "Lamento por não ver\nque És meu sustento",
+          "text": "Leva-me ao primeiro amor\nAbro o meu coração a Ti",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 10,
           "description": "",
-          "text": "Leva-me ao primeiro amor\nAbro o meu coração a Ti",
+          "text": "Lamento por viver só\npra mim mesmo",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 11,
           "description": "",
-          "text": "Só quero a Ti\nNada mais, nada mais",
+          "text": "Lamento por não ver\nque És meu sustento",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 12,
           "description": "",
-          "text": "Nada além de Ti\nSó quero a Ti",
+          "text": "Leva-me ao primeiro amor\nAbro o meu coração a Ti",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 13,
           "description": "",
-          "text": "Não vim atrás de bênçãos\nJesus, não deves nada para mim",
+          "text": "Só quero a Ti\nNada mais, nada mais\nNada além de Ti",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 14,
           "description": "",
-          "text": "Mais do que Tu podes fazer\nSó quero a Ti",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 15,
-          "description": "",
-          "text": "Nada mais, nada mais\nNada além de Ti\nSó quero a Ti",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 16,
-          "description": "",
-          "text": "Nada mais, nada mais\nNada além de Ti\nSó quero a Ti",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 17,
-          "description": "",
-          "text": "Nada mais, nada mais\nNada além de Ti\nEu só quero a Ti",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 18,
-          "description": "",
-          "text": "Nada mais, nada mais\nNada além de Ti\nSó quero a Ti",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 19,
-          "description": "",
           "text": "Uma vez que eu coloquei\nOs meus olhos em Ti\nNada mais me satisfaz",
           "text_with_comment": null,
           "translations": null
         },
         {
-          "number": 20,
+          "number": 15,
           "description": "",
           "text": "Uma vez que eu coloquei\nOs meus olhos em Ti\nNada mais me satisfaz",
           "text_with_comment": null,
@@ -14918,6 +14925,189 @@
         "spotify": "https://open.spotify.com/track/7r8eUoC7iw1GO9WfFYddKR",
         "youtube": "https://youtube.com/watch?v=VqF17oo2q0A",
         "deezer": "https://deezer.com/track/1874656607"
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": ""
+      }
+    },
+    "extras": {
+      "extra": ""
+    }
+  },
+  {
+    "id": 1777404006107,
+    "title": "O Espírito de Deus Está Aqui",
+    "artist": "Luciana Debortoli",
+    "author": "",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "G",
+    "bpm": 68.0,
+    "time_sig": "4/4",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "O Espírito de Deus\nEstá aqui\n\nOperando\nEm nossos corações\n\nTrazendo\nSua vida e poder\n\nMinistrando\nSua graça e amor\n\nOs feridos de alma\nSão curados\n\nOs cativos e oprimidos\nLivres são\n\nOs enfermos e doentes\nSão sarados\n\nPois o Espírito de Deus\nEstá aqui\n\nPai, eu quero contemplar\nTua glória e majestade\n\nPai, eu quero Te adorar\nEm Espírito e em verdade\n\nNão apenas no átrio\nOu no santo lugar\n\nEu quero Te entronizar\nEntre os querubins\n\nOh! Leva-me à sala do trono\nPelo novo e vivo caminho\n\nPelo sangue de Jesus\nEterno sumo sacerdote\n\nOh! Leva-me à sala do trono\nPra Te adorar, Senhor\n\nOh! Leva-me à sala do trono\nPra Te adorar, Senhor\n\nPra Te adorar, Senhor\nPra Te adorar, Senhor\n\nAleluia, Aleluia, Aleluia\nLouvemos ao Senhor!\n\nAleluia, Aleluia, Aleluia\nLouvemos ao Senhor!\n\nAleluia, Te louvo\n\nPois sei que sobre todos\nÉs Senhor",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "O Espírito de Deus\nEstá aqui",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Operando\nEm nossos corações",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Trazendo\nSua vida e poder",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Ministrando\nSua graça e amor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Os feridos de alma\nSão curados",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Os cativos e oprimidos\nLivres são",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Os enfermos e doentes\nSão sarados",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Pois o Espírito de Deus\nEstá aqui",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Pai, eu quero contemplar\nTua glória e majestade",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Pai, eu quero Te adorar\nEm Espírito e em verdade",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Não apenas no átrio\nOu no santo lugar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Eu quero Te entronizar\nEntre os querubins",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "Oh! Leva-me à sala do trono\nPelo novo e vivo caminho",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "Pelo sangue de Jesus\nEterno sumo sacerdote",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 15,
+          "description": "",
+          "text": "Oh! Leva-me à sala do trono\nPra Te adorar, Senhor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 16,
+          "description": "",
+          "text": "Oh! Leva-me à sala do trono\nPra Te adorar, Senhor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 17,
+          "description": "",
+          "text": "Pra Te adorar, Senhor\nPra Te adorar, Senhor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 18,
+          "description": "",
+          "text": "Aleluia, Aleluia, Aleluia\nLouvemos ao Senhor!",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 19,
+          "description": "",
+          "text": "Aleluia, Aleluia, Aleluia\nLouvemos ao Senhor!",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 20,
+          "description": "",
+          "text": "Aleluia, Te louvo",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 21,
+          "description": "",
+          "text": "Pois sei que sobre todos\nÉs Senhor",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "",
+        "youtube": "https://www.youtube.com/watch?v=g6IK5KxYZVo",
+        "deezer": ""
       },
       "backing_track": {
         "spotify": "",
@@ -17764,7 +17954,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Tu és bem-vindo aqui\n\nE em nosso coração\nToma a direção\n\nDeus, fogo consumidor\n\nSem impedimentos vem\nFace a face, Senhor\n\nSopra em nós, Espírito\nTe queremos, Deus\n\nEstou de pé\nNa presença do Rei\n\nTua glória está aqui\nTeu amor liberta-me\n\nEstás aqui\nNo trono de louvor\n\nTua presença me curou\nFascinado estou\n\nSopra em nós, Espírito\nTe queremos, Deus\n\nQue se abram os céus\nO Teu reino vem\n\nNossa fé está no nosso Deus\n\nQue os céus fechados se abram\nTeu reino venha mover\n\nA nossa fé e esperança\nEstão em Deus, grande Deus",
+      "full_text": "Tu és bem-vindo aqui\n\nE em nosso coração\nToma a direção\n\nDeus, fogo consumidor\n\nSem impedimentos vem\nFace a face, Senhor\n\nSopra em nós, Espírito\nTe queremos, Deus\n\nEstou de pé\nNa presença do Rei\n\nTua glória está aqui\nTeu amor liberta-me\n\nEstás aqui\nNo trono de louvor\n\nTua presença me curou\nFascinado estou\n\nSopra em nós, Espírito\nTe queremos, Deus\n\nQue se abram os céus\nO Teu reino vem\n\nNossa fé está no\nnosso Deus\n\nQue os céus fechados\nse abram\nTeu reino venha mover\n\nA nossa fé e esperança\nEstão em Deus,\ngrande Deus",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -17847,21 +18037,21 @@
         {
           "number": 12,
           "description": "",
-          "text": "Nossa fé está no nosso Deus",
+          "text": "Nossa fé está no\nnosso Deus",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 13,
           "description": "",
-          "text": "Que os céus fechados se abram\nTeu reino venha mover",
+          "text": "Que os céus fechados\nse abram\nTeu reino venha mover",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 14,
           "description": "",
-          "text": "A nossa fé e esperança\nEstão em Deus, grande Deus",
+          "text": "A nossa fé e esperança\nEstão em Deus,\ngrande Deus",
           "text_with_comment": null,
           "translations": null
         }
@@ -23205,7 +23395,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Yahweh, Rafa\nElohim, Shaddai\n\nJireh, Adonai\nSe manifestará\n\nSentimos Sua glória\nNeste lugar\n\nAlgo grande acontecerá\nSe ativa o sobrenatural\n\nSe adorarmos\nDeus se manifestará\n\nSe clamarmos\nDeus se manifestará\n\nSe buscarmos\nDeus se manifestará\n\nYahweh se manifestará\nJireh se manifestará\n\nRafa se manifestará\nSe manifestará",
+      "full_text": "Yahweh, Rafa\nElohim, Shaddai\n\nJireh, Adonai\nSe manifestará\n\nSentimos Sua glória\nNeste lugar\n\nAlgo grande acontecerá\nSe ativa o sobrenatural\n\nSentimos Sua glória\nNeste lugar\n\nAlgo grande acontecerá\nSe ativa o sobrenatural\n\nYahweh, Rafa\nElohim, Shaddai\n\nJireh, Adonai\nSe manifestará\n\nYahweh, Rafa\nElohim, Shaddai\n\nJireh, Adonai\nSe manifestará\n\nSentimos Sua glória\nNeste lugar\n\nAlgo grande acontecerá\nSe ativa o sobrenatural\n\nYahweh, Rafa\nElohim, Shaddai\n\nJireh, Adonai\nSe manifestará\n\nYahweh, Rafa\nElohim, Shaddai\n\nJireh, Adonai\nSe manifestará\n\nSe adorarmos\nDeus se manifestará\n\nSe clamarmos\nDeus se manifestará\n\nSe buscarmos\nDeus se manifestará\n\nSe adorarmos\nDeus se manifestará\n\nSe clamarmos\nDeus se manifestará\n\nSe buscarmos\nDeus se manifestará\n\nSe adorarmos\nDeus se manifestará\n\nSe clamarmos\nDeus se manifestará\n\nSe buscarmos\nDeus se manifestará\n\nSe adorarmos\nDeus se manifestará\n\nSe clamarmos\nDeus se manifestará\n\nSe buscarmos\nDeus se manifestará\n\nYahweh se manifestará\nJireh se manifestará\n\nRafa se manifestará\nSe manifestará\n\nYahweh se manifestará\nJireh se manifestará\n\nRafa se manifestará\nSe manifestará\n\nYahweh se manifestará\nJireh se manifestará\n\nRafa se manifestará\nSe manifestará\n\nYahweh se manifestará\nJireh se manifestará\n\nRafa se manifestará\nSe manifestará\n\nYahweh, Rafa\nElohim, Shaddai\n\nJireh, Adonai\nSe manifestará\n\nYahweh, Rafa\nElohim, Shaddai\n\nJireh, Adonai\nSe manifestará",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -23239,35 +23429,252 @@
         {
           "number": 5,
           "description": "",
-          "text": "Se adorarmos\nDeus se manifestará",
+          "text": "Sentimos Sua glória\nNeste lugar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Se clamarmos\nDeus se manifestará",
+          "text": "Algo grande acontecerá\nSe ativa o sobrenatural",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Se buscarmos\nDeus se manifestará",
+          "text": "Yahweh, Rafa\nElohim, Shaddai",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Yahweh se manifestará\nJireh se manifestará",
+          "text": "Jireh, Adonai\nSe manifestará",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 9,
           "description": "",
+          "text": "Yahweh, Rafa\nElohim, Shaddai",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Jireh, Adonai\nSe manifestará",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Sentimos Sua glória\nNeste lugar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Algo grande acontecerá\nSe ativa o sobrenatural",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "Yahweh, Rafa\nElohim, Shaddai",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "Jireh, Adonai\nSe manifestará",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 15,
+          "description": "",
+          "text": "Yahweh, Rafa\nElohim, Shaddai",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 16,
+          "description": "",
+          "text": "Jireh, Adonai\nSe manifestará",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 17,
+          "description": "",
+          "text": "Se adorarmos\nDeus se manifestará",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 18,
+          "description": "",
+          "text": "Se clamarmos\nDeus se manifestará",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 19,
+          "description": "",
+          "text": "Se buscarmos\nDeus se manifestará",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 20,
+          "description": "",
+          "text": "Se adorarmos\nDeus se manifestará",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 21,
+          "description": "",
+          "text": "Se clamarmos\nDeus se manifestará",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 22,
+          "description": "",
+          "text": "Se buscarmos\nDeus se manifestará",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 23,
+          "description": "",
+          "text": "Se adorarmos\nDeus se manifestará",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 24,
+          "description": "",
+          "text": "Se clamarmos\nDeus se manifestará",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 25,
+          "description": "",
+          "text": "Se buscarmos\nDeus se manifestará",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 26,
+          "description": "",
+          "text": "Se adorarmos\nDeus se manifestará",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 27,
+          "description": "",
+          "text": "Se clamarmos\nDeus se manifestará",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 28,
+          "description": "",
+          "text": "Se buscarmos\nDeus se manifestará",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 29,
+          "description": "",
+          "text": "Yahweh se manifestará\nJireh se manifestará",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 30,
+          "description": "",
           "text": "Rafa se manifestará\nSe manifestará",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 31,
+          "description": "",
+          "text": "Yahweh se manifestará\nJireh se manifestará",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 32,
+          "description": "",
+          "text": "Rafa se manifestará\nSe manifestará",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 33,
+          "description": "",
+          "text": "Yahweh se manifestará\nJireh se manifestará",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 34,
+          "description": "",
+          "text": "Rafa se manifestará\nSe manifestará",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 35,
+          "description": "",
+          "text": "Yahweh se manifestará\nJireh se manifestará",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 36,
+          "description": "",
+          "text": "Rafa se manifestará\nSe manifestará",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 37,
+          "description": "",
+          "text": "Yahweh, Rafa\nElohim, Shaddai",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 38,
+          "description": "",
+          "text": "Jireh, Adonai\nSe manifestará",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 39,
+          "description": "",
+          "text": "Yahweh, Rafa\nElohim, Shaddai",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 40,
+          "description": "",
+          "text": "Jireh, Adonai\nSe manifestará",
           "text_with_comment": null,
           "translations": null
         }
