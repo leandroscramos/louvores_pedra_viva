@@ -233,48 +233,90 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Porque Dele e por Ele\nPara Ele são todas as coisas\n\nPorque Dele e por Ele\nPara Ele são todas as coisas\n\nA Ele a glória\nA Ele a glória\n\nA Ele a glória\nPra sempre, amém\n\nQuão profundas riquezas\nO saber e o conhecer de Deus\n\nQuão insondáveis\nSeus juízos e os Seus caminhos",
+      "full_text": "Porque Dele\ne por Ele\n\nPara Ele são\ntodas as coisas\n\nPorque Dele\ne por Ele\n\nPara Ele são\ntodas as coisas\n\nA Ele a glória\nA Ele a glória\n\nA Ele a glória\nPra sempre, amém\n\nQuão profundas\nriquezas\n\nO saber e o\nconhecer de Deus\n\nQuão insondáveis\n\nSeus juízos e os\nSeus caminhos\n\nA Ele a glória\nA Ele a glória\n\nA Ele a glória\nPra sempre, amém",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Porque Dele e por Ele\nPara Ele são todas as coisas",
+          "text": "Porque Dele\ne por Ele",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "Porque Dele e por Ele\nPara Ele são todas as coisas",
+          "text": "Para Ele são\ntodas as coisas",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "A Ele a glória\nA Ele a glória",
+          "text": "Porque Dele\ne por Ele",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "A Ele a glória\nPra sempre, amém",
+          "text": "Para Ele são\ntodas as coisas",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Quão profundas riquezas\nO saber e o conhecer de Deus",
+          "text": "A Ele a glória\nA Ele a glória",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Quão insondáveis\nSeus juízos e os Seus caminhos",
+          "text": "A Ele a glória\nPra sempre, amém",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Quão profundas\nriquezas",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "O saber e o\nconhecer de Deus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Quão insondáveis",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Seus juízos e os\nSeus caminhos",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "A Ele a glória\nA Ele a glória",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "A Ele a glória\nPra sempre, amém",
           "text_with_comment": null,
           "translations": null
         }
@@ -2655,7 +2697,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Digno é o Cordeiro\nQue foi morto\n\nSanto, Santo Ele é\n\nUm novo cântico\n\nAo que se assenta\nSobre o trono do céu\n\nSanto, Santo, Santo\nDeus Todo-Poderoso\n\nQue era, e é, e há de vir\n\nCom a criação eu canto\nLouvores ao Rei dos reis\n\nÉs tudo para mim\nE eu Te adorarei\n\nEstá vestido do arco-íris\n\nSons de trovão\nLuzes, relâmpagos\n\nLouvores, honra e glória\nForça e poder pra sempre\n\nAo único Rei, eternamente\n\nMaravilhado, extasiado\nEu fico ao ouvir Teu nome\n\nJesus, Teu nome é força\nÉ fôlego de vida\n\nMisteriosa Água Viva",
+      "full_text": "Digno é o Cordeiro\nQue foi morto\n\nSanto, Santo Ele é\n\nUm novo cântico\n\nAo que se assenta\nSobre o trono do céu\n\nSanto, Santo, Santo\nDeus Todo-Poderoso\n\nQue era, e é,\ne há de vir\n\nCom a criação eu canto\nLouvores ao Rei dos reis\n\nÉs tudo para mim\nE eu Te adorarei\n\nEstá vestido do arco-íris\n\nSons de trovão\nLuzes, relâmpagos\n\nLouvores, honra e glória\nForça e poder pra sempre\n\nAo único Rei,\neternamente\n\nMaravilhado, extasiado\nEu fico ao ouvir Teu nome\n\nJesus, Teu nome é força\nÉ fôlego de vida\n\nMisteriosa Água Viva",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -2696,7 +2738,7 @@
         {
           "number": 6,
           "description": "",
-          "text": "Que era, e é, e há de vir",
+          "text": "Que era, e é,\ne há de vir",
           "text_with_comment": null,
           "translations": null
         },
@@ -2738,7 +2780,7 @@
         {
           "number": 12,
           "description": "",
-          "text": "Ao único Rei, eternamente",
+          "text": "Ao único Rei,\neternamente",
           "text_with_comment": null,
           "translations": null
         },
@@ -2944,20 +2986,20 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Jesus\nQuero declarar Teu nome\n\nSobre toda mente e coração\n\nPois sei que existe paz\nEm Tua presença\n\nClamo Jesus\n\nJesus\nQuero declarar Teu nome\n\nQuebrando os vícios\nDesta geração\n\nDeclaro que há\nEsperança e liberdade\n\nClamo Jesus\n\nTeu nome é cura\nÉ poderoso\nTeu nome é vida\n\nDestrói cadeias\nDissipa as trevas\nVem incendiar\n\nJesus\nQuero declarar Teu nome\n\nSobre toda alma\nEm depressão\n\nAnsiedade e medo\nSaiam agora\n\nClamo Jesus\n\nDeclare pelas ruas\nO nome de Jesus\n\nSobre a escuridão\nEle vai trazer Sua luz\n\nSobre a sua família\nClame o santo nome, Jesus",
+      "full_text": "Jesus\nQuero declarar\nTeu nome\n\nSobre toda mente\ne coração\n\nPois sei que existe paz\nEm Tua presença\n\nClamo Jesus\n\nJesus\nQuero declarar\nTeu nome\n\nQuebrando os vícios\nDesta geração\n\nDeclaro que há\nEsperança e liberdade\n\nClamo Jesus\n\nTeu nome é cura\nÉ poderoso\nTeu nome é vida\n\nDestrói cadeias\nDissipa as trevas\nVem incendiar\n\nJesus\nQuero declarar\nTeu nome\n\nSobre toda alma\nEm depressão\n\nAnsiedade e medo\nSaiam agora\n\nClamo Jesus\n\nTeu nome é cura\nÉ poderoso\nTeu nome é vida\n\nDestrói cadeias\nDissipa as trevas\nVem incendiar\n\nTeu nome é cura\nÉ poderoso\nTeu nome é vida\n\nDestrói cadeias\nDissipa as trevas\nVem incendiar\n\nDeclare pelas ruas\nO nome de Jesus\n\nSobre a escuridão\nEle vai trazer Sua luz\n\nSobre a sua família\nClame o santo nome, Jesus",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Jesus\nQuero declarar Teu nome",
+          "text": "Jesus\nQuero declarar\nTeu nome",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "Sobre toda mente e coração",
+          "text": "Sobre toda mente\ne coração",
           "text_with_comment": null,
           "translations": null
         },
@@ -2978,7 +3020,7 @@
         {
           "number": 5,
           "description": "",
-          "text": "Jesus\nQuero declarar Teu nome",
+          "text": "Jesus\nQuero declarar\nTeu nome",
           "text_with_comment": null,
           "translations": null
         },
@@ -3020,7 +3062,7 @@
         {
           "number": 11,
           "description": "",
-          "text": "Jesus\nQuero declarar Teu nome",
+          "text": "Jesus\nQuero declarar\nTeu nome",
           "text_with_comment": null,
           "translations": null
         },
@@ -3048,19 +3090,47 @@
         {
           "number": 15,
           "description": "",
-          "text": "Declare pelas ruas\nO nome de Jesus",
+          "text": "Teu nome é cura\nÉ poderoso\nTeu nome é vida",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 16,
           "description": "",
-          "text": "Sobre a escuridão\nEle vai trazer Sua luz",
+          "text": "Destrói cadeias\nDissipa as trevas\nVem incendiar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 17,
+          "description": "",
+          "text": "Teu nome é cura\nÉ poderoso\nTeu nome é vida",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 18,
+          "description": "",
+          "text": "Destrói cadeias\nDissipa as trevas\nVem incendiar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 19,
+          "description": "",
+          "text": "Declare pelas ruas\nO nome de Jesus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 20,
+          "description": "",
+          "text": "Sobre a escuridão\nEle vai trazer Sua luz",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 21,
           "description": "",
           "text": "Sobre a sua família\nClame o santo nome, Jesus",
           "text_with_comment": null,
@@ -3289,7 +3359,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Como Tu és\nOh! Deus\n\nTu nos criaste\nSemelhante a Ti\n\nComo Tu és\nOh! Deus\n\nÉ uma honra para nós Te adorar\n\nLevante as mãos\nPara O grande Eu Sou\n\nQue era e que é\nE que há de vir\n\nLevante as mãos\nPara O grande Eu Sou\n\nOutro igual não há",
+      "full_text": "Como Tu és\nOh! Deus\n\nTu nos criaste\nSemelhante a Ti\n\nComo Tu és\nOh! Deus\n\nÉ uma honra para nós\nTe adorar\n\nLevante as mãos\nPara O grande Eu Sou\n\nQue era e que é\nE que há de vir\n\nLevante as mãos\nPara O grande Eu Sou\n\nOutro igual não há",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -3316,7 +3386,7 @@
         {
           "number": 4,
           "description": "",
-          "text": "É uma honra para nós Te adorar",
+          "text": "É uma honra para nós\nTe adorar",
           "text_with_comment": null,
           "translations": null
         },
@@ -3749,7 +3819,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Quem é esse povo?\nQue povo é esse?\n\nEsse é o povo\nQue vai morar no céu\n\nQuem é esse povo?\nQue povo é esse?\n\nEsse é o povo\nQue vai morar no céu\n\nVai morar, vai morar\nVai morar, vai morar\n\nVai morar\nCom Jesus lá no céu\n\nVai morar, vai morar\nVai morar, vai morar\n\nVai morar\nCom Jesus lá no céu\n\nA alegria está no coração\nDe quem já conhece a Jesus\n\nA verdadeira paz só tem aquele\nQue já conhece a Jesus\n\nO sentimento mais precioso\nQue vem do nosso Senhor\n\nÉ o amor que só tem\nQuem já conhece a Jesus\n\nA alegria está no coração\nDe quem já conhece a Jesus\n\nA verdadeira paz só tem aquele\nQue já conhece a Jesus\n\nO sentimento mais precioso\nQue vem do nosso Senhor\n\nÉ o amor que só tem\nQuem já conhece a Jesus\n\nPosso pisar numa tropa e saltar as muralhas\nAleluia, aleluia!\n\nPosso pisar numa tropa e saltar as muralhas\nAleluia, aleluia, aleluia, aleluia!\n\nEle é a rocha da minha salvação\nCom Ele, não há mais condenação\n\nPosso pisar numa tropa\ne saltar as muralhas, Aleluia!\n\nAleluia, aleluia, aleluia, aleluia\nAleluia, aleluia, aleluia, aleluia\n\nO sentimento mais precioso\nQue vem do nosso Senhor\n\nÉ o amor que só tem\nQuem já conhece a Jesus\n\nÉ o amor que só tem\nQuem já conhece a Jesus\n\nÉ o amor que só tem\nQuem já conhece a Jesus\n\nPelo Senhor, marchamos sim\nO Seu exército, poderoso é\nE Sua glória será vista em toda terra\n\nVamos cantar o canto da vitória\nGlória Deus, vencemos a batalha\nToda arma contra nós perecerá\n\nO nosso general é Cristo\nSeguimos os Seus passos\nNenhum inimigo nos resistirá\n\nO nosso general é Cristo\nSeguimos os Seus passos\nNenhum inimigo nos resistirá\n\nPelo Messias, marchamos sim\nEm suas mãos, a chave da vitória\nQue nos leva a possuir a Terra Prometida\n\nVamos cantar o canto da vitória\nGlória Deus, vencemos a batalha\nToda arma contra nós perecerá\n\nO nosso general é Cristo\nSeguimos os seus passos\nNenhum inimigo nos resistirá\n\nO nosso general é Cristo\nSeguimos os seus passos\nNenhum inimigo nos resistirá",
+      "full_text": "Quem é esse povo?\nQue povo é esse?\n\nEsse é o povo\nQue vai morar no céu\n\nQuem é esse povo?\nQue povo é esse?\n\nEsse é o povo\nQue vai morar no céu\n\nVai morar, vai morar\nVai morar, vai morar\n\nVai morar\nCom Jesus lá no céu\n\nVai morar, vai morar\nVai morar, vai morar\n\nVai morar\nCom Jesus lá no céu\n\nQuem é esse povo?\nQue povo é esse?\n\nEsse é o povo\nQue vai morar no céu\n\nQuem é esse povo?\nQue povo é esse?\n\nEsse é o povo\nQue vai morar no céu\n\nVai morar, vai morar\nVai morar, vai morar\n\nVai morar\nCom Jesus lá no céu\n\nVai morar, vai morar\nVai morar, vai morar\n\nVai morar\nCom Jesus lá no céu\n\nA alegria está no coração\nDe quem já conhece a Jesus\n\nA verdadeira paz só tem aquele\nQue já conhece a Jesus\n\nO sentimento mais precioso\nQue vem do nosso Senhor\n\nÉ o amor que só tem\nQuem já conhece a Jesus\n\nAleluia, aleluia,\naleluia, aleluia\n\nO sentimento mais precioso\nQue vem do nosso Senhor\n\nÉ o amor que só tem\nQuem já conhece a Jesus\n\nPosso pisar numa tropa\ne saltar as muralhas\nAleluia, aleluia!\n\nPosso pisar numa tropa\ne saltar as muralhas\nAleluia, aleluia!\n\nCristo é a rocha da\nminha salvação\n\nCom Ele, não há\nmais condenação\n\nPosso pisar numa tropa\ne saltar as muralhas, Aleluia!\n\nAleluia, aleluia\naleluia, aleluia\n\nO sentimento mais precioso\nQue vem do nosso Senhor\n\nÉ o amor que só tem\nQuem já conhece a Jesus\n\nPelo Senhor,\nmarchamos sim\n\nO Seu exército,\npoderoso é\n\nE Sua glória será\nvista em toda terra\n\nVamos cantar \no canto da vitória\n\nGlória Deus,\nvencemos a batalha\n\nToda arma contra\nnós perecerá\n\nO nosso general é Cristo\nSeguimos os Seus passos\n\nNenhum inimigo\nnos resistirá\n\nO nosso general é Cristo\nSeguimos os Seus passos\n\nNenhum inimigo\nnos resistirá\n\nPelo Messias,\nmarchamos sim\n\nEm suas mãos,\na chave da vitória\n\nQue nos leva a possuir\na Terra Prometida\n\nVamos cantar o\ncanto da vitória\n\nGlória Deus,\nvencemos a batalha\n\nToda arma contra\nnós perecerá\n\nO nosso general é Cristo\nSeguimos os Seus passos\n\nNenhum inimigo\nnos resistirá\n\nO nosso general é Cristo\nSeguimos os Seus passos\n\nNenhum inimigo\nnos resistirá\n\nNenhum inimigo\nnos resistirá\n\nNenhum inimigo\nnos resistirá",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -3811,91 +3881,91 @@
         {
           "number": 9,
           "description": "",
-          "text": "A alegria está no coração\nDe quem já conhece a Jesus",
+          "text": "Quem é esse povo?\nQue povo é esse?",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 10,
           "description": "",
-          "text": "A verdadeira paz só tem aquele\nQue já conhece a Jesus",
+          "text": "Esse é o povo\nQue vai morar no céu",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 11,
           "description": "",
-          "text": "O sentimento mais precioso\nQue vem do nosso Senhor",
+          "text": "Quem é esse povo?\nQue povo é esse?",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 12,
           "description": "",
-          "text": "É o amor que só tem\nQuem já conhece a Jesus",
+          "text": "Esse é o povo\nQue vai morar no céu",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 13,
           "description": "",
-          "text": "A alegria está no coração\nDe quem já conhece a Jesus",
+          "text": "Vai morar, vai morar\nVai morar, vai morar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 14,
           "description": "",
-          "text": "A verdadeira paz só tem aquele\nQue já conhece a Jesus",
+          "text": "Vai morar\nCom Jesus lá no céu",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 15,
           "description": "",
-          "text": "O sentimento mais precioso\nQue vem do nosso Senhor",
+          "text": "Vai morar, vai morar\nVai morar, vai morar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 16,
           "description": "",
-          "text": "É o amor que só tem\nQuem já conhece a Jesus",
+          "text": "Vai morar\nCom Jesus lá no céu",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 17,
           "description": "",
-          "text": "Posso pisar numa tropa e saltar as muralhas\nAleluia, aleluia!",
+          "text": "A alegria está no coração\nDe quem já conhece a Jesus",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 18,
           "description": "",
-          "text": "Posso pisar numa tropa e saltar as muralhas\nAleluia, aleluia, aleluia, aleluia!",
+          "text": "A verdadeira paz só tem aquele\nQue já conhece a Jesus",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 19,
           "description": "",
-          "text": "Ele é a rocha da minha salvação\nCom Ele, não há mais condenação",
+          "text": "O sentimento mais precioso\nQue vem do nosso Senhor",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 20,
           "description": "",
-          "text": "Posso pisar numa tropa\ne saltar as muralhas, Aleluia!",
+          "text": "É o amor que só tem\nQuem já conhece a Jesus",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 21,
           "description": "",
-          "text": "Aleluia, aleluia, aleluia, aleluia\nAleluia, aleluia, aleluia, aleluia",
+          "text": "Aleluia, aleluia,\naleluia, aleluia",
           "text_with_comment": null,
           "translations": null
         },
@@ -3916,70 +3986,210 @@
         {
           "number": 24,
           "description": "",
-          "text": "É o amor que só tem\nQuem já conhece a Jesus",
+          "text": "Posso pisar numa tropa\ne saltar as muralhas\nAleluia, aleluia!",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 25,
           "description": "",
-          "text": "É o amor que só tem\nQuem já conhece a Jesus",
+          "text": "Posso pisar numa tropa\ne saltar as muralhas\nAleluia, aleluia!",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 26,
           "description": "",
-          "text": "Pelo Senhor, marchamos sim\nO Seu exército, poderoso é\nE Sua glória será vista em toda terra",
+          "text": "Cristo é a rocha da\nminha salvação",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 27,
           "description": "",
-          "text": "Vamos cantar o canto da vitória\nGlória Deus, vencemos a batalha\nToda arma contra nós perecerá",
+          "text": "Com Ele, não há\nmais condenação",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 28,
           "description": "",
-          "text": "O nosso general é Cristo\nSeguimos os Seus passos\nNenhum inimigo nos resistirá",
+          "text": "Posso pisar numa tropa\ne saltar as muralhas, Aleluia!",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 29,
           "description": "",
-          "text": "O nosso general é Cristo\nSeguimos os Seus passos\nNenhum inimigo nos resistirá",
+          "text": "Aleluia, aleluia\naleluia, aleluia",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 30,
           "description": "",
-          "text": "Pelo Messias, marchamos sim\nEm suas mãos, a chave da vitória\nQue nos leva a possuir a Terra Prometida",
+          "text": "O sentimento mais precioso\nQue vem do nosso Senhor",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 31,
           "description": "",
-          "text": "Vamos cantar o canto da vitória\nGlória Deus, vencemos a batalha\nToda arma contra nós perecerá",
+          "text": "É o amor que só tem\nQuem já conhece a Jesus",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 32,
           "description": "",
-          "text": "O nosso general é Cristo\nSeguimos os seus passos\nNenhum inimigo nos resistirá",
+          "text": "Pelo Senhor,\nmarchamos sim",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 33,
           "description": "",
-          "text": "O nosso general é Cristo\nSeguimos os seus passos\nNenhum inimigo nos resistirá",
+          "text": "O Seu exército,\npoderoso é",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 34,
+          "description": "",
+          "text": "E Sua glória será\nvista em toda terra",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 35,
+          "description": "",
+          "text": "Vamos cantar \no canto da vitória",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 36,
+          "description": "",
+          "text": "Glória Deus,\nvencemos a batalha",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 37,
+          "description": "",
+          "text": "Toda arma contra\nnós perecerá",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 38,
+          "description": "",
+          "text": "O nosso general é Cristo\nSeguimos os Seus passos",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 39,
+          "description": "",
+          "text": "Nenhum inimigo\nnos resistirá",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 40,
+          "description": "",
+          "text": "O nosso general é Cristo\nSeguimos os Seus passos",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 41,
+          "description": "",
+          "text": "Nenhum inimigo\nnos resistirá",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 42,
+          "description": "",
+          "text": "Pelo Messias,\nmarchamos sim",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 43,
+          "description": "",
+          "text": "Em suas mãos,\na chave da vitória",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 44,
+          "description": "",
+          "text": "Que nos leva a possuir\na Terra Prometida",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 45,
+          "description": "",
+          "text": "Vamos cantar o\ncanto da vitória",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 46,
+          "description": "",
+          "text": "Glória Deus,\nvencemos a batalha",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 47,
+          "description": "",
+          "text": "Toda arma contra\nnós perecerá",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 48,
+          "description": "",
+          "text": "O nosso general é Cristo\nSeguimos os Seus passos",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 49,
+          "description": "",
+          "text": "Nenhum inimigo\nnos resistirá",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 50,
+          "description": "",
+          "text": "O nosso general é Cristo\nSeguimos os Seus passos",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 51,
+          "description": "",
+          "text": "Nenhum inimigo\nnos resistirá",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 52,
+          "description": "",
+          "text": "Nenhum inimigo\nnos resistirá",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 53,
+          "description": "",
+          "text": "Nenhum inimigo\nnos resistirá",
           "text_with_comment": null,
           "translations": null
         }
@@ -6196,81 +6406,95 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Estou preparando um caminho\nEndireitando as veredas\n\nCada vez mais diminuindo\nPorque importa que Ele cresça\n\nNele o meu prazer está\n\nEu não sou digno de desatar\nAs Suas sandálias\n\nNele a minha vida está\n\nE eu caminho com a certeza\nDe que Ele virá\n\nÉ Ele, por Ele que eu estou\nGastando a minha vida\n\nPerdendo tudo por amor\nE com alegria\n\nDono dos meus dias\n\nEle virá, soberano em poder Ele virá\nE o governo está nele\n\nVejam, Ele traz Consigo\nA Sua recompensa",
+      "full_text": "Estou preparando\num caminho\n\nEndireitando as veredas\n\nCada vez mais diminuindo\n\nPorque importa que\nEle cresça\n\nNele o meu prazer está\n\nEu não sou digno de desatar\nAs Suas sandálias\n\nNele a minha vida está\n\nE eu caminho com a certeza\nDe que Ele virá\n\nÉ Ele, por Ele que eu estou\nGastando a minha vida\n\nPerdendo tudo por amor\nE com alegria\n\nDono dos meus dias\n\nEle virá, soberano em\npoder Ele virá\nE o governo está nele\n\nVejam, Ele traz Consigo\nA Sua recompensa",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Estou preparando um caminho\nEndireitando as veredas",
+          "text": "Estou preparando\num caminho",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "Cada vez mais diminuindo\nPorque importa que Ele cresça",
+          "text": "Endireitando as veredas",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "Nele o meu prazer está",
+          "text": "Cada vez mais diminuindo",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Eu não sou digno de desatar\nAs Suas sandálias",
+          "text": "Porque importa que\nEle cresça",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Nele a minha vida está",
+          "text": "Nele o meu prazer está",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "E eu caminho com a certeza\nDe que Ele virá",
+          "text": "Eu não sou digno de desatar\nAs Suas sandálias",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "É Ele, por Ele que eu estou\nGastando a minha vida",
+          "text": "Nele a minha vida está",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Perdendo tudo por amor\nE com alegria",
+          "text": "E eu caminho com a certeza\nDe que Ele virá",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 9,
           "description": "",
-          "text": "Dono dos meus dias",
+          "text": "É Ele, por Ele que eu estou\nGastando a minha vida",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 10,
           "description": "",
-          "text": "Ele virá, soberano em poder Ele virá\nE o governo está nele",
+          "text": "Perdendo tudo por amor\nE com alegria",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 11,
+          "description": "",
+          "text": "Dono dos meus dias",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Ele virá, soberano em\npoder Ele virá\nE o governo está nele",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
           "description": "",
           "text": "Vejam, Ele traz Consigo\nA Sua recompensa",
           "text_with_comment": null,
@@ -9026,6 +9250,119 @@
     }
   },
   {
+    "id": 1779054883039,
+    "title": "Faz Um Milagre Em Mim",
+    "artist": "Regis Danese",
+    "author": "Joselito, Kelly Danese",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "G",
+    "bpm": 64.0,
+    "time_sig": "4/4",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Como Zaqueu\nEu quero subir\n\nO mais alto\nQue eu puder\n\nSó pra Te ver\nOlhar para Ti\n\nE chamar Sua atenção\nPara mim\n\nEu preciso de Ti\nSenhor\n\nEu preciso de Ti\nOh! Pai\n\nSou pequeno demais\nMe dá a Tua Paz\nLargo tudo pra Te seguir\n\nEntra na minha casa\nEntra na minha vida\n\nMexe com minha estrutura\nSara todas as feridas\n\nMe ensina a ter Santidade\nQuero amar somente a Ti\n\nPorque o Senhor\nÉ o meu bem maior\nFaz um milagre em mim",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Como Zaqueu\nEu quero subir",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "O mais alto\nQue eu puder",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Só pra Te ver\nOlhar para Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "E chamar Sua atenção\nPara mim",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Eu preciso de Ti\nSenhor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Eu preciso de Ti\nOh! Pai",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Sou pequeno demais\nMe dá a Tua Paz\nLargo tudo pra Te seguir",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Entra na minha casa\nEntra na minha vida",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Mexe com minha estrutura\nSara todas as feridas",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Me ensina a ter Santidade\nQuero amar somente a Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Porque o Senhor\nÉ o meu bem maior\nFaz um milagre em mim",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "https://open.spotify.com/track/7AA38Hs4o0EHdCiogPAuw3",
+        "youtube": "https://youtube.com/watch?v=AwcYh_CSku8",
+        "deezer": "https://deezer.com/track/787823862"
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": ""
+      }
+    },
+    "extras": {
+      "extra": ""
+    }
+  },
+  {
     "id": 1762265815606,
     "title": "Fiel a Mim",
     "artist": "Eyshila",
@@ -10408,7 +10745,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Jesus, em Tua presença\nReunimo-nos aqui\n\nContemplamos Tua face\nE rendemo-nos a Ti\n\nPois um dia Tua morte\nTrouxe vida a todos nós\n\nE nos deu completo acesso\nAo coração do Pai\n\nE o véu que separava\nJá não separa mais\n\nA luz, outrora apagada\nAgora brilha\n\nE cada dia brilha mais\n\nSó pra Te adorar\nE fazer Teu nome grande\n\nE Te dar o louvor que é devido\nEstamos nós aqui",
+      "full_text": "Jesus, em Tua presença\nReunimo-nos aqui\n\nContemplamos Tua face\nE rendemo-nos a Ti\n\nPois um dia Tua morte\nTrouxe vida a todos nós\n\nE nos deu completo acesso\nAo coração do Pai\n\nE o véu que separava\nJá não separa mais\n\nA luz, outrora apagada\nAgora brilha\n\nE cada dia brilha mais\n\nSó pra Te adorar\nE fazer Teu nome grande\n\nE Te dar o louvor\nque é devido\nEstamos nós aqui\n\nEstamos nós aqui",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -10470,7 +10807,14 @@
         {
           "number": 9,
           "description": "",
-          "text": "E Te dar o louvor que é devido\nEstamos nós aqui",
+          "text": "E Te dar o louvor\nque é devido\nEstamos nós aqui",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Estamos nós aqui",
           "text_with_comment": null,
           "translations": null
         }
@@ -13553,7 +13897,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Na presença dos homens\nNa presença dos anjos\n\nSempre eu Te louvarei\nTe louvarei\n\nMesmo estando em guerra\nVou celebrando minha vitória\n\nEu Te louvarei\nTe louvarei\n\nSobre toda terra\nUm novo som se ouvirá\n\nTua alegria\nForça pra continuar\n\nDeus de maravilhas\nQue maravilha\n\nTe louvar, Te louvar\nTe louvar\n\nEu entro na Tua presença\nPra receber o Seu poder\n\nE quanto mais o tempo passa\nMais quero Deus\n\nO fogo cai, a Igreja canta\nO inimigo vai ao chão\n\nFogo e glória nas cabeças\nMil graus de unção\n\nMil graus de unção\n\nO som da festa vai subir\nSua glória descerá\n\nE se ouvirá um novo som\nDe aleluia",
+      "full_text": "Na presença dos homens\nNa presença dos anjos\n\nSempre eu Te louvarei\nTe louvarei\n\nMesmo estando em guerra\nVou celebrando\nminha vitória\n\nEu Te louvarei\nTe louvarei\n\nSobre toda terra\nUm novo som se ouvirá\n\nTua alegria\nForça pra continuar\n\nDeus de maravilhas\nQue maravilha\n\nTe louvar, Te louvar\nTe louvar\n\nEu entro na Tua presença\nPra receber o Seu poder\n\nE quanto mais o\ntempo passa\nMais quero Deus\n\nO fogo cai, a Igreja canta\nO inimigo vai ao chão\n\nFogo e glória nas cabeças\nMil graus de unção\n\nMil graus de unção\n\nO som da festa vai subir\nSua glória descerá\n\nE se ouvirá um novo som\nDe aleluia",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -13573,7 +13917,7 @@
         {
           "number": 3,
           "description": "",
-          "text": "Mesmo estando em guerra\nVou celebrando minha vitória",
+          "text": "Mesmo estando em guerra\nVou celebrando\nminha vitória",
           "text_with_comment": null,
           "translations": null
         },
@@ -13622,7 +13966,7 @@
         {
           "number": 10,
           "description": "",
-          "text": "E quanto mais o tempo passa\nMais quero Deus",
+          "text": "E quanto mais o\ntempo passa\nMais quero Deus",
           "text_with_comment": null,
           "translations": null
         },
@@ -17246,7 +17590,7 @@
   },
   {
     "id": 1764877280709,
-    "title": "Outro Igual Não Há (Ao Rei Nós Coroamos)",
+    "title": "Outro Igual Não Há",
     "artist": "Gabriel Guedes",
     "author": "Aliyah Stamper, Eniola Abioye, Jenn Johnson, Jonathan Stamper, Lindy Cofer, Nathan Carter",
     "note": "",
@@ -17259,7 +17603,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Sobre o trono está\nJesus, Santo\n\nDigno de adoração\nHonra e glória\n\nDigno é o Senhor\nO cordeiro que no trono está\nOutro igual não há\n\nToda a criação\nSó a Ele rende adoração\nOutro igual não há\n\nAo Rei nós coroamos\nAo Rei nós coroamos\n\nAo Rei nós coroamos\nDe tudo Ele é Senhor\n\nSomente o Rei é digno\nSomente o Rei é digno\n\nSomente o Rei é digno\nDe tudo Ele é Senhor",
+      "full_text": "Sobre o trono está\nJesus, Santo\n\nDigno de adoração\nHonra e glória\n\nDigno é o Senhor\nO cordeiro que\nno trono está\n\nOutro igual não há\n\nToda a criação\nSó a Ele\nrende adoração\n\nOutro igual não há\n\nAo Rei nós coroamos\nAo Rei nós coroamos\n\nAo Rei nós coroamos\nDe tudo Ele é Senhor\n\nSomente o Rei é digno\nSomente o Rei é digno\n\nSomente o Rei é digno\nDe tudo Ele é Senhor",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -17279,40 +17623,54 @@
         {
           "number": 3,
           "description": "",
-          "text": "Digno é o Senhor\nO cordeiro que no trono está\nOutro igual não há",
+          "text": "Digno é o Senhor\nO cordeiro que\nno trono está",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Toda a criação\nSó a Ele rende adoração\nOutro igual não há",
+          "text": "Outro igual não há",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Ao Rei nós coroamos\nAo Rei nós coroamos",
+          "text": "Toda a criação\nSó a Ele\nrende adoração",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Ao Rei nós coroamos\nDe tudo Ele é Senhor",
+          "text": "Outro igual não há",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Somente o Rei é digno\nSomente o Rei é digno",
+          "text": "Ao Rei nós coroamos\nAo Rei nós coroamos",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
+          "description": "",
+          "text": "Ao Rei nós coroamos\nDe tudo Ele é Senhor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Somente o Rei é digno\nSomente o Rei é digno",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
           "description": "",
           "text": "Somente o Rei é digno\nDe tudo Ele é Senhor",
           "text_with_comment": null,
@@ -17351,7 +17709,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Pai nosso nos céus\nSanto é o Teu nome\n\nTeu reino buscamos\nTua vontade seja feita\n\nNa terra como é nos céus\nDeixe o céu descer\n\nDeixa o céu descer\nDeixa o céu descer\n\nTeu é o reino, Teu, o poder\nE Tua é a glória, pra sempre, amém",
+      "full_text": "Pai nosso nos céus\nSanto é o Teu nome\n\nTeu reino buscamos\nTua vontade seja feita\n\nNa terra como é nos céus\nDeixe o céu descer\n\nNa terra como é nos céus\nDeixe o céu descer\n\nDeixa o céu descer\nDeixa o céu descer\n\nTeu é o reino, Teu, o poder\nE Tua é a glória,\nPra sempre, amém",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -17378,14 +17736,21 @@
         {
           "number": 4,
           "description": "",
-          "text": "Deixa o céu descer\nDeixa o céu descer",
+          "text": "Na terra como é nos céus\nDeixe o céu descer",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Teu é o reino, Teu, o poder\nE Tua é a glória, pra sempre, amém",
+          "text": "Deixa o céu descer\nDeixa o céu descer",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Teu é o reino, Teu, o poder\nE Tua é a glória,\nPra sempre, amém",
           "text_with_comment": null,
           "translations": null
         }
@@ -19395,7 +19760,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Eu me deparei com\nAquele Mestre escrevendo\n\nCom o dedo no chão ouvindo\nOs fariseus a lhes falar\n\nQue a lei de Moisés\nMe condenava por meus erros\n\nMas nenhuma pedra\nEle pegou pra me apedrejar\n\nEu só tinha os meus pecados\nPra Lhe oferecer\n\nMas mesmo assim me amou\nMas mesmo assim me amou\n\nCom uma frase:\n\"Atire a pedra\nQuem nunca pecou\"\n\nEle me perdoou\nEle me perdoou\n\nSua irresistível graça\nMe alcançou\n\nQuem é esse?\nQue era sem pecado\nE não me condenou\n\nNo lugar da morte\nVida me ofertou\n\nO Cordeiro que\nPor mim se entregou\nE os meus pecados levou\n\nEu não Te troco por nada\nNão há espaço pra mais nada\n\nTodo vazio que havia em mim\nHoje é Sua morada\n\nA minha alma buscava\nE nada me completava\n\nA Tua presença\nÉ o que faltava em mim\n\nMinha vida foi transformada",
+      "full_text": "Eu me deparei com\nAquele Mestre escrevendo\n\nCom o dedo no chão ouvindo\nOs fariseus a lhes falar\n\nQue a lei de Moisés\nMe condenava por\nmeus erros\n\nMas nenhuma pedra\nEle pegou pra me apedrejar\n\nEu só tinha os\nMeus pecados\nPra Lhe oferecer\n\nMas mesmo assim\nMe amou\n\nMas mesmo assim\nMe amou\n\nCom uma frase:\n\"Atire a pedra\nQuem nunca pecou\"\n\nEle me perdoou\nEle me perdoou\n\nSua irresistível graça\nMe alcançou\n\nQuem é esse?\nQue era sem pecado\nE não me condenou\n\nNo lugar da morte\nVida me ofertou\n\nO Cordeiro que\nPor mim se entregou\nE os meus pecados levou\n\nEu não Te troco por nada\nNão há espaço pra mais nada\n\nTodo vazio que havia em mim\nHoje é Sua morada\n\nA minha alma buscava\nE nada me completava\n\nA Tua presença\nÉ o que faltava em mim\n\nMinha vida foi transformada",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -19415,7 +19780,7 @@
         {
           "number": 3,
           "description": "",
-          "text": "Que a lei de Moisés\nMe condenava por meus erros",
+          "text": "Que a lei de Moisés\nMe condenava por\nmeus erros",
           "text_with_comment": null,
           "translations": null
         },
@@ -19429,89 +19794,96 @@
         {
           "number": 5,
           "description": "",
-          "text": "Eu só tinha os meus pecados\nPra Lhe oferecer",
+          "text": "Eu só tinha os\nMeus pecados\nPra Lhe oferecer",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Mas mesmo assim me amou\nMas mesmo assim me amou",
+          "text": "Mas mesmo assim\nMe amou",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Com uma frase:\n\"Atire a pedra\nQuem nunca pecou\"",
+          "text": "Mas mesmo assim\nMe amou",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Ele me perdoou\nEle me perdoou",
+          "text": "Com uma frase:\n\"Atire a pedra\nQuem nunca pecou\"",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 9,
           "description": "",
-          "text": "Sua irresistível graça\nMe alcançou",
+          "text": "Ele me perdoou\nEle me perdoou",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 10,
           "description": "",
-          "text": "Quem é esse?\nQue era sem pecado\nE não me condenou",
+          "text": "Sua irresistível graça\nMe alcançou",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 11,
           "description": "",
-          "text": "No lugar da morte\nVida me ofertou",
+          "text": "Quem é esse?\nQue era sem pecado\nE não me condenou",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 12,
           "description": "",
-          "text": "O Cordeiro que\nPor mim se entregou\nE os meus pecados levou",
+          "text": "No lugar da morte\nVida me ofertou",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 13,
           "description": "",
-          "text": "Eu não Te troco por nada\nNão há espaço pra mais nada",
+          "text": "O Cordeiro que\nPor mim se entregou\nE os meus pecados levou",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 14,
           "description": "",
-          "text": "Todo vazio que havia em mim\nHoje é Sua morada",
+          "text": "Eu não Te troco por nada\nNão há espaço pra mais nada",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 15,
           "description": "",
-          "text": "A minha alma buscava\nE nada me completava",
+          "text": "Todo vazio que havia em mim\nHoje é Sua morada",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 16,
           "description": "",
-          "text": "A Tua presença\nÉ o que faltava em mim",
+          "text": "A minha alma buscava\nE nada me completava",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 17,
+          "description": "",
+          "text": "A Tua presença\nÉ o que faltava em mim",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 18,
           "description": "",
           "text": "Minha vida foi transformada",
           "text_with_comment": null,
@@ -21906,7 +22278,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "O sol, a lua\nEstrelas e o mar\n\nNada se compara\nAnte a Tua formosura\n\nOs homens, os reinos\nPrincipados e potestades\n\nSe prostram\nAnte a Tua majestade\n\nPorque Dele, por Ele,\nPara Ele são todas as coisas\n\nSó me resta\nTe adorar, Te adorar\n\nEu só quero Te adorar,\nTe adorar\n\nEu nasci pra Te adorar,\nTe adorar\n\nEu nasci pra Te adorar,\nTe adorar\n\nE dizer que Te amo,\nTe amo, Te amo\n\nE dizer que Te amo,\nTe amo, Te amo",
+      "full_text": "O sol, a lua\nEstrelas e o mar\n\nNada se compara\nAnte a Tua formosura\n\nOs homens, os reinos\nPrincipados e potestades\n\nSe prostram\nAnte a Tua majestade\n\nPorque Dele, por Ele,\nPara Ele são\nTodas as coisas\n\nPorque Dele, por Ele,\nPara Ele são\nTodas as coisas\n\nSó me resta\nTe adorar, Te adorar\n\nEu só quero Te adorar,\nTe adorar\n\nEu nasci pra Te adorar,\nTe adorar\n\nEu nasci pra Te adorar,\nTe adorar\n\nE dizer que Te amo,\nTe amo, Te amo\n\nE dizer que Te amo,\nTe amo, Te amo",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -21940,28 +22312,28 @@
         {
           "number": 5,
           "description": "",
-          "text": "Porque Dele, por Ele,\nPara Ele são todas as coisas",
+          "text": "Porque Dele, por Ele,\nPara Ele são\nTodas as coisas",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Só me resta\nTe adorar, Te adorar",
+          "text": "Porque Dele, por Ele,\nPara Ele são\nTodas as coisas",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Eu só quero Te adorar,\nTe adorar",
+          "text": "Só me resta\nTe adorar, Te adorar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Eu nasci pra Te adorar,\nTe adorar",
+          "text": "Eu só quero Te adorar,\nTe adorar",
           "text_with_comment": null,
           "translations": null
         },
@@ -21975,12 +22347,19 @@
         {
           "number": 10,
           "description": "",
-          "text": "E dizer que Te amo,\nTe amo, Te amo",
+          "text": "Eu nasci pra Te adorar,\nTe adorar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 11,
+          "description": "",
+          "text": "E dizer que Te amo,\nTe amo, Te amo",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
           "description": "",
           "text": "E dizer que Te amo,\nTe amo, Te amo",
           "text_with_comment": null,
@@ -23248,6 +23627,343 @@
     }
   },
   {
+    "id": 1780796153859,
+    "title": "Tudo é Perda + Quem é Esse",
+    "artist": "Felipe Carvalho",
+    "author": "",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "",
+    "bpm": 0.0,
+    "time_sig": "",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": " Tudo é perda se\nnão tenho a Ti\n\nA Tua graça é o\nque me basta\n\nSem Ti não sei\npra onde ir\n\nSem Tua presença\nnada importa\n\nDo que adianta\nEu ganhar o mundo inteiro\n\nE a minha alma\nSe perder sem Ti, Senhor\n\nDo que adianta\nEu juntar os meus tesouros\n\nE me esquecer\nDaquele que me amou\n\nSe eu não tenho a Ti\nNão tenho nada\n\nNada eu serei sem\nTi, Senhor\n\nSó Tua Presença é o\nque me basta\n\nEu Te levarei por\nonde eu for\n\nTua presença é o\nque me basta\n\nQuem sou eu sem\nTeu amor, Senhor\n\nEu só tinha os\nMeus pecados\nPra Lhe oferecer\n\nMas mesmo assim\nMe amou\n\nMas mesmo assim\nMe amou\n\nCom uma frase:\n\"Atire a pedra\nQuem nunca pecou\"\n\nEle me perdoou\nEle me perdoou\n\nSua irresistível graça\nMe alcançou\n\nQuem é esse?\nQue era sem pecado\nE não me condenou\n\nNo lugar da morte\nVida me ofertou\n\nO Cordeiro que\nPor mim se entregou\nE os meus pecados levou\n\nEu só tinha os\nMeus pecados\nPra Lhe oferecer\n\nMas mesmo assim\nMe amou\n\nMas mesmo assim\nMe amou\n\nCom uma frase:\n\"Atire a pedra\nQuem nunca pecou\"\n\nEle me perdoou\nEle me perdoou\n\nSua irresistível graça\nMe alcançou\n\nQuem é esse?\nQue era sem pecado\nE não me condenou\n\nNo lugar da morte\nVida me ofertou\n\nO Cordeiro que\nPor mim se entregou\nE os meus pecados levou\n\nQuem é esse?\nQue era sem pecado\nE não me condenou\n\nNo lugar da morte\nVida me ofertou\n\nO Cordeiro que\nPor mim se entregou\nE os meus pecados levou\n\nEu não Te troco por nada\nNão há espaço pra mais nada\n\nTodo vazio que havia em mim\nHoje é Sua morada\n\nA minha alma buscava\nE nada me completava\n\nA Tua presença\nÉ o que faltava em mim\n\nMinha vida foi transformada\n\nQuem é esse?\nQue era sem pecado\nE não me condenou\n\nNo lugar da morte\nVida me ofertou\n\nO Cordeiro que\nPor mim se entregou\nE os meus pecados levou",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": " Tudo é perda se\nnão tenho a Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "A Tua graça é o\nque me basta",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Sem Ti não sei\npra onde ir",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Sem Tua presença\nnada importa",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Do que adianta\nEu ganhar o mundo inteiro",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "E a minha alma\nSe perder sem Ti, Senhor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Do que adianta\nEu juntar os meus tesouros",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "E me esquecer\nDaquele que me amou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Se eu não tenho a Ti\nNão tenho nada",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Nada eu serei sem\nTi, Senhor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Só Tua Presença é o\nque me basta",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Eu Te levarei por\nonde eu for",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "Tua presença é o\nque me basta",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "Quem sou eu sem\nTeu amor, Senhor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 15,
+          "description": "",
+          "text": "Eu só tinha os\nMeus pecados\nPra Lhe oferecer",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 16,
+          "description": "",
+          "text": "Mas mesmo assim\nMe amou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 17,
+          "description": "",
+          "text": "Mas mesmo assim\nMe amou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 18,
+          "description": "",
+          "text": "Com uma frase:\n\"Atire a pedra\nQuem nunca pecou\"",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 19,
+          "description": "",
+          "text": "Ele me perdoou\nEle me perdoou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 20,
+          "description": "",
+          "text": "Sua irresistível graça\nMe alcançou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 21,
+          "description": "",
+          "text": "Quem é esse?\nQue era sem pecado\nE não me condenou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 22,
+          "description": "",
+          "text": "No lugar da morte\nVida me ofertou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 23,
+          "description": "",
+          "text": "O Cordeiro que\nPor mim se entregou\nE os meus pecados levou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 24,
+          "description": "",
+          "text": "Eu só tinha os\nMeus pecados\nPra Lhe oferecer",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 25,
+          "description": "",
+          "text": "Mas mesmo assim\nMe amou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 26,
+          "description": "",
+          "text": "Mas mesmo assim\nMe amou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 27,
+          "description": "",
+          "text": "Com uma frase:\n\"Atire a pedra\nQuem nunca pecou\"",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 28,
+          "description": "",
+          "text": "Ele me perdoou\nEle me perdoou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 29,
+          "description": "",
+          "text": "Sua irresistível graça\nMe alcançou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 30,
+          "description": "",
+          "text": "Quem é esse?\nQue era sem pecado\nE não me condenou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 31,
+          "description": "",
+          "text": "No lugar da morte\nVida me ofertou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 32,
+          "description": "",
+          "text": "O Cordeiro que\nPor mim se entregou\nE os meus pecados levou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 33,
+          "description": "",
+          "text": "Quem é esse?\nQue era sem pecado\nE não me condenou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 34,
+          "description": "",
+          "text": "No lugar da morte\nVida me ofertou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 35,
+          "description": "",
+          "text": "O Cordeiro que\nPor mim se entregou\nE os meus pecados levou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 36,
+          "description": "",
+          "text": "Eu não Te troco por nada\nNão há espaço pra mais nada",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 37,
+          "description": "",
+          "text": "Todo vazio que havia em mim\nHoje é Sua morada",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 38,
+          "description": "",
+          "text": "A minha alma buscava\nE nada me completava",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 39,
+          "description": "",
+          "text": "A Tua presença\nÉ o que faltava em mim",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 40,
+          "description": "",
+          "text": "Minha vida foi transformada",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 41,
+          "description": "",
+          "text": "Quem é esse?\nQue era sem pecado\nE não me condenou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 42,
+          "description": "",
+          "text": "No lugar da morte\nVida me ofertou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 43,
+          "description": "",
+          "text": "O Cordeiro que\nPor mim se entregou\nE os meus pecados levou",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": ""
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": ""
+      }
+    },
+    "extras": {
+      "extra": ""
+    }
+  },
+  {
     "id": 1762265103279,
     "title": "Uma Coisa Peço Ao Senhor",
     "artist": "Fernandinho",
@@ -23735,7 +24451,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "És adorado entre nós\nTão desejado aqui\n\nMas nada se comparará\nCom a glória que há de vir\n\nEu não sou daqui, pra casa voltarei\nEle vem me buscar e com Ele eu irei\n\nYeshua, o Messias aguardado\nEle vem me buscar\n\nEm breve Jesus\nNo céu vai aparecer\n\nE todo joelho se dobrará\nE toda língua confessará\n\nMas a Igreja será arrebatada\nNum piscar de olhos acontecerá\n\nYeshua, Yeshua\nYeshua, Yeshua",
+      "full_text": "És adorado entre nós\nTão desejado aqui\n\nMas nada se comparará\nCom a glória que há de vir\n\nEu não sou daqui\nPra casa voltarei\n\nEle vem me buscar\nE com Ele eu irei\n\nEu não sou daqui\nPra casa voltarei\n\nEle vem me buscar\nE com Ele eu irei\n\nYeshua\nO Messias aguardado\nEle vem me buscar\n\nYeshua\nO Messias aguardado\nEle vem me buscar\n\nÉs adorado entre nós\nTão desejado aqui\n\nMas nada se comparará\nCom a glória que há de vir\n\nEu não sou daqui\nPra casa voltarei\n\nEle vem me buscar\nE com Ele eu irei\n\nEu não sou daqui\nPra casa voltarei\n\nEle vem me buscar\nE com Ele eu irei\n\nYeshua\nO Messias aguardado\nEle vem me buscar\n\nYeshua\nO Messias aguardado\nEle vem me buscar\n\nEm breve Jesus\nNo céu vai aparecer\n\nE todo joelho se dobrará\nE toda língua confessará\n\nMas a Igreja\nserá arrebatada\n\nNum piscar de\nolhos acontecerá\n\nMas a Igreja\nserá arrebatada\n\nNum piscar de\nolhos acontecerá\n\nYeshua, Yeshua\nYeshua, Yeshua",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -23755,40 +24471,145 @@
         {
           "number": 3,
           "description": "",
-          "text": "Eu não sou daqui, pra casa voltarei\nEle vem me buscar e com Ele eu irei",
+          "text": "Eu não sou daqui\nPra casa voltarei",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Yeshua, o Messias aguardado\nEle vem me buscar",
+          "text": "Ele vem me buscar\nE com Ele eu irei",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Em breve Jesus\nNo céu vai aparecer",
+          "text": "Eu não sou daqui\nPra casa voltarei",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "E todo joelho se dobrará\nE toda língua confessará",
+          "text": "Ele vem me buscar\nE com Ele eu irei",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Mas a Igreja será arrebatada\nNum piscar de olhos acontecerá",
+          "text": "Yeshua\nO Messias aguardado\nEle vem me buscar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
+          "description": "",
+          "text": "Yeshua\nO Messias aguardado\nEle vem me buscar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "És adorado entre nós\nTão desejado aqui",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Mas nada se comparará\nCom a glória que há de vir",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Eu não sou daqui\nPra casa voltarei",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Ele vem me buscar\nE com Ele eu irei",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "Eu não sou daqui\nPra casa voltarei",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "Ele vem me buscar\nE com Ele eu irei",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 15,
+          "description": "",
+          "text": "Yeshua\nO Messias aguardado\nEle vem me buscar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 16,
+          "description": "",
+          "text": "Yeshua\nO Messias aguardado\nEle vem me buscar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 17,
+          "description": "",
+          "text": "Em breve Jesus\nNo céu vai aparecer",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 18,
+          "description": "",
+          "text": "E todo joelho se dobrará\nE toda língua confessará",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 19,
+          "description": "",
+          "text": "Mas a Igreja\nserá arrebatada",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 20,
+          "description": "",
+          "text": "Num piscar de\nolhos acontecerá",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 21,
+          "description": "",
+          "text": "Mas a Igreja\nserá arrebatada",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 22,
+          "description": "",
+          "text": "Num piscar de\nolhos acontecerá",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 23,
           "description": "",
           "text": "Yeshua, Yeshua\nYeshua, Yeshua",
           "text_with_comment": null,
