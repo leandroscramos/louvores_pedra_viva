@@ -188,7 +188,7 @@
                             <th width="1%">BPM</th>
                             <th width="1%">Comp.</th>
                             <th width="1%">Tom</th>
-                            <th width="1%">Cifra</th>
+                            <!-- <th width="1%">Cifra</th> -->
                             <th width="1%">Link</th>
                         </tr>
                     </thead>
@@ -252,12 +252,7 @@
                                     </td>` : '<td></td>'}
                                     ${(musica.key) ? `<td align='center'>
                                         ${musica.key}
-                                    </td>` : '<td></td>'}
-                                    ${(musica.extras && musica.extras.cifra) ? `<td align='center'>
-                                        <a href="cifras/${musica.extras.cifra}" target="_blank" rel="noopener noreferrer">
-                                            <i class="fa-regular fa-file-lines" style="color:gray; font-size:1.5em;"></i>
-                                        </a>
-                                    </td>` : '<td></td>'}
+                                    </td>` : '<td></td>'}                                    
                                     <td align='center'>
                                         <a href="${musica.streaming.audio.youtube}" target="_blank" rel="noopener noreferrer">
                                             <i class="fab fa-youtube" style="color:#FF0000; font-size:1.5em;"></i>
@@ -266,6 +261,12 @@
                                 </tr>`;
 
                     });
+
+                    // ${(musica.extras && musica.extras.cifra) ? `<td align='center'>
+                    //                     <a href="cifras/${musica.extras.cifra}" target="_blank" rel="noopener noreferrer">
+                    //                         <i class="fa-regular fa-file-lines" style="color:gray; font-size:1.5em;"></i>
+                    //                     </a>
+                    //                 </td>` : '<td></td>'}
                                                         
                     $('#musicasTable tbody').html(rows);
                     $('#musicasTable').DataTable({
