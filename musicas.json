@@ -109,6 +109,7 @@
       }
     },
     "extras": {
+      "cifra": "https://www.cifrashub.com.br/song/gabriel-guedes/a-bencao",
       "extra": ""
     }
   },
@@ -215,6 +216,7 @@
       }
     },
     "extras": {
+      "cifra": "https://www.cifrashub.com.br/song/casa-worship/a-casa-e-sua",
       "extra": ""
     }
   },
@@ -2398,7 +2400,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Te amo, Deus\nTua graça nunca falha\n\nTodos os dias\nEu estou em Tuas mãos\n\nDesde quando me levanto\nAté eu me deitar\n\nEu cantarei da bondade de Deus\n\nÉs fiel em todo tempo\nEm todo tempo Tu és tão, tão bom\n\nCom todo fôlego que tenho\nEu cantarei da bondade de Deus\n\nTua doce voz que me guia\nEm meio ao fogo\n\nNa escuridão\nTua presença me conforta\n\nSei que és meu Pai, que amigo és\nEu vivo na bondade de Deus\n\nTua bondade me seguirá\nMe seguirá, Senhor\n\nEu me rendo a Ti, Te dou o meu ser\nEntrego tudo a Ti\n\nTua bondade me seguirá\nMe seguirá, Senhor",
+      "full_text": "Te amo, Deus\nTua graça nunca falha\n\nTodos os dias\nEu estou em Tuas mãos\n\nDesde quando me levanto\nAté eu me deitar\n\nEu cantarei da\nbondade de Deus\n\nÉs fiel em todo tempo\nEm todo tempo\nTu és tão, tão bom\n\nCom todo fôlego que tenho\nEu cantarei da\nBondade de Deus\n\nTua doce voz que me guia\nEm meio ao fogo\n\nNa escuridão\nTua presença me conforta\n\nSei que és meu Pai,\nque amigo és\nEu vivo na bondade de Deus\n\nTua bondade me seguirá\nMe seguirá, Senhor\n\nEu me rendo a Ti,\nTe dou o meu ser\nEntrego tudo a Ti\n\nTua bondade me seguirá\nMe seguirá, Senhor",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -2431,7 +2433,7 @@
         {
           "number": 4,
           "description": "",
-          "text": "Eu cantarei da bondade de Deus",
+          "text": "Eu cantarei da\nbondade de Deus",
           "text_with_comment": null,
           "translations": {
             "Espanhol": "Cantaré de la bondad de Dios"
@@ -2440,7 +2442,7 @@
         {
           "number": 5,
           "description": "",
-          "text": "És fiel em todo tempo\nEm todo tempo Tu és tão, tão bom",
+          "text": "És fiel em todo tempo\nEm todo tempo\nTu és tão, tão bom",
           "text_with_comment": null,
           "translations": {
             "Espanhol": "Eres fiel en todo tiempo\nEn todo tiempo Tú eres tan, tan bueno"
@@ -2449,7 +2451,7 @@
         {
           "number": 6,
           "description": "",
-          "text": "Com todo fôlego que tenho\nEu cantarei da bondade de Deus",
+          "text": "Com todo fôlego que tenho\nEu cantarei da\nBondade de Deus",
           "text_with_comment": null,
           "translations": {
             "Espanhol": "Con todo el aliento que tengo\nCantaré de la bondad de Dios"
@@ -2476,7 +2478,7 @@
         {
           "number": 9,
           "description": "",
-          "text": "Sei que és meu Pai, que amigo és\nEu vivo na bondade de Deus",
+          "text": "Sei que és meu Pai,\nque amigo és\nEu vivo na bondade de Deus",
           "text_with_comment": null,
           "translations": {
             "Espanhol": "Sé que eres mi Padre, qué amigo eres\nVivo en la bondad de Dios"
@@ -2494,7 +2496,7 @@
         {
           "number": 11,
           "description": "",
-          "text": "Eu me rendo a Ti, Te dou o meu ser\nEntrego tudo a Ti",
+          "text": "Eu me rendo a Ti,\nTe dou o meu ser\nEntrego tudo a Ti",
           "text_with_comment": null,
           "translations": {
             "Espanhol": "Me rindo a Ti, te doy mi ser\nEntrego todo a Ti"
@@ -24839,7 +24841,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "No mundo busquei\nMas nada preencheu-me\n\nCanções tão vazias\n\nTesouros que\nUm dia se consumarão\n\nEntão o Senhor veio\nE me trouxe pra perto\n\nE todo desejo\nÉ satisfeito em Seu amor\n\nNão há nada, nada melhor\nNão há nada, nada melhor\n\nNão há nada\nNada melhor que meu Deus\n\nNão tenho medo\nDe expor minhas fraquezas\n\nDefeitos e falhas\nNão vou esconder\n\nUm amigo encontrei\n\nO Deus das montanhas\nÉ o Deus dos vales\n\nE não há lugar\n\nQue a Sua graça\nNão possa me achar\n\nTorna o luto em festa\nA vergonha em glória\n\nTraz beleza às cinzas\nO Senhor pode fazer\n\nTraz a vida aos sepulcros\nFaz de ossos, soldados\n\nFaz, no mar, um caminho\nO Senhor pode fazer\n\nSó o Senhor pode fazer",
+      "full_text": "No mundo busquei\nMas nada preencheu-me\n\nCanções tão vazias\n\nTesouros que\nUm dia se consumarão\n\nEntão o Senhor veio\nE me trouxe pra perto\n\nE todo desejo\nÉ satisfeito em Seu amor\n\nNão há nada, nada melhor\nNão há nada, nada melhor\n\nNão há nada\nNada melhor que meu Deus\n\nNão tenho medo\nDe expor minhas fraquezas\n\nDefeitos e falhas\nNão vou esconder\n\nUm amigo encontrei\n\nO Deus das montanhas\nÉ o Deus dos vales\n\nE não há lugar\n\nQue a Sua graça\nNão possa me achar\n\nTorna o luto em festa\nA vergonha em glória\n\nTraz beleza às cinzas\nO Senhor pode fazer\n\nTraz a vida aos sepulcros\nFaz de ossos, soldados\n\nFaz, no mar, um caminho\nSó Senhor pode fazer\n\nSó o Senhor pode fazer",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -24957,7 +24959,7 @@
         {
           "number": 17,
           "description": "",
-          "text": "Faz, no mar, um caminho\nO Senhor pode fazer",
+          "text": "Faz, no mar, um caminho\nSó Senhor pode fazer",
           "text_with_comment": null,
           "translations": null
         },
