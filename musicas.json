@@ -873,6 +873,7 @@
       }
     },
     "extras": {
+      "cifra": "https://www.cifrashub.com.br/song/diante-do-trono/aclame-ao-senhor",
       "extra": ""
     }
   },
@@ -2378,7 +2379,6 @@
       }
     },
     "extras": {
-      "cifra": "bom_estarmos_aqui.txt",
       "extra": ""
     }
   },
@@ -3703,7 +3703,6 @@
       }
     },
     "extras": {
-      "cifra": "coracao_igual_ao_teu.txt",
       "extra": ""
     }
   },
@@ -6517,7 +6516,7 @@
       }
     },
     "extras": {
-      "cifra": "e_ele.txt",
+      "cifra": "https://www.cifrashub.com.br/song/drops-ina/e-ele",
       "extra": ""
     }
   },
@@ -11589,7 +11588,8 @@
       }
     },
     "extras": {
-      "extra": ""
+      "cifra": "https://www.cifrashub.com.br/song/lu-alone/louve",
+      "extra": "https://www.cifrashub.com.br/song/lu-alone/louve"
     }
   },
   {
