@@ -2380,6 +2380,7 @@
       }
     },
     "extras": {
+      "cifra": "https://www.cifrashub.com.br/song/renascer-praise/bom-estarmos-aqui",
       "extra": ""
     }
   },
@@ -6132,6 +6133,7 @@
       }
     },
     "extras": {
+      "cifra": "https://www.cifrashub.com.br/song/adoracao-central/digno-de-tudo-te-exaltamos",
       "extra": ""
     }
   },
@@ -8259,6 +8261,7 @@
       }
     },
     "extras": {
+      "cifra": "https://www.cifrashub.com.br/song/renascer-praise/eu-me-rendo",
       "extra": ""
     }
   },
@@ -15254,6 +15257,99 @@
     }
   },
   {
+    "id": 1781800299109,
+    "title": "Ninguém é igual a Jesus",
+    "artist": "3 Palavrinhas",
+    "author": "",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "",
+    "bpm": 0.0,
+    "time_sig": "",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Ninguém é igual a Jesus\nNinguém é igual a Jesus\n\nNinguém é igual a Jesus\nNinguém é igual a Jesus\n\nJá procuramos, todo lugar\nNós já tocamos, todo lugar\n\nJá rodeamos todo lugar\nNinguém é igual a Jesus\n\nNinguém é igual a Jesus\nNinguém é igual a Jesus\n\nNinguém é igual a Jesus\nNinguém é igual a Jesus\n\nKakuli walisoka la Iesu\nKakuli walisoka la Iesu\n\nKakuli walisoka la Iesu\nKakuli, kakuli, kakuli",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Ninguém é igual a Jesus\nNinguém é igual a Jesus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Ninguém é igual a Jesus\nNinguém é igual a Jesus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Já procuramos, todo lugar\nNós já tocamos, todo lugar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Já rodeamos todo lugar\nNinguém é igual a Jesus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Ninguém é igual a Jesus\nNinguém é igual a Jesus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Ninguém é igual a Jesus\nNinguém é igual a Jesus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Kakuli walisoka la Iesu\nKakuli walisoka la Iesu",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Kakuli walisoka la Iesu\nKakuli, kakuli, kakuli",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "",
+        "youtube": "https://youtube.com/watch?v=2zlWeyAVNbc&feature=shared",
+        "deezer": ""
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": ""
+      }
+    },
+    "extras": {
+      "cifra": "https://www.cifrashub.com.br/song/3-palavrinhas/ninguem-e-igual-a-jesus",
+      "extra": ""
+    }
+  },
+  {
     "id": 1762265765098,
     "title": "Ninguém Explica Deus",
     "artist": "Preto No Branco e Gabriela Rocha",
@@ -16669,13 +16765,13 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Pelo Senhor, marchamos sim\nO Seu exército poderoso é\n\nE Sua glória será vista \nEm toda terra\n\nVamos cantar\nO canto da vitória\n\nGlória Deus!\nVencemos a batalha\n\nToda arma contra nós\nPerecerá\n\nO nosso general é Cristo\nSeguimos os Seu passos\n\nNenhum inimigo nos resistirá\n\nPelo Messias\nMarchamos sim\n\nEm Suas mãos\nA chave da vitória\n\nQue nos leva a possuir\nA terra prometida\n\nO nosso general é Cristo\nSeguimos os Seu passos\n\nNenhum inimigo nos resistirá\n\nNenhum inimigo nos resistirá",
+      "full_text": "Pelo Senhor,\nmarchamos sim\nO Seu exército poderoso é\n\nE Sua glória será vista \nEm toda terra\n\nVamos cantar\nO canto da vitória\n\nGlória Deus!\nVencemos a batalha\n\nToda arma contra nós\nPerecerá\n\nO nosso general é Cristo\nSeguimos os Seu passos\n\nNenhum inimigo nos resistirá\n\nPelo Messias\nMarchamos sim\n\nEm Suas mãos\nA chave da vitória\n\nQue nos leva a possuir\nA terra prometida\n\nO nosso general é Cristo\nSeguimos os Seu passos\n\nNenhum inimigo nos resistirá\n\nNenhum inimigo nos resistirá",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Pelo Senhor, marchamos sim\nO Seu exército poderoso é",
+          "text": "Pelo Senhor,\nmarchamos sim\nO Seu exército poderoso é",
           "text_with_comment": null,
           "translations": null
         },
@@ -17322,6 +17418,7 @@
       }
     },
     "extras": {
+      "cifra": "https://www.cifrashub.com.br/song/ana-nobrega/oh-quao-lindo-esse-nome-",
       "extra": ""
     }
   },
@@ -17965,6 +18062,7 @@
       }
     },
     "extras": {
+      "cifra": "https://www.cifrashub.com.br/song/amanda-wanessa/perto-quero-estar",
       "extra": ""
     }
   },
@@ -20079,6 +20177,162 @@
       }
     },
     "extras": {
+      "extra": ""
+    }
+  },
+  {
+    "id": 1781896204840,
+    "title": "Quero Que Valorize",
+    "artist": "Armando Filho",
+    "author": "Armando Filho",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "E",
+    "bpm": 68.25,
+    "time_sig": "4/4",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Quero que valorize\nO que você tem\n\nVocê é um ser\nVocê é alguém\n\nTão importante\nPara Deus\n\nNada de ficar sofrendo\nAngústia e dor\n\nNesse teu\nComplexo inferior\n\nDizendo às vezes\nQue não é ninguém\n\nEu venho falar\nDo valor que você tem\n\nEu venho falar\nDo valor que você tem\n\nEle está em você\n\nO Espírito Santo\nSe move em você\n\nAté com gemidos\nInexprimíveis, inexprimíveis\n\nDaí você pode\nEntão perceber\n\nQue pra Ele há algo\nImportante em você\n\nPor isso levante e cante\nExalte ao Senhor\n\nVocê tem valor\n\nO Espírito Santo\nSe move em você\n\nVocê tem valor",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Quero que valorize\nO que você tem",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Você é um ser\nVocê é alguém",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Tão importante\nPara Deus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Nada de ficar sofrendo\nAngústia e dor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Nesse teu\nComplexo inferior",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Dizendo às vezes\nQue não é ninguém",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Eu venho falar\nDo valor que você tem",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Eu venho falar\nDo valor que você tem",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Ele está em você",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "O Espírito Santo\nSe move em você",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Até com gemidos\nInexprimíveis, inexprimíveis",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Daí você pode\nEntão perceber",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "Que pra Ele há algo\nImportante em você",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "Por isso levante e cante\nExalte ao Senhor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 15,
+          "description": "",
+          "text": "Você tem valor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 16,
+          "description": "",
+          "text": "O Espírito Santo\nSe move em você",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 17,
+          "description": "",
+          "text": "Você tem valor",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "https://open.spotify.com/track/0u9Qzq28dKJ5evkPWGqSef",
+        "youtube": "https://youtube.com/watch?v=M_MKgoVmglw",
+        "deezer": "https://deezer.com/track/16964313"
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": ""
+      }
+    },
+    "extras": {
+      "cifra": "https://www.cifrashub.com.br/song/armando-filho/quero-que-valorize",
       "extra": ""
     }
   },
