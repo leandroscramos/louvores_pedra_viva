@@ -22371,6 +22371,162 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
+      "full_text": "Quem é como Tu, Jesus\nNão há ninguém além de Ti\n\nQue é manso e humilde assim\nNão há ninguém igual a Ti\n\nNão há!\n\nMaravilhoso, admirável\nTão sublime, glorioso\n\nTua presença\nÉ mais desejável\nDo que o ouro\n\nMelhor que a vida\nÉ o Teu amor\n\nQuem é como Tu, Jesus\nNão há ninguém além de Ti\n\nQue é manso e humilde assim\nNão há ninguém igual a Ti\n\nNão há igual!\n\nMaravilhoso, admirável\nTão sublime, glorioso\n\nTua presença\nÉ mais desejável\nDo que o ouro\n\nMelhor que a vida\nÉ o Teu amor\n\nMaravilhoso, admirável\nTão sublime, glorioso\n\nTua presença\nÉ mais desejável\nDo que o ouro\n\nMelhor que a vida\nÉ o Teu amor\n\nAh, como espero o dia\nEm que verei a face\nDo meu amado\n\nAh, como espero o dia\nEm que a alegria\nEnfim será completa",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Quem é como Tu, Jesus\nNão há ninguém além de Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Que é manso e humilde assim\nNão há ninguém igual a Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Não há!",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Maravilhoso, admirável\nTão sublime, glorioso",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Tua presença\nÉ mais desejável\nDo que o ouro",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Melhor que a vida\nÉ o Teu amor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Quem é como Tu, Jesus\nNão há ninguém além de Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Que é manso e humilde assim\nNão há ninguém igual a Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Não há igual!",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Maravilhoso, admirável\nTão sublime, glorioso",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Tua presença\nÉ mais desejável\nDo que o ouro",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Melhor que a vida\nÉ o Teu amor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "Maravilhoso, admirável\nTão sublime, glorioso",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "Tua presença\nÉ mais desejável\nDo que o ouro",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 15,
+          "description": "",
+          "text": "Melhor que a vida\nÉ o Teu amor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 16,
+          "description": "",
+          "text": "Ah, como espero o dia\nEm que verei a face\nDo meu amado",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 17,
+          "description": "",
+          "text": "Ah, como espero o dia\nEm que a alegria\nEnfim será completa",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "https://open.spotify.com/track/0PEkKjD8bgssfDbKUzKQ21",
+        "youtube": "https://youtube.com/watch?v=cBann0oTGsM",
+        "deezer": "https://deezer.com/track/3150925381"
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": ""
+      }
+    },
+    "extras": {
+      "cifra": "https://www.cifrashub.com.br/song/florianopolis-house-of-prayer/sublime",
+      "extra": ""
+    }
+  },
+  {
+    "id": 1781898756484,
+    "title": "Sublime + É Ele",
+    "artist": "Beth Ramos",
+    "author": "",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "E",
+    "bpm": 0.0,
+    "time_sig": "4/4",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
       "full_text": "Quem é como Tu, Jesus\nNão há ninguém além de Ti\n\nQue é manso e humilde assim\nNão há ninguém igual a Ti\n\nNão há!\n\nMaravilhoso, admirável\nTão sublime, glorioso\n\nTua presença\nÉ mais desejável\nDo que o ouro\n\nMelhor que a vida\nÉ o Teu amor\n\nQuem é como Tu, Jesus\nNão há ninguém além de Ti\n\nQue é manso e humilde assim\nNão há ninguém igual a Ti\n\nNão há igual!\n\nMaravilhoso, admirável\nTão sublime, glorioso\n\nTua presença\nÉ mais desejável\nDo que o ouro\n\nMelhor que a vida\nÉ o Teu amor\n\nMaravilhoso, admirável\nTão sublime, glorioso\n\nTua presença\nÉ mais desejável\nDo que o ouro\n\nMelhor que a vida\nÉ o Teu amor\n\nAh, como espero o dia\nEm que verei a face\nDo meu amado\n\nAh, como espero o dia\nEm que a alegria\nEnfim será completa\n\nE Ele virá soberano em poder\nEle virá e o governo está Nele\n\nVejam, Ele traz consigo\nA sua recompensa\n\nEle virá soberano em poder\nEle virá e o governo está Nele\n\nVejam, Ele traz consigo\nA sua recompensa",
       "full_text_with_comment": null,
       "paragraphs": [
@@ -22525,9 +22681,9 @@
     },
     "streaming": {
       "audio": {
-        "spotify": "https://open.spotify.com/track/0PEkKjD8bgssfDbKUzKQ21",
-        "youtube": "https://youtube.com/watch?v=cBann0oTGsM",
-        "deezer": "https://deezer.com/track/3150925381"
+        "spotify": "",
+        "youtube": "https://www.youtube.com/watch?v=JGAFpVZsak8&source_ve_path=NzY3NTg&embeds_referring_euri=https%3A%2F%2Fwww.cifraclub.com.br%2F&embeds_referring_origin=https%3A%2F%2Fwww.cifraclub.com.br",
+        "deezer": ""
       },
       "backing_track": {
         "spotify": "",
@@ -22536,7 +22692,7 @@
       }
     },
     "extras": {
-      "cifra": "https://www.cifrashub.com.br/song/florianopolis-house-of-prayer/sublime",
+      "cifra": "https://www.cifrashub.com.br/song/beth-ramos/sublime-e-ele-a-ele-a-gloria",
       "extra": ""
     }
   },
