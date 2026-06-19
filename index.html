@@ -198,7 +198,7 @@
                             <th width="38%">Artista</th>
                             <th width="2%">BPM</th>
                             <th width="2%">Comp.</th>
-                            <th width="2%">Tom</th>
+                            <!-- <th width="2%">Tom</th> -->
                             <th width="2%">Cifra</th>
                             <th width="2%">Link</th>
                         </tr>
@@ -259,10 +259,7 @@
                                     </td>` : '<td></td>'}
                                     ${(musica.time_sig) ? `<td align='center'>
                                         ${musica.time_sig}
-                                    </td>` : '<td></td>'}
-                                    ${(musica.key) ? `<td align='center'>
-                                        ${musica.key}
-                                    </td>` : '<td></td>'}
+                                    </td>` : '<td></td>'}                                    
                                     ${(musica.extras.cifra) ? `<td align='center'>
                                         <a href="${musica.extras.cifra}" target="_blank" rel="noopener noreferrer">
                                             <i class="bx bx-list-music" style="color:#000000; font-size:1.5em;"></i>
@@ -275,6 +272,10 @@
                                     </td>
                                 </tr>`;
                     });
+
+                    // ${(musica.key) ? `<td align='center'>
+                    //                     ${musica.key}
+                    //                 </td>` : '<td></td>'}
 
                     $('#musicasTable tbody').html(rows);
                     $('#musicasTable').DataTable({
