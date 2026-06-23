@@ -1593,48 +1593,62 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Ao único que é digno de receber\nA honra e a glória, a força e o poder\n\nAo Rei eterno e imortal\nInvisível, mas real\n\nA Ele ministramos o louvor\n\nCoroamos a Ti, ó Rei Jesus\nCoroamos a Ti, ó Rei Jesus\n\nAdoramos o Teu nome\nNos rendemos aos Teus pés\n\nConsagramos todo nosso ser a Ti",
+      "full_text": "Ao único que é\ndigno de receber\n\nA honra e a glória,\na força e o poder\n\nAo Rei eterno e imortal\nInvisível, mas real\n\nA Ele ministramos\no louvor\n\nCoroamos a Ti,\nó Rei Jesus\n\nCoroamos a Ti,\nó Rei Jesus\n\nAdoramos o Teu nome\nNos rendemos\naos Teus pés\n\nConsagramos todo\nnosso ser a Ti",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Ao único que é digno de receber\nA honra e a glória, a força e o poder",
+          "text": "Ao único que é\ndigno de receber",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "Ao Rei eterno e imortal\nInvisível, mas real",
+          "text": "A honra e a glória,\na força e o poder",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "A Ele ministramos o louvor",
+          "text": "Ao Rei eterno e imortal\nInvisível, mas real",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Coroamos a Ti, ó Rei Jesus\nCoroamos a Ti, ó Rei Jesus",
+          "text": "A Ele ministramos\no louvor",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Adoramos o Teu nome\nNos rendemos aos Teus pés",
+          "text": "Coroamos a Ti,\nó Rei Jesus",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Consagramos todo nosso ser a Ti",
+          "text": "Coroamos a Ti,\nó Rei Jesus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Adoramos o Teu nome\nNos rendemos\naos Teus pés",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Consagramos todo\nnosso ser a Ti",
           "text_with_comment": null,
           "translations": null
         }
@@ -1653,6 +1667,8 @@
       }
     },
     "extras": {
+      "playlist_semana": "S",
+      "cifra": "https://www.cifrashub.com.br/song/aline-barros/ao-unico",
       "extra": ""
     }
   },
@@ -2380,7 +2396,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "Sim",
       "cifra": "https://www.cifrashub.com.br/song/renascer-praise/bom-estarmos-aqui",
       "extra": ""
     }
@@ -2978,6 +2993,114 @@
     }
   },
   {
+    "id": 1782155778748,
+    "title": "Chuva de Poder",
+    "artist": "Eyshila",
+    "author": "Eyshila",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "E",
+    "bpm": 0.0,
+    "time_sig": "",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Chove, chove, chuva\nChuva de poder\n\nChove aqui na minha vida\nChove que eu quero ver\n\nChuva de bênção\nChuva de unção\n\nChove na minha vida\nChove na vida\ndo meu irmão\n\nMeu Deus, eu quero\nTe dizer muito obrigado\n\nPor essa chuva\nQue tens derramado\n\nAs Tuas águas\nTêm me purificado\n\nPor Tua graça\nEu sou santificado\n\nNão pare de derramar\nTua chuva sobre mim\n\nCom Tuas águas vem regar\nMinha vida meu jardim",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Chove, chove, chuva\nChuva de poder",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Chove aqui na minha vida\nChove que eu quero ver",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Chuva de bênção\nChuva de unção",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Chove na minha vida\nChove na vida\ndo meu irmão",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Meu Deus, eu quero\nTe dizer muito obrigado",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Por essa chuva\nQue tens derramado",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "As Tuas águas\nTêm me purificado",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Por Tua graça\nEu sou santificado",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Não pare de derramar\nTua chuva sobre mim",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Com Tuas águas vem regar\nMinha vida meu jardim",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "",
+        "youtube": "https://www.youtube.com/watch?v=04DGo0yRERY",
+        "deezer": "https://deezer.com/track/93550248"
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": "https://deezer.com/track/402491272"
+      }
+    },
+    "extras": {
+      "playlist_semana": "S",
+      "cifra": "https://www.cifrashub.com.br/song/eyshila/chuva-de-poder",
+      "extra": ""
+    }
+  },
+  {
     "id": 1762265976644,
     "title": "Clamo Jesus",
     "artist": "Paulo César Baruk e Marsena",
@@ -3347,6 +3470,128 @@
       }
     },
     "extras": {
+      "extra": ""
+    }
+  },
+  {
+    "id": 1782176049183,
+    "title": "Como Eu Te Amo",
+    "artist": "Fernandinho",
+    "author": "Fernandinho",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "D",
+    "bpm": 71.5,
+    "time_sig": "4/4",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "És meu tudo\nÉs meu Senhor\n\nÉs meu amigo\nMeu intercessor\n\nMeu braço forte\nMeu conselheiro\n\nMaravilhoso\nMeu 'Grande Eu Sou'\n\nEu não sou nada sem Ti\nEu não vivo sem Ti\n\nSem Tua presença\neu morro\n\nComo eu Te amo\nComo eu Te quero\n\nSim, eu me prostro\nAos Teus pés\n\nA minha vida\nEu Te consagro\n\nTudo o que tenho\nÉ totalmente Teu\n\nTudo o que sou\nÉ totalmente Teu\n\nEu Te amo",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "És meu tudo\nÉs meu Senhor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "És meu amigo\nMeu intercessor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Meu braço forte\nMeu conselheiro",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Maravilhoso\nMeu 'Grande Eu Sou'",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Eu não sou nada sem Ti\nEu não vivo sem Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Sem Tua presença\neu morro",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Como eu Te amo\nComo eu Te quero",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Sim, eu me prostro\nAos Teus pés",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "A minha vida\nEu Te consagro",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Tudo o que tenho\nÉ totalmente Teu",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Tudo o que sou\nÉ totalmente Teu",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Eu Te amo",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "",
+        "youtube": "https://youtube.com/watch?v=xD2LwUxBzro",
+        "deezer": "https://deezer.com/track/694749102"
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": ""
+      }
+    },
+    "extras": {
+      "playlist_semana": "S",
+      "cifra": "https://www.cifrashub.com.br/song/fernandinho/como-eu-te-amo",
       "extra": ""
     }
   },
@@ -6025,13 +6270,13 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Os santos e os anjos\nProstram-se a Ti\n\nOs anciãos rendem suas\ncoroas ao Cordeiro\nE a Ele cantam\n\nTu És digno de tudo\nTu És digno de tudo\n\nPois tudo vem de Ti\nE tudo é para Ti\nTua é a glória\n\nDia e noite suba a\nTi nossa adoração\n\nTe exaltamos\nTe exaltamos\n\nTe exaltamos\nOh Senhor\n\nO Senhor é alto\nSobre toda a terra\n\nE exaltado sobre o \ntrono dos céus\n\nO Senhor é alto\nSobre toda a terra\n\nE exaltado sobre o\ntrono dos céus\n\nTe exaltamos\nTe exaltamos\n\nTe exaltamos\nOh Senhor",
+      "full_text": "Os santos e os anjos\nSe prostam aos Teus pés\n\nOs anciãos rendem suas\ncoroas ao Cordeiro\nE a Ele cantam\n\nTu És digno de tudo\nTu És digno de tudo\n\nPois tudo vem de Ti\nE tudo é para Ti\nTua é a glória\n\nDia e noite suba a\nTi nossa adoração\n\nTe exaltamos\nTe exaltamos\n\nTe exaltamos\nOh Senhor\n\nO Senhor é alto\nSobre toda a terra\n\nE exaltado sobre o \ntrono dos céus\n\nO Senhor é alto\nSobre toda a terra\n\nE exaltado sobre o\ntrono dos céus\n\nTe exaltamos\nTe exaltamos\n\nTe exaltamos\nOh Senhor",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Os santos e os anjos\nProstram-se a Ti",
+          "text": "Os santos e os anjos\nSe prostam aos Teus pés",
           "text_with_comment": null,
           "translations": null
         },
@@ -6134,7 +6379,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "Sim",
       "cifra": "https://www.cifrashub.com.br/song/adoracao-central/digno-de-tudo-te-exaltamos",
       "extra": ""
     }
@@ -8263,7 +8507,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "Sim",
       "cifra": "https://www.cifrashub.com.br/song/renascer-praise/eu-me-rendo",
       "extra": ""
     }
@@ -13658,48 +13901,76 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Este é o meu respirar\nEste é o meu respirar\n\nTeu Santo Espírito\nVivendo em mim\n\nE este é o meu pão\nE este é o meu pão\n\nTua Vontade\nFeita em mim\n\nE eu, eu nada sou sem Ti\nE eu perdido estou sem Ti\n\nEste é o meu respirar\nEste é o meu respirar",
+      "full_text": "Este é o meu respirar\n\nEste é o meu respirar\n\nTeu Santo Espírito\nVivendo em mim\n\nE este é o meu pão\n\nE este é o meu pão\n\nTua Vontade\nFeita em mim\n\nE eu, eu nada\nsou sem Ti\n\nE eu perdido\nestou sem Ti\n\nEste é o meu respirar\n\nEste é o meu respirar",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Este é o meu respirar\nEste é o meu respirar",
+          "text": "Este é o meu respirar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "Teu Santo Espírito\nVivendo em mim",
+          "text": "Este é o meu respirar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "E este é o meu pão\nE este é o meu pão",
+          "text": "Teu Santo Espírito\nVivendo em mim",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Tua Vontade\nFeita em mim",
+          "text": "E este é o meu pão",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "E eu, eu nada sou sem Ti\nE eu perdido estou sem Ti",
+          "text": "E este é o meu pão",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Este é o meu respirar\nEste é o meu respirar",
+          "text": "Tua Vontade\nFeita em mim",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "E eu, eu nada\nsou sem Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "E eu perdido\nestou sem Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Este é o meu respirar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Este é o meu respirar",
           "text_with_comment": null,
           "translations": null
         }
@@ -13718,6 +13989,8 @@
       }
     },
     "extras": {
+      "playlist_semana": "S",
+      "cifra": "https://www.cifrashub.com.br/song/vineyard/meu-respirar",
       "extra": ""
     }
   },
@@ -15274,7 +15547,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Ninguém é igual a Jesus\nNinguém é igual a Jesus\n\nNinguém é igual a Jesus\nNinguém é igual a Jesus\n\nJá procuramos, todo lugar\nNós já tocamos, todo lugar\n\nJá rodeamos todo lugar\nNinguém é igual a Jesus\n\nNinguém é igual a Jesus\nNinguém é igual a Jesus\n\nNinguém é igual a Jesus\nNinguém é igual a Jesus\n\nKakuli walisoka la Iesu\nKakuli walisoka la Iesu\n\nKakuli walisoka la Iesu\nKakuli, kakuli, kakuli",
+      "full_text": "Ninguém é igual a Jesus\nNinguém é igual a Jesus\n\nNinguém é igual a Jesus\nNinguém é igual a Jesus\n\nJá procuramos, todo lugar\nNós já tocamos, todo lugar\n\nJá rodeamos todo lugar\nNinguém é igual a Jesus\n\nNinguém é igual a Jesus\nNinguém é igual a Jesus\n\nNinguém é igual a Jesus\nNinguém é igual a Jesus\n\nAndei, andei, não vi nada\nProcurei, procurei, não vi nada\n\nGirei, girei, não vi nada\nNinguém é igual a Jesus",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -15322,14 +15595,14 @@
         {
           "number": 7,
           "description": "",
-          "text": "Kakuli walisoka la Iesu\nKakuli walisoka la Iesu",
+          "text": "Andei, andei, não vi nada\nProcurei, procurei, não vi nada",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Kakuli walisoka la Iesu\nKakuli, kakuli, kakuli",
+          "text": "Girei, girei, não vi nada\nNinguém é igual a Jesus",
           "text_with_comment": null,
           "translations": null
         }
@@ -15348,7 +15621,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "Sim",
       "cifra": "https://www.cifrashub.com.br/song/3-palavrinhas/ninguem-e-igual-a-jesus",
       "extra": ""
     }
@@ -17264,7 +17536,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "No início eras a palavra\nUm com Deus, o Altíssimo\n\nO mistério de Tua glória\nCristo, em Ti Se revelou\n\nÓ, quão lindo esse nome é\nÓ, quão lindo esse nome é\n\nO nome de Jesus, meu Rei\n\nÓ, quão lindo esse nome é\nMaior que tudo Ele é\n\nÓ, quão lindo esse nome é\nO nome de Jesus\n\nDeixou o céu para buscar-nos\nVeio pra nos resgatar\n\nAmor maior que o meu pecado\nNada vai nos separar\n\nÓ, quão maravilhoso é\nÓ, quão maravilhoso é\n\nO nome de Jesus, meu Rei\n\nÓ, quão maravilhoso é\nMaior que tudo Ele é\n\nÓ, quão maravilhoso é\nO nome de Jesus\n\nA morte venceste, o véu Tu rompeste\nA tumba vazia agora está\n\nO céu Te adora, proclama Tua glória\nPois ressuscitaste e vivo estás\n\nÉs invencível, inigualável\nHoje e pra sempre reinarás\n\nTeu é o reino, Tua é a glória\nAcima de todo nome está\n\nPoderoso esse nome é\nPoderoso esse nome é\n\nO nome de Jesus, meu Rei\n\nPoderoso esse nome é\nMais forte que tudo é\n\nPoderoso esse nome é\nO nome de Jesus",
+      "full_text": "No início eras a palavra\nUm com Deus, o Altíssimo\n\nO mistério de Tua glória\nCristo, em Ti Se revelou\n\nÓ, quão lindo esse nome é\nÓ, quão lindo esse nome é\n\nO nome de Jesus, meu Rei\n\nÓ, quão lindo esse nome é\nMaior que tudo Ele é\n\nÓ, quão lindo esse nome é\nO nome de Jesus\n\nDeixou o céu para buscar-nos\nVeio pra nos resgatar\n\nAmor maior que o meu pecado\nNada vai nos separar\n\nÓ, quão maravilhoso é\nÓ, quão maravilhoso é\n\nO nome de Jesus, meu Rei\n\nÓ, quão maravilhoso é\nMaior que tudo Ele é\n\nÓ, quão maravilhoso é\nO nome de Jesus\n\nA morte venceste\nO véu Tu rompeste\nA tumba vazia agora está\n\nO céu Te adora\nProclama Tua glória\nPois ressuscitaste e vivo estás\n\nÉs invencível, inigualável\nHoje e pra sempre reinarás\n\nTeu é o reino, Tua é a glória\nAcima de todo nome está\n\nPoderoso esse nome é\nPoderoso esse nome é\n\nO nome de Jesus, meu Rei\n\nPoderoso esse nome é\nMais forte que tudo é\n\nPoderoso esse nome é\nO nome de Jesus",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -17354,14 +17626,14 @@
         {
           "number": 13,
           "description": "",
-          "text": "A morte venceste, o véu Tu rompeste\nA tumba vazia agora está",
+          "text": "A morte venceste\nO véu Tu rompeste\nA tumba vazia agora está",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 14,
           "description": "",
-          "text": "O céu Te adora, proclama Tua glória\nPois ressuscitaste e vivo estás",
+          "text": "O céu Te adora\nProclama Tua glória\nPois ressuscitaste e vivo estás",
           "text_with_comment": null,
           "translations": null
         },
@@ -17422,7 +17694,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "Sim",
       "cifra": "https://www.cifrashub.com.br/song/ana-nobrega/oh-quao-lindo-esse-nome-",
       "extra": ""
     }
@@ -18067,7 +18338,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "Sim",
       "cifra": "https://www.cifrashub.com.br/song/amanda-wanessa/perto-quero-estar",
       "extra": ""
     }
@@ -19156,109 +19426,95 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Estou no meu jardim\n\nTranquei a porta\nAbri meu coração\n\nReguei minhas raízes\nCom minhas lágrimas\n\nGotas de adoração\n\nSenhor, não quero\nQue os meus olhos\n\nPercam o brilho\nDo primeiro amor por Ti\n\nNão quero\nQue em mim se perca\n\nO desejo de Te adorar\n\nVem, Senhor, e me resgata\nTodos os dias, só pra Te adorar\n\nQuero ser Teu bom perfume\nPrimeira essência\n\nJardim particular\n\nTe adoro, Te adoro\n\nVem sobre mim, Senhor\nVem sobre mim, Senhor\n\nVem sobre mim, Senhor\nVem sobre mim, Senhor\n\nTe adoro, Te adoro",
+      "full_text": "Estou no meu jardim\nTranquei a porta\nAbri meu coração\n\nReguei minhas raízes\nCom minhas lágrimas\nGotas de adoração\n\nSenhor, não quero\nQue os meus olhos\n\nPercam o brilho\nDo primeiro amor por Ti\n\nNão quero\nQue em mim se perca\nO desejo de Te adorar\n\nVem, Senhor,\ne me resgata\n\nTodos os dias,\nsó pra Te adorar\n\nQuero ser Teu\nbom perfume\n\nPrimeira essência\nJardim particular\n\nTe adoro, Te adoro\n\nVem sobre mim, Senhor\nVem sobre mim, Senhor\n\nVem sobre mim, Senhor\nVem sobre mim, Senhor\n\nTe adoro, Te adoro",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Estou no meu jardim",
+          "text": "Estou no meu jardim\nTranquei a porta\nAbri meu coração",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "Tranquei a porta\nAbri meu coração",
+          "text": "Reguei minhas raízes\nCom minhas lágrimas\nGotas de adoração",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "Reguei minhas raízes\nCom minhas lágrimas",
+          "text": "Senhor, não quero\nQue os meus olhos",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Gotas de adoração",
+          "text": "Percam o brilho\nDo primeiro amor por Ti",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Senhor, não quero\nQue os meus olhos",
+          "text": "Não quero\nQue em mim se perca\nO desejo de Te adorar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Percam o brilho\nDo primeiro amor por Ti",
+          "text": "Vem, Senhor,\ne me resgata",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Não quero\nQue em mim se perca",
+          "text": "Todos os dias,\nsó pra Te adorar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "O desejo de Te adorar",
+          "text": "Quero ser Teu\nbom perfume",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 9,
           "description": "",
-          "text": "Vem, Senhor, e me resgata\nTodos os dias, só pra Te adorar",
+          "text": "Primeira essência\nJardim particular",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 10,
           "description": "",
-          "text": "Quero ser Teu bom perfume\nPrimeira essência",
+          "text": "Te adoro, Te adoro",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 11,
           "description": "",
-          "text": "Jardim particular",
+          "text": "Vem sobre mim, Senhor\nVem sobre mim, Senhor",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 12,
           "description": "",
-          "text": "Te adoro, Te adoro",
+          "text": "Vem sobre mim, Senhor\nVem sobre mim, Senhor",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 13,
-          "description": "",
-          "text": "Vem sobre mim, Senhor\nVem sobre mim, Senhor",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 14,
-          "description": "",
-          "text": "Vem sobre mim, Senhor\nVem sobre mim, Senhor",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 15,
           "description": "",
           "text": "Te adoro, Te adoro",
           "text_with_comment": null,
@@ -19279,6 +19535,8 @@
       }
     },
     "extras": {
+      "playlist_semana": "S",
+      "cifra": "https://www.cifrashub.com.br/song/aline-barros/primeira-essencia",
       "extra": ""
     }
   },
@@ -20338,7 +20596,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "Sim",
       "cifra": "https://www.cifrashub.com.br/song/armando-filho/quero-que-valorize",
       "extra": ""
     }
@@ -21890,81 +22147,60 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Se o sol se pôr\nE a noite chegar\n\nTu és quem me guia\n\nSe a tempestade\nMe alcançar\n\nTu és meu abrigo\n\nSe o mar me submergir\n\nA Tua mão me traz\nÀ tona pra respirar\n\nE me faz andar\nSobre as águas\n\nTu és o Deus\nDa minha salvação\n\nÉs o meu dono\nMinha paixão\n\nMinha canção\nE o meu louvor\n\nAleluia aleluia",
+      "full_text": "Se o sol se pôr\nE a noite chegar\nTu és quem me guia\n\nSe a tempestade\nMe alcançar\nTu és meu abrigo\n\nSe o mar me submergir\nA Tua mão me traz\nÀ tona pra respirar\n\nE me faz andar\nSobre as águas\n\nTu és o Deus\nDa minha salvação\n\nÉs o meu dono\nMinha paixão\n\nMinha canção\nE o meu louvor\n\nAleluia aleluia",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Se o sol se pôr\nE a noite chegar",
+          "text": "Se o sol se pôr\nE a noite chegar\nTu és quem me guia",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "Tu és quem me guia",
+          "text": "Se a tempestade\nMe alcançar\nTu és meu abrigo",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "Se a tempestade\nMe alcançar",
+          "text": "Se o mar me submergir\nA Tua mão me traz\nÀ tona pra respirar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Tu és meu abrigo",
+          "text": "E me faz andar\nSobre as águas",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Se o mar me submergir",
+          "text": "Tu és o Deus\nDa minha salvação",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "A Tua mão me traz\nÀ tona pra respirar",
+          "text": "És o meu dono\nMinha paixão",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "E me faz andar\nSobre as águas",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 8,
-          "description": "",
-          "text": "Tu és o Deus\nDa minha salvação",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 9,
-          "description": "",
-          "text": "És o meu dono\nMinha paixão",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 10,
-          "description": "",
           "text": "Minha canção\nE o meu louvor",
           "text_with_comment": null,
           "translations": null
         },
         {
-          "number": 11,
+          "number": 8,
           "description": "",
           "text": "Aleluia aleluia",
           "text_with_comment": null,
@@ -21985,6 +22221,8 @@
       }
     },
     "extras": {
+      "playlist_semana": "S",
+      "cifra": "https://www.cifrashub.com.br/song/toque-no-altar/sobre-as-aguas",
       "extra": ""
     }
   },
@@ -26136,6 +26374,8 @@
       }
     },
     "extras": {
+      "playlist_semana": "S",
+      "cifra": "https://www.cifrashub.com.br/song/marcos-freire/yahweh-se-manifestara-part-julliany-souza-e-leo-brandao",
       "extra": ""
     }
   },
