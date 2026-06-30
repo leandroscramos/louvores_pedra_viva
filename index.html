@@ -80,17 +80,17 @@
                     <thead>
                         <tr>
                             <th width="2%">#</th>
-                            <th width="50%">Título</th>
+                            <th>Título</th>
                             <th width="38%">Artista</th>
-                            <th width="2%">BPM</th>
-                            <th width="2%">Comp.</th>
-                            <!-- <th width="2%">Tom</th> -->
-                            <th width="2%">Cifra</th>
-                            <th width="2%">Link</th>
+                            <th width="1%">BPM</th>
+                            <th width="1%">Comp.</th>
+                            <th width="1%">Tom</th>
+                            <th width="1%">Cifra</th>
+                            <th width="1%">Link</th>
                         </tr>
                     </thead>
                     <tbody>
-                        
+
                     </tbody>
                 </table>
             </div>
@@ -105,13 +105,13 @@
                     <thead>
                         <tr>
                             <th width="2%">#</th>
-                            <th width="50%">Título</th>
+                            <th>Título</th>
                             <th width="38%">Artista</th>
-                            <th width="2%">BPM</th>
-                            <th width="2%">Comp.</th>
-                            <!-- <th width="2%">Tom</th> -->
-                            <th width="2%">Cifra</th>
-                            <th width="2%">Link</th>
+                            <th width="1%">BPM</th>
+                            <th width="1%">Comp.</th>
+                            <th width="1%">Tom</th>
+                            <th width="1%">Cifra</th>
+                            <th width="1%">Link</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -138,7 +138,7 @@
     <script src="https://cdn.datatables.net/1.13.7/js/dataTables.bootstrap5.min.js"></script>
 
     <script>
-        $(document).ready(function () {            
+        $(document).ready(function () {
 
             // Ordenação sensível a locale (pt-BR) para considerar acentos corretamente.
             // Strip HTML tags from cell content before comparison (os títulos possuem <strong>).
@@ -170,7 +170,10 @@
                                     </td>` : '<td></td>'}
                                     ${(musica.time_sig) ? `<td align='center'>
                                         ${musica.time_sig}
-                                    </td>` : '<td></td>'}                                    
+                                    </td>` : '<td></td>'}
+                                    ${(musica.key) ? `<td align='center'>
+                                        ${musica.key}
+                                    </td>` : '<td></td>'}
                                     ${(musica.extras.cifra) ? `<td align='center'>
                                         <a href="${musica.extras.cifra}" target="_blank" rel="noopener noreferrer">
                                             <i class="bx bx-list-music" style="color:#000000; font-size:1.5em;"></i>
@@ -183,10 +186,6 @@
                                     </td>
                                 </tr>`;
                     });
-
-                    // ${(musica.key) ? `<td align='center'>
-                    //                     ${musica.key}
-                    //                 </td>` : '<td></td>'}
 
                     $('#musicasTable tbody').html(rows);
                     $('#musicasTable').DataTable({
@@ -208,7 +207,7 @@
                     $('#musicasTable tbody').html('<tr><td colspan="4">Erro ao carregar músicas.</td></tr>');
                 });
 
-                fetch('musicas.json')
+            fetch('musicas.json')
                 .then(response => response.json())
                 .then(data => {
                     let rows = '';
@@ -217,8 +216,8 @@
                     data.forEach(musica => {
 
                         if (musica.extras.playlist_semana) {
-                        $num_rand = Math.floor(Math.random() * 1000);
-                        rows += `<tr>                                    
+                            $num_rand = Math.floor(Math.random() * 1000);
+                            rows += `<tr>                                    
                                     <td><strong>`+ $num_rand + `</strong></td>
                                     <td><strong>${musica.title}</strong></td>
                                     <td>${musica.artist}</td>                                                                      
@@ -228,6 +227,9 @@
                                     ${(musica.time_sig) ? `<td align='center'>
                                         ${musica.time_sig}
                                     </td>` : '<td></td>'}                                    
+                                    ${(musica.key) ? `<td align='center'>
+                                        ${musica.key}
+                                    </td>` : '<td></td>'}
                                     ${(musica.extras.cifra) ? `<td align='center'>
                                         <a href="${musica.extras.cifra}" target="_blank" rel="noopener noreferrer">
                                             <i class="bx bx-list-music" style="color:#000000; font-size:1.5em;"></i>
@@ -239,7 +241,7 @@
                                         </a>
                                     </td>
                                 </tr>`;
-                            }
+                        }
                     });
 
                     $('#musicasSemana tbody').html(rows);
@@ -264,7 +266,7 @@
                     $('#musicasSemana tbody').html('<tr><td colspan="4">Erro ao carregar músicas.</td></tr>');
                 });
         });
-        
+
     </script>
 </body>
 
