@@ -1667,7 +1667,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "S",
       "cifra": "https://www.cifrashub.com.br/song/aline-barros/ao-unico",
       "extra": ""
     }
@@ -2191,6 +2190,7 @@
       }
     },
     "extras": {
+      "cifra": "https://www.cifrashub.com.br/song/marcos-goes/autoridade-poder",
       "extra": ""
     }
   },
@@ -3095,7 +3095,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "S",
       "cifra": "https://www.cifrashub.com.br/song/eyshila/chuva-de-poder",
       "extra": ""
     }
@@ -3590,7 +3589,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "S",
       "cifra": "https://www.cifrashub.com.br/song/fernandinho/como-eu-te-amo",
       "extra": ""
     }
@@ -4465,12 +4463,12 @@
   {
     "id": 1762265297953,
     "title": "Corpo e Família",
-    "artist": "Daniel Souza",
-    "author": "Daniel Souza",
+    "artist": "Corinhos Evangélicos",
+    "author": "Corinhos Evangélicos",
     "note": "",
     "copyright": "",
     "language": "",
-    "key": "A",
+    "key": "F",
     "bpm": 0.0,
     "time_sig": "4/4",
     "midi": null,
@@ -4572,6 +4570,7 @@
       }
     },
     "extras": {
+      "cifra": "https://www.cifrashub.com.br/song/corinhos-evangelicos/corpo-familia",
       "extra": ""
     }
   },
@@ -6160,6 +6159,7 @@
       }
     },
     "extras": {
+      "cifra": "https://www.cifrashub.com.br/song/quatro-por-um/diante-de-ti",
       "extra": ""
     }
   },
@@ -8426,67 +8426,74 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "A Ti eu vou clamar\n\nPois tudo vem de Ti\nE tudo está em Ti\n\nPor Ti vou caminhar\nTu és a direção, o sol a me guiar\n\nTudo pode passar\nTeu amor jamais me deixará\n\nSempre há de existir\nUm novo amanhã\n\nPreparado pra mim\nPreparado pra mim\n\nEu me rendo aos Teus pés\nÉs tudo que eu preciso pra viver\n\nEu me lanço aos Teus braços\nOnde encontro meu refúgio\n\nJesus, eis-me aqui",
+      "full_text": "A Ti eu vou clamar\nPois tudo vem de Ti\nE tudo está em Ti\n\nPor Ti vou caminhar\nTu és a direção,\no sol a me guiar\n\nTudo pode passar\nTeu amor jamais\nme deixará\n\nSempre há de existir\nUm novo amanhã\n\nPreparado pra mim\nPreparado pra mim\n\nEu me rendo\naos Teus pés\n\nÉs tudo que eu\npreciso pra viver\n\nEu me lanço aos\nTeus braços\n\nOnde encontro\nmeu refúgio\n\nJesus, eis-me aqui",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "A Ti eu vou clamar",
+          "text": "A Ti eu vou clamar\nPois tudo vem de Ti\nE tudo está em Ti",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "Pois tudo vem de Ti\nE tudo está em Ti",
+          "text": "Por Ti vou caminhar\nTu és a direção,\no sol a me guiar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "Por Ti vou caminhar\nTu és a direção, o sol a me guiar",
+          "text": "Tudo pode passar\nTeu amor jamais\nme deixará",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Tudo pode passar\nTeu amor jamais me deixará",
+          "text": "Sempre há de existir\nUm novo amanhã",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Sempre há de existir\nUm novo amanhã",
+          "text": "Preparado pra mim\nPreparado pra mim",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Preparado pra mim\nPreparado pra mim",
+          "text": "Eu me rendo\naos Teus pés",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Eu me rendo aos Teus pés\nÉs tudo que eu preciso pra viver",
+          "text": "És tudo que eu\npreciso pra viver",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Eu me lanço aos Teus braços\nOnde encontro meu refúgio",
+          "text": "Eu me lanço aos\nTeus braços",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 9,
+          "description": "",
+          "text": "Onde encontro\nmeu refúgio",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
           "description": "",
           "text": "Jesus, eis-me aqui",
           "text_with_comment": null,
@@ -8995,6 +9002,7 @@
       }
     },
     "extras": {
+      "cifra": "https://www.cifrashub.com.br/song/ronaldo-bezerra/eu-te-louvarei-meu-bom-jesus",
       "extra": ""
     }
   },
@@ -13566,6 +13574,7 @@
       }
     },
     "extras": {
+      "cifra": "https://www.cifrashub.com.br/song/felipe-rodrigues/melhor-lugar",
       "extra": ""
     }
   },
@@ -13989,7 +13998,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "S",
       "cifra": "https://www.cifrashub.com.br/song/vineyard/meu-respirar",
       "extra": ""
     }
@@ -18271,7 +18279,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Perto quero estar\nJunto aos Teus pés\n\nPois prazer maior não há\nQue me render e Te adorar\n\nTudo que há em mim\nQuero Te ofertar\n\nMas ainda é pouco, eu sei\nSe comparado ao que ganhei\n\nNão sou apenas servo\nTeu amigo me tornei\n\nTe louvarei\nNão importam as circunstâncias\n\nAdorarei\nSomente a Ti, Jesus",
+      "full_text": "Perto quero estar\nJunto aos Teus pés\n\nPois prazer maior não há\nQue me render e Te adorar\n\nTudo que há em mim\nQuero Te ofertar\n\nMas ainda é pouco, eu sei\nSe comparado ao\nque ganhei\n\nNão sou apenas servo\nTeu amigo me tornei\n\nTe louvarei\nNão importam\nas circunstâncias\n\nAdorarei\nSomente a Ti, Jesus",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -18298,7 +18306,7 @@
         {
           "number": 4,
           "description": "",
-          "text": "Mas ainda é pouco, eu sei\nSe comparado ao que ganhei",
+          "text": "Mas ainda é pouco, eu sei\nSe comparado ao\nque ganhei",
           "text_with_comment": null,
           "translations": null
         },
@@ -18312,7 +18320,7 @@
         {
           "number": 6,
           "description": "",
-          "text": "Te louvarei\nNão importam as circunstâncias",
+          "text": "Te louvarei\nNão importam\nas circunstâncias",
           "text_with_comment": null,
           "translations": null
         },
@@ -19408,6 +19416,7 @@
       }
     },
     "extras": {
+      "cifra": "https://www.cifrashub.com.br/song/aquila-amorin/preciso-de-ti-lindo-momento",
       "extra": ""
     }
   },
@@ -19535,7 +19544,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "S",
       "cifra": "https://www.cifrashub.com.br/song/aline-barros/primeira-essencia",
       "extra": ""
     }
@@ -21610,7 +21618,7 @@
     "note": "",
     "copyright": "",
     "language": "",
-    "key": "",
+    "key": "G",
     "bpm": 0.0,
     "time_sig": "",
     "midi": null,
@@ -21698,6 +21706,7 @@
       }
     },
     "extras": {
+      "cifra": "https://www.cifrashub.com.br/song/paulo-cesar-baruk/seja-engrandecido",
       "extra": ""
     }
   },
@@ -22221,7 +22230,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "S",
       "cifra": "https://www.cifrashub.com.br/song/toque-no-altar/sobre-as-aguas",
       "extra": ""
     }
@@ -23632,6 +23640,7 @@
       }
     },
     "extras": {
+      "cifra": "https://www.cifrashub.com.br/song/leandro-soares/todavia-me-alegrarei",
       "extra": ""
     }
   },
@@ -24296,6 +24305,7 @@
       }
     },
     "extras": {
+      "cifra": "https://www.cifrashub.com.br/song/felipe-rodrigues/tudo-e-perda",
       "extra": ""
     }
   },
@@ -24718,6 +24728,7 @@
       }
     },
     "extras": {
+      "cifra": "https://www.cifrashub.com.br/song/fernandinho/uma-coisa-peco-ao-senhor",
       "extra": ""
     }
   },
@@ -26374,7 +26385,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "S",
       "cifra": "https://www.cifrashub.com.br/song/marcos-freire/yahweh-se-manifestara-part-julliany-souza-e-leo-brandao",
       "extra": ""
     }
