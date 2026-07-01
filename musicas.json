@@ -753,6 +753,8 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
+      "cifra": "https://www.cifrashub.com.br/song/andre-valadao/abraca-me",
       "extra": ""
     }
   },
@@ -9892,6 +9894,8 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
+      "cifra": "https://www.cifrashub.com.br/song/fernandinho/foi-na-cruz-nada-alem-do-sangue",
       "extra": ""
     }
   },
@@ -10104,6 +10108,8 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
+      "cifra": "https://www.cifrashub.com.br/song/adhemar-de-campos/grande-o-senhor",
       "extra": ""
     }
   },
@@ -11109,7 +11115,7 @@
     "note": "",
     "copyright": "",
     "language": "",
-    "key": "",
+    "key": "G",
     "bpm": 0.0,
     "time_sig": "",
     "midi": null,
@@ -11176,6 +11182,8 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
+      "cifra": "https://www.cifrashub.com.br/song/marcos-goes/jesus-te-entronizamos-trono-de-louvor",
       "extra": ""
     }
   },
@@ -18495,6 +18503,8 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
+      "cifra": "https://www.cifrashub.com.br/song/atmosfera-de-adoracao/plano-perfeito",
       "extra": ""
     }
   },
@@ -21480,6 +21490,8 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
+      "cifra": "https://www.cifrashub.com.br/song/gabriel-guedes/santo-pra-sempre",
       "extra": ""
     }
   },
@@ -26499,6 +26511,8 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
+      "cifra": "https://www.cifrashub.com.br/song/fernandinho/yeshua-part-heloisa-rosa",
       "extra": ""
     }
   }
