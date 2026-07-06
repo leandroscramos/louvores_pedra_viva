@@ -753,7 +753,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/andre-valadao/abraca-me",
       "extra": ""
     }
@@ -9792,7 +9791,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Foi na cruz, foi na cruz\nOnde um dia eu vi\n\nMeus pecados\nCastigados em Jesus\n\nFoi ali, pela fé\nQue os olhos abri\n\nE agora me alegro\nEm Sua luz\n\nEu sou livre\nEu sou livre\n\nNada além do sangue\nNada além do sangue de Jesus\n\nEu sou livre\nEu sou livre\n\nNada além do sangue\nNada além do sangue de Jesus\n\nO Rei está voltando\nO Rei está voltando\n\nA trombeta está soando\nO meu nome irá chamar\n\nSim, o Rei está voltando\nO Rei está voltando\n\nAleluia, Ele vem me buscar",
+      "full_text": "Foi na cruz, foi na cruz\nOnde um dia eu vi\n\nMeus pecados\nCastigados em Jesus\n\nFoi ali, pela fé\nQue os olhos abri\n\nE agora me alegro\nEm Sua luz\n\nFoi na cruz, foi na cruz\nOnde um dia eu vi\n\nMeus pecados\nCastigados em Jesus\n\nFoi ali, pela fé\nQue os olhos abri\n\nE agora me alegro\nEm Sua luz\n\nEu sou livre\nEu sou livre\n\nNada além do sangue\nNada além do\nsangue de Jesus\n\nEu sou livre\nEu sou livre\n\nNada além do sangue\nNada além do\nsangue de Jesus\n\nO Rei está voltando\nO Rei está voltando\n\nA trombeta está soando\nO meu nome irá chamar\n\nSim, o Rei está voltando\nO Rei está voltando\n\nAleluia, Ele vem\nme buscar",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -9826,56 +9825,84 @@
         {
           "number": 5,
           "description": "",
-          "text": "Eu sou livre\nEu sou livre",
+          "text": "Foi na cruz, foi na cruz\nOnde um dia eu vi",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Nada além do sangue\nNada além do sangue de Jesus",
+          "text": "Meus pecados\nCastigados em Jesus",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Eu sou livre\nEu sou livre",
+          "text": "Foi ali, pela fé\nQue os olhos abri",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Nada além do sangue\nNada além do sangue de Jesus",
+          "text": "E agora me alegro\nEm Sua luz",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 9,
           "description": "",
-          "text": "O Rei está voltando\nO Rei está voltando",
+          "text": "Eu sou livre\nEu sou livre",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 10,
           "description": "",
-          "text": "A trombeta está soando\nO meu nome irá chamar",
+          "text": "Nada além do sangue\nNada além do\nsangue de Jesus",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 11,
           "description": "",
-          "text": "Sim, o Rei está voltando\nO Rei está voltando",
+          "text": "Eu sou livre\nEu sou livre",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 12,
           "description": "",
-          "text": "Aleluia, Ele vem me buscar",
+          "text": "Nada além do sangue\nNada além do\nsangue de Jesus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "O Rei está voltando\nO Rei está voltando",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "A trombeta está soando\nO meu nome irá chamar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 15,
+          "description": "",
+          "text": "Sim, o Rei está voltando\nO Rei está voltando",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 16,
+          "description": "",
+          "text": "Aleluia, Ele vem\nme buscar",
           "text_with_comment": null,
           "translations": null
         }
@@ -9894,7 +9921,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/fernandinho/foi-na-cruz-nada-alem-do-sangue",
       "extra": ""
     }
@@ -10034,7 +10060,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Grande é o Senhor\nE mui digno de louvor\n\nNa cidade do nosso Deus\nSeu Santo monte, alegria de toda Terra\n\nGrande é o Senhor\nEm quem nós temos a vitória\n\nE que nos ajuda contra o inimigo\nPor isso diante dEle nos prostramos\n\nQueremos o Teu nome engrandecer\n\nE agradecer-Te\nPor Tua obra em nossas vidas\n\nConfiamos em Teu infinito amor\n\nPois só Tu és o Deus eterno\nSobre toda Terra e céus",
+      "full_text": "Grande é o Senhor\nE mui digno de louvor\n\nNa cidade do nosso Deus\nSeu Santo monte\nAlegria de toda Terra\n\nGrande é o Senhor\nEm quem nós temos\na vitória\n\nE que nos ajuda\ncontra o inimigo\n\nPor isso diante dEle\nnos prostramos\n\nQueremos o Teu\nnome engrandecer\n\nE agradecer-Te\nPor Tua obra em\nnossas vidas\n\nConfiamos em Teu\ninfinito amor\n\nPois só Tu és o\nDeus eterno\n\nSobre toda Terra e céus",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -10047,49 +10073,63 @@
         {
           "number": 2,
           "description": "",
-          "text": "Na cidade do nosso Deus\nSeu Santo monte, alegria de toda Terra",
+          "text": "Na cidade do nosso Deus\nSeu Santo monte\nAlegria de toda Terra",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "Grande é o Senhor\nEm quem nós temos a vitória",
+          "text": "Grande é o Senhor\nEm quem nós temos\na vitória",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "E que nos ajuda contra o inimigo\nPor isso diante dEle nos prostramos",
+          "text": "E que nos ajuda\ncontra o inimigo",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Queremos o Teu nome engrandecer",
+          "text": "Por isso diante dEle\nnos prostramos",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "E agradecer-Te\nPor Tua obra em nossas vidas",
+          "text": "Queremos o Teu\nnome engrandecer",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Confiamos em Teu infinito amor",
+          "text": "E agradecer-Te\nPor Tua obra em\nnossas vidas",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Pois só Tu és o Deus eterno\nSobre toda Terra e céus",
+          "text": "Confiamos em Teu\ninfinito amor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Pois só Tu és o\nDeus eterno",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Sobre toda Terra e céus",
           "text_with_comment": null,
           "translations": null
         }
@@ -10108,7 +10148,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/adhemar-de-campos/grande-o-senhor",
       "extra": ""
     }
@@ -11182,7 +11221,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/marcos-goes/jesus-te-entronizamos-trono-de-louvor",
       "extra": ""
     }
@@ -18503,7 +18541,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/atmosfera-de-adoracao/plano-perfeito",
       "extra": ""
     }
@@ -21353,7 +21390,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "As muitas gerações\nRendidas em louvor\n\nCantando ao Cordeiro uma canção\n\nOs que em Ti se foram\nE os que hão de crer\n\nCantando ao Cordeiro uma canção\n\nTeu nome é o mais alto\nTeu nome é o maior\n\nTeu nome é sobre todos\n\nOs tronos e domínios\nGovernos e poderes\n\nTeu nome é sobre todos\n\nE os anjos clamam, Santo\nToda criação, Santo\n\nExaltado és, Santo\nSanto pra sempre\n\nQuem foi perdoado e redimido foi\nCante ao Cordeiro uma canção\n\nAquele que é livre e leva o Seu nome\nCante ao Cordeiro uma canção\n\nCantaremos para sempre\nAmém\n\nE os anjos clamam, Santo\nToda criação, Santo\n\nExaltado és, Santo\nSanto pra sempre\n\nO Teu povo canta, Santo\nSim, ao Rei dos reis, Santo\n\nTu sempre serás, Santo\nSanto pra sempre",
+      "full_text": "As muitas gerações\nRendidas em louvor\n\nCantando ao Cordeiro\numa canção\n\nOs que em Ti se foram\nE os que hão de crer\n\nCantando ao Cordeiro\numa canção\n\nTeu nome é o mais alto\nTeu nome é o maior\n\nTeu nome é sobre todos\n\nOs tronos e domínios\nGovernos e poderes\n\nTeu nome é sobre todos\n\nE os anjos clamam, Santo\nToda criação, Santo\n\nExaltado és, Santo\nSanto pra sempre\n\nQuem foi perdoado\ne redimido foi\n\nCante ao Cordeiro\numa canção\n\nAquele que é livre e\nleva o Seu nome\n\nCante ao Cordeiro\numa canção\n\nCantaremos para sempre\nAmém\n\nE os anjos clamam, Santo\nToda criação, Santo\n\nExaltado és, Santo\nSanto pra sempre\n\nO Teu povo canta, Santo\nSim, ao Rei dos reis, Santo\n\nTu sempre serás, Santo\nSanto pra sempre",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -21366,7 +21403,7 @@
         {
           "number": 2,
           "description": "",
-          "text": "Cantando ao Cordeiro uma canção",
+          "text": "Cantando ao Cordeiro\numa canção",
           "text_with_comment": null,
           "translations": null
         },
@@ -21380,7 +21417,7 @@
         {
           "number": 4,
           "description": "",
-          "text": "Cantando ao Cordeiro uma canção",
+          "text": "Cantando ao Cordeiro\numa canção",
           "text_with_comment": null,
           "translations": null
         },
@@ -21429,47 +21466,61 @@
         {
           "number": 11,
           "description": "",
-          "text": "Quem foi perdoado e redimido foi\nCante ao Cordeiro uma canção",
+          "text": "Quem foi perdoado\ne redimido foi",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 12,
           "description": "",
-          "text": "Aquele que é livre e leva o Seu nome\nCante ao Cordeiro uma canção",
+          "text": "Cante ao Cordeiro\numa canção",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 13,
           "description": "",
-          "text": "Cantaremos para sempre\nAmém",
+          "text": "Aquele que é livre e\nleva o Seu nome",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 14,
           "description": "",
-          "text": "E os anjos clamam, Santo\nToda criação, Santo",
+          "text": "Cante ao Cordeiro\numa canção",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 15,
           "description": "",
-          "text": "Exaltado és, Santo\nSanto pra sempre",
+          "text": "Cantaremos para sempre\nAmém",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 16,
           "description": "",
-          "text": "O Teu povo canta, Santo\nSim, ao Rei dos reis, Santo",
+          "text": "E os anjos clamam, Santo\nToda criação, Santo",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 17,
+          "description": "",
+          "text": "Exaltado és, Santo\nSanto pra sempre",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 18,
+          "description": "",
+          "text": "O Teu povo canta, Santo\nSim, ao Rei dos reis, Santo",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 19,
           "description": "",
           "text": "Tu sempre serás, Santo\nSanto pra sempre",
           "text_with_comment": null,
@@ -21490,7 +21541,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/gabriel-guedes/santo-pra-sempre",
       "extra": ""
     }
@@ -26511,7 +26561,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/fernandinho/yeshua-part-heloisa-rosa",
       "extra": ""
     }
