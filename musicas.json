@@ -100,12 +100,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/1evlfCwP69atq9ahcTggiu",
         "youtube": "https://youtube.com/watch?v=WdP0rBfj3ZI",
-        "deezer": "https://deezer.com/track/965608182"
+        "deezer": "https://deezer.com/track/965608182",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -207,12 +211,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/1OGtusmbhssNPdnDxqol0P",
         "youtube": "https://youtube.com/watch?v=wMppr_Hw0yQ",
-        "deezer": "https://deezer.com/track/1751492317"
+        "deezer": "https://deezer.com/track/1751492317",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -328,12 +336,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/5aH9yQIcGLtxjDBUhMRkSi",
         "youtube": "https://youtube.com/watch?v=2GWJ1QNjO8o",
-        "deezer": "https://deezer.com/track/813703812"
+        "deezer": "https://deezer.com/track/813703812",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -504,12 +516,16 @@
       "audio": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -610,12 +626,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/6YfTtc4MhkQwMjbQ41MeFE",
         "youtube": "https://youtube.com/watch?v=BZJ8laeMONI",
-        "deezer": "https://deezer.com/track/1255423732"
+        "deezer": "https://deezer.com/track/1255423732",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "https://open.spotify.com/track/6KWEXYwptPBwaNOCJa3Rdq",
         "youtube": "https://youtube.com/watch?v=_CITZ-_0iB0",
-        "deezer": "https://deezer.com/track/1169402912"
+        "deezer": "https://deezer.com/track/1169402912",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -744,12 +764,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/0qXSq3Tmf72L1MtAK8c3YU",
         "youtube": "https://youtube.com/watch?v=ggf1f8csfKQ",
-        "deezer": "https://deezer.com/track/388632021"
+        "deezer": "https://deezer.com/track/388632021",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "https://open.spotify.com/track/4crinMGCnxeOccxSjARf4J",
         "youtube": "https://youtube.com/watch?v=1X2nhsRdKm8",
-        "deezer": "https://deezer.com/track/388631891"
+        "deezer": "https://deezer.com/track/388631891",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -865,12 +889,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/0dhpQeQ8LR4UEp9gugrITU",
         "youtube": "https://youtube.com/watch?v=zXWlVWR_9JY",
-        "deezer": "https://deezer.com/track/582992892"
+        "deezer": "https://deezer.com/track/582992892",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -966,12 +994,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/2QVfl2xU1BrElsOsO3IvSx",
         "youtube": "https://youtube.com/watch?v=0hX0gp7fJ_I",
-        "deezer": "https://deezer.com/track/559367642"
+        "deezer": "https://deezer.com/track/559367642",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -1086,12 +1118,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/3alsIYiOE1PygAy2k8s2kO",
         "youtube": "https://youtube.com/watch?v=ziR49ui-G28",
-        "deezer": "https://deezer.com/track/565486912"
+        "deezer": "https://deezer.com/track/565486912",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -1234,12 +1270,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/3Goq1S2nVTYg1B42CE8Dd6",
         "youtube": "https://youtube.com/watch?v=uj3tKyWT_NM",
-        "deezer": "https://deezer.com/track/405159912"
+        "deezer": "https://deezer.com/track/405159912",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "https://open.spotify.com/track/3Zo8mCu1fHyiAN4tWXiEZn",
         "youtube": "https://youtube.com/watch?v=5i-tz_x7IME",
-        "deezer": "https://deezer.com/track/1954089867"
+        "deezer": "https://deezer.com/track/1954089867",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -1333,12 +1373,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/2crjmyGUfpWOeOPAnTqCN6",
         "youtube": "https://youtube.com/watch?v=ID6g_iOQwsA",
-        "deezer": "https://deezer.com/track/136466458"
+        "deezer": "https://deezer.com/track/136466458",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -1461,12 +1505,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/2THQMfGTKYPhbY9LVi7e5N",
         "youtube": "https://youtube.com/watch?v=CYyA5ly80q4",
-        "deezer": "https://deezer.com/track/123416976"
+        "deezer": "https://deezer.com/track/123416976",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -1567,12 +1615,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/7xBwvCYE5sPSy1UMSo5oLU",
         "youtube": "https://youtube.com/watch?v=GXZYtKq5_4k",
-        "deezer": "https://deezer.com/track/694750852"
+        "deezer": "https://deezer.com/track/694750852",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "https://open.spotify.com/track/3g9YgiuzTPQHCCktJGZP0Y",
         "youtube": "https://youtube.com/watch?v=TcjY2r1X6os",
-        "deezer": "https://deezer.com/track/1825924447"
+        "deezer": "https://deezer.com/track/1825924447",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -1659,12 +1711,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/4ILBvXzE1hHidS46q6i7zO",
         "youtube": "https://youtube.com/watch?v=nxCWRTsQgxs",
-        "deezer": "https://deezer.com/track/16533218"
+        "deezer": "https://deezer.com/track/16533218",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -1780,12 +1836,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/28ATy9KFpbfUujbB8ZMkWc",
         "youtube": "https://youtube.com/watch?v=wZfrJ3i4-sQ",
-        "deezer": "https://deezer.com/track/600933002"
+        "deezer": "https://deezer.com/track/600933002",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -1872,12 +1932,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/0L3UFMmq5An0W3j1Q9cLG6",
         "youtube": "https://youtube.com/watch?v=xOKALTQQFts",
-        "deezer": "https://deezer.com/track/135369330"
+        "deezer": "https://deezer.com/track/135369330",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -2055,12 +2119,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/0G59rX2uOta2lX83SfB8Rk",
         "youtube": "https://www.youtube.com/watch?v=4DFBOuQQi1s",
-        "deezer": "https://deezer.com/track/704975762"
+        "deezer": "https://deezer.com/track/704975762",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "https://open.spotify.com/track/522RjrMp33pdvw4mEZ33gw",
         "youtube": "https://youtube.com/watch?v=Jf7KRTq0xgw",
-        "deezer": "https://deezer.com/track/706176762"
+        "deezer": "https://deezer.com/track/706176762",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -2182,12 +2250,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/451mn9q0hSfm7PQXyYvPCh",
         "youtube": "https://youtube.com/watch?v=ZnV8cxbOEPs",
-        "deezer": "https://deezer.com/track/821945362"
+        "deezer": "https://deezer.com/track/821945362",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -2310,12 +2382,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/0LR9dbA72J4eYW8UZSrujK",
         "youtube": "https://youtube.com/watch?v=fxyg_c0bXAk",
-        "deezer": "https://deezer.com/track/137908219"
+        "deezer": "https://deezer.com/track/137908219",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -2388,12 +2464,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/2tcxDavUZYgPkJhezImwRf",
         "youtube": "https://youtube.com/watch?v=ukcvrrzfJFU",
-        "deezer": "https://deezer.com/track/1515141272"
+        "deezer": "https://deezer.com/track/1515141272",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -2536,12 +2616,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/4VvsTSxSSAu8IRBpt3iDMR",
         "youtube": "https://youtube.com/watch?v=_ptnCyRScxY",
-        "deezer": "https://deezer.com/track/2192727777"
+        "deezer": "https://deezer.com/track/2192727777",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -2692,12 +2776,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/1Tf9hIsJTzi89hzu6cbrNn",
         "youtube": "https://youtube.com/watch?v=If89YKoVu0M",
-        "deezer": "https://deezer.com/track/1034786812"
+        "deezer": "https://deezer.com/track/1034786812",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "https://open.spotify.com/track/3Ha2wGEwqZL2ZCHUpdRikw",
         "youtube": "https://youtube.com/watch?v=lYvwK-ObpjY",
-        "deezer": "https://deezer.com/track/1034788502"
+        "deezer": "https://deezer.com/track/1034788502",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -2833,12 +2921,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/0DHpr7eLBrRZvlXa4sNwhd",
         "youtube": "https://youtube.com/watch?v=nqZunX8XoLg",
-        "deezer": "https://deezer.com/track/565493212"
+        "deezer": "https://deezer.com/track/565493212",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -2981,12 +3073,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/5ShkPfQmBWA1BT2uqu8S7Q",
         "youtube": "https://youtube.com/watch?v=WmIGJiJiCMs",
-        "deezer": "https://deezer.com/track/93550264"
+        "deezer": "https://deezer.com/track/93550264",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "https://open.spotify.com/track/1258YbkIavq1sOwJtvQa3z",
         "youtube": "https://youtube.com/watch?v=y_32gvKdSSY",
-        "deezer": "https://deezer.com/track/402491352"
+        "deezer": "https://deezer.com/track/402491352",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -3008,7 +3104,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Chove, chove, chuva\nChuva de poder\n\nChove aqui na minha vida\nChove que eu quero ver\n\nChuva de bênção\nChuva de unção\n\nChove na minha vida\nChove na vida\ndo meu irmão\n\nMeu Deus, eu quero\nTe dizer muito obrigado\n\nPor essa chuva\nQue tens derramado\n\nAs Tuas águas\nTêm me purificado\n\nPor Tua graça\nEu sou santificado\n\nNão pare de derramar\nTua chuva sobre mim\n\nCom Tuas águas vem regar\nMinha vida meu jardim",
+      "full_text": "Chove, chove, chuva\nChuva de poder\n\nChove aqui na minha vida\nChove que eu quero ver\n\nChuva de bênção\nChuva de unção\n\nChove na minha vida\nChove na vida\ndo meu irmão\n\nMeu Deus, eu quero\nTe dizer muito obrigado\n\nPor essa chuva\nQue tens derramado\n\nAs Tuas águas\nTêm me purificado\n\nPor Tua graça\nEu sou santificado\n\nNão pare de derramar\nTua chuva sobre mim\n\nCom Tuas águas vem regar\nMinha vida meu jardim\n\nChove, chove, chuva\nChuva de poder\n\nChove aqui na minha vida\nChove que eu quero ver\n\nChuva de bênção\nChuva de unção\n\nChove na minha vida\nChove na vida\ndo meu irmão",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -3080,6 +3176,34 @@
           "text": "Com Tuas águas vem regar\nMinha vida meu jardim",
           "text_with_comment": null,
           "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Chove, chove, chuva\nChuva de poder",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Chove aqui na minha vida\nChove que eu quero ver",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "Chuva de bênção\nChuva de unção",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "Chove na minha vida\nChove na vida\ndo meu irmão",
+          "text_with_comment": null,
+          "translations": null
         }
       ]
     },
@@ -3087,12 +3211,16 @@
       "audio": {
         "spotify": "",
         "youtube": "https://www.youtube.com/watch?v=04DGo0yRERY",
-        "deezer": "https://deezer.com/track/93550248"
+        "deezer": "https://deezer.com/track/93550248",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": "https://deezer.com/track/402491272"
+        "deezer": "https://deezer.com/track/402491272",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -3271,12 +3399,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/3Ns4xzoj5d1r0K5pc9uq64",
         "youtube": "https://youtube.com/watch?v=XRjzucVFcEs",
-        "deezer": "https://deezer.com/track/2401937375"
+        "deezer": "https://deezer.com/track/2401937375",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "https://open.spotify.com/track/2Cyv2593n9FhIZOsSwTqc7",
         "youtube": "https://youtube.com/watch?v=eGD9qLA_RE8",
-        "deezer": "https://deezer.com/track/2401937385"
+        "deezer": "https://deezer.com/track/2401937385",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -3461,12 +3593,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/0suvVjf5ZT2Pasu1cDPEVr",
         "youtube": "https://youtube.com/watch?v=rM_ajX5FMn0",
-        "deezer": "https://deezer.com/track/93547804"
+        "deezer": "https://deezer.com/track/93547804",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "https://open.spotify.com/track/7E3xtUtXjM2hX8ES2tjXia",
         "youtube": "https://youtube.com/watch?v=DnTc_3RiVJw",
-        "deezer": "https://deezer.com/track/384931211"
+        "deezer": "https://deezer.com/track/384931211",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -3581,12 +3717,16 @@
       "audio": {
         "spotify": "",
         "youtube": "https://youtube.com/watch?v=xD2LwUxBzro",
-        "deezer": "https://deezer.com/track/694749102"
+        "deezer": "https://deezer.com/track/694749102",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -3674,12 +3814,16 @@
       "audio": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -3808,12 +3952,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/5oaAx3LoQLdQvwUvneLJ5L",
         "youtube": "https://youtube.com/watch?v=b2mxe9IbxRY",
-        "deezer": "https://deezer.com/track/127133483"
+        "deezer": "https://deezer.com/track/127133483",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -3942,12 +4090,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/7CqdBXQKdKE6DrQgpbRdCP",
         "youtube": "https://youtube.com/watch?v=S1sBFBvYm5E",
-        "deezer": "https://deezer.com/track/606904112"
+        "deezer": "https://deezer.com/track/606904112",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -4041,12 +4193,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/4bxDGghFKLGfffrcC311N4",
         "youtube": "https://youtube.com/watch?v=vtWPdszqdsc",
-        "deezer": "https://deezer.com/track/3075855221"
+        "deezer": "https://deezer.com/track/3075855221",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -4449,12 +4605,16 @@
       "audio": {
         "spotify": "",
         "youtube": "https://youtu.be/-pF61TKvDz8?si=DRcTeCRPjf1RaDvn",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -4562,12 +4722,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/4bh7D6wr9KzwGneRiMHT8T",
         "youtube": "https://youtube.com/watch?v=srtY_TVrHQQ",
-        "deezer": "https://deezer.com/track/85569002"
+        "deezer": "https://deezer.com/track/85569002",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -4655,12 +4819,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/6yu9FNjHf7BZHCuC23MO9O",
         "youtube": "https://youtube.com/watch?v=6xdXtg8dKng",
-        "deezer": "https://deezer.com/track/881181202"
+        "deezer": "https://deezer.com/track/881181202",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "https://open.spotify.com/track/2fbLyXwRu2IYLmxjw4KMv5",
         "youtube": "https://youtube.com/watch?v=kB2_E6HIM3U",
-        "deezer": "https://deezer.com/track/881196982"
+        "deezer": "https://deezer.com/track/881196982",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -4775,12 +4943,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/56tz4dLbydeQGTcWs7nMHa",
         "youtube": "https://youtube.com/watch?v=MiMGdPB46jY",
-        "deezer": "https://deezer.com/track/821433612"
+        "deezer": "https://deezer.com/track/821433612",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -4868,12 +5040,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/7KdhlzO7mTR5u4fgF5cYmm",
         "youtube": "https://youtube.com/watch?v=qNI4A4HO1x8",
-        "deezer": "https://deezer.com/track/1492928342"
+        "deezer": "https://deezer.com/track/1492928342",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -5037,12 +5213,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/449TmbIw140iAdtYpUWB4h",
         "youtube": "https://youtube.com/watch?v=hBm6cXUy7ng",
-        "deezer": "https://deezer.com/track/93547030"
+        "deezer": "https://deezer.com/track/93547030",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "https://open.spotify.com/track/4KMFOAG7wgYU7rf3wVZDCi",
         "youtube": "https://youtube.com/watch?v=lZJl4aUG7Tw",
-        "deezer": "https://deezer.com/track/402487592"
+        "deezer": "https://deezer.com/track/402487592",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -5178,12 +5358,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/07XsRu1N77zOxY1ABaj45k",
         "youtube": "https://youtube.com/watch?v=d8-K0EMVeNA",
-        "deezer": "https://deezer.com/track/2182407867"
+        "deezer": "https://deezer.com/track/2182407867",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -5284,12 +5468,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/7yhCoy4qDIP6KApRKzDero",
         "youtube": "https://youtube.com/watch?v=1OhMjDC6cNU",
-        "deezer": "https://deezer.com/track/1765659857"
+        "deezer": "https://deezer.com/track/1765659857",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -5425,12 +5613,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/2zIUZPKNlGrnlxagZmKTFd",
         "youtube": "https://youtube.com/watch?v=iE0q-pV8jGQ",
-        "deezer": "https://deezer.com/track/124016876"
+        "deezer": "https://deezer.com/track/124016876",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "https://open.spotify.com/track/6JzQ7QnWAbp7RH9SFeG6ba",
         "youtube": "https://youtube.com/watch?v=XVZ5-x9sYtE",
-        "deezer": "https://deezer.com/track/402490522"
+        "deezer": "https://deezer.com/track/402490522",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -5510,12 +5702,16 @@
       "audio": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -5658,12 +5854,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/3jOeKEYMrgj6RHxEYfH7dI",
         "youtube": "https://youtube.com/watch?v=PsZoV7fchOM",
-        "deezer": "https://deezer.com/track/354624101"
+        "deezer": "https://deezer.com/track/354624101",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -5820,12 +6020,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/1XGPIdV19Qp3p7aBGhP6EQ",
         "youtube": "https://youtube.com/watch?v=rzWLwCk77Rs",
-        "deezer": "https://deezer.com/track/471588542"
+        "deezer": "https://deezer.com/track/471588542",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "https://open.spotify.com/track/2ZLuMbBHv7BqDMO72YjEPh",
         "youtube": "https://youtube.com/watch?v=__SYzx7VB-0",
-        "deezer": "https://deezer.com/track/471598682"
+        "deezer": "https://deezer.com/track/471598682",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -5968,12 +6172,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/6Eys2kpYf4z9PlRJ48Ql8C",
         "youtube": "https://youtube.com/watch?v=7_CVewBfqSQ",
-        "deezer": "https://deezer.com/track/93551640"
+        "deezer": "https://deezer.com/track/93551640",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "https://open.spotify.com/track/5EXWRSRIJKmV5VjiScMQWB",
         "youtube": "https://youtube.com/watch?v=IktnutYwG_w",
-        "deezer": "https://deezer.com/track/384929571"
+        "deezer": "https://deezer.com/track/384929571",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -6151,12 +6359,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/42BrUYBLYMUtj8kx7hqjLU",
         "youtube": "https://youtube.com/watch?v=Ru2PUolc6y0",
-        "deezer": "https://deezer.com/track/93550116"
+        "deezer": "https://deezer.com/track/93550116",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "https://open.spotify.com/track/5xJy3C3Lnhsh3NcRHhzVRS",
         "youtube": "https://youtube.com/watch?v=25-UXNOCAnM",
-        "deezer": "https://deezer.com/track/402489092"
+        "deezer": "https://deezer.com/track/402489092",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -6244,12 +6456,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/7m9Yjd7dma1RPkKydzIooO",
         "youtube": "",
-        "deezer": "https://deezer.com/track/74016767"
+        "deezer": "https://deezer.com/track/74016767",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -6371,12 +6587,16 @@
       "audio": {
         "spotify": "",
         "youtube": "https://www.youtube.com/watch?v=9ot039R1-G0",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -6492,12 +6712,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/2sjrzeXnWH0VWDtC3zPYdB",
         "youtube": "https://youtube.com/watch?v=5L2UsdRqEKI",
-        "deezer": "https://deezer.com/track/16532619"
+        "deezer": "https://deezer.com/track/16532619",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -6634,12 +6858,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/2dlJjAHi1E20E6K2kPNYwe",
         "youtube": "https://youtube.com/watch?v=Xzn5FaP1OQ8",
-        "deezer": "https://deezer.com/track/999827022"
+        "deezer": "https://deezer.com/track/999827022",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -6661,8 +6889,8 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Estou preparando\num caminho\n\nEndireitando as veredas\n\nCada vez mais diminuindo\n\nPorque importa que\nEle cresça\n\nNele o meu prazer está\n\nEu não sou digno de desatar\nAs Suas sandálias\n\nNele a minha vida está\n\nE eu caminho com a certeza\nDe que Ele virá\n\nÉ Ele, por Ele que eu estou\nGastando a minha vida\n\nPerdendo tudo por amor\nE com alegria\n\nDono dos meus dias\n\nEle virá, soberano em\npoder Ele virá\nE o governo está nele\n\nVejam, Ele traz Consigo\nA Sua recompensa",
-      "full_text_with_comment": null,
+      "full_text": "Estou preparando\num caminho\n\nEndireitando as veredas\nE cada vez mais diminuindo\n\nPorque importa que\nEle cresça\n\nNele o meu prazer está\n\nEu não sou digno\nde desatar as\nSuas sandálias\n\nNele a minha vida está\n\nE eu caminho com a certeza\nDe que Ele virá\n\nÉ Ele, por Ele que eu estou\nGastando a minha vida\n\nPerdendo tudo por amor\nE com alegria\n\nDono dos meus dias\n\nEstou preparando\num caminho\n\nEndireitando as veredas\nE cada vez mais diminuindo\n\nPorque importa que\nEle cresça\n\nNele o meu prazer está\n\nEu não sou digno\nde desatar as\nSuas sandálias\n\nNele a minha vida está\n\nE eu caminho com a certeza\nDe que Ele virá\n\nÉ Ele, por Ele que eu estou\nGastando a minha vida\n\nPerdendo tudo por amor\nE com alegria\n\nDono dos meus dias\n\nÉ Ele, por Ele que eu estou\nGastando a minha vida\n\nPerdendo tudo por amor\nE com alegria\n\nDono dos meus dias\n\nEle virá, soberano em\npoder Ele virá\nE o governo está nele\n\nVejam, Ele traz Consigo\nA Sua recompensa\n\nEle virá, soberano em\npoder Ele virá\nE o governo está nele\n\nVejam, Ele traz Consigo\nA Sua recompensa\n\nÉ Ele, por Ele que eu estou\nGastando a minha vida\n\nPerdendo tudo por amor\nE com alegria\n\nDono dos meus dias\n\nÉ Ele, por Ele que eu estou\nGastando a minha vida\n\nPerdendo tudo por amor\nE com alegria\n\nDono dos meus dias",
+      "full_text_with_comment": "Estou preparando\num caminho\n\nEndireitando as veredas\nE cada vez mais diminuindo\n\nPorque importa que\nEle cresça\n\nNele o meu prazer está\n\nEu não sou digno\nde desatar as\nSuas sandálias\n\nNele a minha vida está\n\nE eu caminho com a certeza\nDe que Ele virá\n\n// Refrão\nÉ Ele, por Ele que eu estou\nGastando a minha vida\n\nPerdendo tudo por amor\nE com alegria\n\nDono dos meus dias\n\nEstou preparando\num caminho\n\nEndireitando as veredas\nE cada vez mais diminuindo\n\nPorque importa que\nEle cresça\n\nNele o meu prazer está\n\nEu não sou digno\nde desatar as\nSuas sandálias\n\nNele a minha vida está\n\nE eu caminho com a certeza\nDe que Ele virá\n\nÉ Ele, por Ele que eu estou\nGastando a minha vida\n\nPerdendo tudo por amor\nE com alegria\n\nDono dos meus dias\n\nÉ Ele, por Ele que eu estou\nGastando a minha vida\n\nPerdendo tudo por amor\nE com alegria\n\nDono dos meus dias\n\nEle virá, soberano em\npoder Ele virá\nE o governo está nele\n\nVejam, Ele traz Consigo\nA Sua recompensa\n\nEle virá, soberano em\npoder Ele virá\nE o governo está nele\n\nVejam, Ele traz Consigo\nA Sua recompensa\n\nÉ Ele, por Ele que eu estou\nGastando a minha vida\n\nPerdendo tudo por amor\nE com alegria\n\nDono dos meus dias\n\nÉ Ele, por Ele que eu estou\nGastando a minha vida\n\nPerdendo tudo por amor\nE com alegria\n\nDono dos meus dias",
       "paragraphs": [
         {
           "number": 1,
@@ -6674,84 +6902,224 @@
         {
           "number": 2,
           "description": "",
-          "text": "Endireitando as veredas",
+          "text": "Endireitando as veredas\nE cada vez mais diminuindo",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "Cada vez mais diminuindo",
+          "text": "Porque importa que\nEle cresça",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Porque importa que\nEle cresça",
+          "text": "Nele o meu prazer está",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Nele o meu prazer está",
+          "text": "Eu não sou digno\nde desatar as\nSuas sandálias",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Eu não sou digno de desatar\nAs Suas sandálias",
+          "text": "Nele a minha vida está",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Nele a minha vida está",
+          "text": "E eu caminho com a certeza\nDe que Ele virá",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "E eu caminho com a certeza\nDe que Ele virá",
-          "text_with_comment": null,
+          "text": "É Ele, por Ele que eu estou\nGastando a minha vida",
+          "text_with_comment": "// Refrão\nÉ Ele, por Ele que eu estou\nGastando a minha vida",
           "translations": null
         },
         {
           "number": 9,
-          "description": "",
-          "text": "É Ele, por Ele que eu estou\nGastando a minha vida",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 10,
           "description": "",
           "text": "Perdendo tudo por amor\nE com alegria",
           "text_with_comment": null,
           "translations": null
         },
         {
-          "number": 11,
+          "number": 10,
           "description": "",
           "text": "Dono dos meus dias",
           "text_with_comment": null,
           "translations": null
         },
         {
+          "number": 11,
+          "description": "",
+          "text": "Estou preparando\num caminho",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
           "number": 12,
           "description": "",
-          "text": "Ele virá, soberano em\npoder Ele virá\nE o governo está nele",
+          "text": "Endireitando as veredas\nE cada vez mais diminuindo",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 13,
           "description": "",
+          "text": "Porque importa que\nEle cresça",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "Nele o meu prazer está",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 15,
+          "description": "",
+          "text": "Eu não sou digno\nde desatar as\nSuas sandálias",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 16,
+          "description": "",
+          "text": "Nele a minha vida está",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 17,
+          "description": "",
+          "text": "E eu caminho com a certeza\nDe que Ele virá",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 18,
+          "description": "",
+          "text": "É Ele, por Ele que eu estou\nGastando a minha vida",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 19,
+          "description": "",
+          "text": "Perdendo tudo por amor\nE com alegria",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 20,
+          "description": "",
+          "text": "Dono dos meus dias",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 21,
+          "description": "",
+          "text": "É Ele, por Ele que eu estou\nGastando a minha vida",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 22,
+          "description": "",
+          "text": "Perdendo tudo por amor\nE com alegria",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 23,
+          "description": "",
+          "text": "Dono dos meus dias",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 24,
+          "description": "",
+          "text": "Ele virá, soberano em\npoder Ele virá\nE o governo está nele",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 25,
+          "description": "",
           "text": "Vejam, Ele traz Consigo\nA Sua recompensa",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 26,
+          "description": "",
+          "text": "Ele virá, soberano em\npoder Ele virá\nE o governo está nele",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 27,
+          "description": "",
+          "text": "Vejam, Ele traz Consigo\nA Sua recompensa",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 28,
+          "description": "",
+          "text": "É Ele, por Ele que eu estou\nGastando a minha vida",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 29,
+          "description": "",
+          "text": "Perdendo tudo por amor\nE com alegria",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 30,
+          "description": "",
+          "text": "Dono dos meus dias",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 31,
+          "description": "",
+          "text": "É Ele, por Ele que eu estou\nGastando a minha vida",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 32,
+          "description": "",
+          "text": "Perdendo tudo por amor\nE com alegria",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 33,
+          "description": "",
+          "text": "Dono dos meus dias",
           "text_with_comment": null,
           "translations": null
         }
@@ -6760,13 +7128,17 @@
     "streaming": {
       "audio": {
         "spotify": "https://open.spotify.com/track/4yEKHiUQA70cjfWnEL2m13",
-        "youtube": "https://youtube.com/watch?v=vNjK1wJhCzI",
-        "deezer": "https://deezer.com/track/2896300011"
+        "youtube": "https://www.youtube.com/watch?v=L3b2gRB7YVc",
+        "deezer": "https://deezer.com/track/2896300011",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -6875,12 +7247,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/4ZEirVs6IoyyijSGrPJAmh",
         "youtube": "https://youtube.com/watch?v=hu4LT30lnh4",
-        "deezer": "https://deezer.com/track/2195182407"
+        "deezer": "https://deezer.com/track/2195182407",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -7058,12 +7434,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/1W0C210HKx61DqM4I55iVE",
         "youtube": "https://youtube.com/watch?v=QNubVopgvpM",
-        "deezer": "https://deezer.com/track/2306877965"
+        "deezer": "https://deezer.com/track/2306877965",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "https://open.spotify.com/track/5L42s6YplY526SYbmON25a",
         "youtube": "https://youtube.com/watch?v=MyYmFOa38ic",
-        "deezer": "https://deezer.com/track/2306877955"
+        "deezer": "https://deezer.com/track/2306877955",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -7143,12 +7523,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/6laMXF1yMj9jCi8j4OSdoG",
         "youtube": "https://youtube.com/watch?v=oXBlkT_Tld4",
-        "deezer": "https://deezer.com/track/779999692"
+        "deezer": "https://deezer.com/track/779999692",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -7249,12 +7633,16 @@
       "audio": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -7418,12 +7806,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/1kD9Gx0BpKPwfz0F32iMOt",
         "youtube": "https://youtube.com/watch?v=JtulJCIz8p0",
-        "deezer": "https://deezer.com/track/647353692"
+        "deezer": "https://deezer.com/track/647353692",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -7503,12 +7895,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/1xWZv65Lh0soR16GOhTsoV",
         "youtube": "https://youtube.com/watch?v=1Kqia2o5uP0",
-        "deezer": "https://deezer.com/track/680110292"
+        "deezer": "https://deezer.com/track/680110292",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -7588,12 +7984,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/0kH6BPFcm3yNBVry3SpwMQ",
         "youtube": "https://youtube.com/watch?v=4X1hLVmcU_4",
-        "deezer": "https://deezer.com/track/1117435972"
+        "deezer": "https://deezer.com/track/1117435972",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -7730,12 +8130,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/3hEB1O2VaMmcqqS3UMlFiR",
         "youtube": "https://youtube.com/watch?v=YA_PVJTOrf4",
-        "deezer": "https://deezer.com/track/2407549285"
+        "deezer": "https://deezer.com/track/2407549285",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -7808,12 +8212,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/2JQactbxg7AwZITann0uSE",
         "youtube": "https://youtube.com/watch?v=X-qm3r7QR8k",
-        "deezer": "https://deezer.com/track/647730672"
+        "deezer": "https://deezer.com/track/647730672",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -7942,12 +8350,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/4qO3WITv7447OvVUAdJjzM",
         "youtube": "https://youtube.com/watch?v=85wir7ElR3w",
-        "deezer": "https://deezer.com/track/93548838"
+        "deezer": "https://deezer.com/track/93548838",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "https://open.spotify.com/track/44hhqbRRLgF0JWoprNznFF",
         "youtube": "https://youtube.com/watch?v=Ntor_p07IvQ",
-        "deezer": "https://deezer.com/track/402485072"
+        "deezer": "https://deezer.com/track/402485072",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -8090,12 +8502,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/715slv9zyByop7EttlmTjQ",
         "youtube": "https://youtube.com/watch?v=ETRsQOm4k4c",
-        "deezer": "https://deezer.com/track/1145634452"
+        "deezer": "https://deezer.com/track/1145634452",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -8196,12 +8612,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/5MoBJ3oaZxIe71zxIeQOgB",
         "youtube": "https://youtube.com/watch?v=5G2NCe6IdWI",
-        "deezer": "https://deezer.com/track/1819117217"
+        "deezer": "https://deezer.com/track/1819117217",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -8400,12 +8820,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/2MaKWxPGQ6zocvj2ciYREO",
         "youtube": "https://youtube.com/watch?v=nC821VSlh-s",
-        "deezer": "https://deezer.com/track/99434090"
+        "deezer": "https://deezer.com/track/99434090",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -8506,12 +8930,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/6teaCqn4Izl1Af1ErKcUjQ",
         "youtube": "https://youtube.com/watch?v=BiKRmz_l5Ew",
-        "deezer": "https://deezer.com/track/1655605392"
+        "deezer": "https://deezer.com/track/1655605392",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -8655,12 +9083,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/6kRyHBN2bEncifnisnxtCN",
         "youtube": "https://youtube.com/watch?v=pvDySRl4zVY",
-        "deezer": "https://deezer.com/track/565492942"
+        "deezer": "https://deezer.com/track/565492942",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -8803,12 +9235,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/3pyEWO6mEOzOeMobs5BP6p",
         "youtube": "https://youtube.com/watch?v=LOYxBHjQ8_c",
-        "deezer": "https://deezer.com/track/547001022"
+        "deezer": "https://deezer.com/track/547001022",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -8888,12 +9324,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/7L8cmONp1S8xrOwNc11kvo",
         "youtube": "https://youtube.com/watch?v=bebkhXKyTsg",
-        "deezer": "https://deezer.com/track/130838818"
+        "deezer": "https://deezer.com/track/130838818",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -8994,12 +9434,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/1z3gUuVS16pXsLoCue4TNI",
         "youtube": "https://youtube.com/watch?v=CifOcUEgjo8",
-        "deezer": "https://deezer.com/track/827601292"
+        "deezer": "https://deezer.com/track/827601292",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -9108,12 +9552,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/0wgsJWj7BKUgn0G5IBnkFf",
         "youtube": "https://youtube.com/watch?v=ovUSWdiXG5c",
-        "deezer": "https://deezer.com/track/3235888471"
+        "deezer": "https://deezer.com/track/3235888471",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -9257,12 +9705,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/639QqZwhaCcQZYDJaGLSkM",
         "youtube": "https://youtube.com/watch?v=Uh0Ewa22RtA",
-        "deezer": "https://deezer.com/track/673541882"
+        "deezer": "https://deezer.com/track/673541882",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -9503,15 +9955,172 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/6fHJFlVlRIOxlUKRrnQroo",
         "youtube": "https://youtube.com/watch?v=ih4NtzEMllg",
-        "deezer": "https://deezer.com/track/998205742"
+        "deezer": "https://deezer.com/track/998205742",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "https://open.spotify.com/track/4NDGqgOZ4yozoJPJZanzv0",
         "youtube": "https://youtube.com/watch?v=QUMsajYBJTA",
-        "deezer": "https://deezer.com/track/998205772"
+        "deezer": "https://deezer.com/track/998205772",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
+      "extra": ""
+    }
+  },
+  {
+    "id": 1784302306399,
+    "title": "Faz Chover",
+    "artist": "Fernandinho",
+    "author": "Fernandinho",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "D",
+    "bpm": 72.0,
+    "time_sig": "4/4",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Assim como a corça\nAnseia por águas\n\nComo terra seca\nPrecisa da chuva\n\nMeu coração\nTem sede de Ti\n\nRei meu e Deus meu\n\nAssim como a corça\nAnseia por águas\n\nComo terra seca\nPrecisa da chuva\n\nMeu coração\nTem sede de Ti\n\nRei meu e Deus meu\n\nFaz chover\nSenhor Jesus\n\nDerrama chuva\nNeste lugar\n\nVem com o Teu rio\nSenhor Jesus\n\nInundar o meu coração\n\nFaz chover\nSenhor Jesus\n\nDerrama chuva\nNeste lugar\n\nVem com o Teu rio\nSenhor Jesus\n\nInundar o meu coração",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Assim como a corça\nAnseia por águas",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Como terra seca\nPrecisa da chuva",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Meu coração\nTem sede de Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Rei meu e Deus meu",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Assim como a corça\nAnseia por águas",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Como terra seca\nPrecisa da chuva",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Meu coração\nTem sede de Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Rei meu e Deus meu",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Faz chover\nSenhor Jesus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Derrama chuva\nNeste lugar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Vem com o Teu rio\nSenhor Jesus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Inundar o meu coração",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "Faz chover\nSenhor Jesus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "Derrama chuva\nNeste lugar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 15,
+          "description": "",
+          "text": "Vem com o Teu rio\nSenhor Jesus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 16,
+          "description": "",
+          "text": "Inundar o meu coração",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "https://open.spotify.com/track/2a8V54o2V6QdgofUotLu9f",
+        "youtube": "https://www.youtube.com/watch?v=-VlUIBJ-few",
+        "deezer": "https://deezer.com/track/694743552",
+        "apple_music": "https://music.apple.com/br/song/1468021445",
+        "amazon_music": "https://music.amazon.com.br/tracks/B07SV5DD3K"
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
+      }
+    },
+    "extras": {
+      "cifra": "https://www.cifrashub.com.br/song/fernandinho/faz-chover",
       "extra": ""
     }
   },
@@ -9616,12 +10225,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/7AA38Hs4o0EHdCiogPAuw3",
         "youtube": "https://youtube.com/watch?v=AwcYh_CSku8",
-        "deezer": "https://deezer.com/track/787823862"
+        "deezer": "https://deezer.com/track/787823862",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -9764,12 +10377,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/45BbvslR0kdNkO79pDhAhM",
         "youtube": "https://youtube.com/watch?v=ifHR8cwNwXw",
-        "deezer": "https://deezer.com/track/93550252"
+        "deezer": "https://deezer.com/track/93550252",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "https://open.spotify.com/track/5Lf3kaRRAiu68XCWfpUtcN",
         "youtube": "https://youtube.com/watch?v=qfwDYSX9S_A",
-        "deezer": "https://deezer.com/track/402491292"
+        "deezer": "https://deezer.com/track/402491292",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -9912,12 +10529,16 @@
       "audio": {
         "spotify": "",
         "youtube": "https://www.youtube.com/watch?v=m9BDXFKMOuU",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -10033,12 +10654,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/3BLj3BUTTlNjVkhdR45z9e",
         "youtube": "https://youtube.com/watch?v=NtrXN5bHJeI",
-        "deezer": "https://deezer.com/track/694751502"
+        "deezer": "https://deezer.com/track/694751502",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -10060,7 +10685,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Grande é o Senhor\nE mui digno de louvor\n\nNa cidade do nosso Deus\nSeu Santo monte\nAlegria de toda Terra\n\nGrande é o Senhor\nEm quem nós temos\na vitória\n\nE que nos ajuda\ncontra o inimigo\n\nPor isso diante dEle\nnos prostramos\n\nQueremos o Teu\nnome engrandecer\n\nE agradecer-Te\nPor Tua obra em\nnossas vidas\n\nConfiamos em Teu\ninfinito amor\n\nPois só Tu és o\nDeus eterno\n\nSobre toda Terra e céus",
+      "full_text": "Grande é o Senhor\nE mui digno de louvor\n\nNa cidade do nosso Deus\nSeu Santo monte\nAlegria de toda Terra\n\nGrande é o Senhor\nEm quem nós temos\na vitória\n\nE que nos ajuda\ncontra o inimigo\n\nPor isso diante dele\nnos prostramos\n\nQueremos o Teu\nnome engrandecer\n\nE agradecer-Te\nPor Tua obra em\nnossas vidas\n\nConfiamos em Teu\ninfinito amor\n\nPois só Tu és o\nDeus eterno\n\nSobre toda Terra e céus",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -10094,7 +10719,7 @@
         {
           "number": 5,
           "description": "",
-          "text": "Por isso diante dEle\nnos prostramos",
+          "text": "Por isso diante dele\nnos prostramos",
           "text_with_comment": null,
           "translations": null
         },
@@ -10139,12 +10764,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/1dIah1UaJi3n5pwOaOd5QV",
         "youtube": "https://youtube.com/watch?v=mMNB14B2iMI",
-        "deezer": "https://deezer.com/track/779999722"
+        "deezer": "https://deezer.com/track/779999722",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -10330,12 +10959,16 @@
       "audio": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -10408,12 +11041,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/3B7mRYwCh4GOEbGLHJxtNN",
         "youtube": "https://youtube.com/watch?v=FsJBzc8D7n0",
-        "deezer": "https://deezer.com/track/848303972"
+        "deezer": "https://deezer.com/track/848303972",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -10612,12 +11249,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/2MHtGSaW12T738131nTj0d",
         "youtube": "https://youtube.com/watch?v=Jcp8PjwMEZ8",
-        "deezer": "https://deezer.com/track/93547814"
+        "deezer": "https://deezer.com/track/93547814",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "https://open.spotify.com/track/51VNCVHLByAFLPWxZKQle1",
         "youtube": "https://youtube.com/watch?v=6NkxhaxEUQo",
-        "deezer": "https://deezer.com/track/384931261"
+        "deezer": "https://deezer.com/track/384931261",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -10774,12 +11415,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/2xg9uyfnFybO70jG8Wj5N7",
         "youtube": "https://youtube.com/watch?v=srYSFTlZZtw",
-        "deezer": "https://deezer.com/track/393104812"
+        "deezer": "https://deezer.com/track/393104812",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "https://open.spotify.com/track/738RzAAmPLZ3GgqVekmVf2",
         "youtube": "https://youtube.com/watch?v=srYSFTlZZtw",
-        "deezer": "https://deezer.com/track/393992522"
+        "deezer": "https://deezer.com/track/393992522",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -10894,12 +11539,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/3VerVvy89TYHEa48vcnaYl",
         "youtube": "https://youtube.com/watch?v=d6pflSCLIao",
-        "deezer": "https://deezer.com/track/93325890"
+        "deezer": "https://deezer.com/track/93325890",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -10921,7 +11570,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "O fogo não me queima\nNas águas não\nvou afundar\n\nPois estás comigo\nNão estou sozinho\n\nEu estou guardado\nno esconderijo\n\nNão estou sozinho\nTu estás comigo\n\nTemer por quê?\nSe eu estou\n\nGuardado por\nquem nunca\nperdeu batalhas\n\nSeu nome é Jeová Jireh\nIrás prover de novo,\neu creio em Ti\n\nHaja o que houver,\nvenha o que vier\n\nIrás prover de novo,\neu creio em Ti\n\nEu não vivo do que vejo\nVivo do que creio\n\nIrás prover de novo\nEu creio em Ti\n\nA tempestade e\no vento forte\n\nNão vão roubar a\nminha fé\n\nEm Ti, meu Deus",
+      "full_text": "O fogo não me queima\nNas águas não\nvou afundar\n\nPois estás comigo\nNão estou sozinho\n\nEu estou guardado\nno esconderijo\n\nNão estou sozinho\nTu estás comigo\n\nTemer por quê?\nSe eu estou\n\nGuardado por quem\nnunca perdeu batalhas\n\nSeu nome é Jeová Jireh\nIrás prover de novo,\neu creio em Ti\n\nHaja o que houver,\nvenha o que vier\n\nIrás prover de novo,\neu creio em Ti\n\nEu não vivo do que vejo\nVivo do que creio\n\nIrás prover de novo\nEu creio em Ti\n\nO fogo não me queima\nNas águas não\nvou afundar\n\nPois estás comigo\nNão estou sozinho\n\nEu estou guardado\nno esconderijo\n\nNão estou sozinho\nTu estás comigo\n\nTemer por quê?\nSe eu estou\n\nGuardado por quem\nnunca perdeu batalhas\n\nSeu nome é Jeová Jireh\nIrás prover de novo,\neu creio em Ti\n\nHaja o que houver,\nvenha o que vier\n\nIrás prover de novo,\neu creio em Ti\n\nEu não vivo do que vejo\nVivo do que creio\n\nIrás prover de novo\nEu creio em Ti\n\nA tempestade e\no vento forte\n\nNão vão roubar a\nminha fé\n\nEm Ti, meu Deus\n\nA tempestade e\no vento forte\n\nNão vão roubar a\nminha fé\n\nEm Ti, meu Deus\n\nA tempestade e\no vento forte\n\nNão vão roubar a\nminha fé\n\nEm Ti, meu Deus\n\nA tempestade e\no vento forte\n\nNão vão roubar a\nminha fé\n\nEm Ti, meu Deus\n\nTemer por quê?\nSe eu estou\n\nGuardado por quem\nnunca perdeu batalhas\n\nSeu nome é Jeová Jireh\nIrás prover de novo,\neu creio em Ti\n\nHaja o que houver,\nvenha o que vier\n\nIrás prover de novo,\neu creio em Ti\n\nEu não vivo do que vejo\nVivo do que creio\n\nIrás prover de novo\nEu creio em Ti",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -10962,7 +11611,7 @@
         {
           "number": 6,
           "description": "",
-          "text": "Guardado por\nquem nunca\nperdeu batalhas",
+          "text": "Guardado por quem\nnunca perdeu batalhas",
           "text_with_comment": null,
           "translations": null
         },
@@ -11004,21 +11653,210 @@
         {
           "number": 12,
           "description": "",
-          "text": "A tempestade e\no vento forte",
+          "text": "O fogo não me queima\nNas águas não\nvou afundar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 13,
           "description": "",
-          "text": "Não vão roubar a\nminha fé",
+          "text": "Pois estás comigo\nNão estou sozinho",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 14,
           "description": "",
+          "text": "Eu estou guardado\nno esconderijo",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 15,
+          "description": "",
+          "text": "Não estou sozinho\nTu estás comigo",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 16,
+          "description": "",
+          "text": "Temer por quê?\nSe eu estou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 17,
+          "description": "",
+          "text": "Guardado por quem\nnunca perdeu batalhas",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 18,
+          "description": "",
+          "text": "Seu nome é Jeová Jireh\nIrás prover de novo,\neu creio em Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 19,
+          "description": "",
+          "text": "Haja o que houver,\nvenha o que vier",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 20,
+          "description": "",
+          "text": "Irás prover de novo,\neu creio em Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 21,
+          "description": "",
+          "text": "Eu não vivo do que vejo\nVivo do que creio",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 22,
+          "description": "",
+          "text": "Irás prover de novo\nEu creio em Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 23,
+          "description": "",
+          "text": "A tempestade e\no vento forte",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 24,
+          "description": "",
+          "text": "Não vão roubar a\nminha fé",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 25,
+          "description": "",
           "text": "Em Ti, meu Deus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 26,
+          "description": "",
+          "text": "A tempestade e\no vento forte",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 27,
+          "description": "",
+          "text": "Não vão roubar a\nminha fé",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 28,
+          "description": "",
+          "text": "Em Ti, meu Deus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 29,
+          "description": "",
+          "text": "A tempestade e\no vento forte",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 30,
+          "description": "",
+          "text": "Não vão roubar a\nminha fé",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 31,
+          "description": "",
+          "text": "Em Ti, meu Deus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 32,
+          "description": "",
+          "text": "A tempestade e\no vento forte",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 33,
+          "description": "",
+          "text": "Não vão roubar a\nminha fé",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 34,
+          "description": "",
+          "text": "Em Ti, meu Deus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 35,
+          "description": "",
+          "text": "Temer por quê?\nSe eu estou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 36,
+          "description": "",
+          "text": "Guardado por quem\nnunca perdeu batalhas",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 37,
+          "description": "",
+          "text": "Seu nome é Jeová Jireh\nIrás prover de novo,\neu creio em Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 38,
+          "description": "",
+          "text": "Haja o que houver,\nvenha o que vier",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 39,
+          "description": "",
+          "text": "Irás prover de novo,\neu creio em Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 40,
+          "description": "",
+          "text": "Eu não vivo do que vejo\nVivo do que creio",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 41,
+          "description": "",
+          "text": "Irás prover de novo\nEu creio em Ti",
           "text_with_comment": null,
           "translations": null
         }
@@ -11028,15 +11866,20 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/1uoA57FMhP9QjZxIJZVEWo",
         "youtube": "https://youtube.com/watch?v=PxHCmlyNvhk",
-        "deezer": "https://deezer.com/track/1617019152"
+        "deezer": "https://deezer.com/track/1617019152",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "https://open.spotify.com/track/1HUdrBWYNNB1FdEjHZ4s53",
         "youtube": "https://youtube.com/watch?v=FMacI8fHefw",
-        "deezer": "https://deezer.com/track/1617027062"
+        "deezer": "https://deezer.com/track/1617027062",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
+      "cifra": "https://www.cifrashub.com.br/song/aline-barros/jeova-jireh",
       "extra": ""
     }
   },
@@ -11134,12 +11977,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/0Y3kJPozs4ri5vQVLVL7in",
         "youtube": "https://youtube.com/watch?v=vjGpTmT32X0",
-        "deezer": "https://deezer.com/track/93551186"
+        "deezer": "https://deezer.com/track/93551186",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "https://open.spotify.com/track/7t4xyn7m8yNjmXrOL8FI23",
         "youtube": "https://youtube.com/watch?v=sTDEZSjiyYM",
-        "deezer": "https://deezer.com/track/402490692"
+        "deezer": "https://deezer.com/track/402490692",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -11161,7 +12008,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Jesus, Te entronizamos\nDeclaramos que és Rei\n\nTu estás no meio de nós\nTe exaltamos com louvores\n\nA Ti fazemos\nUm trono de louvores\n\nA Ti fazemos\nUm trono de louvores\n\nA Ti fazemos\nUm trono de louvores\n\nOh, vem, Jesus\nE toma o Teu lugar",
+      "full_text": "Jesus, Te entronizamos\nDeclaramos que és Rei\n\nTu estás no meio de nós\n\nTe exaltamos\ncom louvores\n\nA Ti fazemos\nUm trono de louvores\n\nA Ti fazemos\nUm trono de louvores\n\nA Ti fazemos\nUm trono de louvores\n\nOh, vem, Jesus\nE toma o Teu lugar",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -11174,14 +12021,14 @@
         {
           "number": 2,
           "description": "",
-          "text": "Tu estás no meio de nós\nTe exaltamos com louvores",
+          "text": "Tu estás no meio de nós",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "A Ti fazemos\nUm trono de louvores",
+          "text": "Te exaltamos\ncom louvores",
           "text_with_comment": null,
           "translations": null
         },
@@ -11202,6 +12049,13 @@
         {
           "number": 6,
           "description": "",
+          "text": "A Ti fazemos\nUm trono de louvores",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
           "text": "Oh, vem, Jesus\nE toma o Teu lugar",
           "text_with_comment": null,
           "translations": null
@@ -11212,12 +12066,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/3NdZpOet3bEX8PNQo14czE",
         "youtube": "https://youtube.com/watch?v=6DRgDkaLa7I",
-        "deezer": "https://deezer.com/track/1819117147"
+        "deezer": "https://deezer.com/track/1819117147",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -11396,12 +12254,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/50rAuUPCO4xCW4cYGY6gRE",
         "youtube": "https://youtube.com/watch?v=S7bEKqvok_8",
-        "deezer": "https://deezer.com/track/375184801"
+        "deezer": "https://deezer.com/track/375184801",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "https://open.spotify.com/track/4Rl8zW6Jx7fGePFjp9IBh7",
         "youtube": "https://youtube.com/watch?v=kbfW0Aq1pZM",
-        "deezer": "https://deezer.com/track/375185001"
+        "deezer": "https://deezer.com/track/375185001",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -11467,12 +12329,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/35IN0nKkbuQh4DMxIv4R1E",
         "youtube": "https://youtube.com/watch?v=qMTg9epTWUQ",
-        "deezer": "https://deezer.com/track/673537562"
+        "deezer": "https://deezer.com/track/673537562",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -11494,74 +12360,81 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Tão lindo é cada momento\nQue me visita e faz de mim o Teu altar\n\nQuero ir Contigo mais profundo\n\nSegura a minha mão\nEu sei, nunca vai soltar\n\nLeva-me ao lugar\nonde só o Senhor e eu\nDesfrutamos o momento\n\nTe amo, meu Papai\n\nEu dependo desse amor\nE sem Ti eu sei que morro\n\nMe enxergou na minha tormenta\nMe livrou em meus problemas\n\nTransformou minha tristeza\nE mudou minha vida inteira\n\nMe vestiu com roupas novas\nPôs azeite em minha cabeça\n\nMe deu um lugar na mesa\nO meu Pai não me rejeita",
+      "full_text": "Tão lindo é\ncada momento\n\nQue me visita e faz\nde mim o Teu altar\n\nQuero ir Contigo\nmais profundo\n\nSegura a minha mão\nEu sei, nunca vai soltar\n\nLeva-me ao lugar\nonde só o Senhor e eu\nDesfrutamos o momento\n\nTe amo, meu Papai\n\nEu dependo desse amor\nE sem Ti eu sei que morro\n\nMe enxergou na minha tormenta\nMe livrou em meus problemas\n\nTransformou minha tristeza\nE mudou minha vida inteira\n\nMe vestiu com roupas novas\nPôs azeite em minha cabeça\n\nMe deu um lugar na mesa\nO meu Pai não me rejeita",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Tão lindo é cada momento\nQue me visita e faz de mim o Teu altar",
+          "text": "Tão lindo é\ncada momento",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "Quero ir Contigo mais profundo",
+          "text": "Que me visita e faz\nde mim o Teu altar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "Segura a minha mão\nEu sei, nunca vai soltar",
+          "text": "Quero ir Contigo\nmais profundo",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Leva-me ao lugar\nonde só o Senhor e eu\nDesfrutamos o momento",
+          "text": "Segura a minha mão\nEu sei, nunca vai soltar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Te amo, meu Papai",
+          "text": "Leva-me ao lugar\nonde só o Senhor e eu\nDesfrutamos o momento",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Eu dependo desse amor\nE sem Ti eu sei que morro",
+          "text": "Te amo, meu Papai",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Me enxergou na minha tormenta\nMe livrou em meus problemas",
+          "text": "Eu dependo desse amor\nE sem Ti eu sei que morro",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Transformou minha tristeza\nE mudou minha vida inteira",
+          "text": "Me enxergou na minha tormenta\nMe livrou em meus problemas",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 9,
           "description": "",
-          "text": "Me vestiu com roupas novas\nPôs azeite em minha cabeça",
+          "text": "Transformou minha tristeza\nE mudou minha vida inteira",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 10,
+          "description": "",
+          "text": "Me vestiu com roupas novas\nPôs azeite em minha cabeça",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
           "description": "",
           "text": "Me deu um lugar na mesa\nO meu Pai não me rejeita",
           "text_with_comment": null,
@@ -11573,12 +12446,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/396JT3FtF2kk9lxvLQqEaH",
         "youtube": "https://youtube.com/watch?v=jVzXF2B5LVA",
-        "deezer": "https://deezer.com/track/2652642922"
+        "deezer": "https://deezer.com/track/2652642922",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -11891,12 +12768,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/5GNkiggfjGwNM1vOGfaIvq",
         "youtube": "https://youtube.com/watch?v=EQnWuFGDhvQ",
-        "deezer": "https://deezer.com/track/2656104552"
+        "deezer": "https://deezer.com/track/2656104552",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -12040,12 +12921,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/7Dp0unlUzhQtk60rVq5mMC",
         "youtube": "https://youtube.com/watch?v=gUV0fllbTms",
-        "deezer": "https://deezer.com/track/547000982"
+        "deezer": "https://deezer.com/track/547000982",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -12160,12 +13045,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/04D8REwnhr4GbUkXIs2FYm",
         "youtube": "https://youtube.com/watch?v=D75EsnLGTi0",
-        "deezer": "https://deezer.com/track/935544982"
+        "deezer": "https://deezer.com/track/935544982",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -12280,12 +13169,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/4BGirKUM4R8NsICN4JERoa",
         "youtube": "https://youtube.com/watch?v=7FZsrpuhekU",
-        "deezer": "https://deezer.com/track/694749632"
+        "deezer": "https://deezer.com/track/694749632",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -12358,12 +13251,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/06byebWiwp4uIMprLBt93Q",
         "youtube": "https://youtube.com/watch?v=x2e0coqN7ZY",
-        "deezer": "https://deezer.com/track/780002112"
+        "deezer": "https://deezer.com/track/780002112",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -12520,12 +13417,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/7nE1e60VdkncBBxQkqGxRY",
         "youtube": "https://youtube.com/watch?v=7Y48iXKyAEE",
-        "deezer": "https://deezer.com/track/2220932747"
+        "deezer": "https://deezer.com/track/2220932747",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -12675,12 +13576,16 @@
       "audio": {
         "spotify": "",
         "youtube": "https://youtube.com/watch?v=XjZQHVjJO8E",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -12767,12 +13672,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/5ZBCvzlRlHZ1lpSOY96WvF",
         "youtube": "https://youtube.com/watch?v=4z8mMdA4DWw",
-        "deezer": "https://deezer.com/track/2881953412"
+        "deezer": "https://deezer.com/track/2881953412",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -12887,12 +13796,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/3UjZjIXgAA8Dz6cnxBN68D",
         "youtube": "https://youtube.com/watch?v=4HaC9MJHNWk",
-        "deezer": "https://deezer.com/track/2182471247"
+        "deezer": "https://deezer.com/track/2182471247",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -13021,12 +13934,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/3WguVId9zbNufOTHgQiTOx",
         "youtube": "https://youtube.com/watch?v=gCpQRynxZNs",
-        "deezer": "https://deezer.com/track/565493382"
+        "deezer": "https://deezer.com/track/565493382",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -13148,12 +14065,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/51uirMnJ9sO1sxqrTqy1fP",
         "youtube": "https://youtube.com/watch?v=IpXimPDgOio",
-        "deezer": "https://deezer.com/track/2163576437"
+        "deezer": "https://deezer.com/track/2163576437",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -13175,95 +14096,67 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Eis-me aqui outra vez\n\nDiante de Ti\nAbro meu coração\n\nMeu clamor Tu escutas\n\nE fazes cair\nAs barreiras em mim\n\nÉs fiel, Senhor, e dizes\nPalavras de amor\n\nE esperança sem fim\n\nAo sentir o Teu toque\n\nPor Tua bondade\nLibertas meu ser\n\nNo calor desse lugar\nEu venho\n\nMe derramar\nDizer que Te amo\n\nMe derramar\nDizer: Te preciso\n\nMe derramar\nDizer que sou grato\n\nMe derramar\nDizer que És formoso",
+      "full_text": "Eis-me aqui outra vez\nDiante de Ti\nAbro meu coração\n\nMeu clamor Tu escutas\nE fazes cair\nAs barreiras em mim\n\nÉs fiel, Senhor, e dizes\nPalavras de amor\nE esperança sem fim\n\nAo sentir o Teu toque\nPor Tua bondade\nLibertas meu ser\n\nNo calor desse lugar\n\nEu venho\nMe derramar\nDizer que Te amo\n\nMe derramar\nDizer: Te preciso\n\nMe derramar\nDizer que sou grato\n\nMe derramar\nDizer que És formoso",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Eis-me aqui outra vez",
+          "text": "Eis-me aqui outra vez\nDiante de Ti\nAbro meu coração",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "Diante de Ti\nAbro meu coração",
+          "text": "Meu clamor Tu escutas\nE fazes cair\nAs barreiras em mim",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "Meu clamor Tu escutas",
+          "text": "És fiel, Senhor, e dizes\nPalavras de amor\nE esperança sem fim",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "E fazes cair\nAs barreiras em mim",
+          "text": "Ao sentir o Teu toque\nPor Tua bondade\nLibertas meu ser",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "És fiel, Senhor, e dizes\nPalavras de amor",
+          "text": "No calor desse lugar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "E esperança sem fim",
+          "text": "Eu venho\nMe derramar\nDizer que Te amo",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Ao sentir o Teu toque",
+          "text": "Me derramar\nDizer: Te preciso",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Por Tua bondade\nLibertas meu ser",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 9,
-          "description": "",
-          "text": "No calor desse lugar\nEu venho",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 10,
-          "description": "",
-          "text": "Me derramar\nDizer que Te amo",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 11,
-          "description": "",
-          "text": "Me derramar\nDizer: Te preciso",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 12,
-          "description": "",
           "text": "Me derramar\nDizer que sou grato",
           "text_with_comment": null,
           "translations": null
         },
         {
-          "number": 13,
+          "number": 9,
           "description": "",
           "text": "Me derramar\nDizer que És formoso",
           "text_with_comment": null,
@@ -13275,12 +14168,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/3g4TegeapKCe6KnUC6XU0J",
         "youtube": "https://youtube.com/watch?v=SUiO-7lf5Lc",
-        "deezer": "https://deezer.com/track/729229652"
+        "deezer": "https://deezer.com/track/729229652",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -13460,12 +14357,16 @@
       "audio": {
         "spotify": "",
         "youtube": "https://www.youtube.com/watch?v=hIYDzNoeZmk",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -13615,12 +14516,16 @@
       "audio": {
         "spotify": "",
         "youtube": "https://www.youtube.com/watch?v=Co_TI8wcVkQ",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -13792,12 +14697,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/1nNIr4oOXhBn6vWSsE6hu2",
         "youtube": "https://youtube.com/watch?v=SZKfUy8BNro",
-        "deezer": "https://deezer.com/track/93544474"
+        "deezer": "https://deezer.com/track/93544474",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "https://open.spotify.com/track/4y79HWb6U0M8FRP6ROf6Kb",
         "youtube": "https://youtube.com/watch?v=aClNaAe9u0M",
-        "deezer": "https://deezer.com/track/402491972"
+        "deezer": "https://deezer.com/track/402491972",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -13933,12 +14842,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/17skOaQMo12brYlPuytqjq",
         "youtube": "https://youtube.com/watch?v=ehq2Hsc-4rQ",
-        "deezer": "https://deezer.com/track/1033191012"
+        "deezer": "https://deezer.com/track/1033191012",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "https://open.spotify.com/track/5HyKMBE3jM2920EA2yo4mS",
         "youtube": "https://youtube.com/watch?v=lwhoU0pbj74",
-        "deezer": "https://deezer.com/track/1033185972"
+        "deezer": "https://deezer.com/track/1033185972",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -14039,12 +14952,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/1RwLYLxVmfSOEPygoZ1kzh",
         "youtube": "https://youtube.com/watch?v=aOygv6DC-hU",
-        "deezer": "https://deezer.com/track/729229692"
+        "deezer": "https://deezer.com/track/729229692",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -14216,12 +15133,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/2ApWMoHANGl9rkLawKbQOp",
         "youtube": "https://youtube.com/watch?v=5WBwV6KiVno",
-        "deezer": "https://deezer.com/track/2163576477"
+        "deezer": "https://deezer.com/track/2163576477",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -14358,12 +15279,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/1GI81MItKeDuWSQtHh4ixW",
         "youtube": "https://youtube.com/watch?v=YcoeXeZqa84",
-        "deezer": "https://deezer.com/track/1159661192"
+        "deezer": "https://deezer.com/track/1159661192",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -14478,12 +15403,16 @@
       "audio": {
         "spotify": "",
         "youtube": "https://www.youtube.com/watch?v=oNUErOaOuPw",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -14528,12 +15457,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/1rkA56iMdn6RT8IsCmAyGM",
         "youtube": "https://youtube.com/watch?v=Tga-kPUNrSo",
-        "deezer": "https://deezer.com/track/647353672"
+        "deezer": "https://deezer.com/track/647353672",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -14606,12 +15539,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/0LRkIOKpKFEG7OtI7CUATQ",
         "youtube": "https://youtube.com/watch?v=WUyisKgMdPY",
-        "deezer": "https://deezer.com/track/1047420642"
+        "deezer": "https://deezer.com/track/1047420642",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -14761,12 +15698,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/3rd5AusaInQQvLigUH4Y9U",
         "youtube": "https://youtube.com/watch?v=WhVtdWdST44",
-        "deezer": "https://deezer.com/track/694749092"
+        "deezer": "https://deezer.com/track/694749092",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -15042,12 +15983,16 @@
       "audio": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -15183,12 +16128,16 @@
       "audio": {
         "spotify": "",
         "youtube": "https://www.youtube.com/watch?v=Vq_BpZfA6SM",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -15338,12 +16287,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/1yGsdYR6HBxRTMVJzD5FED",
         "youtube": "https://youtube.com/watch?v=TE5Yji_i_XM",
-        "deezer": "https://deezer.com/track/138067053"
+        "deezer": "https://deezer.com/track/138067053",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "https://open.spotify.com/track/1x7Js5VF9mAvHy7qz4FP0O",
         "youtube": "https://youtube.com/watch?v=wJANJX6nQQE",
-        "deezer": "https://deezer.com/track/139185841"
+        "deezer": "https://deezer.com/track/139185841",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -15493,12 +16446,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/6RwZC3hm4XQYMH50kG29w7",
         "youtube": "https://youtube.com/watch?v=hAUULqp1FbQ",
-        "deezer": "https://deezer.com/track/694749872"
+        "deezer": "https://deezer.com/track/694749872",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -15578,12 +16535,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/6N9sL3P4QmuF4fuc5CHVPD",
         "youtube": "https://youtube.com/watch?v=sWQDSyTeSZs",
-        "deezer": "https://deezer.com/track/1819117197"
+        "deezer": "https://deezer.com/track/1819117197",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -15670,12 +16631,16 @@
       "audio": {
         "spotify": "",
         "youtube": "https://youtube.com/watch?v=2zlWeyAVNbc&feature=shared",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -15791,12 +16756,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/682XjN6L1Qhs5rXbuGSQKK",
         "youtube": "https://youtube.com/watch?v=EVAjIxPT4NU",
-        "deezer": "https://deezer.com/track/114390328"
+        "deezer": "https://deezer.com/track/114390328",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -15953,12 +16922,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/6JF0NbnUohNnoNwrLs6paN",
         "youtube": "https://youtube.com/watch?v=a0UdbF2Ny6M",
-        "deezer": "https://deezer.com/track/855427632"
+        "deezer": "https://deezer.com/track/855427632",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -16046,12 +17019,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/2fUW6sGWGtpgY1QdulYoiE",
         "youtube": "https://youtube.com/watch?v=id1OCzqpst8",
-        "deezer": "https://deezer.com/track/565486902"
+        "deezer": "https://deezer.com/track/565486902",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -16250,12 +17227,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/7r8eUoC7iw1GO9WfFYddKR",
         "youtube": "https://youtube.com/watch?v=VqF17oo2q0A",
-        "deezer": "https://deezer.com/track/1874656607"
+        "deezer": "https://deezer.com/track/1874656607",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -16433,12 +17414,16 @@
       "audio": {
         "spotify": "",
         "youtube": "https://www.youtube.com/watch?v=g6IK5KxYZVo",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -16609,12 +17594,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/6ATNNv8tZF61fa7VwDH89j",
         "youtube": "https://youtube.com/watch?v=qwz2hcZYUdo",
-        "deezer": "https://deezer.com/track/3073654521"
+        "deezer": "https://deezer.com/track/3073654521",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "https://open.spotify.com/track/2TLc09yDAHOjcBUiymtYUB",
         "youtube": "https://youtube.com/watch?v=QwKN1s97cac",
-        "deezer": "https://deezer.com/track/3092528141"
+        "deezer": "https://deezer.com/track/3092528141",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -16636,7 +17625,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Teu fogo arde em mim\nE muda o meu viver\n\nSou teu Templo,\nsou Teu altar\n\nSacrifício vivo\nquero oferecer\n\nTeu fogo arde em mim\ne muda o meu viver\n\nSou teu Templo,\nsou Teu altar\n\nSacrifício vivo\nquero oferecer\n\nQue o nosso louvor\nnão seja um momento\n\nLágrimas vazias,\nsem avivamento\n\nQue o nosso amor\nnão seja fingido\n\nHonrado com os lábios,\nnos corações esquecido\n\nPois de que vale ter as\npoesias mais lindas\n\nAs harmonias mais brilhantes,\nse não há verdade em nós?\n\nPois de que vale ter tudo\ne não ter nada?\n\nTe dar meus lábios,\nnão minha alma?\n\nEu quero me entregar a Ti\nEntregar minha vida\ncomo adoração\n\nNão vale a pena só\nme emocionar\n\nE buscar as canções mais\nlindas pra cantar\n\nSe eu não for uma canção\nque alegra a Ti\n\nSe o meu coração não\nqueimar por Ti\n\nNão vale a pena só\nme emocionar\n\nE buscar as canções\nmais lindas pra cantar\n\nSe eu não for uma canção\nque alegra a Ti\n\nSe o meu coração não\nqueimar por Ti\n\nPorque pararam de\nfalar do Céu\n\nAcham que Cristo\nnão vai mais voltar\n\nJá não se fala tanto\nem oração\n\nE santificação não\nquerem mais pregar\n\nPorque pararam de\nfalar do Céu\n\nE só se fala em\nbens materiais\n\nMas eu sei que\ndentro da igreja\nExiste uma igreja espiritual\n\nLevanta essa geração\nDesperta a igreja\nem oração\n\nFaz arder de novo\nReacende o fogo\n\nLevanta essa geração\nTraz de volta a visão\n\nOnde tudo começou\nDe volta ao primeiro amor\n\nReacende a chama\nVem nos restaurar\n\nComo em Atos 2\nDesce aqui nesse lugar\n\nReacende a chama\nVem nos restaurar\n\nComo em Atos 2\nDesce aqui nesse lugar\n\nReacende a chama\nVem nos restaurar\n\nComo em Atos 2\nDesce aqui nesse lugar\n\nReacende a chama\nVem nos restaurar\n\nComo em Atos 2\nDesce aqui nesse lugar\n\nAcende outra vez\nTua chama em nós\n\nAviva outra vez,\naviva outra vez\n\nAcende outra vez\nTua chama em nós\n\nAviva outra vez,\naviva outra vez\n\nA nossa geração tem\nlenha pra queimar\n\nE pode incendiar e\nvem nos batizar\n\nA nossa geração tem lenha\npra queimar\n\nE pode incendiar e vem\nnos batizar\n\nMe batiza com fogo\nReacende a chama em mim\n\nMe batiza com fogo\nReacende a chama em mim\n\nE o fogo arderá sobre o altar\nContinuamente sobre o altar\n\nE não se apagará\nE não se apagará\n\nO fogo arderá sobre o altar\nContinuamente sobre o altar\n\nE não se apagará\nE não se apagará\n\nPois de que vale ter as \npoesias mais lindas\n\nAs harmonias mais brilhantes,\nse não há verdade em nós?\n\nPois de que vale ter tudo\ne não ter nada?\n\nTe dar meus lábios,\nnão minha alma?\n\nEu quero me entregar a Ti\nEntregar minha vida\ncomo adoração",
+      "full_text": "Teu fogo arde em mim\nE muda o meu viver\n\nSou Teu Templo,\nsou Teu altar\n\nSacrifício vivo\nquero oferecer\n\nTeu fogo arde em mim\ne muda o meu viver\n\nSou Teu Templo,\nsou Teu altar\n\nSacrifício vivo\nquero oferecer\n\nQue o nosso louvor\nnão seja um momento\n\nLágrimas vazias,\nsem avivamento\n\nQue o nosso amor\nnão seja fingido\n\nHonrado com os lábios,\nnos corações esquecido\n\nPois de que vale ter as\npoesias mais lindas\n\nAs harmonias mais brilhantes,\nse não há verdade em nós?\n\nPois de que vale ter tudo\ne não ter nada?\n\nTe dar meus lábios,\nnão minha alma?\n\nEu quero me entregar a Ti\nEntregar minha vida\ncomo adoração\n\nNão vale a pena só\nme emocionar\n\nE buscar as canções mais\nlindas pra cantar\n\nSe eu não for uma canção\nque alegra a Ti\n\nSe o meu coração não\nqueimar por Ti\n\nNão vale a pena só\nme emocionar\n\nE buscar as canções\nmais lindas pra cantar\n\nSe eu não for uma canção\nque alegra a Ti\n\nSe o meu coração não\nqueimar por Ti\n\nPorque pararam de\nfalar do Céu\n\nAcham que Cristo\nnão vai mais voltar\n\nJá não se fala tanto\nem oração\n\nE santificação não\nquerem mais pregar\n\nPorque pararam de\nfalar do Céu\n\nE só se fala em\nbens materiais\n\nMas eu sei que\ndentro da igreja\nExiste uma igreja espiritual\n\nLevanta essa geração\nDesperta a igreja\nem oração\n\nFaz arder de novo\nReacende o fogo\n\nLevanta essa geração\nTraz de volta a visão\n\nOnde tudo começou\nDe volta ao primeiro amor\n\nReacende a chama\nVem nos restaurar\n\nComo em Atos 2\nDesce aqui nesse lugar\n\nReacende a chama\nVem nos restaurar\n\nComo em Atos 2\nDesce aqui nesse lugar\n\nReacende a chama\nVem nos restaurar\n\nComo em Atos 2\nDesce aqui nesse lugar\n\nReacende a chama\nVem nos restaurar\n\nComo em Atos 2\nDesce aqui nesse lugar\n\nAcende outra vez\nTua chama em nós\n\nAviva outra vez,\naviva outra vez\n\nAcende outra vez\nTua chama em nós\n\nAviva outra vez,\naviva outra vez\n\nA nossa geração tem\nlenha pra queimar\n\nE pode incendiar e\nvem nos batizar\n\nA nossa geração tem lenha\npra queimar\n\nE pode incendiar e vem\nnos batizar\n\nMe batiza com fogo\nReacende a chama em mim\n\nMe batiza com fogo\nReacende a chama em mim\n\nE o fogo arderá sobre o altar\nContinuamente sobre o altar\n\nE não se apagará\nE não se apagará\n\nO fogo arderá sobre o altar\nContinuamente sobre o altar\n\nE não se apagará\nE não se apagará\n\nPois de que vale ter as \npoesias mais lindas\n\nAs harmonias mais brilhantes,\nse não há verdade em nós?\n\nPois de que vale ter tudo\ne não ter nada?\n\nTe dar meus lábios,\nnão minha alma?\n\nEu quero me entregar a Ti\nEntregar minha vida\ncomo adoração",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -16649,7 +17638,7 @@
         {
           "number": 2,
           "description": "",
-          "text": "Sou teu Templo,\nsou Teu altar",
+          "text": "Sou Teu Templo,\nsou Teu altar",
           "text_with_comment": null,
           "translations": null
         },
@@ -16670,7 +17659,7 @@
         {
           "number": 5,
           "description": "",
-          "text": "Sou teu Templo,\nsou Teu altar",
+          "text": "Sou Teu Templo,\nsou Teu altar",
           "text_with_comment": null,
           "translations": null
         },
@@ -17072,12 +18061,16 @@
       "audio": {
         "spotify": "",
         "youtube": "https://www.youtube.com/watch?v=zkszWxIkS7Y",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -17201,12 +18194,16 @@
       "audio": {
         "spotify": "",
         "youtube": "https://www.youtube.com/watch?v=dS35Xhf2UeI",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -17294,12 +18291,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/0Y9nHU2Fhl76LHbRRmNQ6X",
         "youtube": "https://youtube.com/watch?v=0rQ6YlPfv-s",
-        "deezer": "https://deezer.com/track/104287126"
+        "deezer": "https://deezer.com/track/104287126",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "https://open.spotify.com/track/3O0v8wRCIcNlF0dbNgKMJm",
         "youtube": "https://youtube.com/watch?v=NQ2S8Xng6PA",
-        "deezer": "https://deezer.com/track/139060669"
+        "deezer": "https://deezer.com/track/139060669",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -17470,12 +18471,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/0fLXW4Nn98fE571xO5qpMt",
         "youtube": "https://youtube.com/watch?v=pB3Ie7779cw",
-        "deezer": "https://deezer.com/track/1802819877"
+        "deezer": "https://deezer.com/track/1802819877",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -17569,12 +18574,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/2995D63yimdhCBXoZo0gi3",
         "youtube": "https://www.youtube.com/watch?v=37NTtPilj0A",
-        "deezer": "https://deezer.com/track/677296802"
+        "deezer": "https://deezer.com/track/677296802",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -17745,12 +18754,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/6Kfo6pPepYCh3rVUnl38qV",
         "youtube": "https://youtube.com/watch?v=gyebnvohgBY",
-        "deezer": "https://deezer.com/track/1802768027"
+        "deezer": "https://deezer.com/track/1802768027",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -17866,12 +18879,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/0mNfXZjFfpaNafDSFfYujZ",
         "youtube": "https://youtube.com/watch?v=ndS74J0J_lE",
-        "deezer": "https://deezer.com/track/1325424832"
+        "deezer": "https://deezer.com/track/1325424832",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -18021,12 +19038,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/5qyFts6geTWeNbMeYQcPai",
         "youtube": "https://youtube.com/watch?v=M9hOBItfV0s",
-        "deezer": "https://deezer.com/track/547000862"
+        "deezer": "https://deezer.com/track/547000862",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -18127,12 +19148,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/6omhrigmTfXP6LlKm0Fd7A",
         "youtube": "https://www.youtube.com/watch?v=nNV7QMsvhsM",
-        "deezer": "https://deezer.com/track/2946516431"
+        "deezer": "https://deezer.com/track/2946516431",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -18205,12 +19230,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/0Wqczms3zaolkN1ErZtSVd",
         "youtube": "https://youtube.com/watch?v=GtQGUU2HpGM",
-        "deezer": "https://deezer.com/track/344065551"
+        "deezer": "https://deezer.com/track/344065551",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -18304,12 +19333,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/6wecRy96i3kg35fMXV5TDj",
         "youtube": "https://youtube.com/watch?v=JYp55LDht4Q",
-        "deezer": "https://deezer.com/track/70792967"
+        "deezer": "https://deezer.com/track/70792967",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -18389,12 +19422,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/3Btrmt5NfZM8NJlp6mQMNJ",
         "youtube": "https://youtube.com/watch?v=Eh3DAzV-ds8",
-        "deezer": "https://deezer.com/track/142005075"
+        "deezer": "https://deezer.com/track/142005075",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "https://open.spotify.com/track/0IGL7LqtR2aI2qw7fD6nuA",
         "youtube": "https://youtube.com/watch?v=ndHWJSPXpiM",
-        "deezer": "https://deezer.com/track/142005099"
+        "deezer": "https://deezer.com/track/142005099",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -18538,12 +19575,16 @@
       "audio": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -18623,12 +19664,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/0Uwp58XxP4JiaXDR0FhZzu",
         "youtube": "https://youtube.com/watch?v=RXRoezrX1a8",
-        "deezer": "https://deezer.com/track/1922401667"
+        "deezer": "https://deezer.com/track/1922401667",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -18771,12 +19816,16 @@
       "audio": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -18919,12 +19968,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/4fJA1xvjFB4hLy0LRapmXX",
         "youtube": "https://youtube.com/watch?v=fAll7coh4y0",
-        "deezer": "https://deezer.com/track/694749822"
+        "deezer": "https://deezer.com/track/694749822",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -19158,12 +20211,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/57WRcTAI6bJ64A0IzdF4r6",
         "youtube": "https://youtube.com/watch?v=7h7t0jzCYIY",
-        "deezer": "https://deezer.com/track/606904122"
+        "deezer": "https://deezer.com/track/606904122",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -19460,12 +20517,16 @@
       "audio": {
         "spotify": "",
         "youtube": "https://www.youtube.com/watch?v=bZtZUAtpCtI",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -19588,12 +20649,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/4jWePuDwi4Mho9u5kpoYrj",
         "youtube": "https://youtube.com/watch?v=ZSJurpM3kGA",
-        "deezer": "https://deezer.com/track/104302280"
+        "deezer": "https://deezer.com/track/104302280",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": "https://deezer.com/track/139186069"
+        "deezer": "https://deezer.com/track/139186069",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -19702,12 +20767,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/6XV6vPHS7wUhB4B6AeosPr",
         "youtube": "https://youtube.com/watch?v=13JQKcQFue0",
-        "deezer": "https://deezer.com/track/2912107061"
+        "deezer": "https://deezer.com/track/2912107061",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -19829,12 +20898,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/7DhiPsmpu4kzIQyCtvWqzd",
         "youtube": "https://youtube.com/watch?v=RN1miaGFTyA",
-        "deezer": "https://deezer.com/track/804406232"
+        "deezer": "https://deezer.com/track/804406232",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "https://open.spotify.com/track/0nWJCY6g0iV4wflfsncwSo",
         "youtube": "",
-        "deezer": "https://deezer.com/track/3386848731"
+        "deezer": "https://deezer.com/track/3386848731",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -19907,12 +20980,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/297lnlXZD2tFe8wotWyaA8",
         "youtube": "https://youtube.com/watch?v=O4UG68lpLJo",
-        "deezer": "https://deezer.com/track/2441950135"
+        "deezer": "https://deezer.com/track/2441950135",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -19934,7 +21011,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Tu és bem-vindo aqui\n\nE em nosso coração\nToma a direção\n\nDeus, fogo consumidor\n\nSem impedimentos vem\nFace a face, Senhor\n\nSopra em nós, Espírito\nTe queremos, Deus\n\nEstou de pé\nNa presença do Rei\n\nTua glória está aqui\nTeu amor liberta-me\n\nEstás aqui\nNo trono de louvor\n\nTua presença me curou\nFascinado estou\n\nSopra em nós, Espírito\nTe queremos, Deus\n\nQue se abram os céus\nO Teu reino vem\n\nNossa fé está no\nnosso Deus\n\nQue os céus fechados\nse abram\nTeu reino venha mover\n\nA nossa fé e esperança\nEstão em Deus,\ngrande Deus",
+      "full_text": "Tu és bem-vindo aqui\n\nE em nosso coração\nToma a direção\n\nDeus, fogo consumidor\n\nSem impedimentos vem\nFace a face, Senhor\n\nSopra em nós, Espírito\nTe queremos, Deus\n\nEstou de pé\nNa presença do Rei\n\nTua glória está aqui\nTeu amor liberta-me\n\nEstás aqui\nNo trono de louvor\n\nTua presença me curou\nFascinado estou\n\nSopra em nós, Espírito\nTe queremos, Deus\n\nSopra em nós, Espírito\nTe queremos, Deus\n\nSopra em nós, Espírito\nTe queremos, Deus\n\nSopra em nós, Espírito\nTe queremos, Deus\n\nQue se abram os céus\nO Teu reino vem\n\nNossa fé está no\nNosso Deus\n\nQue se abram os céus\nO Teu reino vem\n\nNossa fé está no\nNosso Deus\n\nQue se abram os céus\nO Teu reino vem\n\nNossa fé está no\nNosso Deus\n\nQue se abram os céus\nO Teu reino vem\n\nNossa fé está no\nNosso Deus\n\nQue os céus\nfechados se abram\nTeu reino venha mover\n\nA nossa fé e esperança\nEstão em Deus,\ngrande Deus",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -20010,26 +21087,89 @@
         {
           "number": 11,
           "description": "",
-          "text": "Que se abram os céus\nO Teu reino vem",
+          "text": "Sopra em nós, Espírito\nTe queremos, Deus",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 12,
           "description": "",
-          "text": "Nossa fé está no\nnosso Deus",
+          "text": "Sopra em nós, Espírito\nTe queremos, Deus",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 13,
           "description": "",
-          "text": "Que os céus fechados\nse abram\nTeu reino venha mover",
+          "text": "Sopra em nós, Espírito\nTe queremos, Deus",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 14,
+          "description": "",
+          "text": "Que se abram os céus\nO Teu reino vem",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 15,
+          "description": "",
+          "text": "Nossa fé está no\nNosso Deus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 16,
+          "description": "",
+          "text": "Que se abram os céus\nO Teu reino vem",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 17,
+          "description": "",
+          "text": "Nossa fé está no\nNosso Deus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 18,
+          "description": "",
+          "text": "Que se abram os céus\nO Teu reino vem",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 19,
+          "description": "",
+          "text": "Nossa fé está no\nNosso Deus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 20,
+          "description": "",
+          "text": "Que se abram os céus\nO Teu reino vem",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 21,
+          "description": "",
+          "text": "Nossa fé está no\nNosso Deus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 22,
+          "description": "",
+          "text": "Que os céus\nfechados se abram\nTeu reino venha mover",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 23,
           "description": "",
           "text": "A nossa fé e esperança\nEstão em Deus,\ngrande Deus",
           "text_with_comment": null,
@@ -20040,16 +21180,21 @@
     "streaming": {
       "audio": {
         "spotify": "https://open.spotify.com/track/6uIv3xIpgKduBWy350T5ty",
-        "youtube": "https://youtube.com/watch?v=tgJXQGJ7_3E",
-        "deezer": "https://deezer.com/track/554475352"
+        "youtube": "https://www.youtube.com/watch?v=kXKwkQk528A",
+        "deezer": "https://deezer.com/track/554475352",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
+      "cifra": "https://www.cifrashub.com.br/song/nivea-soares/que-se-abra-os-ceus",
       "extra": ""
     }
   },
@@ -20168,12 +21313,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/1A49v4tTVflPMyZomY2R5h",
         "youtube": "https://youtube.com/watch?v=nEEA0PsiP4E",
-        "deezer": "https://deezer.com/track/779993852"
+        "deezer": "https://deezer.com/track/779993852",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -20330,12 +21479,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/7JtJjh9WfxUOpjFhurxVRW",
         "youtube": "https://youtube.com/watch?v=3nq4oo7W74I",
-        "deezer": "https://deezer.com/track/3184911081"
+        "deezer": "https://deezer.com/track/3184911081",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -20493,12 +21646,16 @@
       "audio": {
         "spotify": "",
         "youtube": "https://www.youtube.com/watch?v=zanzmGq38Zc",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -20648,12 +21805,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/0u9Qzq28dKJ5evkPWGqSef",
         "youtube": "https://youtube.com/watch?v=M_MKgoVmglw",
-        "deezer": "https://deezer.com/track/16964313"
+        "deezer": "https://deezer.com/track/16964313",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -20748,12 +21909,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/1QrwPl2n8TeAmsgIPPAcxb",
         "youtube": "https://youtube.com/watch?v=U-cBSEeB2jc",
-        "deezer": "https://deezer.com/track/559373782"
+        "deezer": "https://deezer.com/track/559373782",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -20840,12 +22005,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/5fytDMLCSDAxEyITCy2YZR",
         "youtube": "https://www.youtube.com/watch?v=mqDHOCR9UdU",
-        "deezer": "https://deezer.com/track/51546661"
+        "deezer": "https://deezer.com/track/51546661",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -20974,12 +22143,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/5PGJTUqtP5RRwxHcwYKcHk",
         "youtube": "https://youtube.com/watch?v=gy3e3wz8ah4",
-        "deezer": "https://deezer.com/track/2182389497"
+        "deezer": "https://deezer.com/track/2182389497",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -21108,12 +22281,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/4bryIEI8nhqSeSqwMtuV9s",
         "youtube": "https://youtube.com/watch?v=5cUhcZ4jMrw",
-        "deezer": "https://deezer.com/track/93547506"
+        "deezer": "https://deezer.com/track/93547506",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -21228,12 +22405,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/36OnXKUU9pAKRYs9jfusbl",
         "youtube": "https://youtube.com/watch?v=VZPNHjnPzWk",
-        "deezer": "https://deezer.com/track/1522355242"
+        "deezer": "https://deezer.com/track/1522355242",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -21369,12 +22550,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/231ZZR4rSWstxeExMbEj29",
         "youtube": "https://youtube.com/watch?v=pAHLSLjQ79c",
-        "deezer": "https://deezer.com/track/1360020442"
+        "deezer": "https://deezer.com/track/1360020442",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -21538,12 +22723,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/69sdOLKjgnwdA2smmct2a9",
         "youtube": "https://youtube.com/watch?v=l3J3RVB_Hco",
-        "deezer": "https://deezer.com/track/2112910177"
+        "deezer": "https://deezer.com/track/2112910177",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -21567,7 +22756,7 @@
     "arrangements": [],
     "lyrics": {
       "full_text": "Neste lugar Tu és real\n\nVou me entregar\nTotalmente\n\nO Teu toque\nAbriu os olhos do\nmeu coração\n\nEu posso enxergar\nE entender\n\nSe eu me humilhar\nDiante do Teu altar\n\nE sacrificar\nAquilo que me custar\n\nTu inclinarás os Teus\nOuvidos ao meu clamor\n\nMais vale um dia \nNo centro do Teu querer\n\nQue toda a vida\nSem jamais Te conhecer\n\nTu és minha fonte\n\nMinha colheita\nMinha herança\n\nA minha fonte é o Teu amor\nMinha colheita é o Teu amor\n\nMinha herança é o Teu amor",
-      "full_text_with_comment": null,
+      "full_text_with_comment": "Neste lugar Tu és real\n\nVou me entregar\nTotalmente\n\nO Teu toque\nAbriu os olhos do\nmeu coração\n\nEu posso enxergar\nE entender\n\nSe eu me humilhar\nDiante do Teu altar\n\nE sacrificar\nAquilo que me custar\n\nTu inclinarás os Teus\nOuvidos ao meu clamor\n\nMais vale um dia \nNo centro do Teu querer\n\nQue toda a vida\nSem jamais Te conhecer\n\nTu és minha fonte\n\nMinha colheita\nMinha herança\n// Volta ao início\n\nA minha fonte é o Teu amor\nMinha colheita é o Teu amor\n\nMinha herança é o Teu amor\n// Volta ao anterior e repete",
       "paragraphs": [
         {
           "number": 1,
@@ -21643,7 +22832,7 @@
           "number": 11,
           "description": "",
           "text": "Minha colheita\nMinha herança",
-          "text_with_comment": null,
+          "text_with_comment": "Minha colheita\nMinha herança\n// Volta ao início",
           "translations": null
         },
         {
@@ -21657,7 +22846,7 @@
           "number": 13,
           "description": "",
           "text": "Minha herança é o Teu amor",
-          "text_with_comment": null,
+          "text_with_comment": "Minha herança é o Teu amor\n// Volta ao anterior e repete",
           "translations": null
         }
       ]
@@ -21666,12 +22855,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/1iyfDciNARp0q8ntP6xF6K",
         "youtube": "https://youtube.com/watch?v=tRngBOIx7Z4",
-        "deezer": "https://deezer.com/track/89355375"
+        "deezer": "https://deezer.com/track/89355375",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -21767,12 +22960,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/4YQnGdaqaUf8ZsRLBmS0au",
         "youtube": "https://youtube.com/watch?v=MEKWvLT9b7I",
-        "deezer": "https://deezer.com/track/729137212"
+        "deezer": "https://deezer.com/track/729137212",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -21874,12 +23071,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/3alHPc3XdSkhtyPb3ILrR2",
         "youtube": "https://youtube.com/watch?v=jrs1lyKDw3E",
-        "deezer": "https://deezer.com/track/604293532"
+        "deezer": "https://deezer.com/track/604293532",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -22009,12 +23210,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/6WmlPRkJH68P7tmkFuQe3z",
         "youtube": "https://youtube.com/watch?v=FlizHksj7BI",
-        "deezer": "https://deezer.com/track/729229642"
+        "deezer": "https://deezer.com/track/729229642",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -22199,12 +23404,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/1sfmj3FsBOXLpnBbJ3ZGZ7",
         "youtube": "https://youtube.com/watch?v=qomsn9M8rls",
-        "deezer": "https://deezer.com/track/405803872"
+        "deezer": "https://deezer.com/track/405803872",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -22291,12 +23500,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/5eHQJcuJlsZmytAjOdmZG9",
         "youtube": "https://youtube.com/watch?v=S8DNM8tWXHA",
-        "deezer": "https://deezer.com/track/2182471267"
+        "deezer": "https://deezer.com/track/2182471267",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "https://open.spotify.com/track/17aq7LdlgprUzEbEzofg47",
         "youtube": "https://youtube.com/watch?v=yHVwW8RZ-34",
-        "deezer": "https://deezer.com/track/2182485917"
+        "deezer": "https://deezer.com/track/2182485917",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -22319,7 +23532,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Sonda-me, Senhor\nE me conheces\n\nQuebranta o meu coração\n\nTransforma-me\nConforme a Tua palavra\n\nE enche-me até que em mim\nSe ache só a Ti, então\n\nUsa-me, Senhor\nUsa-me\n\nComo um farol que brilha à noite\nComo ponte sobre as águas\n\nComo abrigo no deserto\nComo flecha que acerta o alvo\n\nEu quero ser usado\nDa maneira que Te agrade\n\nEm qualquer hora\nE em qualquer lugar\n\nEis aqui a minha vida\nUsa-me, Senhor, usa-me\n\nSonda-me\nQuebranta-me\n\nTransforma-me\nEnche-me e usa-me",
+      "full_text": "Sonda-me, Senhor\nE me conheces\n\nQuebranta o\nmeu coração\n\nTransforma-me\nConforme a Tua palavra\n\nE enche-me até que em mim\nSe ache só a Ti, então\n\nUsa-me, Senhor\nUsa-me\n\nComo um farol que\nbrilha à noite\n\nComo ponte sobre\nas águas\n\nComo abrigo no deserto\nComo flecha que\nacerta o alvo\n\nEu quero ser usado\nDa maneira que Te agrade\n\nEm qualquer hora\nE em qualquer lugar\n\nEis aqui a minha vida\nUsa-me, Senhor, usa-me\n\nSonda-me, Senhor\nE me conheces\n\nQuebranta o\nmeu coração\n\nTransforma-me\nConforme a Tua palavra\n\nE enche-me até que em mim\nSe ache só a Ti, então\n\nUsa-me, Senhor\nUsa-me\n\nComo um farol que\nbrilha à noite\n\nComo ponte sobre\nas águas\n\nComo abrigo no deserto\nComo flecha que\nacerta o alvo\n\nEu quero ser usado\nDa maneira que Te agrade\n\nEm qualquer hora\nE em qualquer lugar\n\nEis aqui a minha vida\nUsa-me, Senhor, usa-me\n\nSonda-me\nQuebranta-me\n\nTransforma-me\nEnche-me e usa-me\n\nSonda-me\nQuebranta-me\n\nTransforma-me\nEnche-me e usa-me\n\nSonda-me\nQuebranta-me\n\nTransforma-me\nEnche-me e usa-me\n\nSonda-me\nQuebranta-me\n\nTransforma-me\nEnche-me e usa-me\n\nComo um farol que\nbrilha à noite\n\nComo ponte sobre\nas águas\n\nComo abrigo no deserto\nComo flecha que\nacerta o alvo\n\nEu quero ser usado\nDa maneira que Te agrade\n\nEm qualquer hora\nE em qualquer lugar\n\nEis aqui a minha vida\nUsa-me, Senhor, usa-me\n\nSonda-me\nQuebranta-me\n\nTransforma-me\nEnche-me e usa-me\n\nSonda-me\nQuebranta-me\n\nTransforma-me\nEnche-me e usa-me",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -22332,7 +23545,7 @@
         {
           "number": 2,
           "description": "",
-          "text": "Quebranta o meu coração",
+          "text": "Quebranta o\nmeu coração",
           "text_with_comment": null,
           "translations": null
         },
@@ -22360,47 +23573,243 @@
         {
           "number": 6,
           "description": "",
-          "text": "Como um farol que brilha à noite\nComo ponte sobre as águas",
+          "text": "Como um farol que\nbrilha à noite",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Como abrigo no deserto\nComo flecha que acerta o alvo",
+          "text": "Como ponte sobre\nas águas",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Eu quero ser usado\nDa maneira que Te agrade",
+          "text": "Como abrigo no deserto\nComo flecha que\nacerta o alvo",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 9,
           "description": "",
-          "text": "Em qualquer hora\nE em qualquer lugar",
+          "text": "Eu quero ser usado\nDa maneira que Te agrade",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 10,
           "description": "",
-          "text": "Eis aqui a minha vida\nUsa-me, Senhor, usa-me",
+          "text": "Em qualquer hora\nE em qualquer lugar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 11,
           "description": "",
-          "text": "Sonda-me\nQuebranta-me",
+          "text": "Eis aqui a minha vida\nUsa-me, Senhor, usa-me",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 12,
+          "description": "",
+          "text": "Sonda-me, Senhor\nE me conheces",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "Quebranta o\nmeu coração",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "Transforma-me\nConforme a Tua palavra",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 15,
+          "description": "",
+          "text": "E enche-me até que em mim\nSe ache só a Ti, então",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 16,
+          "description": "",
+          "text": "Usa-me, Senhor\nUsa-me",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 17,
+          "description": "",
+          "text": "Como um farol que\nbrilha à noite",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 18,
+          "description": "",
+          "text": "Como ponte sobre\nas águas",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 19,
+          "description": "",
+          "text": "Como abrigo no deserto\nComo flecha que\nacerta o alvo",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 20,
+          "description": "",
+          "text": "Eu quero ser usado\nDa maneira que Te agrade",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 21,
+          "description": "",
+          "text": "Em qualquer hora\nE em qualquer lugar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 22,
+          "description": "",
+          "text": "Eis aqui a minha vida\nUsa-me, Senhor, usa-me",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 23,
+          "description": "",
+          "text": "Sonda-me\nQuebranta-me",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 24,
+          "description": "",
+          "text": "Transforma-me\nEnche-me e usa-me",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 25,
+          "description": "",
+          "text": "Sonda-me\nQuebranta-me",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 26,
+          "description": "",
+          "text": "Transforma-me\nEnche-me e usa-me",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 27,
+          "description": "",
+          "text": "Sonda-me\nQuebranta-me",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 28,
+          "description": "",
+          "text": "Transforma-me\nEnche-me e usa-me",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 29,
+          "description": "",
+          "text": "Sonda-me\nQuebranta-me",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 30,
+          "description": "",
+          "text": "Transforma-me\nEnche-me e usa-me",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 31,
+          "description": "",
+          "text": "Como um farol que\nbrilha à noite",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 32,
+          "description": "",
+          "text": "Como ponte sobre\nas águas",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 33,
+          "description": "",
+          "text": "Como abrigo no deserto\nComo flecha que\nacerta o alvo",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 34,
+          "description": "",
+          "text": "Eu quero ser usado\nDa maneira que Te agrade",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 35,
+          "description": "",
+          "text": "Em qualquer hora\nE em qualquer lugar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 36,
+          "description": "",
+          "text": "Eis aqui a minha vida\nUsa-me, Senhor, usa-me",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 37,
+          "description": "",
+          "text": "Sonda-me\nQuebranta-me",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 38,
+          "description": "",
+          "text": "Transforma-me\nEnche-me e usa-me",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 39,
+          "description": "",
+          "text": "Sonda-me\nQuebranta-me",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 40,
           "description": "",
           "text": "Transforma-me\nEnche-me e usa-me",
           "text_with_comment": null,
@@ -22412,15 +23821,20 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/0ozX4JUZkx1OWMVKRbaWTQ",
         "youtube": "https://youtube.com/watch?v=cL19_5aZUQI",
-        "deezer": "https://deezer.com/track/93550090"
+        "deezer": "https://deezer.com/track/93550090",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
+      "cifra": "https://www.cifrashub.com.br/song/aline-barros/sonda-me-usa-me",
       "extra": ""
     }
   },
@@ -22504,12 +23918,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/5EkbrcQSqm3JkK3eSDX7oT",
         "youtube": "https://youtube.com/watch?v=K8qDMsfBPDY",
-        "deezer": "https://deezer.com/track/671224882"
+        "deezer": "https://deezer.com/track/671224882",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": "https://deezer.com/track/741417012"
+        "deezer": "https://deezer.com/track/741417012",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -22660,12 +24078,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/6KP1I5Ep4itKNF3wCoBroL",
         "youtube": "https://youtube.com/watch?v=BDSfft7V8V4",
-        "deezer": "https://deezer.com/track/412520772"
+        "deezer": "https://deezer.com/track/412520772",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -22815,12 +24237,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/0PEkKjD8bgssfDbKUzKQ21",
         "youtube": "https://youtube.com/watch?v=cBann0oTGsM",
-        "deezer": "https://deezer.com/track/3150925381"
+        "deezer": "https://deezer.com/track/3150925381",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -22999,12 +24425,16 @@
       "audio": {
         "spotify": "",
         "youtube": "https://www.youtube.com/watch?v=JGAFpVZsak8",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -23120,12 +24550,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/7CaSV8lUVWyLe2lQaYcvT5",
         "youtube": "https://youtube.com/watch?v=0yvYtqdd2vE",
-        "deezer": "https://deezer.com/track/694743592"
+        "deezer": "https://deezer.com/track/694743592",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -23212,12 +24646,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/7FXEHVZMXO2brLAFsbqX1z",
         "youtube": "https://youtube.com/watch?v=Pv-5YSiBfO4",
-        "deezer": "https://deezer.com/track/582992862"
+        "deezer": "https://deezer.com/track/582992862",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -23297,12 +24735,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/3Uk4Jh1mJRHT9MRlJl8hOD",
         "youtube": "https://youtube.com/watch?v=D1XStc7jtvA",
-        "deezer": "https://deezer.com/track/2172824517"
+        "deezer": "https://deezer.com/track/2172824517",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "https://open.spotify.com/track/4zwPvbxasQxiqYW5zBFyut",
         "youtube": "https://youtube.com/watch?v=erFfYsba4ns",
-        "deezer": "https://deezer.com/track/2133840937"
+        "deezer": "https://deezer.com/track/2133840937",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -23389,12 +24831,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/7jgWbJ4oiYZ4YFwtnGa0ab",
         "youtube": "https://youtube.com/watch?v=8SDKbCDHJIU",
-        "deezer": "https://deezer.com/track/586403042"
+        "deezer": "https://deezer.com/track/586403042",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -23523,12 +24969,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/2BslVGgN43vtWfAFI7vJnr",
         "youtube": "https://youtube.com/watch?v=6ZwB8J4tJEs",
-        "deezer": "https://deezer.com/track/554480112"
+        "deezer": "https://deezer.com/track/554480112",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -23602,12 +25052,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/7I3IEGAjl6alRnKbtIKhVG",
         "youtube": "https://youtube.com/watch?v=7fM9FClZ3xQ",
-        "deezer": "https://deezer.com/track/729149882"
+        "deezer": "https://deezer.com/track/729149882",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -23701,12 +25155,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/7sIXp312fz0V6YAh7Azbmp",
         "youtube": "https://youtube.com/watch?v=TTFqYoKRx5Y",
-        "deezer": "https://deezer.com/track/916213102"
+        "deezer": "https://deezer.com/track/916213102",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -23836,12 +25294,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/2goCUsA7HGG137Hb2FXQzU",
         "youtube": "https://youtube.com/watch?v=QXL8dM7iSYw",
-        "deezer": "https://deezer.com/track/1596779132"
+        "deezer": "https://deezer.com/track/1596779132",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -23863,7 +25325,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Junto ao poço estava eu\nQuando um homem judeu\n\nViu a sede que havia em mim\n\nSem me ouvir, conheceu\n\nE me ofereceu\nUma água que jorra sem fim\n\nDá-me de beber\nPois tenho sede\n\nNão quero mais buscar\nEm outras fontes\n\nNão precisarei aqui voltar\nPra minha sede saciar\n\nUma vez que eu já ouvi Teu falar\n\nTu és por quem a minh'alma esperou\nA fonte da vida que me encontrou\n\nÉs o dom de Deus\nO Messias, o meu Salvador\n\nQuero beber do Teu rio\nSenhor\n\nSacia a minha sede\nLava o meu interior\n\nEu quero fluir em Tuas águas\nEu quero beber da Tua fonte\n\nFonte de águas vivas",
+      "full_text": "Junto ao poço estava eu\nQuando um homem judeu\n\nViu a sede que\nhavia em mim\n\nSem me ouvir, conheceu\nE me ofereceu\nUma água que jorra sem fim\n\nDá-me de beber\nPois tenho sede\n\nNão quero mais buscar\nEm outras fontes\n\nNão precisarei aqui voltar\nPra minha sede saciar\n\nUma vez que eu já\nouvi Teu falar\n\nTu és por quem a\nminh'alma esperou\n\nA fonte da vida que\nme encontrou\n\nÉs o dom de Deus\nO Messias, o meu Salvador\n\nTu és por quem a\nminh'alma esperou\n\nA fonte da vida que\nme encontrou\n\nÉs o dom de Deus\nO Messias, o meu Salvador\n\nQuero beber do\nTeu rio Senhor\n\nSacia a minha sede\nLava o meu interior\n\nEu quero fluir em Tuas águas\nEu quero beber da Tua fonte\n\nFonte de águas vivas\n\nQuero beber do\nTeu rio Senhor\n\nSacia a minha sede\nLava o meu interior\n\nEu quero fluir em Tuas águas\nEu quero beber da Tua fonte\n\nFonte de águas vivas\n\nTu és por quem a\nminh'alma esperou\n\nA fonte da vida que\nme encontrou\n\nÉs o dom de Deus\nO Messias, o meu Salvador",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -23876,56 +25338,56 @@
         {
           "number": 2,
           "description": "",
-          "text": "Viu a sede que havia em mim",
+          "text": "Viu a sede que\nhavia em mim",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "Sem me ouvir, conheceu",
+          "text": "Sem me ouvir, conheceu\nE me ofereceu\nUma água que jorra sem fim",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "E me ofereceu\nUma água que jorra sem fim",
+          "text": "Dá-me de beber\nPois tenho sede",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Dá-me de beber\nPois tenho sede",
+          "text": "Não quero mais buscar\nEm outras fontes",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Não quero mais buscar\nEm outras fontes",
+          "text": "Não precisarei aqui voltar\nPra minha sede saciar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Não precisarei aqui voltar\nPra minha sede saciar",
+          "text": "Uma vez que eu já\nouvi Teu falar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Uma vez que eu já ouvi Teu falar",
+          "text": "Tu és por quem a\nminh'alma esperou",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 9,
           "description": "",
-          "text": "Tu és por quem a minh'alma esperou\nA fonte da vida que me encontrou",
+          "text": "A fonte da vida que\nme encontrou",
           "text_with_comment": null,
           "translations": null
         },
@@ -23939,28 +25401,98 @@
         {
           "number": 11,
           "description": "",
-          "text": "Quero beber do Teu rio\nSenhor",
+          "text": "Tu és por quem a\nminh'alma esperou",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 12,
           "description": "",
-          "text": "Sacia a minha sede\nLava o meu interior",
+          "text": "A fonte da vida que\nme encontrou",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 13,
           "description": "",
-          "text": "Eu quero fluir em Tuas águas\nEu quero beber da Tua fonte",
+          "text": "És o dom de Deus\nO Messias, o meu Salvador",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 14,
           "description": "",
+          "text": "Quero beber do\nTeu rio Senhor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 15,
+          "description": "",
+          "text": "Sacia a minha sede\nLava o meu interior",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 16,
+          "description": "",
+          "text": "Eu quero fluir em Tuas águas\nEu quero beber da Tua fonte",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 17,
+          "description": "",
           "text": "Fonte de águas vivas",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 18,
+          "description": "",
+          "text": "Quero beber do\nTeu rio Senhor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 19,
+          "description": "",
+          "text": "Sacia a minha sede\nLava o meu interior",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 20,
+          "description": "",
+          "text": "Eu quero fluir em Tuas águas\nEu quero beber da Tua fonte",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 21,
+          "description": "",
+          "text": "Fonte de águas vivas",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 22,
+          "description": "",
+          "text": "Tu és por quem a\nminh'alma esperou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 23,
+          "description": "",
+          "text": "A fonte da vida que\nme encontrou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 24,
+          "description": "",
+          "text": "És o dom de Deus\nO Messias, o meu Salvador",
           "text_with_comment": null,
           "translations": null
         }
@@ -23970,12 +25502,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/2xVe3wMbesHcOhqW8OoyS8",
         "youtube": "https://youtube.com/watch?v=Y0YNLUO8aes",
-        "deezer": "https://deezer.com/track/2589574122"
+        "deezer": "https://deezer.com/track/2589574122",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -24071,12 +25607,16 @@
       "audio": {
         "spotify": "",
         "youtube": "https://www.youtube.com/watch?v=wQQg8Ri6YZs",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -24233,12 +25773,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/4viVbBp6H0iP8VeCp3EQge",
         "youtube": "https://youtube.com/watch?v=DsxY7m6ZlnY",
-        "deezer": "https://deezer.com/track/821440502"
+        "deezer": "https://deezer.com/track/821440502",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -24368,12 +25912,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/46w8kyLAUvD5fUGPLfXXH2",
         "youtube": "https://www.youtube.com/watch?v=qxzQR5uwWsk",
-        "deezer": "https://deezer.com/track/3252267521"
+        "deezer": "https://deezer.com/track/3252267521",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -24706,12 +26254,16 @@
       "audio": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -24791,12 +26343,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/5t9SDOb3hmk12yrfFg1TlU",
         "youtube": "https://youtube.com/watch?v=wNXtk4oH0sQ",
-        "deezer": "https://deezer.com/track/694750952"
+        "deezer": "https://deezer.com/track/694750952",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -24912,12 +26468,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/7olHlPofZqBdq5imt06LrB",
         "youtube": "https://youtube.com/watch?v=5eOrvvMGFTA",
-        "deezer": "https://deezer.com/track/694749442"
+        "deezer": "https://deezer.com/track/694749442",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -25006,12 +26566,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/00E2KxBwL0B3idGMJcRoEh",
         "youtube": "https://youtube.com/watch?v=UBEjXvCPmJg",
-        "deezer": "https://deezer.com/track/2195182467"
+        "deezer": "https://deezer.com/track/2195182467",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -25182,12 +26746,16 @@
       "audio": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -25379,12 +26947,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/0bMAWV9DDN2fllpvCtpzWl",
         "youtube": "https://youtube.com/watch?v=dXOA4E0jVy0",
-        "deezer": "https://deezer.com/track/1564075132"
+        "deezer": "https://deezer.com/track/1564075132",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -25471,12 +27043,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/1rf6L934JnNgx4k5TnrqzT",
         "youtube": "https://youtube.com/watch?v=Vn_SRpg3bTY",
-        "deezer": "https://deezer.com/track/729229622"
+        "deezer": "https://deezer.com/track/729229622",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -25570,12 +27146,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/2MqySzHNP8fXUgEXOt7cNc",
         "youtube": "",
-        "deezer": "https://deezer.com/track/2741263811"
+        "deezer": "https://deezer.com/track/2741263811",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -25732,12 +27312,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/6oq4dspH3sjmAWm3QaViSW",
         "youtube": "https://youtube.com/watch?v=_j9LsNgO_0U",
-        "deezer": "https://deezer.com/track/1146559512"
+        "deezer": "https://deezer.com/track/1146559512",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -25845,12 +27429,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/1d4tVj6KirQBW3PcEFjX8p",
         "youtube": "https://youtube.com/watch?v=ACX1VtGoeg8",
-        "deezer": "https://deezer.com/track/1288624222"
+        "deezer": "https://deezer.com/track/1288624222",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -25993,12 +27581,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/442A0IdJTDkRP0M4CM0pPb",
         "youtube": "https://youtube.com/watch?v=9Zod1zH6ZPQ",
-        "deezer": "https://deezer.com/track/104302274"
+        "deezer": "https://deezer.com/track/104302274",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": "https://deezer.com/track/139186063"
+        "deezer": "https://deezer.com/track/139186063",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -26134,12 +27726,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/0wFSztnpnNA6dEL5tsOPZb",
         "youtube": "https://youtube.com/watch?v=fFbV_Ju9Soc",
-        "deezer": "https://deezer.com/track/714040272"
+        "deezer": "https://deezer.com/track/714040272",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -26450,12 +28046,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/7C6jN12e3k2weyxSDtmpj3",
         "youtube": "https://youtube.com/watch?v=BGCXUl7pLaE",
-        "deezer": "https://deezer.com/track/2242646347"
+        "deezer": "https://deezer.com/track/2242646347",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "https://open.spotify.com/track/4y2SGX826luglyCAqZfFD1",
         "youtube": "https://youtube.com/watch?v=ppWi1EeByGY",
-        "deezer": "https://deezer.com/track/2242646357"
+        "deezer": "https://deezer.com/track/2242646357",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
@@ -26564,12 +28164,16 @@
       "audio": {
         "spotify": "https://open.spotify.com/track/6466PQ9yTWUsEr1sWBpH2w",
         "youtube": "https://youtube.com/watch?v=3xMG6ZShN6k",
-        "deezer": "https://deezer.com/track/821388522"
+        "deezer": "https://deezer.com/track/821388522",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
         "youtube": "",
-        "deezer": ""
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       }
     },
     "extras": {
