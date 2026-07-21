@@ -83,7 +83,7 @@
 
         </div>
 
-        <!-- <hr>
+        <hr>
         <h6 class="text-center mb-4"><i><strong>Setlist da Semana</strong></i>
         </h6>
         <div class="row mt-2 fs-6 fs-md-4">
@@ -95,8 +95,7 @@
                             <th>Título</th>
                             <th width="38%">Artista</th>
                             <th width="1%">BPM</th>
-                            <th width="1%">Comp.</th>
-                            <th width="1%">Tom</th>
+                            <th width="1%">Comp.</th>                            
                             <th width="1%">Cifra</th>
                             <th width="1%">Link</th>
                         </tr>
@@ -106,7 +105,7 @@
                     </tbody>
                 </table>
             </div>
-        </div> -->
+        </div>
         <hr>
         <h6 class="text-center"><i><strong>Repertório Completo</strong></i></h6>
         <h6 class="text-center mb-4"><i>Atualizado em: <strong>06/07/2026</strong> | <span
@@ -241,9 +240,7 @@
                                     ${(musica.time_sig) ? `<td align='center'>
                                         ${musica.time_sig}
                                     </td>` : '<td></td>'}                                    
-                                    ${(musica.key) ? `<td align='center'>
-                                        ${musica.key}
-                                    </td>` : '<td></td>'}
+                                    
                                     ${(musica.extras.cifra) ? `<td align='center'>
                                         <a href="${musica.extras.cifra}" target="_blank" rel="noopener noreferrer">
                                             <i class="bx bx-list-music" style="color:#000000; font-size:1.5em;"></i>
@@ -257,6 +254,10 @@
                                 </tr>`;
                         }
                     });
+
+                    // ${(musica.key) ? `<td align='center'>
+                    //                     ${musica.key}
+                    //                 </td>` : '<td></td>'}
 
                     $('#musicasSemana tbody').html(rows);
                     $('#musicasSemana').DataTable({

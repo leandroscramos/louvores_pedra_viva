@@ -2934,6 +2934,8 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
+      "cifra": "https://www.cifrashub.com.br/song/diante-do-trono/cancao-do-apocalipse",
       "extra": ""
     }
   },
@@ -3086,6 +3088,8 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
+      "cifra": "https://www.cifrashub.com.br/song/eyshila/casa-de-bencao",
       "extra": ""
     }
   },
@@ -4103,6 +4107,8 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
+      "cifra": "https://www.cifrashub.com.br/song/diante-do-trono/coracao-igual-ao-teu",
       "extra": ""
     }
   },
@@ -12459,7 +12465,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/julliany-souza/lindo-momento",
       "extra": ""
     }
@@ -14181,7 +14186,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/vineyard/me-derramar",
       "extra": ""
     }
@@ -16000,6 +16004,118 @@
     }
   },
   {
+    "id": 1784635578746,
+    "title": "Nada Mais",
+    "artist": "FHOP Music",
+    "author": "Cody Carnes, Hank Bentley, Jessie Early",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "D",
+    "bpm": 68.0,
+    "time_sig": "4/4",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Envolto em Tua presença\nAos Teus pés é onde eu quero estar\n\nEm meio a Tua santidade\nAqui quero ficar\n\nNão vim atrás de bênçãos\nJesus, não deves nada para mim\n\nMais do que Tu podes fazer\nSó quero a Ti\n\nLamento por viver indiferente\nLamento por não cantar de coração\n\nLeva-me ao primeiro amor\nEu abro o meu coração pra Ti\n\nLamento por viver\nSó pra mim mesmo\n\nLamento por não ver\nQue és meu sustento\n\nLeva-me ao primeiro amor\nEu abro o meu coração pra Ti\n\nSó quero a Ti, nada mais\nNada mais, nada além de Ti",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Envolto em Tua presença\nAos Teus pés é onde eu quero estar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Em meio a Tua santidade\nAqui quero ficar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Não vim atrás de bênçãos\nJesus, não deves nada para mim",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Mais do que Tu podes fazer\nSó quero a Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Lamento por viver indiferente\nLamento por não cantar de coração",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Leva-me ao primeiro amor\nEu abro o meu coração pra Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Lamento por viver\nSó pra mim mesmo",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Lamento por não ver\nQue és meu sustento",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Leva-me ao primeiro amor\nEu abro o meu coração pra Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Só quero a Ti, nada mais\nNada mais, nada além de Ti",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "https://open.spotify.com/track/6kEHJYuyiiu4tL0k6AcHh1",
+        "youtube": "https://youtube.com/watch?v=zeWG3V7Q4RQ",
+        "deezer": "https://deezer.com/track/2333600435",
+        "apple_music": "https://music.apple.com/br/song/1754898111",
+        "amazon_music": "https://music.amazon.com.br/tracks/B0D8FH3S22"
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
+      }
+    },
+    "extras": {
+      "playlist_semana": "s",
+      "cifra": "https://www.cifrashub.com.br/song/florianopolis-house-of-prayer/nada-mais",
+      "extra": ""
+    }
+  },
+  {
     "id": 1771527481026,
     "title": "Nada Mais + Uma Vez",
     "artist": "Brasa Church",
@@ -17427,6 +17543,8 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
+      "cifra": "https://www.cifrashub.com.br/song/arianne/o-espirito-de-deus-esta-aqui",
       "extra": ""
     }
   },
@@ -18074,7 +18192,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/yasmin-teixeira/o-fogo-ardera-reacende-a-chama-acende-outra-vez",
       "extra": ""
     }
@@ -22294,6 +22411,8 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
+      "cifra": "https://www.cifrashub.com.br/song/corinhos-evangelicos/rompendo-em-fe",
       "extra": ""
     }
   },
@@ -22868,7 +22987,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/discopraise/se-eu-me-humilhar",
       "extra": ""
     }
@@ -25515,7 +25633,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/florianopolis-house-of-prayer/tu-es-aguas-purificadoras",
       "extra": ""
     }
@@ -25786,6 +25903,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/julia-vitoria/tuas-aguas-part-gabriela-rocha",
       "extra": ""
     }
@@ -26481,7 +26599,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/fernandinho/uma-nova-historia",
       "extra": ""
     }
