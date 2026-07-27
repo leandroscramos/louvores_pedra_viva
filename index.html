@@ -62,6 +62,12 @@
     .page-link {
         color: black !important;
     }
+
+    .table td,
+    .table th {
+        vertical-align: middle !important;
+    }
+
 </style>
 
 <body>
@@ -84,12 +90,10 @@
                 <table id="musicasSemana" class="table table-striped table-condensed">
                     <thead>
                         <tr>
-                           <th width="2%">#</th>
-                            <th>Título</th>
-                            <th width="38%">Artista</th>
+                            <th width="2%">#</th>
+                            <th>Título/Artista</th>                            
                             <th width="1%">BPM</th>
                             <th width="1%">Compasso</th>
-                            <!-- <th width="1%">Tom</th> -->
                             <th width="1%">Cifra Original</th>
                             <th width="1%">Link</th>
                         </tr>
@@ -101,19 +105,17 @@
         </div>
         <hr>
         <h6 class="text-center"><i><strong>Repertório Completo</strong></i></h6>
-        <h6 class="text-center mb-4" style="margin-bottom: 0px !important;"><i>Atualizado em: <strong>27/07/2026</strong> | <span
-                    id="num_musicas"><strong></strong></span> músicas</i></h6>
+        <h6 class="text-center mb-4" style="margin-bottom: 0px !important;"><i>Atualizado em:
+                <strong>27/07/2026</strong> | <span id="num_musicas"><strong></strong></span> músicas</i></h6>
         <div class="row mt-2 fs-6 fs-md-4">
             <div class="table-responsive">
                 <table id="musicasTable" class="table table-striped table-condensed">
                     <thead>
                         <tr>
                             <th width="2%">#</th>
-                            <th>Título</th>
-                            <th width="38%">Artista</th>
+                            <th>Título/Artista</th>                            
                             <th width="1%">BPM</th>
                             <th width="1%">Compasso</th>
-                            <!-- <th width="1%">Tom</th> -->
                             <th width="1%">Cifra Original</th>
                             <th width="1%">Link</th>
                         </tr>
@@ -167,15 +169,13 @@
                         $num_rand = Math.floor(Math.random() * 1000);
                         rows += `<tr>                                    
                                     <td><strong>`+ $num_rand + `</strong></td>
-                                    <td><strong>${musica.title}</strong></td>
-                                    <td>${musica.artist}</td>                                                                      
+                                    <td><strong>${musica.title}</strong><br>${musica.artist}</td>
                                     ${(musica.bpm) ? `<td align='center'>
                                         ${musica.bpm}
                                     </td>` : '<td></td>'}
                                     ${(musica.time_sig) ? `<td align='center'>
                                         ${musica.time_sig}
-                                    </td>` : '<td></td>'}
-                                   
+                                    </td>` : '<td></td>'}                                      
                                     ${(musica.extras.cifra) ? `<td align='center'>
                                         <a href="${musica.extras.cifra}" target="_blank" rel="noopener noreferrer">
                                             <i class="bx bx-list-music" style="color:#000000; font-size:1.5em;"></i>
@@ -201,7 +201,7 @@
                         },
                         // Aplica a ordenação locale-pt na coluna 0 e desabilita ordenação nas colunas 2 e 3
                         columnDefs: [
-                            { orderable: false, targets: [3, 4, 5, 6] },
+                            { orderable: false, targets: [1, 2, 3, 4, 5] },
                             { type: 'locale-pt', targets: 0 },
                             { visible: false, targets: 0 },
                         ],
@@ -222,18 +222,16 @@
                     data.forEach(musica => {
 
                         if (musica.extras.playlist_semana) {
-                            $num_rand = Math.floor(Math.random() * 1000);
+                            let num_rand = Math.floor(Math.random() * 1000);
                             rows += `<tr>                                    
                                     <td><strong>`+ $num_rand + `</strong></td>
-                                    <td><strong>${musica.title}</strong></td>
-                                    <td>${musica.artist}</td>                                                                      
+                                    <td><strong>${musica.title}</strong><br>${musica.artist}</td>
                                     ${(musica.bpm) ? `<td align='center'>
                                         ${musica.bpm}
                                     </td>` : '<td></td>'}
                                     ${(musica.time_sig) ? `<td align='center'>
                                         ${musica.time_sig}
-                                    </td>` : '<td></td>'}                                    
-                                    
+                                    </td>` : '<td></td>'}                                      
                                     ${(musica.extras.cifra) ? `<td align='center'>
                                         <a href="${musica.extras.cifra}" target="_blank" rel="noopener noreferrer">
                                             <i class="bx bx-list-music" style="color:#000000; font-size:1.5em;"></i>
@@ -260,12 +258,12 @@
                         },
                         // Aplica a ordenação locale-pt na coluna 0 e desabilita ordenação nas colunas 2 e 3
                         columnDefs: [
-                            { orderable: false, targets: [3, 4, 5, 6] },
+                            { orderable: false, targets: [1, 2, 3, 4, 5] },
                             { type: 'locale-pt', targets: 0 },
                             { visible: false, targets: 0 },
                         ],
                         // opcional: definir ordem inicial pela coluna 0
-                        order: [[1, 'asc']],
+                        order: [[0, 'asc']],
                         searching: false, // Desabilita a pesquisa
                         paging: false,    // Desabilita a paginação
                     });
