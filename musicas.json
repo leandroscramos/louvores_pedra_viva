@@ -1391,6 +1391,104 @@
     }
   },
   {
+    "id": 1785185531832,
+    "title": "Algo Novo",
+    "artist": "Kemuel e Lukas Agustinho",
+    "author": "David Marx, Beresix, Heric Tolentino",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "D",
+    "bpm": 60.0,
+    "time_sig": "4/4",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Vem me visitar hoje aqui\nEu quero conhecer mais de Ti\n\nEspírito, vem, Espírito, vem\nEspírito Santo\n\nEu quero viver algo novo\nFaz meu coração arder de novo\n\nFazendo todo o medo desaparecer\n\nTrazendo sobre mim\nUm novo amanhecer\n\nEu quero viver algo novo\n\nSanto Espírito, desce como fogo\nSanto Espírito, desce como fogo\n\nIncendeia\nIncendeia",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Vem me visitar hoje aqui\nEu quero conhecer mais de Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Espírito, vem, Espírito, vem\nEspírito Santo",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Eu quero viver algo novo\nFaz meu coração arder de novo",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Fazendo todo o medo desaparecer",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Trazendo sobre mim\nUm novo amanhecer",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Eu quero viver algo novo",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Santo Espírito, desce como fogo\nSanto Espírito, desce como fogo",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Incendeia\nIncendeia",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "",
+        "youtube": "https://www.youtube.com/watch?v=wWU1Bn6wy9o",
+        "deezer": "https://deezer.com/track/970942952",
+        "apple_music": "https://music.apple.com/br/song/1515205271",
+        "amazon_music": "https://music.amazon.com.br/tracks/B0895KNP3L"
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
+      }
+    },
+    "extras": {
+      "playlist_semana": "s",
+      "cifra": "https://www.cifrashub.com.br/song/coral-kemuel/algo-novo-part-lukas-agustinho",
+      "extra": ""
+    }
+  },
+  {
     "id": 1762266627995,
     "title": "Alto Preço",
     "artist": "Asaph Borba",
@@ -2381,7 +2479,7 @@
     "streaming": {
       "audio": {
         "spotify": "https://open.spotify.com/track/0LR9dbA72J4eYW8UZSrujK",
-        "youtube": "https://youtube.com/watch?v=fxyg_c0bXAk",
+        "youtube": "https://www.youtube.com/watch?v=K9wXc0FWITM",
         "deezer": "https://deezer.com/track/137908219",
         "apple_music": "",
         "amazon_music": ""
@@ -2395,6 +2493,8 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
+      "cifra": "https://www.cifrashub.com.br/song/aline-barros/bem-mais-que-tudo",
       "extra": ""
     }
   },
@@ -2934,7 +3034,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/diante-do-trono/cancao-do-apocalipse",
       "extra": ""
     }
@@ -2954,7 +3053,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Minha casa será\nUma casa de bênção\n\nMinha casa será\nUm pedaço do céu\n\nNela estarão reunidos\nAdoradores\n\nQue só exaltam ao Deus\nVerdadeiro e fiel\n\nMinha casa\nSerá reconhecida\n\nComo um lugar\nDe milagres e oração\n\nOnde Jesus tem\nPrazer em ficar\n\nOnde o Espírito Santo\nHabita\n\nOnde há\n\nProsperidade\nAmor e vida\n\nFaça do meu lar, Senhor\nUm lugar de harmonia\n\nFaça do meu coração\nTua casa todo dia\n\nEsteja à vontade\nPra ficar\n\nE nunca mais partir\n\nPois a casa que\nUm dia Te recebeu\n\nNunca mais\nSaberá viver sem Ti",
+      "full_text": "Minha casa será\nUma casa de bênção\n\nMinha casa será\nUm pedaço do céu\n\nNela estarão reunidos\nAdoradores\n\nQue só exaltam ao Deus\nVerdadeiro e fiel\n\nMinha casa\nSerá reconhecida\n\nComo um lugar\nDe milagres e oração\n\nOnde Jesus tem\nPrazer em ficar\n\nOnde o Espírito Santo\nHabita\n\nOnde há prosperidade\nAmor e vida\n\nFaça do meu lar, Senhor\nUm lugar de harmonia\n\nFaça do meu coração\nTua casa todo dia\n\nEsteja à vontade\nPra ficar\nE nunca mais partir\n\nPois a casa que\nUm dia Te recebeu\n\nNunca mais\nSaberá viver sem Ti",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -3016,54 +3115,40 @@
         {
           "number": 9,
           "description": "",
-          "text": "Onde há",
+          "text": "Onde há prosperidade\nAmor e vida",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 10,
           "description": "",
-          "text": "Prosperidade\nAmor e vida",
+          "text": "Faça do meu lar, Senhor\nUm lugar de harmonia",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 11,
           "description": "",
-          "text": "Faça do meu lar, Senhor\nUm lugar de harmonia",
+          "text": "Faça do meu coração\nTua casa todo dia",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 12,
           "description": "",
-          "text": "Faça do meu coração\nTua casa todo dia",
+          "text": "Esteja à vontade\nPra ficar\nE nunca mais partir",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 13,
           "description": "",
-          "text": "Esteja à vontade\nPra ficar",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 14,
-          "description": "",
-          "text": "E nunca mais partir",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 15,
-          "description": "",
           "text": "Pois a casa que\nUm dia Te recebeu",
           "text_with_comment": null,
           "translations": null
         },
         {
-          "number": 16,
+          "number": 14,
           "description": "",
           "text": "Nunca mais\nSaberá viver sem Ti",
           "text_with_comment": null,
@@ -3088,7 +3173,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/eyshila/casa-de-bencao",
       "extra": ""
     }
@@ -3987,7 +4071,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Se Tu olhares, Senhor\nPra dentro de mim\n\nNada encontrarás de bom\n\nMas um desejo eu tenho\nDe ser transformado\n\nPreciso tanto do Teu perdão\nDá-me um novo coração\n\nDá-me um coração\nIgual ao Teu, meu mestre\n\nDá-me um coração\nIgual ao Teu\n\nCoração disposto\nA obedecer\n\nCumprir todo\nO Teu querer\n\nDá-me um coração\nIgual ao Teu\n\nEnsina-me a amar\nO meu irmão\n\nA olhar com Teus olhos\nPerdoar com o Teu perdão\n\nEnche-me\nCom Teu Espírito\n\nEndireita\nOs meus caminhos\n\nOh Deus, dá-me\nUm novo coração",
+      "full_text": "Se Tu olhares, Senhor\nPra dentro de mim\n\nNada encontrarás\nde bom\n\nMas um desejo eu tenho\nDe ser transformado\n\nPreciso tanto do Teu perdão\nDá-me um novo coração\n\nDá-me um coração\nIgual ao Teu, meu mestre\n\nDá-me um coração\nIgual ao Teu\n\nCoração disposto\nA obedecer\n\nCumprir todo\nO Teu querer\n\nDá-me um coração\nIgual ao Teu\n\nEnsina-me a amar\nO meu irmão\n\nA olhar com Teus olhos\nPerdoar com o Teu perdão\n\nEnche-me\nCom Teu Espírito\n\nEndireita\nOs meus caminhos\n\nOh Deus, dá-me\nUm novo coração",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -4000,7 +4084,7 @@
         {
           "number": 2,
           "description": "",
-          "text": "Nada encontrarás de bom",
+          "text": "Nada encontrarás\nde bom",
           "text_with_comment": null,
           "translations": null
         },
@@ -4107,7 +4191,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/diante-do-trono/coracao-igual-ao-teu",
       "extra": ""
     }
@@ -4198,7 +4281,7 @@
     "streaming": {
       "audio": {
         "spotify": "https://open.spotify.com/track/4bxDGghFKLGfffrcC311N4",
-        "youtube": "https://youtube.com/watch?v=vtWPdszqdsc",
+        "youtube": "https://www.youtube.com/watch?v=SKS7zkEEqrM",
         "deezer": "https://deezer.com/track/3075855221",
         "apple_music": "",
         "amazon_music": ""
@@ -4212,6 +4295,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/jefferson-e-suellen/cordeiro-e-leao",
       "extra": ""
     }
@@ -6895,8 +6979,8 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Estou preparando\num caminho\n\nEndireitando as veredas\nE cada vez mais diminuindo\n\nPorque importa que\nEle cresça\n\nNele o meu prazer está\n\nEu não sou digno\nde desatar as\nSuas sandálias\n\nNele a minha vida está\n\nE eu caminho com a certeza\nDe que Ele virá\n\nÉ Ele, por Ele que eu estou\nGastando a minha vida\n\nPerdendo tudo por amor\nE com alegria\n\nDono dos meus dias\n\nEstou preparando\num caminho\n\nEndireitando as veredas\nE cada vez mais diminuindo\n\nPorque importa que\nEle cresça\n\nNele o meu prazer está\n\nEu não sou digno\nde desatar as\nSuas sandálias\n\nNele a minha vida está\n\nE eu caminho com a certeza\nDe que Ele virá\n\nÉ Ele, por Ele que eu estou\nGastando a minha vida\n\nPerdendo tudo por amor\nE com alegria\n\nDono dos meus dias\n\nÉ Ele, por Ele que eu estou\nGastando a minha vida\n\nPerdendo tudo por amor\nE com alegria\n\nDono dos meus dias\n\nEle virá, soberano em\npoder Ele virá\nE o governo está nele\n\nVejam, Ele traz Consigo\nA Sua recompensa\n\nEle virá, soberano em\npoder Ele virá\nE o governo está nele\n\nVejam, Ele traz Consigo\nA Sua recompensa\n\nÉ Ele, por Ele que eu estou\nGastando a minha vida\n\nPerdendo tudo por amor\nE com alegria\n\nDono dos meus dias\n\nÉ Ele, por Ele que eu estou\nGastando a minha vida\n\nPerdendo tudo por amor\nE com alegria\n\nDono dos meus dias",
-      "full_text_with_comment": "Estou preparando\num caminho\n\nEndireitando as veredas\nE cada vez mais diminuindo\n\nPorque importa que\nEle cresça\n\nNele o meu prazer está\n\nEu não sou digno\nde desatar as\nSuas sandálias\n\nNele a minha vida está\n\nE eu caminho com a certeza\nDe que Ele virá\n\n// Refrão\nÉ Ele, por Ele que eu estou\nGastando a minha vida\n\nPerdendo tudo por amor\nE com alegria\n\nDono dos meus dias\n\nEstou preparando\num caminho\n\nEndireitando as veredas\nE cada vez mais diminuindo\n\nPorque importa que\nEle cresça\n\nNele o meu prazer está\n\nEu não sou digno\nde desatar as\nSuas sandálias\n\nNele a minha vida está\n\nE eu caminho com a certeza\nDe que Ele virá\n\nÉ Ele, por Ele que eu estou\nGastando a minha vida\n\nPerdendo tudo por amor\nE com alegria\n\nDono dos meus dias\n\nÉ Ele, por Ele que eu estou\nGastando a minha vida\n\nPerdendo tudo por amor\nE com alegria\n\nDono dos meus dias\n\nEle virá, soberano em\npoder Ele virá\nE o governo está nele\n\nVejam, Ele traz Consigo\nA Sua recompensa\n\nEle virá, soberano em\npoder Ele virá\nE o governo está nele\n\nVejam, Ele traz Consigo\nA Sua recompensa\n\nÉ Ele, por Ele que eu estou\nGastando a minha vida\n\nPerdendo tudo por amor\nE com alegria\n\nDono dos meus dias\n\nÉ Ele, por Ele que eu estou\nGastando a minha vida\n\nPerdendo tudo por amor\nE com alegria\n\nDono dos meus dias",
+      "full_text": "Estou preparando\num caminho\n\nEndireitando as veredas\nE cada vez mais diminuindo\n\nPorque importa que\nEle cresça\n\nNele o meu prazer está\n\nEu não sou digno\nde desatar as\nSuas sandálias\n\nNele a minha vida está\n\nE eu caminho com a certeza\nDe que Ele virá\n\nÉ Ele, por Ele que eu estou\nGastando a minha vida\n\nPerdendo tudo por amor\nE com alegria\n\nDono dos meus dias\n\nEstou preparando\num caminho\n\nEndireitando as veredas\nE cada vez mais diminuindo\n\nPorque importa que\nEle cresça\n\nNele o meu prazer está\n\nEu não sou digno\nde desatar as\nSuas sandálias\n\nNele a minha vida está\n\nE eu caminho com a certeza\nDe que Ele virá\n\nÉ Ele, por Ele que eu estou\nGastando a minha vida\n\nPerdendo tudo por amor\nE com alegria\n\nDono dos meus dias\n\nÉ Ele, por Ele que eu estou\nGastando a minha vida\n\nPerdendo tudo por amor\nE com alegria\n\nDono dos meus dias\n\nEle virá, soberano em\npoder Ele virá\nE o governo está Nele\n\nVejam, Ele traz Consigo\nA Sua recompensa\n\nEle virá, soberano em\npoder Ele virá\nE o governo está Nele\n\nVejam, Ele traz Consigo\nA Sua recompensa\n\nÉ Ele, por Ele que eu estou\nGastando a minha vida\n\nPerdendo tudo por amor\nE com alegria\n\nDono dos meus dias\n\nÉ Ele, por Ele que eu estou\nGastando a minha vida\n\nPerdendo tudo por amor\nE com alegria\n\nDono dos meus dias",
+      "full_text_with_comment": "Estou preparando\num caminho\n\nEndireitando as veredas\nE cada vez mais diminuindo\n\nPorque importa que\nEle cresça\n\nNele o meu prazer está\n\nEu não sou digno\nde desatar as\nSuas sandálias\n\nNele a minha vida está\n\nE eu caminho com a certeza\nDe que Ele virá\n\n// Refrão\nÉ Ele, por Ele que eu estou\nGastando a minha vida\n\nPerdendo tudo por amor\nE com alegria\n\nDono dos meus dias\n\nEstou preparando\num caminho\n\nEndireitando as veredas\nE cada vez mais diminuindo\n\nPorque importa que\nEle cresça\n\nNele o meu prazer está\n\nEu não sou digno\nde desatar as\nSuas sandálias\n\nNele a minha vida está\n\nE eu caminho com a certeza\nDe que Ele virá\n\nÉ Ele, por Ele que eu estou\nGastando a minha vida\n\nPerdendo tudo por amor\nE com alegria\n\nDono dos meus dias\n\nÉ Ele, por Ele que eu estou\nGastando a minha vida\n\nPerdendo tudo por amor\nE com alegria\n\nDono dos meus dias\n\nEle virá, soberano em\npoder Ele virá\nE o governo está Nele\n\nVejam, Ele traz Consigo\nA Sua recompensa\n\nEle virá, soberano em\npoder Ele virá\nE o governo está Nele\n\nVejam, Ele traz Consigo\nA Sua recompensa\n\nÉ Ele, por Ele que eu estou\nGastando a minha vida\n\nPerdendo tudo por amor\nE com alegria\n\nDono dos meus dias\n\nÉ Ele, por Ele que eu estou\nGastando a minha vida\n\nPerdendo tudo por amor\nE com alegria\n\nDono dos meus dias",
       "paragraphs": [
         {
           "number": 1,
@@ -7062,7 +7146,7 @@
         {
           "number": 24,
           "description": "",
-          "text": "Ele virá, soberano em\npoder Ele virá\nE o governo está nele",
+          "text": "Ele virá, soberano em\npoder Ele virá\nE o governo está Nele",
           "text_with_comment": null,
           "translations": null
         },
@@ -7076,7 +7160,7 @@
         {
           "number": 26,
           "description": "",
-          "text": "Ele virá, soberano em\npoder Ele virá\nE o governo está nele",
+          "text": "Ele virá, soberano em\npoder Ele virá\nE o governo está Nele",
           "text_with_comment": null,
           "translations": null
         },
@@ -8135,7 +8219,7 @@
     "streaming": {
       "audio": {
         "spotify": "https://open.spotify.com/track/3hEB1O2VaMmcqqS3UMlFiR",
-        "youtube": "https://youtube.com/watch?v=YA_PVJTOrf4",
+        "youtube": "https://www.youtube.com/watch?v=vM2A2XEm9TE",
         "deezer": "https://deezer.com/track/2407549285",
         "apple_music": "",
         "amazon_music": ""
@@ -8149,6 +8233,8 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
+      "cifra": "https://www.cifrashub.com.br/song/renascer-praise/escape",
       "extra": ""
     }
   },
@@ -11544,7 +11630,7 @@
     "streaming": {
       "audio": {
         "spotify": "https://open.spotify.com/track/3VerVvy89TYHEa48vcnaYl",
-        "youtube": "https://youtube.com/watch?v=d6pflSCLIao",
+        "youtube": "https://www.youtube.com/watch?v=XPxUfGfWtRA",
         "deezer": "https://deezer.com/track/93325890",
         "apple_music": "",
         "amazon_music": ""
@@ -11558,6 +11644,8 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
+      "cifra": "https://www.cifrashub.com.br/song/rodolfo-abrantes/isaias-9",
       "extra": ""
     }
   },
@@ -13421,7 +13509,7 @@
     "streaming": {
       "audio": {
         "spotify": "https://open.spotify.com/track/7nE1e60VdkncBBxQkqGxRY",
-        "youtube": "https://youtube.com/watch?v=7Y48iXKyAEE",
+        "youtube": "https://www.youtube.com/watch?v=oE_brFKwldk",
         "deezer": "https://deezer.com/track/2220932747",
         "apple_music": "",
         "amazon_music": ""
@@ -13435,6 +13523,8 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
+      "cifra": "https://www.cifrashub.com.br/song/nivea-soares/maravilhado",
       "extra": ""
     }
   },
@@ -16018,62 +16108,62 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Envolto em Tua presença\nAos Teus pés é onde eu quero estar\n\nEm meio a Tua santidade\nAqui quero ficar\n\nNão vim atrás de bênçãos\nJesus, não deves nada para mim\n\nMais do que Tu podes fazer\nSó quero a Ti\n\nLamento por viver indiferente\nLamento por não cantar de coração\n\nLeva-me ao primeiro amor\nEu abro o meu coração pra Ti\n\nLamento por viver\nSó pra mim mesmo\n\nLamento por não ver\nQue és meu sustento\n\nLeva-me ao primeiro amor\nEu abro o meu coração pra Ti\n\nSó quero a Ti, nada mais\nNada mais, nada além de Ti",
+      "full_text": "Envolto em\nTua presença\n\nAos Teus pés é onde\neu quero estar\n\nEm meio a Tua santidade\nAqui quero ficar\n\nNão vim atrás\nde bênçãos\n\nJesus, não deves\nnada para mim\n\nMais do que Tu podes fazer\nSó quero a Ti\n\nLamento por\nviver indiferente\n\nLamento por não\ncantar de coração\n\nLeva-me ao primeiro amor\nEu abro o meu coração pra Ti\n\nLamento por viver\nSó pra mim mesmo\n\nLamento por não ver\nQue és meu sustento\n\nLeva-me ao primeiro amor\nEu abro o meu coração pra Ti\n\nSó quero a Ti, nada mais\nNada mais, nada além de Ti\n\nSó quero a Ti, nada mais\nNada mais, nada além de Ti",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Envolto em Tua presença\nAos Teus pés é onde eu quero estar",
+          "text": "Envolto em\nTua presença",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "Em meio a Tua santidade\nAqui quero ficar",
+          "text": "Aos Teus pés é onde\neu quero estar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "Não vim atrás de bênçãos\nJesus, não deves nada para mim",
+          "text": "Em meio a Tua santidade\nAqui quero ficar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Mais do que Tu podes fazer\nSó quero a Ti",
+          "text": "Não vim atrás\nde bênçãos",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Lamento por viver indiferente\nLamento por não cantar de coração",
+          "text": "Jesus, não deves\nnada para mim",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Leva-me ao primeiro amor\nEu abro o meu coração pra Ti",
+          "text": "Mais do que Tu podes fazer\nSó quero a Ti",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Lamento por viver\nSó pra mim mesmo",
+          "text": "Lamento por\nviver indiferente",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Lamento por não ver\nQue és meu sustento",
+          "text": "Lamento por não\ncantar de coração",
           "text_with_comment": null,
           "translations": null
         },
@@ -16086,6 +16176,34 @@
         },
         {
           "number": 10,
+          "description": "",
+          "text": "Lamento por viver\nSó pra mim mesmo",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Lamento por não ver\nQue és meu sustento",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Leva-me ao primeiro amor\nEu abro o meu coração pra Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "Só quero a Ti, nada mais\nNada mais, nada além de Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
           "description": "",
           "text": "Só quero a Ti, nada mais\nNada mais, nada além de Ti",
           "text_with_comment": null,
@@ -16110,7 +16228,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/florianopolis-house-of-prayer/nada-mais",
       "extra": ""
     }
@@ -17543,7 +17660,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/arianne/o-espirito-de-deus-esta-aqui",
       "extra": ""
     }
@@ -22291,7 +22407,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Cada vez que\nA minha fé é provada\n\nTu me dás a chance\nDe crescer um pouco mais\n\nAs montanhas e vales\nDesertos e mares que atravesso\n\nMe levam para perto de Ti\n\nMinhas provações não são\nMaiores do que o meu Deus\n\nE não vão me impedir\nDe caminhar\n\nSe diante de mim\nNão se abrir o mar\n\nDeus vai me fazer andar\nPor sobre as águas\n\nRompendo em fé\n\nMinha vida se revestirá\nDo Teu poder\n\nRompendo em fé\n\nCom ousadia vou mover\nNo sobrenatural\n\nVou lutar e vencer\nVou plantar e colher\n\nA cada dia vou viver\nRompendo em fé",
+      "full_text": "Cada vez que\nA minha fé é provada\n\nTu me dás a chance\nDe crescer um pouco mais\n\nAs montanhas e vales\nDesertos e mares\n\nQue atravesso\nMe levam para perto de Ti\n\nMinhas provações não são\nMaiores do que o meu Deus\n\nE não vão me impedir\nDe caminhar\n\nSe diante de mim\nNão se abrir o mar\n\nDeus vai me fazer andar\nPor sobre as águas\n\nRompendo em fé\n\nMinha vida se revestirá\nDo Teu poder\n\nRompendo em fé\n\nCom ousadia vou mover\nNo sobrenatural\n\nVou lutar e vencer\nVou plantar e colher\n\nA cada dia vou viver\nRompendo em fé",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -22311,14 +22427,14 @@
         {
           "number": 3,
           "description": "",
-          "text": "As montanhas e vales\nDesertos e mares que atravesso",
+          "text": "As montanhas e vales\nDesertos e mares",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Me levam para perto de Ti",
+          "text": "Que atravesso\nMe levam para perto de Ti",
           "text_with_comment": null,
           "translations": null
         },
@@ -22411,7 +22527,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/corinhos-evangelicos/rompendo-em-fe",
       "extra": ""
     }
@@ -23650,7 +23765,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Sonda-me, Senhor\nE me conheces\n\nQuebranta o\nmeu coração\n\nTransforma-me\nConforme a Tua palavra\n\nE enche-me até que em mim\nSe ache só a Ti, então\n\nUsa-me, Senhor\nUsa-me\n\nComo um farol que\nbrilha à noite\n\nComo ponte sobre\nas águas\n\nComo abrigo no deserto\nComo flecha que\nacerta o alvo\n\nEu quero ser usado\nDa maneira que Te agrade\n\nEm qualquer hora\nE em qualquer lugar\n\nEis aqui a minha vida\nUsa-me, Senhor, usa-me\n\nSonda-me, Senhor\nE me conheces\n\nQuebranta o\nmeu coração\n\nTransforma-me\nConforme a Tua palavra\n\nE enche-me até que em mim\nSe ache só a Ti, então\n\nUsa-me, Senhor\nUsa-me\n\nComo um farol que\nbrilha à noite\n\nComo ponte sobre\nas águas\n\nComo abrigo no deserto\nComo flecha que\nacerta o alvo\n\nEu quero ser usado\nDa maneira que Te agrade\n\nEm qualquer hora\nE em qualquer lugar\n\nEis aqui a minha vida\nUsa-me, Senhor, usa-me\n\nSonda-me\nQuebranta-me\n\nTransforma-me\nEnche-me e usa-me\n\nSonda-me\nQuebranta-me\n\nTransforma-me\nEnche-me e usa-me\n\nSonda-me\nQuebranta-me\n\nTransforma-me\nEnche-me e usa-me\n\nSonda-me\nQuebranta-me\n\nTransforma-me\nEnche-me e usa-me\n\nComo um farol que\nbrilha à noite\n\nComo ponte sobre\nas águas\n\nComo abrigo no deserto\nComo flecha que\nacerta o alvo\n\nEu quero ser usado\nDa maneira que Te agrade\n\nEm qualquer hora\nE em qualquer lugar\n\nEis aqui a minha vida\nUsa-me, Senhor, usa-me\n\nSonda-me\nQuebranta-me\n\nTransforma-me\nEnche-me e usa-me\n\nSonda-me\nQuebranta-me\n\nTransforma-me\nEnche-me e usa-me",
+      "full_text": "Sonda-me, Senhor\nE me conheces\n\nQuebranta o\nmeu coração\n\nTransforma-me\nConforme a Tua palavra\n\nE enche-me até\nque em mim\nSe ache só a Ti, então\n\nUsa-me, Senhor\nUsa-me\n\nComo um farol que\nbrilha à noite\n\nComo ponte sobre\nas águas\n\nComo abrigo no deserto\nComo flecha que\nacerta o alvo\n\nEu quero ser usado\nDa maneira que Te agrade\n\nEm qualquer hora\nE em qualquer lugar\n\nEis aqui a minha vida\nUsa-me, Senhor, usa-me\n\nSonda-me, Senhor\nE me conheces\n\nQuebranta o\nmeu coração\n\nTransforma-me\nConforme a Tua palavra\n\nE enche-me até\nque em mim\nSe ache só a Ti, então\n\nUsa-me, Senhor\nUsa-me\n\nComo um farol que\nbrilha à noite\n\nComo ponte sobre\nas águas\n\nComo abrigo no deserto\nComo flecha que\nacerta o alvo\n\nEu quero ser usado\nDa maneira que Te agrade\n\nEm qualquer hora\nE em qualquer lugar\n\nEis aqui a minha vida\nUsa-me, Senhor, usa-me\n\nSonda-me\nQuebranta-me\n\nTransforma-me\nEnche-me e usa-me\n\nSonda-me\nQuebranta-me\n\nTransforma-me\nEnche-me e usa-me\n\nSonda-me\nQuebranta-me\n\nTransforma-me\nEnche-me e usa-me\n\nSonda-me\nQuebranta-me\n\nTransforma-me\nEnche-me e usa-me\n\nComo um farol que\nbrilha à noite\n\nComo ponte sobre\nas águas\n\nComo abrigo no deserto\nComo flecha que\nacerta o alvo\n\nEu quero ser usado\nDa maneira que Te agrade\n\nEm qualquer hora\nE em qualquer lugar\n\nEis aqui a minha vida\nUsa-me, Senhor, usa-me\n\nSonda-me\nQuebranta-me\n\nTransforma-me\nEnche-me e usa-me\n\nSonda-me\nQuebranta-me\n\nTransforma-me\nEnche-me e usa-me",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -23677,7 +23792,7 @@
         {
           "number": 4,
           "description": "",
-          "text": "E enche-me até que em mim\nSe ache só a Ti, então",
+          "text": "E enche-me até\nque em mim\nSe ache só a Ti, então",
           "text_with_comment": null,
           "translations": null
         },
@@ -23754,7 +23869,7 @@
         {
           "number": 15,
           "description": "",
-          "text": "E enche-me até que em mim\nSe ache só a Ti, então",
+          "text": "E enche-me até\nque em mim\nSe ache só a Ti, então",
           "text_with_comment": null,
           "translations": null
         },
@@ -24354,7 +24469,7 @@
     "streaming": {
       "audio": {
         "spotify": "https://open.spotify.com/track/0PEkKjD8bgssfDbKUzKQ21",
-        "youtube": "https://youtube.com/watch?v=cBann0oTGsM",
+        "youtube": "https://www.youtube.com/watch?v=7GWZwO0MdsY",
         "deezer": "https://deezer.com/track/3150925381",
         "apple_music": "",
         "amazon_music": ""
@@ -24368,6 +24483,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/florianopolis-house-of-prayer/sublime",
       "extra": ""
     }
@@ -25755,7 +25871,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Sei que estás aqui\nAqui neste lugar\n\nPosso Te sentir\nSonda-me\n\nCom Teu amor\nEnche-me\n\nCom Teu amor\nInunda-me\n\nEm Tuas águas\nQuero mergulhar mais fundo\n\nQuero contemplar\nTua presença é o meu lugar\n\nE nada vai me separar\nDo Teu amor\n\nTeu amor\n\nEu olho para Ti\nE ao Te contemplar\n\nSua Glória sobre mim\nTransforma-me\n\nCom Teu amor\nEnche-me\n\nCom Teu amor\nInunda-me\n\nEm Tuas águas\nQuero mergulhar mais fundo\n\nQuero contemplar\nSua presença é o meu lugar\n\nNada vai me separar\n\nEm Tuas águas\nQuero mergulhar mais fundo\n\nQuero contemplar\nTua presença é o meu lugar\n\nNada vai me separar \nDo Teu amor",
+      "full_text": "Sei que estás aqui\nAqui neste lugar\n\nPosso Te sentir\nSonda-me\n\nCom Teu amor\nEnche-me\n\nCom Teu amor\nInunda-me\n\nEm Tuas águas\nQuero mergulhar\nmais fundo\n\nQuero contemplar\nTua presença é o\nmeu lugar\n\nE nada vai me separar\nDo Teu amor\n\nTeu amor\n\nEu olho para Ti\nE ao Te contemplar\n\nSua Glória sobre mim\nTransforma-me\n\nCom Teu amor\nEnche-me\n\nCom Teu amor\nInunda-me\n\nEm Tuas águas\nQuero mergulhar\nmais fundo\n\nQuero contemplar\nSua presença é o\nmeu lugar\n\nNada vai me separar\n\nEm Tuas águas\nQuero mergulhar\nmais fundo\n\nQuero contemplar\nTua presença é o\nmeu lugar\n\nNada vai me separar \nDo Teu amor",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -25789,14 +25905,14 @@
         {
           "number": 5,
           "description": "",
-          "text": "Em Tuas águas\nQuero mergulhar mais fundo",
+          "text": "Em Tuas águas\nQuero mergulhar\nmais fundo",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Quero contemplar\nTua presença é o meu lugar",
+          "text": "Quero contemplar\nTua presença é o\nmeu lugar",
           "text_with_comment": null,
           "translations": null
         },
@@ -25845,14 +25961,14 @@
         {
           "number": 13,
           "description": "",
-          "text": "Em Tuas águas\nQuero mergulhar mais fundo",
+          "text": "Em Tuas águas\nQuero mergulhar\nmais fundo",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 14,
           "description": "",
-          "text": "Quero contemplar\nSua presença é o meu lugar",
+          "text": "Quero contemplar\nSua presença é o\nmeu lugar",
           "text_with_comment": null,
           "translations": null
         },
@@ -25866,14 +25982,14 @@
         {
           "number": 16,
           "description": "",
-          "text": "Em Tuas águas\nQuero mergulhar mais fundo",
+          "text": "Em Tuas águas\nQuero mergulhar\nmais fundo",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 17,
           "description": "",
-          "text": "Quero contemplar\nTua presença é o meu lugar",
+          "text": "Quero contemplar\nTua presença é o\nmeu lugar",
           "text_with_comment": null,
           "translations": null
         },
@@ -25903,7 +26019,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/julia-vitoria/tuas-aguas-part-gabriela-rocha",
       "extra": ""
     }
