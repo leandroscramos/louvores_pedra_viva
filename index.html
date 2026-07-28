@@ -98,19 +98,19 @@
         <hr>
         <h6 class="text-center mb-4" style="margin-bottom: 0px !important;">
             <strong><i>
-                <a href="https://www.bible.com/pt/bible/1840/COL.3.23.NAA" target="_blank"
-                    rel="noopener noreferrer">Colossenses 3:23-24</a>&nbsp;&nbsp;&nbsp;
-                <a href="https://www.bible.com/pt/bible/1840/PRO.22.29.NAA" target="_blank"
-                    rel="noopener noreferrer">Provérbios 22:29</a>&nbsp;&nbsp;&nbsp;
-                <a href="https://www.bible.com/pt/bible/1840/PHP.4.8.NAA" target="_blank"
-                    rel="noopener noreferrer">Filipenses 4:8</a>&nbsp;&nbsp;&nbsp;
-                <a href="https://www.bible.com/pt/bible/1840/DAN.6.3.NAA" target="_blank"
-                    rel="noopener noreferrer">Daniel 6:3</a>&nbsp;&nbsp;&nbsp;
-                <a href="https://www.bible.com/pt/bible/1840/ROM.12.11.NAA" target="_blank"
-                    rel="noopener noreferrer">Romanos 12:11</a>&nbsp;&nbsp;&nbsp;
-                <a href="https://www.bible.com/pt/bible/1840/1CO.15.58.NAA" target="_blank"
-                    rel="noopener noreferrer">1 Coríntios 15:58</a>
-            </i></strong>
+                    <a href="https://www.bible.com/pt/bible/1840/COL.3.23.NAA" target="_blank"
+                        rel="noopener noreferrer">Colossenses 3:23-24</a>&nbsp;&nbsp;&nbsp;
+                    <a href="https://www.bible.com/pt/bible/1840/PRO.22.29.NAA" target="_blank"
+                        rel="noopener noreferrer">Provérbios 22:29</a>&nbsp;&nbsp;&nbsp;
+                    <a href="https://www.bible.com/pt/bible/1840/PHP.4.8.NAA" target="_blank"
+                        rel="noopener noreferrer">Filipenses 4:8</a>&nbsp;&nbsp;&nbsp;
+                    <a href="https://www.bible.com/pt/bible/1840/DAN.6.3.NAA" target="_blank"
+                        rel="noopener noreferrer">Daniel 6:3</a>&nbsp;&nbsp;&nbsp;
+                    <a href="https://www.bible.com/pt/bible/1840/ROM.12.11.NAA" target="_blank"
+                        rel="noopener noreferrer">Romanos 12:11</a>&nbsp;&nbsp;&nbsp;
+                    <a href="https://www.bible.com/pt/bible/1840/1CO.15.58.NAA" target="_blank"
+                        rel="noopener noreferrer">1 Coríntios 15:58</a>
+                </i></strong>
         </h6>
 
 
@@ -150,6 +150,25 @@
                             <th width="1%">Comp</th>
                             <th width="1%">Cifra</th>
                             <th width="1%">Link</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <hr>
+        <h6 class="text-center"><i><strong>Músicas Tocadas (2026)</strong></i></h6>
+        <!-- <h6 class="text-center mb-4" style="margin-bottom: 0px !important;"><i>Atualizado em:
+                <strong>27/07/2026</strong> | <span id="num_musicas"><strong></strong></span> músicas</i></h6> -->
+        <div class="row mt-2 fs-6 fs-md-4">
+            <div class="table-responsive">
+                <table id="musicasTocadas" class="table table-striped table-condensed">
+                    <thead>
+                        <tr>
+                            <th width="30%">Título</th>
+                            <th>Datas</th>
+                            <th width="4%">Total</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -220,7 +239,7 @@
                     </tbody>
                 </table>
             </div>
-        </div>
+        </div>        
     </div>
     <footer class="bg-white py-4 mt-auto">
         <div class="container px-5">
@@ -359,6 +378,57 @@
                 .catch(error => {
                     $('#musicasSemana tbody').html('<tr><td colspan="4">Erro ao carregar músicas.</td></tr>');
                 });
+
+            fetch('musicas_tocadas.json')
+                .then(response => response.json())
+                .then(data => {
+
+                    let rows = '';
+                    data.items.forEach(musica => {
+                        const songTitles = (musica.songs || [])
+                            .map(song => song.title)
+                            .filter(Boolean);
+
+                        const formattedTimestamps = (Array.isArray(musica.timestamps) ? musica.timestamps : String(musica.timestamps || '').split(','))
+                            .map(ts => {
+                                const trimmed = String(ts).trim();
+                                if (!trimmed) {
+                                    return '';
+                                }
+                                const value = Number(trimmed);
+                                if (isNaN(value)) {
+                                    return trimmed;
+                                }
+                                const date = value > 9999999999 ? new Date(value) : new Date(value * 1000);
+                                return date.toLocaleDateString('pt-BR');
+                            })
+                            .filter(Boolean)
+                            .join(', ');
+
+                        rows += `<tr>`;
+                        rows += `<td><strong>${songTitles.join(', ')}</strong></td>`;
+                        rows += `<td>${formattedTimestamps}</td>`;
+                        const occurrences = musica.occurrences;
+                        rows += `<td align='center'><strong>${occurrences === '0' ? '' : occurrences}</strong></td>`;
+                        rows += `</tr>`;
+                    });
+
+                    $('#musicasTocadas tbody').html(rows);
+                    $('#musicasTocadas').DataTable({
+                        language: {
+                            url: "https://cdn.datatables.net/plug-ins/1.13.7/i18n/pt-BR.json",
+                            searchPlaceholder: ''
+                        },
+                        searching: true,
+                        paging: true,
+                        info: false,
+                        ordering: false
+                    });
+                })
+                .catch(error => {
+                    $('#musicasTocadas tbody').html('<tr><td colspan="3">Erro ao carregar músicas tocadas.</td></tr>');
+                });
+
         });
     </script>
 </body>
