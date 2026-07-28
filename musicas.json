@@ -12070,7 +12070,7 @@
     "streaming": {
       "audio": {
         "spotify": "https://open.spotify.com/track/0Y3kJPozs4ri5vQVLVL7in",
-        "youtube": "https://youtube.com/watch?v=vjGpTmT32X0",
+        "youtube": "https://www.youtube.com/watch?v=vjGpTmT32X0",
         "deezer": "https://deezer.com/track/93551186",
         "apple_music": "",
         "amazon_music": ""
@@ -12084,6 +12084,7 @@
       }
     },
     "extras": {
+      "cifra": "https://www.cifrashub.com.br/song/quatro-por-um/jesus-em-tua-presenca",
       "extra": ""
     }
   },
@@ -13013,7 +13014,7 @@
     "streaming": {
       "audio": {
         "spotify": "https://open.spotify.com/track/7Dp0unlUzhQtk60rVq5mMC",
-        "youtube": "https://youtube.com/watch?v=gUV0fllbTms",
+        "youtube": "https://www.youtube.com/watch?v=YnrN0o0lubM",
         "deezer": "https://deezer.com/track/547000982",
         "apple_music": "",
         "amazon_music": ""
@@ -13027,6 +13028,7 @@
       }
     },
     "extras": {
+      "cifra": "https://www.cifrashub.com.br/song/gabriela-rocha/lugar-secreto",
       "extra": ""
     }
   },
@@ -13263,88 +13265,6 @@
         "spotify": "https://open.spotify.com/track/4BGirKUM4R8NsICN4JERoa",
         "youtube": "https://youtube.com/watch?v=7FZsrpuhekU",
         "deezer": "https://deezer.com/track/694749632",
-        "apple_music": "",
-        "amazon_music": ""
-      },
-      "backing_track": {
-        "spotify": "",
-        "youtube": "",
-        "deezer": "",
-        "apple_music": "",
-        "amazon_music": ""
-      }
-    },
-    "extras": {
-      "extra": ""
-    }
-  },
-  {
-    "id": 1762268683496,
-    "title": "Mais Perto Quero Estar",
-    "artist": "Nívea Soares",
-    "author": "Sarah Flower Adams, João Gomes da Rocha",
-    "note": "",
-    "copyright": "",
-    "language": "",
-    "key": "",
-    "bpm": 0.0,
-    "time_sig": "",
-    "midi": null,
-    "order": "",
-    "arrangements": [],
-    "lyrics": {
-      "full_text": "Mais perto eu quero estar\nMeu Deus, de Ti\n\nAinda que seja a dor\nQue me una a Ti\n\nSempre hei de suplicar\nMais perto eu quero estar\n\nMais perto eu quero estar\nMeu Deus, de Ti\n\nSempre hei de suplicar\nMais perto eu quero estar\n\nMais perto eu quero estar\nMeu Deus, de Ti",
-      "full_text_with_comment": null,
-      "paragraphs": [
-        {
-          "number": 1,
-          "description": "",
-          "text": "Mais perto eu quero estar\nMeu Deus, de Ti",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 2,
-          "description": "",
-          "text": "Ainda que seja a dor\nQue me una a Ti",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 3,
-          "description": "",
-          "text": "Sempre hei de suplicar\nMais perto eu quero estar",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 4,
-          "description": "",
-          "text": "Mais perto eu quero estar\nMeu Deus, de Ti",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 5,
-          "description": "",
-          "text": "Sempre hei de suplicar\nMais perto eu quero estar",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 6,
-          "description": "",
-          "text": "Mais perto eu quero estar\nMeu Deus, de Ti",
-          "text_with_comment": null,
-          "translations": null
-        }
-      ]
-    },
-    "streaming": {
-      "audio": {
-        "spotify": "https://open.spotify.com/track/06byebWiwp4uIMprLBt93Q",
-        "youtube": "https://youtube.com/watch?v=x2e0coqN7ZY",
-        "deezer": "https://deezer.com/track/780002112",
         "apple_music": "",
         "amazon_music": ""
       },
@@ -18523,7 +18443,7 @@
     "streaming": {
       "audio": {
         "spotify": "https://open.spotify.com/track/0Y9nHU2Fhl76LHbRRmNQ6X",
-        "youtube": "https://youtube.com/watch?v=0rQ6YlPfv-s",
+        "youtube": "https://www.youtube.com/watch?v=9fZph9kZkgM",
         "deezer": "https://deezer.com/track/104287126",
         "apple_music": "",
         "amazon_music": ""
@@ -18537,6 +18457,7 @@
       }
     },
     "extras": {
+      "cifra": "https://www.cifrashub.com.br/song/fernanda-brum/o-que-tua-gloria-fez-comigo",
       "extra": ""
     }
   },
