@@ -1117,7 +1117,7 @@
     "streaming": {
       "audio": {
         "spotify": "https://open.spotify.com/track/3alsIYiOE1PygAy2k8s2kO",
-        "youtube": "https://youtube.com/watch?v=ziR49ui-G28",
+        "youtube": "https://www.youtube.com/watch?v=e-QIQWy43wk",
         "deezer": "https://deezer.com/track/565486912",
         "apple_music": "",
         "amazon_music": ""
@@ -1131,6 +1131,7 @@
       }
     },
     "extras": {
+      "cifra": "https://www.cifrashub.com.br/song/diante-do-trono/aguas-purificadoras",
       "extra": ""
     }
   },
@@ -3486,7 +3487,7 @@
     "streaming": {
       "audio": {
         "spotify": "https://open.spotify.com/track/3Ns4xzoj5d1r0K5pc9uq64",
-        "youtube": "https://youtube.com/watch?v=XRjzucVFcEs",
+        "youtube": "https://www.youtube.com/watch?v=ye9caqETC0A",
         "deezer": "https://deezer.com/track/2401937375",
         "apple_music": "",
         "amazon_music": ""
@@ -3500,6 +3501,7 @@
       }
     },
     "extras": {
+      "cifra": "https://www.cifrashub.com.br/song/paulo-cesar-baruk/clamo-jesus",
       "extra": ""
     }
   },
@@ -25774,6 +25776,7 @@
       }
     },
     "extras": {
+      "cifra": "https://www.cifrashub.com.br/song/fernanda-brum/a-tua-gloria",
       "extra": ""
     }
   },
@@ -27318,7 +27321,7 @@
   {
     "id": 1762265173614,
     "title": "Vida Aos Sepulcros",
-    "artist": "Gabriela Rocha e Elevation Worship",
+    "artist": "Gabriela Rocha",
     "author": "Brandon Lake, Chris Brown, Steven Furtick, Tiffany Hudson",
     "note": "",
     "copyright": "",
@@ -27464,7 +27467,7 @@
     "streaming": {
       "audio": {
         "spotify": "https://open.spotify.com/track/6oq4dspH3sjmAWm3QaViSW",
-        "youtube": "https://youtube.com/watch?v=_j9LsNgO_0U",
+        "youtube": "https://www.youtube.com/watch?v=wfFTSbxyI1M",
         "deezer": "https://deezer.com/track/1146559512",
         "apple_music": "",
         "amazon_music": ""
@@ -27478,6 +27481,7 @@
       }
     },
     "extras": {
+      "cifra": "https://www.cifrashub.com.br/song/gabriela-rocha/vida-aos-sepulcros-part-elevation-worship",
       "extra": ""
     }
   },
