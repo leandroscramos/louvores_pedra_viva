@@ -1,7 +1,7 @@
 {
   "filter": {
     "start": "2026-01-01",
-    "end": "2026-07-28",
+    "end": "2026-07-31",
     "service": null,
     "days": [
       "sun",
@@ -40,6 +40,19 @@
       "occurrences": "6",
       "occurrences_by_day": "3,0,0,0,3,0,0",
       "timestamps": "1769378400,1769727600,1775172250,1776031200,1780271457,1780617636"
+    },
+    {
+      "songs": [
+        {
+          "id": "1761050954822",
+          "title": "Tuas Águas",
+          "artist": "Julia Vitória e Gabriela Rocha",
+          "author": "Guilherme Franco"
+        }
+      ],
+      "occurrences": "6",
+      "occurrences_by_day": "3,0,0,0,3,0,0",
+      "timestamps": "1768168800,1780615235,1781475593,1781823600,1785103200,1785452400"
     },
     {
       "songs": [
@@ -102,6 +115,19 @@
     {
       "songs": [
         {
+          "id": "1777404006107",
+          "title": "O Espírito de Deus Está Aqui",
+          "artist": "Luciana Debortoli",
+          "author": ""
+        }
+      ],
+      "occurrences": "5",
+      "occurrences_by_day": "2,0,0,0,3,0,0",
+      "timestamps": "1777809600,1778198547,1780009200,1785103200,1785452400"
+    },
+    {
+      "songs": [
+        {
           "id": "1764877280709",
           "title": "Outro Igual Não Há",
           "artist": "Gabriel Guedes",
@@ -111,19 +137,6 @@
       "occurrences": "5",
       "occurrences_by_day": "3,0,0,0,2,0,0",
       "timestamps": "1768168800,1768518000,1773961200,1779660000,1781474847"
-    },
-    {
-      "songs": [
-        {
-          "id": "1761050954822",
-          "title": "Tuas Águas",
-          "artist": "Julia Vitória e Gabriela Rocha",
-          "author": "Guilherme Franco"
-        }
-      ],
-      "occurrences": "5",
-      "occurrences_by_day": "3,0,0,0,2,0,0",
-      "timestamps": "1768168800,1780615235,1781475593,1781823600,1785103200"
     },
     {
       "songs": [
@@ -232,19 +245,6 @@
     {
       "songs": [
         {
-          "id": "1777404006107",
-          "title": "O Espírito de Deus Está Aqui",
-          "artist": "Luciana Debortoli",
-          "author": ""
-        }
-      ],
-      "occurrences": "4",
-      "occurrences_by_day": "2,0,0,0,2,0,0",
-      "timestamps": "1777809600,1778198547,1780009200,1785103200"
-    },
-    {
-      "songs": [
-        {
           "id": "1770293907538",
           "title": "O Nosso General É Cristo",
           "artist": "Gabriela Rocha",
@@ -267,6 +267,19 @@
       "occurrences": "4",
       "occurrences_by_day": "2,0,0,0,2,0,0",
       "timestamps": "1767528000,1769947200,1770332400,1780009200"
+    },
+    {
+      "songs": [
+        {
+          "id": "1762264813467",
+          "title": "Rompendo em Fé",
+          "artist": "Com. Ev. Inter. da Zona Sul",
+          "author": "Ana Feitosa, Edson Feitosa, Marco Antonio"
+        }
+      ],
+      "occurrences": "4",
+      "occurrences_by_day": "2,0,1,0,1,0,0",
+      "timestamps": "1774216800,1778032099,1778450400,1785452400"
     },
     {
       "songs": [
@@ -429,19 +442,6 @@
       "occurrences": "3",
       "occurrences_by_day": "2,0,0,0,1,0,0",
       "timestamps": "1777240800,1784498400,1784848411"
-    },
-    {
-      "songs": [
-        {
-          "id": "1762264813467",
-          "title": "Rompendo em Fé",
-          "artist": "Com. Ev. Inter. da Zona Sul",
-          "author": "Ana Feitosa, Edson Feitosa, Marco Antonio"
-        }
-      ],
-      "occurrences": "3",
-      "occurrences_by_day": "2,0,1,0,0,0,0",
-      "timestamps": "1774216800,1778032099,1778450400"
     },
     {
       "songs": [
@@ -759,7 +759,7 @@
       "songs": [
         {
           "id": "1773271073472",
-          "title": "Meu Respirar, Meu Prazer",
+          "title": "Meu Respirar + Meu Prazer",
           "artist": "Gabriela Rocha",
           "author": "Marie Barnett, Márcio Pereira"
         }
@@ -1118,6 +1118,19 @@
       "occurrences": "1",
       "occurrences_by_day": "0,0,0,0,1,0,0",
       "timestamps": "1780614855"
+    },
+    {
+      "songs": [
+        {
+          "id": "1762266031677",
+          "title": "Coração Igual ao Teu",
+          "artist": "Diante do Trono",
+          "author": "Ana Paula Valadão"
+        }
+      ],
+      "occurrences": "1",
+      "occurrences_by_day": "0,0,0,0,1,0,0",
+      "timestamps": "1785452400"
     },
     {
       "songs": [
@@ -1670,7 +1683,7 @@
         {
           "id": "1762265173614",
           "title": "Vida Aos Sepulcros",
-          "artist": "Gabriela Rocha e Elevation Worship",
+          "artist": "Gabriela Rocha",
           "author": "Brandon Lake, Chris Brown, Steven Furtick, Tiffany Hudson"
         }
       ],
@@ -1828,19 +1841,6 @@
           "title": "Com Muito Louvor",
           "artist": "Cassiane",
           "author": "Elizeu Gomes"
-        }
-      ],
-      "occurrences": "0",
-      "occurrences_by_day": "0,0,0,0,0,0,0",
-      "timestamps": ""
-    },
-    {
-      "songs": [
-        {
-          "id": "1762266031677",
-          "title": "Coração Igual ao Teu",
-          "artist": "Diante do Trono",
-          "author": "Ana Paula Valadão"
         }
       ],
       "occurrences": "0",

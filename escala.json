@@ -22,6 +22,15 @@
     },
     {
       "song": {
+        "id": "1761050954822",
+        "title": "Tuas Águas",
+        "artist": "Julia Vitória e Gabriela Rocha",
+        "author": "Guilherme Franco"
+      },
+      "occurrences": "6"
+    },
+    {
+      "song": {
         "id": "1768701842881",
         "title": "Aclame Ao Senhor",
         "artist": "Diante do Trono",
@@ -40,19 +49,19 @@
     },
     {
       "song": {
-        "id": "1764877280709",
-        "title": "Outro Igual Não Há",
-        "artist": "Gabriel Guedes",
-        "author": "Aliyah Stamper, Eniola Abioye, Jenn Johnson, Jonathan Stamper, Lindy Cofer, Nathan Carter"
+        "id": "1777404006107",
+        "title": "O Espírito de Deus Está Aqui",
+        "artist": "Luciana Debortoli",
+        "author": ""
       },
       "occurrences": "5"
     },
     {
       "song": {
-        "id": "1761050954822",
-        "title": "Tuas Águas",
-        "artist": "Julia Vitória e Gabriela Rocha",
-        "author": "Guilherme Franco"
+        "id": "1764877280709",
+        "title": "Outro Igual Não Há",
+        "artist": "Gabriel Guedes",
+        "author": "Aliyah Stamper, Eniola Abioye, Jenn Johnson, Jonathan Stamper, Lindy Cofer, Nathan Carter"
       },
       "occurrences": "5"
     },
@@ -124,15 +133,6 @@
         "id": "1771527481026",
         "title": "Nada Mais + Uma Vez",
         "artist": "Brasa Church",
-        "author": ""
-      },
-      "occurrences": "4"
-    },
-    {
-      "song": {
-        "id": "1777404006107",
-        "title": "O Espírito de Deus Está Aqui",
-        "artist": "Luciana Debortoli",
         "author": ""
       },
       "occurrences": "4"
@@ -251,6 +251,15 @@
         "title": "Que Se Abram Os Céus",
         "artist": "Nívea Soares",
         "author": "Cody Carnes, Kari Jobe"
+      },
+      "occurrences": "3"
+    },
+    {
+      "song": {
+        "id": "1762264813467",
+        "title": "Rompendo em Fé",
+        "artist": "Com. Ev. Inter. da Zona Sul",
+        "author": "Ana Feitosa, Edson Feitosa, Marco Antonio"
       },
       "occurrences": "3"
     },
@@ -580,15 +589,6 @@
     },
     {
       "song": {
-        "id": "1762264813467",
-        "title": "Rompendo em Fé",
-        "artist": "Com. Ev. Inter. da Zona Sul",
-        "author": "Ana Feitosa, Edson Feitosa, Marco Antonio"
-      },
-      "occurrences": "2"
-    },
-    {
-      "song": {
         "id": "1760703496009",
         "title": "Ruja o Leão, Que Se Abram Os Céus",
         "artist": "Isaias Saad e Nívea Soares",
@@ -710,6 +710,15 @@
         "title": "Como Tu És",
         "artist": "Igreja Batista Getsêmani",
         "author": ""
+      },
+      "occurrences": "1"
+    },
+    {
+      "song": {
+        "id": "1762266031677",
+        "title": "Coração Igual ao Teu",
+        "artist": "Diante do Trono",
+        "author": "Ana Paula Valadão"
       },
       "occurrences": "1"
     },
@@ -1122,7 +1131,7 @@
       "song": {
         "id": "1762265173614",
         "title": "Vida Aos Sepulcros",
-        "artist": "Gabriela Rocha e Elevation Worship",
+        "artist": "Gabriela Rocha",
         "author": "Brandon Lake, Chris Brown, Steven Furtick, Tiffany Hudson"
       },
       "occurrences": "1"
@@ -1232,15 +1241,6 @@
         "title": "Com Muito Louvor",
         "artist": "Cassiane",
         "author": "Elizeu Gomes"
-      },
-      "occurrences": "0"
-    },
-    {
-      "song": {
-        "id": "1762266031677",
-        "title": "Coração Igual ao Teu",
-        "artist": "Diante do Trono",
-        "author": "Ana Paula Valadão"
       },
       "occurrences": "0"
     },
