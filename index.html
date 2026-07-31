@@ -157,9 +157,7 @@
             </div>
         </div>
         <hr>
-        <h6 class="text-center"><i><strong>Músicas Tocadas (2026)</strong></i></h6>
-        <!-- <h6 class="text-center mb-4" style="margin-bottom: 0px !important;"><i>Atualizado em:
-                <strong>27/07/2026</strong> | <span id="num_musicas"><strong></strong></span> músicas</i></h6> -->
+        <h6 class="text-center"><i><strong>Músicas tocadas </strong>(<span id="musicas_tocadas_inicio_fim"><strong></strong></span>)</i></h6>
         <div class="row mt-2 fs-6 fs-md-4">
             <div class="table-responsive">
                 <table id="musicasTocadas" class="table table-striped table-condensed">
@@ -176,7 +174,7 @@
             </div>
         </div>
         <hr>
-        <h6 class="text-center"><i><strong>Escalas por integrante (2026)</strong></i></h6>
+        <h6 class="text-center"><i><strong>Escala por integrante </strong>(<span id="escala_inicio_fim"><strong></strong></span>)</i></h6>
         <div class="row mt-2 fs-6 fs-md-4">
             <div class="table-responsive">
                 <table id="escalasIntegrantes" class="table table-striped table-condensed">
@@ -398,6 +396,28 @@
                 .then(response => response.json())
                 .then(data => {
 
+                    function formatDate(value) {
+                        if (value === null || value === undefined || value === '') return '';
+                        let dateValue = value;
+                        if (typeof value === 'string' && /^\d{10}$/.test(value)) {
+                            dateValue = Number(value) * 1000;
+                        } else if (typeof value === 'number' && value.toString().length === 10) {
+                            dateValue = value * 1000;
+                        }
+                        const date = new Date(dateValue);
+                        if (!isNaN(date.getTime())) {
+                            date.setDate(date.getDate() + 1);
+                        }
+                        return isNaN(date.getTime()) ? String(value) : date.toLocaleDateString('pt-BR');
+                    }
+
+                    const inicio = formatDate(data.filter.start);
+                    const fim = formatDate(data.filter.end);
+                    if (inicio || fim) {
+                        const rangeText = inicio && fim ? `${inicio} - ${fim}` : (inicio || fim);
+                        $('#musicas_tocadas_inicio_fim strong').text(rangeText);
+                    }
+
                     let rows = '';
                     data.items.forEach(musica => {
                         const songTitles = (musica.songs || [])
@@ -447,11 +467,32 @@
 
             fetch('escala.json')
                 .then(response => response.json())
-                .then(data => {
+                .then(data => {                   
+
+                    function formatDate(value) {
+                        if (value === null || value === undefined || value === '') return '';
+                        let dateValue = value;
+                        if (typeof value === 'string' && /^\d{10}$/.test(value)) {
+                            dateValue = Number(value) * 1000;
+                        } else if (typeof value === 'number' && value.toString().length === 10) {
+                            dateValue = value * 1000;
+                        }
+                        const date = new Date(dateValue);
+                        if (!isNaN(date.getTime())) {
+                            date.setDate(date.getDate() + 1);
+                        }
+                        return isNaN(date.getTime()) ? String(value) : date.toLocaleDateString('pt-BR');
+                    }
+
+                    const inicio = formatDate(data.start);
+                    const fim = formatDate(data.end);
+                    if (inicio || fim) {
+                        const rangeText = inicio && fim ? `${inicio} - ${fim}` : (inicio || fim);
+                        $('#escala_inicio_fim strong').text(rangeText);
+                    }
 
                     let rows = '';
-                    data.members.forEach(escala => {                        
-
+                    data.members.forEach(escala => {
                         rows += `<tr>`;
                         rows += `<td><strong>${escala.member.name}</strong></td>`;
                         rows += `<td>${escala.scheduled}</td>`;
