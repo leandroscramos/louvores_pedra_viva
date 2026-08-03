@@ -1406,7 +1406,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Vem me visitar hoje aqui\nEu quero conhecer mais de Ti\n\nEspírito, vem, Espírito, vem\nEspírito Santo\n\nEu quero viver algo novo\nFaz meu coração arder de novo\n\nFazendo todo o medo desaparecer\n\nTrazendo sobre mim\nUm novo amanhecer\n\nEu quero viver algo novo\n\nSanto Espírito, desce como fogo\nSanto Espírito, desce como fogo\n\nIncendeia\nIncendeia",
+      "full_text": "Vem me visitar hoje aqui\nEu quero conhecer mais de Ti\n\nEspírito, vem, Espírito, vem\nEspírito Santo\n\nEspírito, vem, Espírito, vem\nEspírito Santo\n\nEu quero viver algo novo\nFaz meu coração arder de novo\n\nFazendo todo o\nmedo desaparecer\n\nTrazendo sobre mim\nUm novo amanhecer\n\nEu quero viver algo novo\n\nSanto Espírito,\ndesce como fogo\n\nSanto Espírito,\ndesce como fogo\n\nIncendeia\nIncendeia",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -1426,40 +1426,54 @@
         {
           "number": 3,
           "description": "",
-          "text": "Eu quero viver algo novo\nFaz meu coração arder de novo",
+          "text": "Espírito, vem, Espírito, vem\nEspírito Santo",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Fazendo todo o medo desaparecer",
+          "text": "Eu quero viver algo novo\nFaz meu coração arder de novo",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Trazendo sobre mim\nUm novo amanhecer",
+          "text": "Fazendo todo o\nmedo desaparecer",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Eu quero viver algo novo",
+          "text": "Trazendo sobre mim\nUm novo amanhecer",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Santo Espírito, desce como fogo\nSanto Espírito, desce como fogo",
+          "text": "Eu quero viver algo novo",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
+          "description": "",
+          "text": "Santo Espírito,\ndesce como fogo",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Santo Espírito,\ndesce como fogo",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
           "description": "",
           "text": "Incendeia\nIncendeia",
           "text_with_comment": null,
@@ -1484,7 +1498,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/coral-kemuel/algo-novo-part-lukas-agustinho",
       "extra": ""
     }
@@ -2494,7 +2507,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/aline-barros/bem-mais-que-tudo",
       "extra": ""
     }
@@ -4212,7 +4224,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Existe um nome\nSobre todo nome\n\nE esse nome é poderoso, sim\nJesus, Jesus\n\nAquele que morreu como cordeiro\nMas ressuscitou como um leão, Jesus\n\nAquele que ali na cruz do meio\nLiberou o Seu perdão, Jesus\n\nAquele que morreu mas ressuscitou\nE vivo está pra sempre, Jesus\n\nÓ morte, onde está tua vitória?\nEle ressuscitou, Ele ressuscitou\n\nCantamos ao Cordeiro que venceu\nSanto, Santo\n\nQue se ouça na Terra o mesmo som\nQue os anjos cantam lá no Céu\n\nSanto, Santo, Santo\nSanto, Santo, Santo",
+      "full_text": "Existe um nome\nSobre todo nome\n\nE esse nome é\npoderoso, sim\nJesus, Jesus\n\nAquele que morreu\ncomo cordeiro\n\nMas ressuscitou como\num Leão, Jesus\n\nAquele que ali\nna cruz do meio\n\nLiberou o Seu\nperdão, Jesus\n\nAquele que morreu\nmas ressuscitou\n\nE vivo está pra\nsempre, Jesus\n\nÓ morte, onde\nestá tua vitória?\n\nEle ressuscitou\nEle ressuscitou\n\nÓ morte, onde\nestá tua vitória?\n\nEle ressuscitou\nEle ressuscitou\n\nCantamos ao Cordeiro\nque venceu\nSanto, Santo\n\nCantamos ao Cordeiro\nque venceu\nSanto, Santo\n\nQue se ouça na Terra\no mesmo som\n\nQue os anjos\ncantam lá no Céu\n\nSanto, Santo, Santo\nSanto, Santo, Santo",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -4225,54 +4237,110 @@
         {
           "number": 2,
           "description": "",
-          "text": "E esse nome é poderoso, sim\nJesus, Jesus",
+          "text": "E esse nome é\npoderoso, sim\nJesus, Jesus",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "Aquele que morreu como cordeiro\nMas ressuscitou como um leão, Jesus",
+          "text": "Aquele que morreu\ncomo cordeiro",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Aquele que ali na cruz do meio\nLiberou o Seu perdão, Jesus",
+          "text": "Mas ressuscitou como\num Leão, Jesus",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Aquele que morreu mas ressuscitou\nE vivo está pra sempre, Jesus",
+          "text": "Aquele que ali\nna cruz do meio",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Ó morte, onde está tua vitória?\nEle ressuscitou, Ele ressuscitou",
+          "text": "Liberou o Seu\nperdão, Jesus",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Cantamos ao Cordeiro que venceu\nSanto, Santo",
+          "text": "Aquele que morreu\nmas ressuscitou",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Que se ouça na Terra o mesmo som\nQue os anjos cantam lá no Céu",
+          "text": "E vivo está pra\nsempre, Jesus",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 9,
+          "description": "",
+          "text": "Ó morte, onde\nestá tua vitória?",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Ele ressuscitou\nEle ressuscitou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Ó morte, onde\nestá tua vitória?",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Ele ressuscitou\nEle ressuscitou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "Cantamos ao Cordeiro\nque venceu\nSanto, Santo",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "Cantamos ao Cordeiro\nque venceu\nSanto, Santo",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 15,
+          "description": "",
+          "text": "Que se ouça na Terra\no mesmo som",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 16,
+          "description": "",
+          "text": "Que os anjos\ncantam lá no Céu",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 17,
           "description": "",
           "text": "Santo, Santo, Santo\nSanto, Santo, Santo",
           "text_with_comment": null,
@@ -4297,7 +4365,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/jefferson-e-suellen/cordeiro-e-leao",
       "extra": ""
     }
@@ -8235,7 +8302,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/renascer-praise/escape",
       "extra": ""
     }
@@ -11540,7 +11606,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Um menino nasceu\nComo um filho se nos deu\n\nEle é o próprio Deus\nQue vive em mim\n\nDebaixo de Suas asas\nEu me escondi\n\nE o Seu nome é\nMaravilhoso\n\nGlória ao Príncipe da Paz\n\nO céu começa a se abrir\nToda a Terra se dobrou a Ti\n\nCristo, Rei dos reis\nVeio nos buscar\n\nLeva-nos em Tuas mãos\nPelas portas da cidade\n\nNa nova Jerusalém\nTua noiva vai entrar\n\nSanto, Santo, Santo é o Senhor\n\nNinguém me toca como Você\nNinguém me vê como Você me vê\n\nFaz brilhar Teu rosto sobre mim",
+      "full_text": "Um menino nasceu\nComo um filho se nos deu\n\nEle é o próprio Deus\nQue vive em mim\n\nDebaixo de Suas asas\nEu me escondi\n\nE o Seu nome é\nMaravilhoso\n\nGlória ao Príncipe da Paz\n\nO céu começa a se abrir\nToda a Terra se dobrou a Ti\n\nCristo, Rei dos reis\nVeio nos buscar\n\nLeva-nos em Tuas mãos\nPelas portas da cidade\n\nNa nova Jerusalém\nTua noiva vai entrar\n\nSanto, Santo,\nSanto é o Senhor\n\nNinguém me toca\ncomo o Senhor\n\nNinguém me vê como\nSenhor me vê\n\nFaz brilhar Teu\nrosto sobre mim",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -11609,21 +11675,28 @@
         {
           "number": 10,
           "description": "",
-          "text": "Santo, Santo, Santo é o Senhor",
+          "text": "Santo, Santo,\nSanto é o Senhor",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 11,
           "description": "",
-          "text": "Ninguém me toca como Você\nNinguém me vê como Você me vê",
+          "text": "Ninguém me toca\ncomo o Senhor",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 12,
           "description": "",
-          "text": "Faz brilhar Teu rosto sobre mim",
+          "text": "Ninguém me vê como\nSenhor me vê",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "Faz brilhar Teu\nrosto sobre mim",
           "text_with_comment": null,
           "translations": null
         }
@@ -11646,7 +11719,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/rodolfo-abrantes/isaias-9",
       "extra": ""
     }
@@ -13297,7 +13369,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Tu reinas\nNo trono dos céus\n\nA criação se prostra\nAos Teus pés\n\nTu reinas\nVestido de glória\n\nOs anjos Te adoram\nAos Teus pés\n\nPra sempre governarás\nTeu reino não passará\n\nÓ Santo Deus\nFico maravilhado\n\nTu és muito mais\nDo que eu possa expressar\n\nÓ Santo Deus\nQuebro o vaso de alabastro\n\nSobre o Deus\nQue sabe me maravilhar\n\nTu és\nTotalmente amável\n\nTesouro desejável\nQue eu procuro\n\nTu és\nUm fogo apaixonado\n\nEu sou do meu amado\nE Tu és meu\n\nPra sempre governarás\nTeu reino não passará\n\nDerramo o meu louvor\nSobre Ti\n\nDerramo o meu amor\nSobre Ti\n\nDerramo o meu louvor\nSobre Ti\n\nDerramo o meu amor",
+      "full_text": "Tu reinas\nNo trono dos céus\n\nA criação se prostra\nAos Teus pés\n\nTu reinas\nVestido de glória\n\nOs anjos Te adoram\nAos Teus pés\n\nPra sempre governarás\nTeu reino não passará\n\nÓ Santo Deus\nFico maravilhado\n\nTu és muito mais\nDo que eu possa expressar\n\nÓ Santo Deus\nQuebro o vaso de alabastro\n\nSobre o Deus\nQue sabe me maravilhar\n\nTu és\nTotalmente amável\n\nTesouro desejável\nQue eu procuro\n\nTu és\nUm fogo apaixonado\n\nEu sou do meu amado\nE Tu és meu\n\nPra sempre governarás\nTeu reino não passará\n\nÓ Santo Deus\nFico maravilhado\n\nTu és muito mais\nDo que eu possa expressar\n\nÓ Santo Deus\nQuebro o vaso de alabastro\n\nSobre o Deus\nQue sabe me maravilhar\n\nDerramo o meu louvor\nSobre Ti\n\nDerramo o meu amor\nSobre Ti\n\nDerramo o meu louvor\nSobre Ti\n\nDerramo o meu amor",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -13401,26 +13473,54 @@
         {
           "number": 15,
           "description": "",
-          "text": "Derramo o meu louvor\nSobre Ti",
+          "text": "Ó Santo Deus\nFico maravilhado",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 16,
           "description": "",
-          "text": "Derramo o meu amor\nSobre Ti",
+          "text": "Tu és muito mais\nDo que eu possa expressar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 17,
           "description": "",
-          "text": "Derramo o meu louvor\nSobre Ti",
+          "text": "Ó Santo Deus\nQuebro o vaso de alabastro",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 18,
+          "description": "",
+          "text": "Sobre o Deus\nQue sabe me maravilhar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 19,
+          "description": "",
+          "text": "Derramo o meu louvor\nSobre Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 20,
+          "description": "",
+          "text": "Derramo o meu amor\nSobre Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 21,
+          "description": "",
+          "text": "Derramo o meu louvor\nSobre Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 22,
           "description": "",
           "text": "Derramo o meu amor",
           "text_with_comment": null,
@@ -13445,7 +13545,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/nivea-soares/maravilhado",
       "extra": ""
     }
@@ -22724,6 +22823,159 @@
     }
   },
   {
+    "id": 1785622333907,
+    "title": "Santo",
+    "artist": "Felipe Rodrigues",
+    "author": "Matt Gilman, Mindy Hurdelbrink, Seth Yates",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "Bm",
+    "bpm": 62.0,
+    "time_sig": "4/4",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Eu não conheço\noutra canção\n\nQue lhe descreva\nem perfeição\n\nEu não conheço\noutra canção\n\nQue lhe descreva\nem perfeição\n\nSanto, Santo\nDeus poderoso\n\nSanto, Santo\nDeus poderoso\n\nEu não conheço\noutra canção\n\nQue lhe descreva\nem perfeição\n\nEu não conheço\noutra canção\n\nQue lhe descreva\nem perfeição\n\nSanto, Santo\nDeus poderoso\n\nSanto, Santo\nDeus poderoso\n\nNão há outro igual só\nTu és santo, santo\n\nNão há outro igual só\nTu és santo, santo\n\nSanto, Santo\nDeus poderoso\n\nSanto, Santo\nDeus poderoso",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Eu não conheço\noutra canção",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Que lhe descreva\nem perfeição",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Eu não conheço\noutra canção",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Que lhe descreva\nem perfeição",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Santo, Santo\nDeus poderoso",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Santo, Santo\nDeus poderoso",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Eu não conheço\noutra canção",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Que lhe descreva\nem perfeição",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Eu não conheço\noutra canção",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Que lhe descreva\nem perfeição",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Santo, Santo\nDeus poderoso",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Santo, Santo\nDeus poderoso",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "Não há outro igual só\nTu és santo, santo",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "Não há outro igual só\nTu és santo, santo",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 15,
+          "description": "",
+          "text": "Santo, Santo\nDeus poderoso",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 16,
+          "description": "",
+          "text": "Santo, Santo\nDeus poderoso",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "https://open.spotify.com/track/66xRWanJf4n8yLdAP4LjHa",
+        "youtube": "https://www.youtube.com/watch?v=t2L1nBkUf2U&t=1s",
+        "deezer": "https://deezer.com/track/673541832",
+        "apple_music": "https://music.apple.com/br/song/1462125841",
+        "amazon_music": "https://music.amazon.com.br/tracks/B07RG62KPD"
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
+      }
+    },
+    "extras": {
+      "cifra": "https://www.cifrashub.com.br/song/felipe-rodrigues/santo",
+      "extra": ""
+    }
+  },
+  {
     "id": 1761050925286,
     "title": "Santo Pra Sempre",
     "artist": "Gabriel Guedes",
@@ -24406,7 +24658,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/florianopolis-house-of-prayer/sublime",
       "extra": ""
     }
