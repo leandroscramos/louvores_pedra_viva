@@ -1,6 +1,6 @@
 {
   "start": "2026-01-01",
-  "end": "2026-07-31",
+  "end": "2026-08-02",
   "songs": [
     {
       "song": {
@@ -18,7 +18,7 @@
         "artist": "Renascer Praise",
         "author": "Pr. Lucas, Sonia Hernandes"
       },
-      "occurrences": "6"
+      "occurrences": "7"
     },
     {
       "song": {
@@ -148,6 +148,15 @@
     },
     {
       "song": {
+        "id": "1761050925286",
+        "title": "Santo Pra Sempre",
+        "artist": "Gabriel Guedes",
+        "author": "Phil Wickham, Jason Ingram, Chris Tomlin, Brian Johnson, Jenn Johnson"
+      },
+      "occurrences": "4"
+    },
+    {
+      "song": {
         "id": "1762268854445",
         "title": "Sublime",
         "artist": "FHOP Music",
@@ -260,15 +269,6 @@
         "title": "Rompendo em Fé",
         "artist": "Com. Ev. Inter. da Zona Sul",
         "author": "Ana Feitosa, Edson Feitosa, Marco Antonio"
-      },
-      "occurrences": "3"
-    },
-    {
-      "song": {
-        "id": "1761050925286",
-        "title": "Santo Pra Sempre",
-        "artist": "Gabriel Guedes",
-        "author": "Phil Wickham, Jason Ingram, Chris Tomlin, Brian Johnson, Jenn Johnson"
       },
       "occurrences": "3"
     },
@@ -688,6 +688,15 @@
     },
     {
       "song": {
+        "id": "1762265991665",
+        "title": "Bem Mais Que Tudo",
+        "artist": "Aline Barros",
+        "author": "Lenny LeBlanc, Paul Baloche"
+      },
+      "occurrences": "1"
+    },
+    {
+      "song": {
         "id": "1762264845388",
         "title": "Casa de Bênção",
         "artist": "Eyshila",
@@ -1048,10 +1057,28 @@
     },
     {
       "song": {
+        "id": "1785622333907",
+        "title": "Santo",
+        "artist": "Felipe Rodrigues",
+        "author": "Matt Gilman, Mindy Hurdelbrink, Seth Yates"
+      },
+      "occurrences": "1"
+    },
+    {
+      "song": {
         "id": "1762265229986",
         "title": "Seja Exaltado",
         "artist": "SOZO",
         "author": "Josh Baldwin"
+      },
+      "occurrences": "1"
+    },
+    {
+      "song": {
+        "id": "1781898756484",
+        "title": "Sublime + É Ele",
+        "artist": "Beth Ramos",
+        "author": ""
       },
       "occurrences": "1"
     },
@@ -1214,15 +1241,6 @@
         "title": "Aos Olhos do Pai",
         "artist": "Crianças Diante do Trono",
         "author": "Ana Paula Valadão"
-      },
-      "occurrences": "0"
-    },
-    {
-      "song": {
-        "id": "1762265991665",
-        "title": "Bem Mais Que Tudo",
-        "artist": "Aline Barros",
-        "author": "Lenny LeBlanc, Paul Baloche"
       },
       "occurrences": "0"
     },
@@ -1696,15 +1714,6 @@
     },
     {
       "song": {
-        "id": "1781898756484",
-        "title": "Sublime + É Ele",
-        "artist": "Beth Ramos",
-        "author": ""
-      },
-      "occurrences": "0"
-    },
-    {
-      "song": {
         "id": "1762360908269",
         "title": "Te Louvarei",
         "artist": "Toque no Altar",
@@ -1790,7 +1799,7 @@
         "name": "Guilherme"
       },
       "responsible": "0",
-      "scheduled": "55"
+      "scheduled": "56"
     },
     {
       "member": {
@@ -1806,7 +1815,7 @@
         "name": "Juliana"
       },
       "responsible": "0",
-      "scheduled": "31"
+      "scheduled": "32"
     },
     {
       "member": {
@@ -1814,7 +1823,7 @@
         "name": "Karina"
       },
       "responsible": "0",
-      "scheduled": "31"
+      "scheduled": "32"
     },
     {
       "member": {
@@ -1830,7 +1839,7 @@
         "name": "Lucas"
       },
       "responsible": "0",
-      "scheduled": "38"
+      "scheduled": "39"
     },
     {
       "member": {
@@ -1854,7 +1863,7 @@
         "name": "Renan"
       },
       "responsible": "0",
-      "scheduled": "19"
+      "scheduled": "20"
     },
     {
       "member": {
@@ -1862,7 +1871,7 @@
         "name": "Samuel"
       },
       "responsible": "0",
-      "scheduled": "60"
+      "scheduled": "61"
     },
     {
       "member": {

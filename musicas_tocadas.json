@@ -1,7 +1,7 @@
 {
   "filter": {
     "start": "2026-01-01",
-    "end": "2026-07-31",
+    "end": "2026-08-02",
     "service": null,
     "days": [
       "sun",
@@ -37,9 +37,9 @@
           "author": "Pr. Lucas, Sonia Hernandes"
         }
       ],
-      "occurrences": "6",
-      "occurrences_by_day": "3,0,0,0,3,0,0",
-      "timestamps": "1769378400,1769727600,1775172250,1776031200,1780271457,1780617636"
+      "occurrences": "7",
+      "occurrences_by_day": "4,0,0,0,3,0,0",
+      "timestamps": "1769378400,1769727600,1775172250,1776031200,1780271457,1780617636,1785672000"
     },
     {
       "songs": [
@@ -137,6 +137,25 @@
       "occurrences": "5",
       "occurrences_by_day": "3,0,0,0,2,0,0",
       "timestamps": "1768168800,1768518000,1773961200,1779660000,1781474847"
+    },
+    {
+      "songs": [
+        {
+          "id": "1762268854445",
+          "title": "Sublime",
+          "artist": "FHOP Music",
+          "author": "Caio Freitas, Débora Rabelo"
+        },
+        {
+          "id": "1781898756484",
+          "title": "Sublime + É Ele",
+          "artist": "Beth Ramos",
+          "author": ""
+        }
+      ],
+      "occurrences": "5",
+      "occurrences_by_day": "3,0,0,0,2,0,0",
+      "timestamps": "1767528000,1775390400,1775775600,1781823600,1785672000"
     },
     {
       "songs": [
@@ -280,6 +299,19 @@
       "occurrences": "4",
       "occurrences_by_day": "2,0,1,0,1,0,0",
       "timestamps": "1774216800,1778032099,1778450400,1785452400"
+    },
+    {
+      "songs": [
+        {
+          "id": "1761050925286",
+          "title": "Santo Pra Sempre",
+          "artist": "Gabriel Guedes",
+          "author": "Phil Wickham, Jason Ingram, Chris Tomlin, Brian Johnson, Jenn Johnson"
+        }
+      ],
+      "occurrences": "4",
+      "occurrences_by_day": "2,0,0,0,2,0,0",
+      "timestamps": "1775775600,1783252800,1783638000,1785672000"
     },
     {
       "songs": [
@@ -442,19 +474,6 @@
       "occurrences": "3",
       "occurrences_by_day": "2,0,0,0,1,0,0",
       "timestamps": "1777240800,1784498400,1784848411"
-    },
-    {
-      "songs": [
-        {
-          "id": "1761050925286",
-          "title": "Santo Pra Sempre",
-          "artist": "Gabriel Guedes",
-          "author": "Phil Wickham, Jason Ingram, Chris Tomlin, Brian Johnson, Jenn Johnson"
-        }
-      ],
-      "occurrences": "3",
-      "occurrences_by_day": "1,0,0,0,2,0,0",
-      "timestamps": "1775775600,1783252800,1783638000"
     },
     {
       "songs": [
@@ -1083,6 +1102,19 @@
     {
       "songs": [
         {
+          "id": "1762265991665",
+          "title": "Bem Mais Que Tudo",
+          "artist": "Aline Barros",
+          "author": "Lenny LeBlanc, Paul Baloche"
+        }
+      ],
+      "occurrences": "1",
+      "occurrences_by_day": "1,0,0,0,0,0,0",
+      "timestamps": "1785672000"
+    },
+    {
+      "songs": [
+        {
           "id": "1762264845388",
           "title": "Casa de Bênção",
           "artist": "Eyshila",
@@ -1564,6 +1596,19 @@
     {
       "songs": [
         {
+          "id": "1785622333907",
+          "title": "Santo",
+          "artist": "Felipe Rodrigues",
+          "author": "Matt Gilman, Mindy Hurdelbrink, Seth Yates"
+        }
+      ],
+      "occurrences": "1",
+      "occurrences_by_day": "1,0,0,0,0,0,0",
+      "timestamps": "1785672000"
+    },
+    {
+      "songs": [
+        {
           "id": "1762265229986",
           "title": "Seja Exaltado",
           "artist": "SOZO",
@@ -1573,6 +1618,19 @@
       "occurrences": "1",
       "occurrences_by_day": "1,0,0,0,0,0,0",
       "timestamps": "1777240800"
+    },
+    {
+      "songs": [
+        {
+          "id": "1781898756484",
+          "title": "Sublime + É Ele",
+          "artist": "Beth Ramos",
+          "author": ""
+        }
+      ],
+      "occurrences": "1",
+      "occurrences_by_day": "1,0,0,0,0,0,0",
+      "timestamps": "1785672000"
     },
     {
       "songs": [
@@ -1802,19 +1860,6 @@
           "title": "Aos Olhos do Pai",
           "artist": "Crianças Diante do Trono",
           "author": "Ana Paula Valadão"
-        }
-      ],
-      "occurrences": "0",
-      "occurrences_by_day": "0,0,0,0,0,0,0",
-      "timestamps": ""
-    },
-    {
-      "songs": [
-        {
-          "id": "1762265991665",
-          "title": "Bem Mais Que Tudo",
-          "artist": "Aline Barros",
-          "author": "Lenny LeBlanc, Paul Baloche"
         }
       ],
       "occurrences": "0",
@@ -2491,19 +2536,6 @@
           "title": "Sou Um Milagre",
           "artist": "Voz da Verdade",
           "author": "Carlos A. Moysés"
-        }
-      ],
-      "occurrences": "0",
-      "occurrences_by_day": "0,0,0,0,0,0,0",
-      "timestamps": ""
-    },
-    {
-      "songs": [
-        {
-          "id": "1781898756484",
-          "title": "Sublime + É Ele",
-          "artist": "Beth Ramos",
-          "author": ""
         }
       ],
       "occurrences": "0",
