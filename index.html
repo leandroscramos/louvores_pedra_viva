@@ -362,13 +362,15 @@
                                         </a>
                                         </td>` : `<td align='center'></td>`}
                                     <td align='center'>
-                                        <a href="${musica.streaming.audio.youtube}___" target="_blank" rel="noopener noreferrer">
-                                            <i class="fab fa-youtube" style="color:#FF0000; font-size:1.5em;"></i>
-                                        </a>
+                                        <i class="fab fa-youtube" style="color:#FF0000; font-size:1.5em;"></i>
                                     </td>
                                 </tr>`;
                         }
                     });
+
+                    // <a href="${musica.streaming.audio.youtube}" target="_blank" rel="noopener noreferrer">
+                    //     <i class="fab fa-youtube" style="color:#FF0000; font-size:1.5em;"></i>
+                    // </a>
 
                     $('#musicasSemana tbody').html(rows);
                     $('#musicasSemana').DataTable({
