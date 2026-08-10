@@ -102,19 +102,6 @@
     {
       "songs": [
         {
-          "id": "1762266122411",
-          "title": "Me Derramar",
-          "artist": "Vineyard",
-          "author": "Craig Musseau"
-        }
-      ],
-      "occurrences": "5",
-      "occurrences_by_day": "3,0,1,0,1,0,0",
-      "timestamps": "1767528000,1770588985,1778032041,1783893600,1784242800"
-    },
-    {
-      "songs": [
-        {
           "id": "1784635578746",
           "title": "Nada Mais",
           "artist": "FHOP Music",
@@ -199,19 +186,6 @@
     {
       "songs": [
         {
-          "id": "1782155778748",
-          "title": "Chuva de Poder",
-          "artist": "Eyshila",
-          "author": "Eyshila"
-        }
-      ],
-      "occurrences": "4",
-      "occurrences_by_day": "2,0,1,0,1,0,0",
-      "timestamps": "1782684000,1782862057,1783036550,1784498400"
-    },
-    {
-      "songs": [
-        {
           "id": "1762265308741",
           "title": "Estamos de Pé",
           "artist": "Marcus Salles",
@@ -251,6 +225,19 @@
     {
       "songs": [
         {
+          "id": "1762266122411",
+          "title": "Me Derramar",
+          "artist": "Vineyard",
+          "author": "Craig Musseau"
+        }
+      ],
+      "occurrences": "4",
+      "occurrences_by_day": "3,0,0,0,1,0,0",
+      "timestamps": "1767528000,1770588985,1783893600,1784242800"
+    },
+    {
+      "songs": [
+        {
           "id": "1771527481026",
           "title": "Nada Mais + Uma Vez",
           "artist": "Brasa Church",
@@ -260,19 +247,6 @@
       "occurrences": "4",
       "occurrences_by_day": "2,0,0,0,2,0,0",
       "timestamps": "1771803169,1772148176,1777240800,1777590000"
-    },
-    {
-      "songs": [
-        {
-          "id": "1770293907538",
-          "title": "O Nosso General É Cristo",
-          "artist": "Gabriela Rocha",
-          "author": ""
-        }
-      ],
-      "occurrences": "4",
-      "occurrences_by_day": "1,1,1,0,1,0,0",
-      "timestamps": "1770588924,1781532225,1781627981,1781823600"
     },
     {
       "songs": [
@@ -338,6 +312,19 @@
       "occurrences": "3",
       "occurrences_by_day": "2,0,0,0,1,0,0",
       "timestamps": "1773007200,1773357903,1779660000"
+    },
+    {
+      "songs": [
+        {
+          "id": "1782155778748",
+          "title": "Chuva de Poder",
+          "artist": "Eyshila",
+          "author": "Eyshila"
+        }
+      ],
+      "occurrences": "3",
+      "occurrences_by_day": "2,0,0,0,1,0,0",
+      "timestamps": "1782684000,1783036550,1784498400"
     },
     {
       "songs": [
@@ -855,19 +842,6 @@
     {
       "songs": [
         {
-          "id": "1775076564772",
-          "title": "Nada Além do Sangue / Pra Sempre",
-          "artist": "Theo Rubia",
-          "author": ""
-        }
-      ],
-      "occurrences": "2",
-      "occurrences_by_day": "1,0,0,1,0,0,0",
-      "timestamps": "1775077014,1775390400"
-    },
-    {
-      "songs": [
-        {
           "id": "1771933887375",
           "title": "Nada Pode Calar Um Adorador",
           "artist": "Eyshila",
@@ -890,6 +864,19 @@
       "occurrences": "2",
       "occurrences_by_day": "1,0,0,0,1,0,0",
       "timestamps": "1776031200,1776380400"
+    },
+    {
+      "songs": [
+        {
+          "id": "1770293907538",
+          "title": "O Nosso General É Cristo",
+          "artist": "Gabriela Rocha",
+          "author": ""
+        }
+      ],
+      "occurrences": "2",
+      "occurrences_by_day": "1,0,0,0,1,0,0",
+      "timestamps": "1770588924,1781823600"
     },
     {
       "songs": [
@@ -1514,6 +1501,19 @@
       "occurrences": "1",
       "occurrences_by_day": "0,0,0,0,1,0,0",
       "timestamps": "1780009200"
+    },
+    {
+      "songs": [
+        {
+          "id": "1775076564772",
+          "title": "Nada Além do Sangue / Pra Sempre",
+          "artist": "Theo Rubia",
+          "author": ""
+        }
+      ],
+      "occurrences": "1",
+      "occurrences_by_day": "1,0,0,0,0,0,0",
+      "timestamps": "1775390400"
     },
     {
       "songs": [
