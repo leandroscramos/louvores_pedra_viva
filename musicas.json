@@ -1390,7 +1390,7 @@
     "streaming": {
       "audio": {
         "spotify": "https://open.spotify.com/track/2wwEjucN8zj8MuZ7ZYoxiH",
-        "youtube": "https://youtube.com/watch?v=UBcBKjzY6AE",
+        "youtube": "https://www.youtube.com/watch?v=ldK43s9UyQI",
         "deezer": "https://deezer.com/track/3997639031",
         "apple_music": "https://music.apple.com/br/song/6765791263",
         "amazon_music": "https://music.amazon.com.br/tracks/B0GZ98BDJV"
@@ -1404,6 +1404,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -2108,6 +2109,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/aline-barros/ao-unico",
       "extra": ""
     }
@@ -6299,6 +6301,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -12710,6 +12713,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -14337,6 +14341,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -18735,6 +18740,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/gabriela-rocha/nosso-general-e-cristo",
       "extra": ""
     }
