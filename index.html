@@ -124,6 +124,7 @@
                         <tr>
                             <th width="2%">#</th>
                             <th>Título/Artista</th>
+                            <th width="2%"></th>
                             <th width="1%">BPM</th>
                             <th width="1%">Comp</th>
                             <th width="1%">Cifra</th>
@@ -350,6 +351,7 @@
                             rows += `<tr>                                    
                                     <td><strong>`+ $num_rand + `</strong></td>
                                     <td><strong>${musica.title}</strong><br>${musica.artist}</td>
+                                    ${(musica.extras && musica.extras.nova === 's') ? `<td><span style="background-color: blue; color: white; padding: 2px 6px; border-radius: 3px; font-weight: normal;">Nova</span></td>` : '<td></td>'}
                                     ${(musica.bpm) ? `<td align='center'>
                                         ${musica.bpm}
                                     </td>` : '<td></td>'}
