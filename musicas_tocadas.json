@@ -1,7 +1,7 @@
 {
   "filter": {
     "start": "2026-01-01",
-    "end": "2026-08-09",
+    "end": "2026-08-16",
     "service": null,
     "days": [
       "sun",
@@ -160,6 +160,19 @@
     {
       "songs": [
         {
+          "id": "1760703427386",
+          "title": "A Ele a Glória",
+          "artist": "Gabriela Rocha",
+          "author": "Ana Paula Valadão, Kevin Jonas"
+        }
+      ],
+      "occurrences": "4",
+      "occurrences_by_day": "2,0,0,0,2,0,0",
+      "timestamps": "1773007200,1773357903,1779660000,1786662000"
+    },
+    {
+      "songs": [
+        {
           "id": "1762265206490",
           "title": "Alfa e Ômega",
           "artist": "Marine Friesen",
@@ -303,19 +316,6 @@
     {
       "songs": [
         {
-          "id": "1760703427386",
-          "title": "A Ele a Glória",
-          "artist": "Gabriela Rocha",
-          "author": "Ana Paula Valadão, Kevin Jonas"
-        }
-      ],
-      "occurrences": "3",
-      "occurrences_by_day": "2,0,0,0,1,0,0",
-      "timestamps": "1773007200,1773357903,1779660000"
-    },
-    {
-      "songs": [
-        {
           "id": "1782155778748",
           "title": "Chuva de Poder",
           "artist": "Eyshila",
@@ -413,6 +413,19 @@
     {
       "songs": [
         {
+          "id": "1762266243905",
+          "title": "Me Ama",
+          "artist": "Diante do Trono",
+          "author": "Ana Paula Valadão, John Mark McMillan"
+        }
+      ],
+      "occurrences": "3",
+      "occurrences_by_day": "2,0,0,0,1,0,0",
+      "timestamps": "1774821600,1775171744,1786917600"
+    },
+    {
+      "songs": [
+        {
           "id": "1778012658035",
           "title": "O Fogo Arderá + Reacende a Chama + Acende Outra Vez",
           "artist": "Yasmin Teixeira",
@@ -422,6 +435,19 @@
       "occurrences": "3",
       "occurrences_by_day": "2,0,0,0,1,0,0",
       "timestamps": "1778450400,1778800723,1783893600"
+    },
+    {
+      "songs": [
+        {
+          "id": "1770293907538",
+          "title": "O Nosso General É Cristo",
+          "artist": "Gabriela Rocha",
+          "author": ""
+        }
+      ],
+      "occurrences": "3",
+      "occurrences_by_day": "2,0,0,0,1,0,0",
+      "timestamps": "1770588924,1781823600,1786917600"
     },
     {
       "songs": [
@@ -647,6 +673,19 @@
     {
       "songs": [
         {
+          "id": "1782176049183",
+          "title": "Como Eu Te Amo",
+          "artist": "Fernandinho",
+          "author": "Fernandinho"
+        }
+      ],
+      "occurrences": "2",
+      "occurrences_by_day": "1,0,0,0,1,0,0",
+      "timestamps": "1782684000,1786662000"
+    },
+    {
+      "songs": [
+        {
           "id": "1778702436096",
           "title": "Corinhos (Medley)",
           "artist": "",
@@ -682,6 +721,19 @@
       "occurrences": "2",
       "occurrences_by_day": "1,0,0,0,1,0,0",
       "timestamps": "1768773600,1769122800"
+    },
+    {
+      "songs": [
+        {
+          "id": "1762264339346",
+          "title": "Estrela da Manhã",
+          "artist": "Marcos Góes",
+          "author": "Jonatas Liasch"
+        }
+      ],
+      "occurrences": "2",
+      "occurrences_by_day": "1,0,0,0,1,0,0",
+      "timestamps": "1786312800,1786662000"
     },
     {
       "songs": [
@@ -747,19 +799,6 @@
       "occurrences": "2",
       "occurrences_by_day": "1,0,0,0,1,0,0",
       "timestamps": "1770589832,1786057200"
-    },
-    {
-      "songs": [
-        {
-          "id": "1762266243905",
-          "title": "Me Ama",
-          "artist": "Diante do Trono",
-          "author": "Ana Paula Valadão, John Mark McMillan"
-        }
-      ],
-      "occurrences": "2",
-      "occurrences_by_day": "1,0,0,0,1,0,0",
-      "timestamps": "1774821600,1775171744"
     },
     {
       "songs": [
@@ -868,19 +907,6 @@
     {
       "songs": [
         {
-          "id": "1770293907538",
-          "title": "O Nosso General É Cristo",
-          "artist": "Gabriela Rocha",
-          "author": ""
-        }
-      ],
-      "occurrences": "2",
-      "occurrences_by_day": "1,0,0,0,1,0,0",
-      "timestamps": "1770588924,1781823600"
-    },
-    {
-      "songs": [
-        {
           "id": "1762266764409",
           "title": "O Que Sua Glória Fez Comigo",
           "artist": "Fernanda Brum",
@@ -968,6 +994,19 @@
       "occurrences": "2",
       "occurrences_by_day": "1,0,0,0,1,0,0",
       "timestamps": "1774216800,1774570105"
+    },
+    {
+      "songs": [
+        {
+          "id": "1762264666188",
+          "title": "Quero Ser Como Criança",
+          "artist": "David Quinlan",
+          "author": "David Quinlan"
+        }
+      ],
+      "occurrences": "2",
+      "occurrences_by_day": "1,0,0,0,1,0,0",
+      "timestamps": "1786312800,1786662000"
     },
     {
       "songs": [
@@ -1089,6 +1128,19 @@
     {
       "songs": [
         {
+          "id": "1786045598355",
+          "title": "Ah, Jesus / Coração Igual ao Teu",
+          "artist": "Julliany Souza",
+          "author": "Léo Brandão, Lucas Wallas, Ana Paula Valadão"
+        }
+      ],
+      "occurrences": "1",
+      "occurrences_by_day": "1,0,0,0,0,0,0",
+      "timestamps": "1786917600"
+    },
+    {
+      "songs": [
+        {
           "id": "1762266627995",
           "title": "Alto Preço",
           "artist": "Asaph Borba",
@@ -1154,19 +1206,6 @@
     {
       "songs": [
         {
-          "id": "1782176049183",
-          "title": "Como Eu Te Amo",
-          "artist": "Fernandinho",
-          "author": "Fernandinho"
-        }
-      ],
-      "occurrences": "1",
-      "occurrences_by_day": "1,0,0,0,0,0,0",
-      "timestamps": "1782684000"
-    },
-    {
-      "songs": [
-        {
           "id": "1762268121571",
           "title": "Como Tu És",
           "artist": "Igreja Batista Getsêmani",
@@ -1215,6 +1254,19 @@
       "occurrences": "1",
       "occurrences_by_day": "0,0,0,0,1,0,0",
       "timestamps": "1772148178"
+    },
+    {
+      "songs": [
+        {
+          "id": "1762264630874",
+          "title": "Deus Me Ama",
+          "artist": "Thalles Roberto",
+          "author": "Thalles Roberto"
+        }
+      ],
+      "occurrences": "1",
+      "occurrences_by_day": "1,0,0,0,0,0,0",
+      "timestamps": "1786917600"
     },
     {
       "songs": [
@@ -1280,19 +1332,6 @@
       "occurrences": "1",
       "occurrences_by_day": "0,0,0,0,1,0,0",
       "timestamps": "1767913200"
-    },
-    {
-      "songs": [
-        {
-          "id": "1762264339346",
-          "title": "Estrela da Manhã",
-          "artist": "Marcos Góes",
-          "author": "Jonatas Liasch"
-        }
-      ],
-      "occurrences": "1",
-      "occurrences_by_day": "1,0,0,0,0,0,0",
-      "timestamps": "1786312800"
     },
     {
       "songs": [
@@ -1635,19 +1674,6 @@
     {
       "songs": [
         {
-          "id": "1762264666188",
-          "title": "Quero Ser Como Criança",
-          "artist": "David Quinlan",
-          "author": "David Quinlan"
-        }
-      ],
-      "occurrences": "1",
-      "occurrences_by_day": "1,0,0,0,0,0,0",
-      "timestamps": "1786312800"
-    },
-    {
-      "songs": [
-        {
           "id": "1762360494766",
           "title": "Restitui",
           "artist": "Toque no Altar",
@@ -1869,19 +1895,6 @@
     {
       "songs": [
         {
-          "id": "1786045598355",
-          "title": "Ah, Jesus / Coração Igual ao Teu",
-          "artist": "Julliany Souza",
-          "author": "Léo Brandão, Lucas Wallas, Ana Paula Valadão"
-        }
-      ],
-      "occurrences": "0",
-      "occurrences_by_day": "0,0,0,0,0,0,0",
-      "timestamps": ""
-    },
-    {
-      "songs": [
-        {
           "id": "1762265735151",
           "title": "Além do Rio Azul",
           "artist": "Voz da Verdade",
@@ -2042,19 +2055,6 @@
           "title": "Deus Forte Como Jeová",
           "artist": "",
           "author": "Livingston Farias"
-        }
-      ],
-      "occurrences": "0",
-      "occurrences_by_day": "0,0,0,0,0,0,0",
-      "timestamps": ""
-    },
-    {
-      "songs": [
-        {
-          "id": "1762264630874",
-          "title": "Deus Me Ama",
-          "artist": "Thalles Roberto",
-          "author": "Thalles Roberto"
         }
       ],
       "occurrences": "0",

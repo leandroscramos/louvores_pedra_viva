@@ -1,6 +1,6 @@
 {
   "start": "2026-01-01",
-  "end": "2026-08-09",
+  "end": "2026-08-16",
   "songs": [
     {
       "song": {
@@ -73,6 +73,15 @@
         "author": "Felipe Rodrigues"
       },
       "occurrences": "5"
+    },
+    {
+      "song": {
+        "id": "1760703427386",
+        "title": "A Ele a Glória",
+        "artist": "Gabriela Rocha",
+        "author": "Ana Paula Valadão, Kevin Jonas"
+      },
+      "occurrences": "4"
     },
     {
       "song": {
@@ -166,15 +175,6 @@
     },
     {
       "song": {
-        "id": "1760703427386",
-        "title": "A Ele a Glória",
-        "artist": "Gabriela Rocha",
-        "author": "Ana Paula Valadão, Kevin Jonas"
-      },
-      "occurrences": "3"
-    },
-    {
-      "song": {
         "id": "1782155778748",
         "title": "Chuva de Poder",
         "artist": "Eyshila",
@@ -229,10 +229,28 @@
     },
     {
       "song": {
+        "id": "1762266243905",
+        "title": "Me Ama",
+        "artist": "Diante do Trono",
+        "author": "Ana Paula Valadão, John Mark McMillan"
+      },
+      "occurrences": "3"
+    },
+    {
+      "song": {
         "id": "1778012658035",
         "title": "O Fogo Arderá + Reacende a Chama + Acende Outra Vez",
         "artist": "Yasmin Teixeira",
         "author": "Yasmin Teixeira"
+      },
+      "occurrences": "3"
+    },
+    {
+      "song": {
+        "id": "1770293907538",
+        "title": "O Nosso General É Cristo",
+        "artist": "Gabriela Rocha",
+        "author": ""
       },
       "occurrences": "3"
     },
@@ -400,6 +418,15 @@
     },
     {
       "song": {
+        "id": "1782176049183",
+        "title": "Como Eu Te Amo",
+        "artist": "Fernandinho",
+        "author": "Fernandinho"
+      },
+      "occurrences": "2"
+    },
+    {
+      "song": {
         "id": "1762265590269",
         "title": "Diante da Cruz",
         "artist": "Aline Barros",
@@ -413,6 +440,15 @@
         "title": "Diante de Ti",
         "artist": "Quatro Por Um",
         "author": "Emerson Pinheiro"
+      },
+      "occurrences": "2"
+    },
+    {
+      "song": {
+        "id": "1762264339346",
+        "title": "Estrela da Manhã",
+        "artist": "Marcos Góes",
+        "author": "Jonatas Liasch"
       },
       "occurrences": "2"
     },
@@ -458,15 +494,6 @@
         "title": "Maravilhado",
         "artist": "Nívea Soares",
         "author": "Ana Paula Valadão, Jamie Birkenfeld, Klaus Kuehn, Robert Quintana"
-      },
-      "occurrences": "2"
-    },
-    {
-      "song": {
-        "id": "1762266243905",
-        "title": "Me Ama",
-        "artist": "Diante do Trono",
-        "author": "Ana Paula Valadão, John Mark McMillan"
       },
       "occurrences": "2"
     },
@@ -544,15 +571,6 @@
     },
     {
       "song": {
-        "id": "1770293907538",
-        "title": "O Nosso General É Cristo",
-        "artist": "Gabriela Rocha",
-        "author": ""
-      },
-      "occurrences": "2"
-    },
-    {
-      "song": {
         "id": "1762266764409",
         "title": "O Que Sua Glória Fez Comigo",
         "artist": "Fernanda Brum",
@@ -602,6 +620,15 @@
         "title": "Quem Pode Livrar, Seja Engrandecido",
         "artist": "MORADA",
         "author": "Bené Gomes, Genésio de Souza"
+      },
+      "occurrences": "2"
+    },
+    {
+      "song": {
+        "id": "1762264666188",
+        "title": "Quero Ser Como Criança",
+        "artist": "David Quinlan",
+        "author": "David Quinlan"
       },
       "occurrences": "2"
     },
@@ -688,6 +715,15 @@
     },
     {
       "song": {
+        "id": "1786045598355",
+        "title": "Ah, Jesus / Coração Igual ao Teu",
+        "artist": "Julliany Souza",
+        "author": "Léo Brandão, Lucas Wallas, Ana Paula Valadão"
+      },
+      "occurrences": "1"
+    },
+    {
+      "song": {
         "id": "1762266627995",
         "title": "Alto Preço",
         "artist": "Asaph Borba",
@@ -728,15 +764,6 @@
         "title": "Com Muito Louvor",
         "artist": "Cassiane",
         "author": "Elizeu Gomes"
-      },
-      "occurrences": "1"
-    },
-    {
-      "song": {
-        "id": "1782176049183",
-        "title": "Como Eu Te Amo",
-        "artist": "Fernandinho",
-        "author": "Fernandinho"
       },
       "occurrences": "1"
     },
@@ -787,6 +814,15 @@
     },
     {
       "song": {
+        "id": "1762264630874",
+        "title": "Deus Me Ama",
+        "artist": "Thalles Roberto",
+        "author": "Thalles Roberto"
+      },
+      "occurrences": "1"
+    },
+    {
+      "song": {
         "id": "1768224483411",
         "title": "Digno de Tudo / Te Exaltamos",
         "artist": "Nívea Soares",
@@ -827,15 +863,6 @@
         "title": "Em Espírito e Em Verdade",
         "artist": "Min. Koinonya de Louvor",
         "author": "Márcio Pereira"
-      },
-      "occurrences": "1"
-    },
-    {
-      "song": {
-        "id": "1762264339346",
-        "title": "Estrela da Manhã",
-        "artist": "Marcos Góes",
-        "author": "Jonatas Liasch"
       },
       "occurrences": "1"
     },
@@ -1084,15 +1111,6 @@
     },
     {
       "song": {
-        "id": "1762264666188",
-        "title": "Quero Ser Como Criança",
-        "artist": "David Quinlan",
-        "author": "David Quinlan"
-      },
-      "occurrences": "1"
-    },
-    {
-      "song": {
         "id": "1762360494766",
         "title": "Restitui",
         "artist": "Toque no Altar",
@@ -1246,15 +1264,6 @@
     },
     {
       "song": {
-        "id": "1786045598355",
-        "title": "Ah, Jesus / Coração Igual ao Teu",
-        "artist": "Julliany Souza",
-        "author": "Léo Brandão, Lucas Wallas, Ana Paula Valadão"
-      },
-      "occurrences": "0"
-    },
-    {
-      "song": {
         "id": "1762265735151",
         "title": "Além do Rio Azul",
         "artist": "Voz da Verdade",
@@ -1367,15 +1376,6 @@
         "title": "Deus Forte Como Jeová",
         "artist": "",
         "author": "Livingston Farias"
-      },
-      "occurrences": "0"
-    },
-    {
-      "song": {
-        "id": "1762264630874",
-        "title": "Deus Me Ama",
-        "artist": "Thalles Roberto",
-        "author": "Thalles Roberto"
       },
       "occurrences": "0"
     },
@@ -1792,7 +1792,7 @@
         "name": "Diego"
       },
       "responsible": "0",
-      "scheduled": "23"
+      "scheduled": "24"
     },
     {
       "member": {
@@ -1800,7 +1800,7 @@
         "name": "Fernanda"
       },
       "responsible": "0",
-      "scheduled": "28"
+      "scheduled": "29"
     },
     {
       "member": {
@@ -1808,7 +1808,7 @@
         "name": "Guilherme"
       },
       "responsible": "0",
-      "scheduled": "58"
+      "scheduled": "60"
     },
     {
       "member": {
@@ -1824,7 +1824,7 @@
         "name": "Juliana"
       },
       "responsible": "0",
-      "scheduled": "33"
+      "scheduled": "34"
     },
     {
       "member": {
@@ -1832,7 +1832,7 @@
         "name": "Karina"
       },
       "responsible": "0",
-      "scheduled": "33"
+      "scheduled": "34"
     },
     {
       "member": {
@@ -1848,7 +1848,7 @@
         "name": "Lucas"
       },
       "responsible": "0",
-      "scheduled": "40"
+      "scheduled": "41"
     },
     {
       "member": {
@@ -1856,7 +1856,7 @@
         "name": "Malú"
       },
       "responsible": "0",
-      "scheduled": "32"
+      "scheduled": "33"
     },
     {
       "member": {
@@ -1864,7 +1864,7 @@
         "name": "Marcos"
       },
       "responsible": "0",
-      "scheduled": "14"
+      "scheduled": "15"
     },
     {
       "member": {
@@ -1872,7 +1872,7 @@
         "name": "Renan"
       },
       "responsible": "0",
-      "scheduled": "22"
+      "scheduled": "23"
     },
     {
       "member": {
@@ -1880,7 +1880,7 @@
         "name": "Samuel"
       },
       "responsible": "0",
-      "scheduled": "63"
+      "scheduled": "65"
     },
     {
       "member": {
@@ -1904,7 +1904,7 @@
         "name": "Vini"
       },
       "responsible": "0",
-      "scheduled": "16"
+      "scheduled": "17"
     }
   ]
 }

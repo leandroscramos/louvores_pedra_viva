@@ -1151,13 +1151,13 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Quem foi muito perdoado\nDeveria saber o valor de ser amado\n\nMas por outro lado\n\nO bem que eu quero fazer\nDe fato, eu não faço\n\nE dependendo do pecado\nEu nem me sinto incomodado\n\nEntão esbarro na Tua palavra\nE sou confrontado\n\nNão adianta fingir\nQue está tudo bem\n\nSe, de Ti, eu recebi perdão\nMas não consigo perdoar ninguém\n\nA outra face eu não dei\nSó o meu ego escutei\n\nAté amei os meus amigos\nMas meus inimigos odiei\n\nNa minha hipocrisia\nMe achei melhor que o outro\n\nSem perceber a trave\nQue estava no meu olho\n\nEm pele de ovelha\nAgindo como lobo\n\nMe esqueci do reino\nJuntando os meus tesouros\n\nAh, Jesus, quebra o meu orgulho\nE faz-me olhar pra cruz\n\nTira a dureza do meu coração\n\nDe joelhos\nEu imploro o Teu perdão\n\nPois Tua graça\nJoga minha carne ao chão\n\nE me ensina o valor da comunhão\nDo beber do vinho e partilhar do pão\n\nEu sou o vaso\nTu és o oleiro\n\nQuebra minha vida\nMe refaz por inteiro\n\nTomo a minha cruz\nE nego a mim mesmo\n\nPois do pecado\nNão sou mais prisioneiro\n\nMesmo com falhas, esse é meu desejo\nDá-me um coração igual ao Teu\n\nDá-me um coração\nIgual ao Teu, meu mestre\n\nDá-me um coração igual ao Teu\n\nCoração disposto a obedecer\nCumprir todo o Teu querer\n\nDá-me um coração igual ao Teu\n\nJudas veio ao Teu encontro\nCom a traição pesando\n\nMas Te vejo se inclinando\nE os pés do traidor lavando\n\nVejo Pedro Te negando\nE o galo, então, cantando\n\nMesmo assim Tu dizes: \"Pedro\nApascenta o Meu rebanho\"\n\nQuebrantado estou chorando\nMinha alma está clamando\n\nDá-me um coração igual ao Teu",
+      "full_text": "Quem foi muito perdoado\nDeveria saber o valor\nde ser amado\n\nMas por outro lado\n\nO bem que eu quero fazer\nde fato, eu não faço\n\nE dependendo do pecado\neu nem me\nsinto incomodado\n\nEntão esbarro na Tua palavra\ne sou confrontado\n\nNão adianta fingir\nque está tudo bem\n\nSe, de Ti, eu\nrecebi perdão\n\nMas não consigo\nperdoar ninguém\n\nA outra face eu não dei\nSó o meu ego escutei\n\nAté amei os meus amigos\nmas meus inimigos odiei\n\nNa minha hipocrisia\nme achei melhor\nque o outro\n\nSem perceber a trave\nque estava no meu olho\n\nEm pele de ovelha\nagindo como lobo\n\nMe esqueci do reino\njuntando os meus tesouros\n\nAh, Jesus, quebra\no meu orgulho\ne faz-me olhar pra cruz\n\nTira a dureza do\nmeu coração\n\nDe joelhos\neu imploro o Teu perdão\n\nPois Tua graça\njoga minha carne ao chão\n\nE me ensina o valor\nda comunhão\n\nDo beber do vinho\ne partilhar do pão\n\nEu sou o vaso\nTu és o oleiro\n\nQuebra minha vida\nMe refaz por inteiro\n\nTomo a minha cruz\ne nego a mim mesmo\n\nPois do pecado\nnão sou mais prisioneiro\n\nEu sou o vaso\nTu és o oleiro\n\nQuebra minha vida\nMe refaz por inteiro\n\nTomo a minha cruz\ne nego a mim mesmo\n\nPois do pecado\nnão sou mais prisioneiro\n\nMesmo com falhas,\nesse é meu desejo\n\nDá-me um coração\nigual ao Teu\n\nDá-me um coração\nigual ao Teu, meu mestre\n\nDá-me um coração\nigual ao Teu\n\nCoração disposto a obedecer\nCumprir todo o Teu querer\n\nDá-me um coração\nigual ao Teu\n\nDá-me um coração\nigual ao Teu, meu mestre\n\nDá-me um coração\nigual ao Teu\n\nCoração disposto a obedecer\nCumprir todo o Teu querer\n\nDá-me um coração\nigual ao Teu\n\nJesus, quebra\no meu orgulho\ne faz-me olhar pra cruz\n\nTira a dureza do\nmeu coração\n\nDe joelhos\neu imploro o Teu perdão\n\nPois Tua graça\njoga minha carne ao chão\n\nE me ensina o valor\nda comunhão\n\nDo beber do vinho\ne partilhar do pão\n\nJudas veio ao Teu encontro\ncom a traição pesando\n\nMas Te vejo se inclinando\ne os pés do traidor lavando\n\nVejo Pedro Te negando\ne o galo, então, cantando\n\nMesmo assim Tu dizes: \"Pedro\napascenta o Meu rebanho\"\n\nJudas veio ao Teu encontro\ncom a traição pesando\n\nMas Te vejo se inclinando\ne os pés do traidor lavando\n\nVejo Pedro Te negando\ne o galo, então, cantando\n\nMesmo assim Tu dizes: \"Pedro\napascenta o Meu rebanho\"\n\nQuebrantado estou chorando\nMinha alma está clamando\n\nDá-me um coração\nigual ao Teu",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Quem foi muito perdoado\nDeveria saber o valor de ser amado",
+          "text": "Quem foi muito perdoado\nDeveria saber o valor\nde ser amado",
           "text_with_comment": null,
           "translations": null
         },
@@ -1171,217 +1171,364 @@
         {
           "number": 3,
           "description": "",
-          "text": "O bem que eu quero fazer\nDe fato, eu não faço",
+          "text": "O bem que eu quero fazer\nde fato, eu não faço",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "E dependendo do pecado\nEu nem me sinto incomodado",
+          "text": "E dependendo do pecado\neu nem me\nsinto incomodado",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Então esbarro na Tua palavra\nE sou confrontado",
+          "text": "Então esbarro na Tua palavra\ne sou confrontado",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Não adianta fingir\nQue está tudo bem",
+          "text": "Não adianta fingir\nque está tudo bem",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Se, de Ti, eu recebi perdão\nMas não consigo perdoar ninguém",
+          "text": "Se, de Ti, eu\nrecebi perdão",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "A outra face eu não dei\nSó o meu ego escutei",
+          "text": "Mas não consigo\nperdoar ninguém",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 9,
           "description": "",
-          "text": "Até amei os meus amigos\nMas meus inimigos odiei",
+          "text": "A outra face eu não dei\nSó o meu ego escutei",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 10,
           "description": "",
-          "text": "Na minha hipocrisia\nMe achei melhor que o outro",
+          "text": "Até amei os meus amigos\nmas meus inimigos odiei",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 11,
           "description": "",
-          "text": "Sem perceber a trave\nQue estava no meu olho",
+          "text": "Na minha hipocrisia\nme achei melhor\nque o outro",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 12,
           "description": "",
-          "text": "Em pele de ovelha\nAgindo como lobo",
+          "text": "Sem perceber a trave\nque estava no meu olho",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 13,
           "description": "",
-          "text": "Me esqueci do reino\nJuntando os meus tesouros",
+          "text": "Em pele de ovelha\nagindo como lobo",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 14,
           "description": "",
-          "text": "Ah, Jesus, quebra o meu orgulho\nE faz-me olhar pra cruz",
+          "text": "Me esqueci do reino\njuntando os meus tesouros",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 15,
           "description": "",
-          "text": "Tira a dureza do meu coração",
+          "text": "Ah, Jesus, quebra\no meu orgulho\ne faz-me olhar pra cruz",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 16,
           "description": "",
-          "text": "De joelhos\nEu imploro o Teu perdão",
+          "text": "Tira a dureza do\nmeu coração",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 17,
           "description": "",
-          "text": "Pois Tua graça\nJoga minha carne ao chão",
+          "text": "De joelhos\neu imploro o Teu perdão",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 18,
           "description": "",
-          "text": "E me ensina o valor da comunhão\nDo beber do vinho e partilhar do pão",
+          "text": "Pois Tua graça\njoga minha carne ao chão",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 19,
           "description": "",
-          "text": "Eu sou o vaso\nTu és o oleiro",
+          "text": "E me ensina o valor\nda comunhão",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 20,
           "description": "",
-          "text": "Quebra minha vida\nMe refaz por inteiro",
+          "text": "Do beber do vinho\ne partilhar do pão",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 21,
           "description": "",
-          "text": "Tomo a minha cruz\nE nego a mim mesmo",
+          "text": "Eu sou o vaso\nTu és o oleiro",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 22,
           "description": "",
-          "text": "Pois do pecado\nNão sou mais prisioneiro",
+          "text": "Quebra minha vida\nMe refaz por inteiro",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 23,
           "description": "",
-          "text": "Mesmo com falhas, esse é meu desejo\nDá-me um coração igual ao Teu",
+          "text": "Tomo a minha cruz\ne nego a mim mesmo",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 24,
           "description": "",
-          "text": "Dá-me um coração\nIgual ao Teu, meu mestre",
+          "text": "Pois do pecado\nnão sou mais prisioneiro",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 25,
           "description": "",
-          "text": "Dá-me um coração igual ao Teu",
+          "text": "Eu sou o vaso\nTu és o oleiro",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 26,
           "description": "",
-          "text": "Coração disposto a obedecer\nCumprir todo o Teu querer",
+          "text": "Quebra minha vida\nMe refaz por inteiro",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 27,
           "description": "",
-          "text": "Dá-me um coração igual ao Teu",
+          "text": "Tomo a minha cruz\ne nego a mim mesmo",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 28,
           "description": "",
-          "text": "Judas veio ao Teu encontro\nCom a traição pesando",
+          "text": "Pois do pecado\nnão sou mais prisioneiro",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 29,
           "description": "",
-          "text": "Mas Te vejo se inclinando\nE os pés do traidor lavando",
+          "text": "Mesmo com falhas,\nesse é meu desejo",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 30,
           "description": "",
-          "text": "Vejo Pedro Te negando\nE o galo, então, cantando",
+          "text": "Dá-me um coração\nigual ao Teu",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 31,
           "description": "",
-          "text": "Mesmo assim Tu dizes: \"Pedro\nApascenta o Meu rebanho\"",
+          "text": "Dá-me um coração\nigual ao Teu, meu mestre",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 32,
           "description": "",
-          "text": "Quebrantado estou chorando\nMinha alma está clamando",
+          "text": "Dá-me um coração\nigual ao Teu",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 33,
           "description": "",
-          "text": "Dá-me um coração igual ao Teu",
+          "text": "Coração disposto a obedecer\nCumprir todo o Teu querer",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 34,
+          "description": "",
+          "text": "Dá-me um coração\nigual ao Teu",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 35,
+          "description": "",
+          "text": "Dá-me um coração\nigual ao Teu, meu mestre",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 36,
+          "description": "",
+          "text": "Dá-me um coração\nigual ao Teu",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 37,
+          "description": "",
+          "text": "Coração disposto a obedecer\nCumprir todo o Teu querer",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 38,
+          "description": "",
+          "text": "Dá-me um coração\nigual ao Teu",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 39,
+          "description": "",
+          "text": "Jesus, quebra\no meu orgulho\ne faz-me olhar pra cruz",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 40,
+          "description": "",
+          "text": "Tira a dureza do\nmeu coração",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 41,
+          "description": "",
+          "text": "De joelhos\neu imploro o Teu perdão",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 42,
+          "description": "",
+          "text": "Pois Tua graça\njoga minha carne ao chão",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 43,
+          "description": "",
+          "text": "E me ensina o valor\nda comunhão",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 44,
+          "description": "",
+          "text": "Do beber do vinho\ne partilhar do pão",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 45,
+          "description": "",
+          "text": "Judas veio ao Teu encontro\ncom a traição pesando",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 46,
+          "description": "",
+          "text": "Mas Te vejo se inclinando\ne os pés do traidor lavando",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 47,
+          "description": "",
+          "text": "Vejo Pedro Te negando\ne o galo, então, cantando",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 48,
+          "description": "",
+          "text": "Mesmo assim Tu dizes: \"Pedro\napascenta o Meu rebanho\"",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 49,
+          "description": "",
+          "text": "Judas veio ao Teu encontro\ncom a traição pesando",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 50,
+          "description": "",
+          "text": "Mas Te vejo se inclinando\ne os pés do traidor lavando",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 51,
+          "description": "",
+          "text": "Vejo Pedro Te negando\ne o galo, então, cantando",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 52,
+          "description": "",
+          "text": "Mesmo assim Tu dizes: \"Pedro\napascenta o Meu rebanho\"",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 53,
+          "description": "",
+          "text": "Quebrantado estou chorando\nMinha alma está clamando",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 54,
+          "description": "",
+          "text": "Dá-me um coração\nigual ao Teu",
           "text_with_comment": null,
           "translations": null
         }
@@ -1404,7 +1551,7 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
+      "playlist_semana": "",
       "cifra": "https://www.cifrashub.com.br/song/julliany-souza/ah-jesus-coracao-igual-ao-teu-2-2",
       "nova": "s",
       "extra": ""
@@ -2111,7 +2258,7 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
+      "playlist_semana": "",
       "cifra": "https://www.cifrashub.com.br/song/aline-barros/ao-unico",
       "extra": ""
     }
@@ -6303,7 +6450,7 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
+      "playlist_semana": "",
       "cifra": "https://www.cifrashub.com.br/song/thalles-roberto/deus-me-ama",
       "extra": ""
     }
@@ -12716,7 +12863,7 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
+      "playlist_semana": "",
       "cifra": "https://www.cifrashub.com.br/song/midian-lima/jo",
       "extra": ""
     }
@@ -14225,27 +14372,27 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Tem ciúmes de mim\nO Seu amor é\nComo um furacão\n\nE eu me rendo\nAo vento de\nSua misericórdia\n\nE então de repente\nNão vejo mais\nMinhas aflições\n\nEu só vejo a glória\ne percebo Quão\nmaravilhoso Ele é\n\nE o tanto que\nEle me quer\n\nOh, Ele me amou\nOh, Ele me ama\nEle me amou\n\nMe ama\nEle me ama\n\nEle me ama\nEle me ama\n\nSomos Sua herança\nE Ele é o nosso galardão\nSeu olhar de graça\n\nNos atrai à redenção\nSe a graça é um oceano,\nEstamos afogando\n\nO céu se une à Terra\nComo um beijo apaixonado\nMeu coração dispara\n\nEm meu peito acelerado\nNão tenho pra perder\nCom ressentimentos\n\nQuando penso que Ele\nMe ama\nEle me ama\n\nEle me ama\nEle me ama",
+      "full_text": "Tem ciúmes de mim\nO Seu amor é\ncomo um furacão\n\nE eu me rendo\nao vento de\nSua misericórdia\n\nE então de repente\nnão vejo mais\nminhas aflições\n\nEu só vejo a glória\ne percebo Quão\nmaravilhoso Ele é\n\nE o tanto que\nEle me quer\n\nOh, Ele me amou\nOh, Ele me ama\nEle me amou\n\nMe ama\nEle me ama\n\nEle me ama\nEle me ama\n\nMe ama\nEle me ama\n\nEle me ama\nEle me ama\n\nSomos Sua herança\ne Ele é o nosso galardão\n\nSeu olhar de graça\nnos atrai à redenção\n\nSe a graça é um oceano,\nestamos afogando\n\nO céu se une à Terra\ncomo um beijo apaixonado\n\nMeu coração dispara\nem meu peito acelerado\n\nNão tenho pra perder\ncom ressentimentos\n\nQuando penso que Ele\n\nMe ama\nEle me ama\n\nEle me ama\nEle me ama\n\nMe ama\nEle me ama\n\nEle me ama\nEle me ama",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Tem ciúmes de mim\nO Seu amor é\nComo um furacão",
+          "text": "Tem ciúmes de mim\nO Seu amor é\ncomo um furacão",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "E eu me rendo\nAo vento de\nSua misericórdia",
+          "text": "E eu me rendo\nao vento de\nSua misericórdia",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "E então de repente\nNão vejo mais\nMinhas aflições",
+          "text": "E então de repente\nnão vejo mais\nminhas aflições",
           "text_with_comment": null,
           "translations": null
         },
@@ -14287,40 +14434,89 @@
         {
           "number": 9,
           "description": "",
-          "text": "Somos Sua herança\nE Ele é o nosso galardão\nSeu olhar de graça",
+          "text": "Me ama\nEle me ama",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 10,
           "description": "",
-          "text": "Nos atrai à redenção\nSe a graça é um oceano,\nEstamos afogando",
+          "text": "Ele me ama\nEle me ama",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 11,
           "description": "",
-          "text": "O céu se une à Terra\nComo um beijo apaixonado\nMeu coração dispara",
+          "text": "Somos Sua herança\ne Ele é o nosso galardão",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 12,
           "description": "",
-          "text": "Em meu peito acelerado\nNão tenho pra perder\nCom ressentimentos",
+          "text": "Seu olhar de graça\nnos atrai à redenção",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 13,
           "description": "",
-          "text": "Quando penso que Ele\nMe ama\nEle me ama",
+          "text": "Se a graça é um oceano,\nestamos afogando",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 14,
+          "description": "",
+          "text": "O céu se une à Terra\ncomo um beijo apaixonado",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 15,
+          "description": "",
+          "text": "Meu coração dispara\nem meu peito acelerado",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 16,
+          "description": "",
+          "text": "Não tenho pra perder\ncom ressentimentos",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 17,
+          "description": "",
+          "text": "Quando penso que Ele",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 18,
+          "description": "",
+          "text": "Me ama\nEle me ama",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 19,
+          "description": "",
+          "text": "Ele me ama\nEle me ama",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 20,
+          "description": "",
+          "text": "Me ama\nEle me ama",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 21,
           "description": "",
           "text": "Ele me ama\nEle me ama",
           "text_with_comment": null,
@@ -14345,7 +14541,7 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
+      "playlist_semana": "",
       "cifra": "https://www.cifrashub.com.br/song/diante-do-trono/me-ama-",
       "extra": ""
     }
@@ -18632,27 +18828,27 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Pelo Senhor,\nmarchamos sim\nO Seu exército poderoso é\n\nE Sua glória será vista \nEm toda terra\n\nVamos cantar\nO canto da vitória\n\nGlória Deus!\nVencemos a batalha\n\nToda arma contra nós\nPerecerá\n\nO nosso general é Cristo\nSeguimos os Seu passos\n\nNenhum inimigo nos resistirá\n\nPelo Messias\nMarchamos sim\n\nEm Suas mãos\nA chave da vitória\n\nQue nos leva a possuir\nA terra prometida\n\nO nosso general é Cristo\nSeguimos os Seu passos\n\nNenhum inimigo nos resistirá\n\nNenhum inimigo nos resistirá",
+      "full_text": "Pelo Senhor\nmarchamos sim\n\nO Seu exército poderoso é\nE Sua glória será vista \nem toda terra\n\nVamos cantar\no canto da vitória\n\nGlória Deus!\nVencemos a batalha\n\nToda arma contra\nnós perecerá\n\nO nosso general é Cristo\nSeguimos os Seus passos\n\nNenhum inimigo\nnos resistirá\n\nO nosso general é Cristo\nSeguimos os Seus passos\n\nNenhum inimigo\nnos resistirá\n\nPelo Messias\nmarchamos sim\n\nEm Suas mãos\na chave da vitória\n\nQue nos leva a possuir\na terra prometida\n\nO nosso general é Cristo\nSeguimos os Seus passos\n\nNenhum inimigo\nnos resistirá\n\nO nosso general é Cristo\nSeguimos os Seus passos\n\nNenhum inimigo\nnos resistirá\n\nNenhum inimigo\nnos resistirá",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Pelo Senhor,\nmarchamos sim\nO Seu exército poderoso é",
+          "text": "Pelo Senhor\nmarchamos sim",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "E Sua glória será vista \nEm toda terra",
+          "text": "O Seu exército poderoso é\nE Sua glória será vista \nem toda terra",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "Vamos cantar\nO canto da vitória",
+          "text": "Vamos cantar\no canto da vitória",
           "text_with_comment": null,
           "translations": null
         },
@@ -18666,63 +18862,91 @@
         {
           "number": 5,
           "description": "",
-          "text": "Toda arma contra nós\nPerecerá",
+          "text": "Toda arma contra\nnós perecerá",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "O nosso general é Cristo\nSeguimos os Seu passos",
+          "text": "O nosso general é Cristo\nSeguimos os Seus passos",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Nenhum inimigo nos resistirá",
+          "text": "Nenhum inimigo\nnos resistirá",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Pelo Messias\nMarchamos sim",
+          "text": "O nosso general é Cristo\nSeguimos os Seus passos",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 9,
           "description": "",
-          "text": "Em Suas mãos\nA chave da vitória",
+          "text": "Nenhum inimigo\nnos resistirá",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 10,
           "description": "",
-          "text": "Que nos leva a possuir\nA terra prometida",
+          "text": "Pelo Messias\nmarchamos sim",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 11,
           "description": "",
-          "text": "O nosso general é Cristo\nSeguimos os Seu passos",
+          "text": "Em Suas mãos\na chave da vitória",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 12,
           "description": "",
-          "text": "Nenhum inimigo nos resistirá",
+          "text": "Que nos leva a possuir\na terra prometida",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 13,
           "description": "",
-          "text": "Nenhum inimigo nos resistirá",
+          "text": "O nosso general é Cristo\nSeguimos os Seus passos",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "Nenhum inimigo\nnos resistirá",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 15,
+          "description": "",
+          "text": "O nosso general é Cristo\nSeguimos os Seus passos",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 16,
+          "description": "",
+          "text": "Nenhum inimigo\nnos resistirá",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 17,
+          "description": "",
+          "text": "Nenhum inimigo\nnos resistirá",
           "text_with_comment": null,
           "translations": null
         }
@@ -18745,7 +18969,7 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
+      "playlist_semana": "",
       "cifra": "https://www.cifrashub.com.br/song/gabriela-rocha/nosso-general-e-cristo",
       "extra": ""
     }
