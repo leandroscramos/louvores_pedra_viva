@@ -126,8 +126,7 @@
                             <th>Título/Artista</th>
                             <th width="2%"></th>
                             <th width="1%">BPM</th>
-                            <th width="1%">Comp</th>
-                            <th width="1%">Cifra</th>
+                            <th width="1%">Comp</th>                            
                             <th width="1%">Link</th>
                         </tr>
                     </thead>
@@ -147,8 +146,7 @@
                             <th width="2%">#</th>
                             <th>Título/Artista</th>
                             <th width="1%">BPM</th>
-                            <th width="1%">Comp</th>
-                            <th width="1%">Cifra</th>
+                            <th width="1%">Comp</th>                            
                             <th width="1%">Link</th>
                         </tr>
                     </thead>
@@ -304,12 +302,7 @@
                                     </td>` : '<td></td>'}
                                     ${(musica.time_sig) ? `<td align='center'>
                                         ${musica.time_sig}
-                                    </td>` : '<td></td>'}                                      
-                                    ${(musica.extras.cifra) ? `<td align='center'>
-                                        <a href="${musica.extras.cifra}" target="_blank" rel="noopener noreferrer">
-                                            <i class="bx bx-list-music" style="color:#000000; font-size:1.5em;"></i>
-                                        </a>
-                                        </td>` : `<td align='center'></td>`}
+                                    </td>` : '<td></td>'}
                                     <td align='center'>
                                         <a href="${musica.streaming.audio.youtube}" target="_blank" rel="noopener noreferrer">
                                             <i class="fab fa-youtube" style="color:#FF0000; font-size:1.5em;"></i>
@@ -326,7 +319,7 @@
                         },
                         // Aplica a ordenação locale-pt na coluna 0 e desabilita ordenação nas colunas 2 e 3
                         columnDefs: [
-                            { orderable: false, targets: [1, 2, 3, 4, 5] },
+                            { orderable: false, targets: [1, 2, 3, 4] },
                             { type: 'locale-pt', targets: 0 },
                             { visible: false, targets: 0 },
                         ],
@@ -357,12 +350,7 @@
                                     </td>` : '<td></td>'}
                                     ${(musica.time_sig) ? `<td align='center'>
                                         ${musica.time_sig}
-                                    </td>` : '<td></td>'}                                      
-                                    ${(musica.extras.cifra) ? `<td align='center'>
-                                        <a href="${musica.extras.cifra}" target="_blank" rel="noopener noreferrer">
-                                            <i class="bx bx-list-music" style="color:#000000; font-size:1.5em;"></i>
-                                        </a>
-                                        </td>` : `<td align='center'></td>`}
+                                    </td>` : '<td></td>'}
                                     <td align='center'>
                                         <a href="${musica.streaming.audio.youtube}" target="_blank" rel="noopener noreferrer">
                                             <i class="fab fa-youtube" style="color:#FF0000; font-size:1.5em;"></i>
@@ -380,7 +368,7 @@
                         },
                         // Aplica a ordenação locale-pt na coluna 0 e desabilita ordenação nas colunas 2 e 3
                         columnDefs: [
-                            { orderable: false, targets: [1, 2, 3, 4, 5] },
+                            { orderable: false, targets: [1, 2, 3, 4] },
                             { type: 'locale-pt', targets: 0 },
                             { visible: false, targets: 0 },
                         ],
