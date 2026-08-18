@@ -904,6 +904,7 @@
     },
     "extras": {
       "cifra": "https://www.cifrashub.com.br/song/diante-do-trono/aclame-ao-senhor",
+      "nova": "s",
       "extra": ""
     }
   },
@@ -5413,6 +5414,8 @@
       }
     },
     "extras": {
+      "cifra": "https://www.cifrashub.com.br/song/gabriela-rocha/creio-que-tu-es-a-cura",
+      "nova": "s",
       "extra": ""
     }
   },
@@ -5634,6 +5637,8 @@
       }
     },
     "extras": {
+      "cifra": "https://www.cifrashub.com.br/song/alessandro-vilas-boas/deixa-queimar-2",
+      "nova": "s",
       "extra": ""
     }
   },
@@ -8580,6 +8585,145 @@
     },
     "extras": {
       "cifra": "https://www.cifrashub.com.br/song/laura-souguellis/em-teus-bracos",
+      "nova": "s",
+      "extra": ""
+    }
+  },
+  {
+    "id": 1787060411995,
+    "title": "Em Tua Presença",
+    "artist": "Nívea Soares",
+    "author": "Nívea Soares, Gustavo Soares",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "G",
+    "bpm": 78.0,
+    "time_sig": "4/4",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Eu quero estar neste lugar\n\nOnde o pecado é perdoado\nE as culpas são levadas\n\nEu quero estar neste lugar\n\nOnde o amor não se esfrie\nE o fogo não se apague\n\nEm Tua presença\nSenhor Jesus\n\nEm Tua presença\nSenhor Jesus\n\nSanto Espírito\nEu me rendo ao Teu agir\n\nMeu anseio é\nPermanecer em Teu amor\n\nEm Tua presença, Senhor\nEm Tua presença\n\nEm Tua presença, Senhor\nEm Tua presença\n\nEu quero estar neste lugar\n\nOnde o poder não me corrompa\nRiquezas não me ceguem\n\nEu quero estar neste lugar\n\nOnde o mundo não me atraia\nPaixões não me seduzam",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Eu quero estar neste lugar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Onde o pecado é perdoado\nE as culpas são levadas",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Eu quero estar neste lugar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Onde o amor não se esfrie\nE o fogo não se apague",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Em Tua presença\nSenhor Jesus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Em Tua presença\nSenhor Jesus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Santo Espírito\nEu me rendo ao Teu agir",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Meu anseio é\nPermanecer em Teu amor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Em Tua presença, Senhor\nEm Tua presença",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Em Tua presença, Senhor\nEm Tua presença",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Eu quero estar neste lugar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Onde o poder não me corrompa\nRiquezas não me ceguem",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "Eu quero estar neste lugar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "Onde o mundo não me atraia\nPaixões não me seduzam",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "https://open.spotify.com/track/2xpotltTAOvJbWJgJKCUoI",
+        "youtube": "https://youtube.com/watch?v=MzddoTY8VwM",
+        "deezer": "https://deezer.com/track/554480142",
+        "apple_music": "https://music.apple.com/br/song/600494844",
+        "amazon_music": "https://music.amazon.com.br/tracks/B0DFYZWRGN"
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
+      }
+    },
+    "extras": {
       "extra": ""
     }
   },
@@ -19242,6 +19386,8 @@
       }
     },
     "extras": {
+      "cifra": "https://www.cifrashub.com.br/song/ana-nobrega/oceanos",
+      "nova": "s",
       "extra": ""
     }
   },
@@ -23178,6 +23324,8 @@
       }
     },
     "extras": {
+      "cifra": "https://www.cifrashub.com.br/song/nivea-soares/ruja-o-leao-que-se-abram-os-ceus-part-isaias-saad",
+      "nova": "s",
       "extra": ""
     }
   },
@@ -26429,6 +26577,139 @@
     },
     "extras": {
       "cifra": "https://www.cifrashub.com.br/song/florianopolis-house-of-prayer/tu-es-aguas-purificadoras",
+      "extra": ""
+    }
+  },
+  {
+    "id": 1787055522359,
+    "title": "Tu És Santo (Príncipe da Paz)",
+    "artist": "Andrea Fontes",
+    "author": "Marc Imboden, Tammi Rhoton",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "",
+    "bpm": 0.0,
+    "time_sig": "",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Tu és santo\n(Tu és santo)\nPoderoso\n(Poderoso)\n\nTu és digno\n(Tu és digno)\nDo meu louvor\n(Do meu louvor)\n\nVou seguir-te\n(Vou seguir-te)\nVou ouvir-te\n(Vou ouvir-te)\n\nPara sempre\n(Para sempre)\nTe amarei\n(Te amarei)\n\nVou cantando\n \n(És o Rei dos reis\n(Poderoso Deus)\n\nVou louvando ao Rei que\n(Soberano Pai)\n \nÉ santo\n(Sobre a Terra e céus)\n\nTe amando\n(Deus Emanuel)\n \nLhe dando\n(És o grande eu sou)\n\nMinha vida\n(Ele é o cordeiro)\n \nMeus sonhos\n(Que me salvou)\n\nVou cantando\n(Ele vivo está)\n \nLouvando\n(Ele ressurgiu)\n\nAo rei que\n(Sempre reinará)\n \nÉ santo\n(Sempre existiu)\n\nTe amando\n(Ele é o alfa e o ômega)\n \nLhe dando\n(O inicio e fim)\n\nMinha vida\n(Deus eterno, Messias)\n \nMeus sonhos\n(Amigo pra mim)\n\nPríncipe da paz\nViverei pra Teu louvor",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Tu és santo\n(Tu és santo)\nPoderoso\n(Poderoso)",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Tu és digno\n(Tu és digno)\nDo meu louvor\n(Do meu louvor)",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Vou seguir-te\n(Vou seguir-te)\nVou ouvir-te\n(Vou ouvir-te)",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Para sempre\n(Para sempre)\nTe amarei\n(Te amarei)",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Vou cantando\n \n(És o Rei dos reis\n(Poderoso Deus)",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Vou louvando ao Rei que\n(Soberano Pai)\n \nÉ santo\n(Sobre a Terra e céus)",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Te amando\n(Deus Emanuel)\n \nLhe dando\n(És o grande eu sou)",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Minha vida\n(Ele é o cordeiro)\n \nMeus sonhos\n(Que me salvou)",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Vou cantando\n(Ele vivo está)\n \nLouvando\n(Ele ressurgiu)",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Ao rei que\n(Sempre reinará)\n \nÉ santo\n(Sempre existiu)",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Te amando\n(Ele é o alfa e o ômega)\n \nLhe dando\n(O inicio e fim)",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Minha vida\n(Deus eterno, Messias)\n \nMeus sonhos\n(Amigo pra mim)",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "Príncipe da paz\nViverei pra Teu louvor",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "https://open.spotify.com/track/6f1A7DEVS3zXoBQGzV5rnw",
+        "youtube": "https://youtube.com/watch?v=5qXQxoVynZU",
+        "deezer": "https://deezer.com/track/104287606",
+        "apple_music": "https://music.apple.com/br/song/1290533301",
+        "amazon_music": "https://music.amazon.com.br/tracks/B07YJ7WV1Y"
+      },
+      "backing_track": {
+        "spotify": "https://open.spotify.com/track/79pL45fz9zJSSA15q3yvwn",
+        "youtube": "https://youtube.com/watch?v=fwpKo62A150",
+        "deezer": "https://deezer.com/track/384929111",
+        "apple_music": "https://music.apple.com/br/song/1309009706",
+        "amazon_music": "https://music.amazon.com.br/tracks/B07YQ9ZXS8"
+      }
+    },
+    "extras": {
+      "cifra": "https://www.cifrashub.com.br/song/michael-w-smith-musicas/tu-es-santo-principe-da-paz",
+      "nova": "s",
       "extra": ""
     }
   },
