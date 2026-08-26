@@ -1,6 +1,6 @@
 {
   "start": "2026-01-01",
-  "end": "2026-08-16",
+  "end": "2026-08-30",
   "songs": [
     {
       "song": {
@@ -103,6 +103,15 @@
     },
     {
       "song": {
+        "id": "1760984444630",
+        "title": "Em Teus Braços",
+        "artist": "Laura Souguellis",
+        "author": "Laura Souguellis"
+      },
+      "occurrences": "4"
+    },
+    {
+      "song": {
         "id": "1762265308741",
         "title": "Estamos de Pé",
         "artist": "Marcus Salles",
@@ -130,6 +139,15 @@
     },
     {
       "song": {
+        "id": "1762266243905",
+        "title": "Me Ama",
+        "artist": "Diante do Trono",
+        "author": "Ana Paula Valadão, John Mark McMillan"
+      },
+      "occurrences": "4"
+    },
+    {
+      "song": {
         "id": "1762266122411",
         "title": "Me Derramar",
         "artist": "Vineyard",
@@ -142,6 +160,15 @@
         "id": "1771527481026",
         "title": "Nada Mais + Uma Vez",
         "artist": "Brasa Church",
+        "author": ""
+      },
+      "occurrences": "4"
+    },
+    {
+      "song": {
+        "id": "1770293907538",
+        "title": "O Nosso General É Cristo",
+        "artist": "Gabriela Rocha",
         "author": ""
       },
       "occurrences": "4"
@@ -220,24 +247,6 @@
     },
     {
       "song": {
-        "id": "1760984444630",
-        "title": "Em Teus Braços",
-        "artist": "Laura Souguellis",
-        "author": "Laura Souguellis"
-      },
-      "occurrences": "3"
-    },
-    {
-      "song": {
-        "id": "1762266243905",
-        "title": "Me Ama",
-        "artist": "Diante do Trono",
-        "author": "Ana Paula Valadão, John Mark McMillan"
-      },
-      "occurrences": "3"
-    },
-    {
-      "song": {
         "id": "1778012658035",
         "title": "O Fogo Arderá + Reacende a Chama + Acende Outra Vez",
         "artist": "Yasmin Teixeira",
@@ -247,10 +256,10 @@
     },
     {
       "song": {
-        "id": "1770293907538",
-        "title": "O Nosso General É Cristo",
-        "artist": "Gabriela Rocha",
-        "author": ""
+        "id": "1761050941558",
+        "title": "Oceanos",
+        "artist": "Ana Nóbrega",
+        "author": "Joel Houston, Matt Crocker, Salomon Ligthelm"
       },
       "occurrences": "3"
     },
@@ -287,6 +296,15 @@
         "title": "Rompendo em Fé",
         "artist": "Com. Ev. Inter. da Zona Sul",
         "author": "Ana Feitosa, Edson Feitosa, Marco Antonio"
+      },
+      "occurrences": "3"
+    },
+    {
+      "song": {
+        "id": "1760703496009",
+        "title": "Ruja o Leão, Que Se Abram Os Céus",
+        "artist": "Isaias Saad e Nívea Soares",
+        "author": "Talita Catanzaro, Cody Carnes, Kari Jobe"
       },
       "occurrences": "3"
     },
@@ -373,6 +391,15 @@
     },
     {
       "song": {
+        "id": "1762264609310",
+        "title": "Ao Único",
+        "artist": "Aline Barros",
+        "author": "Bené Gomes"
+      },
+      "occurrences": "2"
+    },
+    {
+      "song": {
         "id": "1762266789938",
         "title": "Atos 2",
         "artist": "Gabriela Rocha",
@@ -422,6 +449,15 @@
         "title": "Como Eu Te Amo",
         "artist": "Fernandinho",
         "author": "Fernandinho"
+      },
+      "occurrences": "2"
+    },
+    {
+      "song": {
+        "id": "1762264207842",
+        "title": "Deixa Queimar",
+        "artist": "Alessandro Vilas Boas",
+        "author": "Alessandro Vilas Boas"
       },
       "occurrences": "2"
     },
@@ -580,15 +616,6 @@
     },
     {
       "song": {
-        "id": "1761050941558",
-        "title": "Oceanos",
-        "artist": "Ana Nóbrega",
-        "author": "Joel Houston, Matt Crocker, Salomon Ligthelm"
-      },
-      "occurrences": "2"
-    },
-    {
-      "song": {
         "id": "1762266641384",
         "title": "Oferta de Amor",
         "artist": "Min. Koinonya de Louvor",
@@ -638,15 +665,6 @@
         "title": "Renova-me",
         "artist": "Aline Barros",
         "author": "Marcos Witt"
-      },
-      "occurrences": "2"
-    },
-    {
-      "song": {
-        "id": "1760703496009",
-        "title": "Ruja o Leão, Que Se Abram Os Céus",
-        "artist": "Isaias Saad e Nívea Soares",
-        "author": "Talita Catanzaro, Cody Carnes, Kari Jobe"
       },
       "occurrences": "2"
     },
@@ -733,15 +751,6 @@
     },
     {
       "song": {
-        "id": "1762264609310",
-        "title": "Ao Único",
-        "artist": "Aline Barros",
-        "author": "Bené Gomes"
-      },
-      "occurrences": "1"
-    },
-    {
-      "song": {
         "id": "1762265991665",
         "title": "Bem Mais Que Tudo",
         "artist": "Aline Barros",
@@ -800,15 +809,6 @@
         "title": "Creio Que Tu És a Cura",
         "artist": "Gabriela Rocha",
         "author": "Mike Guglielmucci"
-      },
-      "occurrences": "1"
-    },
-    {
-      "song": {
-        "id": "1762264207842",
-        "title": "Deixa Queimar",
-        "artist": "Alessandro Vilas Boas",
-        "author": "Alessandro Vilas Boas"
       },
       "occurrences": "1"
     },
@@ -962,6 +962,15 @@
         "title": "Jesus Te Entronizamos",
         "artist": "Marcos Góes",
         "author": "Dale Garratt"
+      },
+      "occurrences": "1"
+    },
+    {
+      "song": {
+        "id": "1762265942205",
+        "title": "Jó",
+        "artist": "Midian Lima",
+        "author": "Delino Marçal"
       },
       "occurrences": "1"
     },
@@ -1169,6 +1178,15 @@
         "title": "Tu És + Águas Purificadoras",
         "artist": "FHOP Music",
         "author": "Eliaquim Benedito, Ester Carvalho, Isabelle de Sousa, Matheus Santana, Patrick Leonardo, Sara Lima, Vinicius Santos, Ana Paula Valadão"
+      },
+      "occurrences": "1"
+    },
+    {
+      "song": {
+        "id": "1787055522359",
+        "title": "Tu És Santo (Príncipe da Paz)",
+        "artist": "Andrea Fontes",
+        "author": "Marc Imboden, Tammi Rhoton"
       },
       "occurrences": "1"
     },
@@ -1426,6 +1444,15 @@
     },
     {
       "song": {
+        "id": "1787060411995",
+        "title": "Em Tua Presença",
+        "artist": "Nívea Soares",
+        "author": "Nívea Soares, Gustavo Soares"
+      },
+      "occurrences": "0"
+    },
+    {
+      "song": {
         "id": "1762266748172",
         "title": "Espirito Enche a Minha Vida",
         "artist": "Min. Koinonya de Louvor",
@@ -1502,15 +1529,6 @@
         "title": "Hosana",
         "artist": "Mariana Valadão",
         "author": "Brooke Ligertwood"
-      },
-      "occurrences": "0"
-    },
-    {
-      "song": {
-        "id": "1762265942205",
-        "title": "Jó",
-        "artist": "Midian Lima",
-        "author": "Delino Marçal"
       },
       "occurrences": "0"
     },
@@ -1800,7 +1818,7 @@
         "name": "Fernanda"
       },
       "responsible": "0",
-      "scheduled": "29"
+      "scheduled": "32"
     },
     {
       "member": {
@@ -1808,7 +1826,7 @@
         "name": "Guilherme"
       },
       "responsible": "0",
-      "scheduled": "60"
+      "scheduled": "63"
     },
     {
       "member": {
@@ -1816,7 +1834,7 @@
         "name": "Gustavo"
       },
       "responsible": "0",
-      "scheduled": "19"
+      "scheduled": "23"
     },
     {
       "member": {
@@ -1824,7 +1842,7 @@
         "name": "Juliana"
       },
       "responsible": "0",
-      "scheduled": "34"
+      "scheduled": "36"
     },
     {
       "member": {
@@ -1832,7 +1850,7 @@
         "name": "Karina"
       },
       "responsible": "0",
-      "scheduled": "34"
+      "scheduled": "35"
     },
     {
       "member": {
@@ -1840,7 +1858,7 @@
         "name": "Leandro"
       },
       "responsible": "0",
-      "scheduled": "29"
+      "scheduled": "31"
     },
     {
       "member": {
@@ -1848,7 +1866,7 @@
         "name": "Lucas"
       },
       "responsible": "0",
-      "scheduled": "41"
+      "scheduled": "45"
     },
     {
       "member": {
@@ -1856,7 +1874,7 @@
         "name": "Malú"
       },
       "responsible": "0",
-      "scheduled": "33"
+      "scheduled": "35"
     },
     {
       "member": {
@@ -1864,7 +1882,7 @@
         "name": "Marcos"
       },
       "responsible": "0",
-      "scheduled": "15"
+      "scheduled": "18"
     },
     {
       "member": {
@@ -1872,7 +1890,7 @@
         "name": "Renan"
       },
       "responsible": "0",
-      "scheduled": "23"
+      "scheduled": "24"
     },
     {
       "member": {
@@ -1880,7 +1898,7 @@
         "name": "Samuel"
       },
       "responsible": "0",
-      "scheduled": "65"
+      "scheduled": "69"
     },
     {
       "member": {
@@ -1897,6 +1915,14 @@
       },
       "responsible": "0",
       "scheduled": "15"
+    },
+    {
+      "member": {
+        "id": "1787318299287",
+        "name": "Marcelo"
+      },
+      "responsible": "0",
+      "scheduled": "3"
     },
     {
       "member": {

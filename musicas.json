@@ -113,7 +113,6 @@
       }
     },
     "extras": {
-      "cifra": "https://www.cifrashub.com.br/song/gabriel-guedes/a-bencao",
       "extra": ""
     }
   },
@@ -224,7 +223,6 @@
       }
     },
     "extras": {
-      "cifra": "https://www.cifrashub.com.br/song/casa-worship/a-casa-e-sua",
       "extra": ""
     }
   },
@@ -349,7 +347,6 @@
       }
     },
     "extras": {
-      "cifra": "https://www.cifrashub.com.br/song/gabriela-rocha/a-ele-a-gloria",
       "extra": ""
     }
   },
@@ -778,7 +775,6 @@
       }
     },
     "extras": {
-      "cifra": "https://www.cifrashub.com.br/song/andre-valadao/abraca-me",
       "extra": ""
     }
   },
@@ -903,7 +899,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/diante-do-trono/aclame-ao-senhor",
       "extra": ""
     }
@@ -1133,7 +1128,6 @@
       }
     },
     "extras": {
-      "cifra": "https://www.cifrashub.com.br/song/diante-do-trono/aguas-purificadoras",
       "extra": ""
     }
   },
@@ -1552,7 +1546,6 @@
       }
     },
     "extras": {
-      "cifra": "https://www.cifrashub.com.br/song/julliany-souza/ah-jesus-coracao-igual-ao-teu-2-2",
       "nova": "s",
       "extra": ""
     }
@@ -1809,7 +1802,6 @@
       }
     },
     "extras": {
-      "cifra": "https://www.cifrashub.com.br/song/marine-friesen/alfa-e-omega",
       "extra": ""
     }
   },
@@ -1920,7 +1912,6 @@
       }
     },
     "extras": {
-      "cifra": "https://www.cifrashub.com.br/song/coral-kemuel/algo-novo-part-lukas-agustinho",
       "extra": ""
     }
   },
@@ -3935,6 +3926,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/paulo-cesar-baruk/clamo-jesus",
       "extra": ""
     }
@@ -5336,20 +5328,20 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Me escutas quando clamo\nE acalma o meu pensar\n\nMe levas pelo fogo\nCurando todo meu ser\n\nConfio em Ti\nConfio em Ti\n\nCreio que Tu és a cura\nCreio que és tudo para mim\n\nCreio que Tu és a vida\nCreio que não há outro igual a Ti\n\nJesus, eu preciso de Ti\n\nNada é impossível para Ti\nNada é impossível\n\nNada é impossível para Ti\nTens o meu mundo em Tuas mãos",
+      "full_text": "Me escutas quando clamo\ne acalma o meu pensar\n\nMe levas pelo fogo\ncurando todo meu ser\n\nConfio em Ti\nConfio em Ti\n\nCreio que Tu és a cura\nCreio que és tudo para mim\n\nCreio que Tu és a vida\n\nCreio que não há\noutro igual a Ti\n\nJesus, eu preciso de Ti\n\nNada é impossível para Ti\nNada é impossível\n\nNada é impossível para Ti\n\nTens o meu mundo \nem Tuas mãos",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Me escutas quando clamo\nE acalma o meu pensar",
+          "text": "Me escutas quando clamo\ne acalma o meu pensar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "Me levas pelo fogo\nCurando todo meu ser",
+          "text": "Me levas pelo fogo\ncurando todo meu ser",
           "text_with_comment": null,
           "translations": null
         },
@@ -5370,28 +5362,42 @@
         {
           "number": 5,
           "description": "",
-          "text": "Creio que Tu és a vida\nCreio que não há outro igual a Ti",
+          "text": "Creio que Tu és a vida",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Jesus, eu preciso de Ti",
+          "text": "Creio que não há\noutro igual a Ti",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Nada é impossível para Ti\nNada é impossível",
+          "text": "Jesus, eu preciso de Ti",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Nada é impossível para Ti\nTens o meu mundo em Tuas mãos",
+          "text": "Nada é impossível para Ti\nNada é impossível",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Nada é impossível para Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Tens o meu mundo \nem Tuas mãos",
           "text_with_comment": null,
           "translations": null
         }
@@ -5414,7 +5420,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/gabriela-rocha/creio-que-tu-es-a-cura",
       "extra": ""
     }
@@ -5559,62 +5564,104 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Ouvi o meu Senhor bater na porta\nE o meu coração queimou\n\nOuvi o meu Senhor bater na porta\nE o meu coração queimou\n\nEu não vou parar\nGastarei minha vida aos Teus pés\n\nEu não vou parar\nGastarei minha vida aos Teus pés\n\nEu tenho um fogo\nCerrado em meu peito\n\nLarará, Larará, Lará...\n\nQue não me dá descanso\nEu não tenho descanso\n\nDeixa queimar,\ndeixa queimar",
+      "full_text": "Ouvi o meu Senhor\nbater na porta\ne o meu coração queimou\n\nOuvi o meu Senhor\nbater na porta\ne o meu coração queimou\n\nEu não vou parar\nGastarei minha vida\naos Teus pés\n\nEu não vou parar\nGastarei minha vida\naos Teus pés\n\nOuvi o meu Senhor\nbater na porta\ne o meu coração queimou\n\nOuvi o meu Senhor\nbater na porta\ne o meu coração queimou\n\nEu não vou parar\nGastarei minha vida\naos Teus pés\n\nEu não vou parar\nGastarei minha vida\naos Teus pés\n\nEu tenho um fogo\ncerrado em meu peito\n\nQue não me dá descanso\nEu não tenho descanso\n\nEu tenho um fogo\ncerrado em meu peito\n\nQue não me dá descanso\nEu não tenho descanso\n\nDeixa queimar\n\nLarará, Larará, Lará...",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Ouvi o meu Senhor bater na porta\nE o meu coração queimou",
+          "text": "Ouvi o meu Senhor\nbater na porta\ne o meu coração queimou",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "Ouvi o meu Senhor bater na porta\nE o meu coração queimou",
+          "text": "Ouvi o meu Senhor\nbater na porta\ne o meu coração queimou",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "Eu não vou parar\nGastarei minha vida aos Teus pés",
+          "text": "Eu não vou parar\nGastarei minha vida\naos Teus pés",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Eu não vou parar\nGastarei minha vida aos Teus pés",
+          "text": "Eu não vou parar\nGastarei minha vida\naos Teus pés",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Eu tenho um fogo\nCerrado em meu peito",
+          "text": "Ouvi o meu Senhor\nbater na porta\ne o meu coração queimou",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Larará, Larará, Lará...",
+          "text": "Ouvi o meu Senhor\nbater na porta\ne o meu coração queimou",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Que não me dá descanso\nEu não tenho descanso",
+          "text": "Eu não vou parar\nGastarei minha vida\naos Teus pés",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Deixa queimar,\ndeixa queimar",
+          "text": "Eu não vou parar\nGastarei minha vida\naos Teus pés",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Eu tenho um fogo\ncerrado em meu peito",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Que não me dá descanso\nEu não tenho descanso",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Eu tenho um fogo\ncerrado em meu peito",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Que não me dá descanso\nEu não tenho descanso",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "Deixa queimar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "Larará, Larará, Lará...",
           "text_with_comment": null,
           "translations": null
         }
@@ -5637,8 +5684,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
-      "cifra": "https://www.cifrashub.com.br/song/alessandro-vilas-boas/deixa-queimar-2",
       "extra": ""
     }
   },
@@ -8513,55 +8558,69 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Seguro estou nos braços\nDaquele que nunca me deixou\n\nSeu amor perfeito\nSempre esteve repousado em mim\n\nE se eu passar pelo vale\nAcharei conforto em Teu amor\n\nPois eu sei que és aquele\nQue me guarda, me guardas\n\nEm Teus braços é meu descanso\n\nRecaio em Tua graça\nRecaio de novo em Tuas mãos\n\nO toque mais puro\nO amor mais seguro do mundo",
+      "full_text": "Seguro estou nos braços\n\nDaquele que nunca\nme deixou\n\nSeu amor perfeito\nsempre esteve\nrepousado em mim\n\nE se eu passar pelo vale\n\nAcharei conforto\nem Teu amor\n\nPois eu sei que és aquele\nque me guarda,\nme guardas\n\nEm Teus braços é\nmeu descanso\n\nRecaio em Tua graça\nRecaio de novo\nem Tuas mãos\n\nO toque mais puro\nO amor mais\nseguro do mundo",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Seguro estou nos braços\nDaquele que nunca me deixou",
+          "text": "Seguro estou nos braços",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "Seu amor perfeito\nSempre esteve repousado em mim",
+          "text": "Daquele que nunca\nme deixou",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "E se eu passar pelo vale\nAcharei conforto em Teu amor",
+          "text": "Seu amor perfeito\nsempre esteve\nrepousado em mim",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Pois eu sei que és aquele\nQue me guarda, me guardas",
+          "text": "E se eu passar pelo vale",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Em Teus braços é meu descanso",
+          "text": "Acharei conforto\nem Teu amor",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Recaio em Tua graça\nRecaio de novo em Tuas mãos",
+          "text": "Pois eu sei que és aquele\nque me guarda,\nme guardas",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "O toque mais puro\nO amor mais seguro do mundo",
+          "text": "Em Teus braços é\nmeu descanso",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Recaio em Tua graça\nRecaio de novo\nem Tuas mãos",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "O toque mais puro\nO amor mais\nseguro do mundo",
           "text_with_comment": null,
           "translations": null
         }
@@ -8584,7 +8643,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/laura-souguellis/em-teus-bracos",
       "extra": ""
     }
@@ -8869,7 +8927,6 @@
       }
     },
     "extras": {
-      "cifra": "https://www.cifrashub.com.br/song/renascer-praise/escape",
       "extra": ""
     }
   },
@@ -9671,7 +9728,6 @@
       }
     },
     "extras": {
-      "cifra": "https://www.cifrashub.com.br/song/renascer-praise/eu-me-rendo",
       "extra": ""
     }
   },
@@ -10065,6 +10121,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -10848,7 +10905,6 @@
       }
     },
     "extras": {
-      "cifra": "https://www.cifrashub.com.br/song/fernandinho/faz-chover",
       "extra": ""
     }
   },
@@ -11990,6 +12046,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -12835,20 +12892,20 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Jó, como pode\nAinda adorar\n\nSe não tem motivos\nPra cantar?\n\nAbandona esse\nDeus e morre\n\nMas não o adoro\nPelo que Ele faz\n\nNem menos por\nBens materiais\n\nEu o adoro\nPelo que Ele é\n\nEu sou dEle\nTudo é dEle\n\nJó, você não tem motivos\nPerdeu os seus bens\n\nSeus filhos, seus amigos\nO que você vai fazer?\n\nEu vou adorar\nSimplesmente adorar\n\nEu vou adorar\n\nDeus me deu\nDeus tomou\n\nBendito seja\nO nome do Senhor!\n\nA Ele a glória\nA Ele a honra\n\nE o louvor\n\nA Ele a glória!\n\nPra sempre, amém\nAmém!\n\nDeus me deu\nDeus tomou\n\nBendito seja\nO nome do Senhor!\n\nA Ele a glória\nA Ele a honra\n\nE o louvor",
+      "full_text": "Jó, como pode\nainda adorar\n\nSe não tem motivos\npra cantar?\n\nAbandona esse\nDeus e morre\n\nMas não o adoro\npelo que Ele faz\n\nNem menos por\nbens materiais\n\nEu o adoro\npelo que Ele é\n\nEu sou dEle\nTudo é dEle\n\nJó, você não tem motivos\nPerdeu os seus bens\n\nSeus filhos, seus amigos\nO que você vai fazer?\n\nEu vou adorar\nSimplesmente adorar\n\nEu vou adorar\n\nDeus me deu\nDeus tomou\n\nBendito seja\nO nome do Senhor!\n\nA Ele a glória\nA Ele a honra\n\nE o louvor\n\nA Ele a glória!\n\nPra sempre, amém\nAmém!\n\nDeus me deu\nDeus tomou\n\nBendito seja\nO nome do Senhor!\n\nA Ele a glória\nA Ele a honra\n\nE o louvor",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Jó, como pode\nAinda adorar",
+          "text": "Jó, como pode\nainda adorar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "Se não tem motivos\nPra cantar?",
+          "text": "Se não tem motivos\npra cantar?",
           "text_with_comment": null,
           "translations": null
         },
@@ -12862,21 +12919,21 @@
         {
           "number": 4,
           "description": "",
-          "text": "Mas não o adoro\nPelo que Ele faz",
+          "text": "Mas não o adoro\npelo que Ele faz",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Nem menos por\nBens materiais",
+          "text": "Nem menos por\nbens materiais",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Eu o adoro\nPelo que Ele é",
+          "text": "Eu o adoro\npelo que Ele é",
           "text_with_comment": null,
           "translations": null
         },
@@ -19205,7 +19262,6 @@
       }
     },
     "extras": {
-      "cifra": "https://www.cifrashub.com.br/song/fernanda-brum/o-que-tua-gloria-fez-comigo",
       "extra": ""
     }
   },
@@ -19386,7 +19442,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/ana-nobrega/oceanos",
       "extra": ""
     }
@@ -19491,6 +19546,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -20581,6 +20637,7 @@
       }
     },
     "extras": {
+      "cifra": "https://www.cifrashub.com.br/song/david-quinlan/poderoso-deus",
       "extra": ""
     }
   },
@@ -21897,6 +21954,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -22242,8 +22300,8 @@
     "copyright": "",
     "language": "",
     "key": "",
-    "bpm": 0.0,
-    "time_sig": "",
+    "bpm": 62.0,
+    "time_sig": "4/4",
     "midi": null,
     "order": "",
     "arrangements": [],
@@ -23218,34 +23276,34 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Sobre o trono de justiça\nEternamente haverá um Rei\n\nEle voltará para governar\nAs nações em amor\n\nQue ruja o leão\nE que a Terra estremeça\n\nDiante da majestade\nDe Jesus\n\nO descendente de Davi\nO homem mais notável\n\nEle ama a justiça\nOdeia iniquidade\n\nQue se abram os céus\nO Teu reino vem\n\nNossa fé está no nosso Deus\n\nQue os céus fechados\nSe abram\n\nTeu reino venha mover\n\nA nossa fé e esperança\nEstão em Deus\n\nGrande Deus",
+      "full_text": "Sobre o trono de justiça\neternamente haverá um Rei\n\nEle voltará para governar\nas nações em amor\n\nQue ruja o leão\ne que a Terra estremeça\n\nDiante da majestade\nde Jesus\n\nO descendente de Davi\nO homem mais notável\n\nEle ama a justiça\nOdeia iniquidade\n\nQue se abram os céus\nO Teu reino vem\n\nNossa fé está no\nnosso Deus\n\nQue os céus fechados\nse abram\n\nTeu reino venha mover\n\nA nossa fé e esperança\nestão em Deus\n\nGrande Deus",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Sobre o trono de justiça\nEternamente haverá um Rei",
+          "text": "Sobre o trono de justiça\neternamente haverá um Rei",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "Ele voltará para governar\nAs nações em amor",
+          "text": "Ele voltará para governar\nas nações em amor",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "Que ruja o leão\nE que a Terra estremeça",
+          "text": "Que ruja o leão\ne que a Terra estremeça",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Diante da majestade\nDe Jesus",
+          "text": "Diante da majestade\nde Jesus",
           "text_with_comment": null,
           "translations": null
         },
@@ -23273,14 +23331,14 @@
         {
           "number": 8,
           "description": "",
-          "text": "Nossa fé está no nosso Deus",
+          "text": "Nossa fé está no\nnosso Deus",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 9,
           "description": "",
-          "text": "Que os céus fechados\nSe abram",
+          "text": "Que os céus fechados\nse abram",
           "text_with_comment": null,
           "translations": null
         },
@@ -23294,7 +23352,7 @@
         {
           "number": 11,
           "description": "",
-          "text": "A nossa fé e esperança\nEstão em Deus",
+          "text": "A nossa fé e esperança\nestão em Deus",
           "text_with_comment": null,
           "translations": null
         },
@@ -23324,7 +23382,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/nivea-soares/ruja-o-leao-que-se-abram-os-ceus-part-isaias-saad",
       "extra": ""
     }
@@ -24144,6 +24201,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/sozo/seja-exaltado",
       "extra": ""
     }
@@ -24283,7 +24341,6 @@
       }
     },
     "extras": {
-      "cifra": "https://www.cifrashub.com.br/song/vineyard/senhor-te-quero",
       "extra": ""
     }
   },
@@ -24992,7 +25049,6 @@
       }
     },
     "extras": {
-      "cifra": "https://www.cifrashub.com.br/song/elizeu-alves/sou-casa",
       "extra": ""
     }
   },
@@ -25152,6 +25208,7 @@
       }
     },
     "extras": {
+      "cifra": "https://www.cifrashub.com.br/song/voz-da-verdade/sou-um-milagre",
       "extra": ""
     }
   },
@@ -26595,95 +26652,123 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Tu és santo\n(Tu és santo)\nPoderoso\n(Poderoso)\n\nTu és digno\n(Tu és digno)\nDo meu louvor\n(Do meu louvor)\n\nVou seguir-te\n(Vou seguir-te)\nVou ouvir-te\n(Vou ouvir-te)\n\nPara sempre\n(Para sempre)\nTe amarei\n(Te amarei)\n\nVou cantando\n \n(És o Rei dos reis\n(Poderoso Deus)\n\nVou louvando ao Rei que\n(Soberano Pai)\n \nÉ santo\n(Sobre a Terra e céus)\n\nTe amando\n(Deus Emanuel)\n \nLhe dando\n(És o grande eu sou)\n\nMinha vida\n(Ele é o cordeiro)\n \nMeus sonhos\n(Que me salvou)\n\nVou cantando\n(Ele vivo está)\n \nLouvando\n(Ele ressurgiu)\n\nAo rei que\n(Sempre reinará)\n \nÉ santo\n(Sempre existiu)\n\nTe amando\n(Ele é o alfa e o ômega)\n \nLhe dando\n(O inicio e fim)\n\nMinha vida\n(Deus eterno, Messias)\n \nMeus sonhos\n(Amigo pra mim)\n\nPríncipe da paz\nViverei pra Teu louvor",
+      "full_text": "Tu és Santo\n(Tu és Santo)\n\nPoderoso\n(Poderoso)\n\nTu és Digno\n(Tu és Digno)\n\nDo meu louvor\n(Do meu louvor)\n\nVou seguir-Te\n(Vou seguir-Te)\n\nVou ouvir-Te\n(Vou ouvir-Te)\n\nPara sempre\n(Para sempre)\n\nTe amarei\n(Te amarei)\n\nÉs o Rei dos reis\nPoderoso Deus\n\nSoberano Pai\nSobre a Terra e Céus\n\nDeus Emanuel\nÉs o grande eu sou\n\nEle é o cordeiro\nQue me salvou\n\nEle vivo está\nEle ressurgiu\n\nSempre reinará\nSempre existiu\n\nEle é o alfa e o ômega\nO início e fim\n\nDeus eterno, Messias\nAmigo pra mim\n\nPríncipe da paz\nViverei pra Teu louvor",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Tu és santo\n(Tu és santo)\nPoderoso\n(Poderoso)",
+          "text": "Tu és Santo\n(Tu és Santo)",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "Tu és digno\n(Tu és digno)\nDo meu louvor\n(Do meu louvor)",
+          "text": "Poderoso\n(Poderoso)",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "Vou seguir-te\n(Vou seguir-te)\nVou ouvir-te\n(Vou ouvir-te)",
+          "text": "Tu és Digno\n(Tu és Digno)",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Para sempre\n(Para sempre)\nTe amarei\n(Te amarei)",
+          "text": "Do meu louvor\n(Do meu louvor)",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Vou cantando\n \n(És o Rei dos reis\n(Poderoso Deus)",
+          "text": "Vou seguir-Te\n(Vou seguir-Te)",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Vou louvando ao Rei que\n(Soberano Pai)\n \nÉ santo\n(Sobre a Terra e céus)",
+          "text": "Vou ouvir-Te\n(Vou ouvir-Te)",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Te amando\n(Deus Emanuel)\n \nLhe dando\n(És o grande eu sou)",
+          "text": "Para sempre\n(Para sempre)",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Minha vida\n(Ele é o cordeiro)\n \nMeus sonhos\n(Que me salvou)",
+          "text": "Te amarei\n(Te amarei)",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 9,
           "description": "",
-          "text": "Vou cantando\n(Ele vivo está)\n \nLouvando\n(Ele ressurgiu)",
+          "text": "És o Rei dos reis\nPoderoso Deus",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 10,
           "description": "",
-          "text": "Ao rei que\n(Sempre reinará)\n \nÉ santo\n(Sempre existiu)",
+          "text": "Soberano Pai\nSobre a Terra e Céus",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 11,
           "description": "",
-          "text": "Te amando\n(Ele é o alfa e o ômega)\n \nLhe dando\n(O inicio e fim)",
+          "text": "Deus Emanuel\nÉs o grande eu sou",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 12,
           "description": "",
-          "text": "Minha vida\n(Deus eterno, Messias)\n \nMeus sonhos\n(Amigo pra mim)",
+          "text": "Ele é o cordeiro\nQue me salvou",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 13,
+          "description": "",
+          "text": "Ele vivo está\nEle ressurgiu",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "Sempre reinará\nSempre existiu",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 15,
+          "description": "",
+          "text": "Ele é o alfa e o ômega\nO início e fim",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 16,
+          "description": "",
+          "text": "Deus eterno, Messias\nAmigo pra mim",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 17,
           "description": "",
           "text": "Príncipe da paz\nViverei pra Teu louvor",
           "text_with_comment": null,
@@ -26708,9 +26793,7 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/michael-w-smith-musicas/tu-es-santo-principe-da-paz",
-      "nova": "s",
       "extra": ""
     }
   },
@@ -27120,6 +27203,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/felipe-rodrigues/tudo-e-perda",
       "extra": ""
     }
@@ -27551,7 +27635,6 @@
       }
     },
     "extras": {
-      "cifra": "https://www.cifrashub.com.br/song/fernandinho/uma-coisa-peco-ao-senhor",
       "extra": ""
     }
   },

@@ -1,7 +1,7 @@
 {
   "filter": {
     "start": "2026-01-01",
-    "end": "2026-08-16",
+    "end": "2026-08-23",
     "service": null,
     "days": [
       "sun",
@@ -199,6 +199,19 @@
     {
       "songs": [
         {
+          "id": "1760984444630",
+          "title": "Em Teus Braços",
+          "artist": "Laura Souguellis",
+          "author": "Laura Souguellis"
+        }
+      ],
+      "occurrences": "4",
+      "occurrences_by_day": "2,0,0,0,2,0,0",
+      "timestamps": "1767913200,1771200292,1778799600,1787522400"
+    },
+    {
+      "songs": [
+        {
           "id": "1762265308741",
           "title": "Estamos de Pé",
           "artist": "Marcus Salles",
@@ -238,6 +251,19 @@
     {
       "songs": [
         {
+          "id": "1762266243905",
+          "title": "Me Ama",
+          "artist": "Diante do Trono",
+          "author": "Ana Paula Valadão, John Mark McMillan"
+        }
+      ],
+      "occurrences": "4",
+      "occurrences_by_day": "2,0,0,0,2,0,0",
+      "timestamps": "1774821600,1775171744,1786917600,1787266800"
+    },
+    {
+      "songs": [
+        {
           "id": "1762266122411",
           "title": "Me Derramar",
           "artist": "Vineyard",
@@ -260,6 +286,19 @@
       "occurrences": "4",
       "occurrences_by_day": "2,0,0,0,2,0,0",
       "timestamps": "1771803169,1772148176,1777240800,1777590000"
+    },
+    {
+      "songs": [
+        {
+          "id": "1770293907538",
+          "title": "O Nosso General É Cristo",
+          "artist": "Gabriela Rocha",
+          "author": ""
+        }
+      ],
+      "occurrences": "4",
+      "occurrences_by_day": "2,0,0,0,2,0,0",
+      "timestamps": "1770588924,1781823600,1786917600,1787266800"
     },
     {
       "songs": [
@@ -400,32 +439,6 @@
     {
       "songs": [
         {
-          "id": "1760984444630",
-          "title": "Em Teus Braços",
-          "artist": "Laura Souguellis",
-          "author": "Laura Souguellis"
-        }
-      ],
-      "occurrences": "3",
-      "occurrences_by_day": "1,0,0,0,2,0,0",
-      "timestamps": "1767913200,1771200292,1778799600"
-    },
-    {
-      "songs": [
-        {
-          "id": "1762266243905",
-          "title": "Me Ama",
-          "artist": "Diante do Trono",
-          "author": "Ana Paula Valadão, John Mark McMillan"
-        }
-      ],
-      "occurrences": "3",
-      "occurrences_by_day": "2,0,0,0,1,0,0",
-      "timestamps": "1774821600,1775171744,1786917600"
-    },
-    {
-      "songs": [
-        {
           "id": "1778012658035",
           "title": "O Fogo Arderá + Reacende a Chama + Acende Outra Vez",
           "artist": "Yasmin Teixeira",
@@ -439,15 +452,15 @@
     {
       "songs": [
         {
-          "id": "1770293907538",
-          "title": "O Nosso General É Cristo",
-          "artist": "Gabriela Rocha",
-          "author": ""
+          "id": "1761050941558",
+          "title": "Oceanos",
+          "artist": "Ana Nóbrega",
+          "author": "Joel Houston, Matt Crocker, Salomon Ligthelm"
         }
       ],
       "occurrences": "3",
       "occurrences_by_day": "2,0,0,0,1,0,0",
-      "timestamps": "1770588924,1781823600,1786917600"
+      "timestamps": "1770332400,1773612000,1787522400"
     },
     {
       "songs": [
@@ -487,6 +500,19 @@
       "occurrences": "3",
       "occurrences_by_day": "2,0,0,0,1,0,0",
       "timestamps": "1777240800,1784498400,1784848411"
+    },
+    {
+      "songs": [
+        {
+          "id": "1760703496009",
+          "title": "Ruja o Leão, Que Se Abram Os Céus",
+          "artist": "Isaias Saad e Nívea Soares",
+          "author": "Talita Catanzaro, Cody Carnes, Kari Jobe"
+        }
+      ],
+      "occurrences": "3",
+      "occurrences_by_day": "1,0,0,0,2,0,0",
+      "timestamps": "1767913200,1772148172,1787522400"
     },
     {
       "songs": [
@@ -608,6 +634,19 @@
     {
       "songs": [
         {
+          "id": "1762264609310",
+          "title": "Ao Único",
+          "artist": "Aline Barros",
+          "author": "Bené Gomes"
+        }
+      ],
+      "occurrences": "2",
+      "occurrences_by_day": "0,0,0,0,2,0,0",
+      "timestamps": "1783036553,1787266800"
+    },
+    {
+      "songs": [
+        {
           "id": "1762266789938",
           "title": "Atos 2",
           "artist": "Gabriela Rocha",
@@ -695,6 +734,19 @@
       "occurrences": "2",
       "occurrences_by_day": "2,0,0,0,0,0,0",
       "timestamps": "1779039242,1779059039"
+    },
+    {
+      "songs": [
+        {
+          "id": "1762264207842",
+          "title": "Deixa Queimar",
+          "artist": "Alessandro Vilas Boas",
+          "author": "Alessandro Vilas Boas"
+        }
+      ],
+      "occurrences": "2",
+      "occurrences_by_day": "1,0,0,0,1,0,0",
+      "timestamps": "1772148178,1787522400"
     },
     {
       "songs": [
@@ -920,19 +972,6 @@
     {
       "songs": [
         {
-          "id": "1761050941558",
-          "title": "Oceanos",
-          "artist": "Ana Nóbrega",
-          "author": "Joel Houston, Matt Crocker, Salomon Ligthelm"
-        }
-      ],
-      "occurrences": "2",
-      "occurrences_by_day": "1,0,0,0,1,0,0",
-      "timestamps": "1770332400,1773612000"
-    },
-    {
-      "songs": [
-        {
           "id": "1762266641384",
           "title": "Oferta de Amor",
           "artist": "Min. Koinonya de Louvor",
@@ -1020,19 +1059,6 @@
       "occurrences": "2",
       "occurrences_by_day": "1,0,0,0,1,0,0",
       "timestamps": "1774216800,1774570096"
-    },
-    {
-      "songs": [
-        {
-          "id": "1760703496009",
-          "title": "Ruja o Leão, Que Se Abram Os Céus",
-          "artist": "Isaias Saad e Nívea Soares",
-          "author": "Talita Catanzaro, Cody Carnes, Kari Jobe"
-        }
-      ],
-      "occurrences": "2",
-      "occurrences_by_day": "0,0,0,0,2,0,0",
-      "timestamps": "1767913200,1772148172"
     },
     {
       "songs": [
@@ -1154,19 +1180,6 @@
     {
       "songs": [
         {
-          "id": "1762264609310",
-          "title": "Ao Único",
-          "artist": "Aline Barros",
-          "author": "Bené Gomes"
-        }
-      ],
-      "occurrences": "1",
-      "occurrences_by_day": "0,0,0,0,1,0,0",
-      "timestamps": "1783036553"
-    },
-    {
-      "songs": [
-        {
           "id": "1762265991665",
           "title": "Bem Mais Que Tudo",
           "artist": "Aline Barros",
@@ -1241,19 +1254,6 @@
       "occurrences": "1",
       "occurrences_by_day": "0,0,0,0,1,0,0",
       "timestamps": "1773961200"
-    },
-    {
-      "songs": [
-        {
-          "id": "1762264207842",
-          "title": "Deixa Queimar",
-          "artist": "Alessandro Vilas Boas",
-          "author": "Alessandro Vilas Boas"
-        }
-      ],
-      "occurrences": "1",
-      "occurrences_by_day": "0,0,0,0,1,0,0",
-      "timestamps": "1772148178"
     },
     {
       "songs": [
@@ -1475,6 +1475,19 @@
       "occurrences": "1",
       "occurrences_by_day": "0,0,0,0,1,0,0",
       "timestamps": "1783638000"
+    },
+    {
+      "songs": [
+        {
+          "id": "1762265942205",
+          "title": "Jó",
+          "artist": "Midian Lima",
+          "author": "Delino Marçal"
+        }
+      ],
+      "occurrences": "1",
+      "occurrences_by_day": "0,0,0,0,1,0,0",
+      "timestamps": "1787266800"
     },
     {
       "songs": [
@@ -1761,6 +1774,19 @@
       "occurrences": "1",
       "occurrences_by_day": "0,0,0,0,1,0,0",
       "timestamps": "1784242800"
+    },
+    {
+      "songs": [
+        {
+          "id": "1787055522359",
+          "title": "Tu És Santo (Príncipe da Paz)",
+          "artist": "Andrea Fontes",
+          "author": "Marc Imboden, Tammi Rhoton"
+        }
+      ],
+      "occurrences": "1",
+      "occurrences_by_day": "1,0,0,0,0,0,0",
+      "timestamps": "1787522400"
     },
     {
       "songs": [
@@ -2129,6 +2155,19 @@
     {
       "songs": [
         {
+          "id": "1787060411995",
+          "title": "Em Tua Presença",
+          "artist": "Nívea Soares",
+          "author": "Nívea Soares, Gustavo Soares"
+        }
+      ],
+      "occurrences": "0",
+      "occurrences_by_day": "0,0,0,0,0,0,0",
+      "timestamps": ""
+    },
+    {
+      "songs": [
+        {
           "id": "1762266748172",
           "title": "Espirito Enche a Minha Vida",
           "artist": "Min. Koinonya de Louvor",
@@ -2237,19 +2276,6 @@
           "title": "Hosana",
           "artist": "Mariana Valadão",
           "author": "Brooke Ligertwood"
-        }
-      ],
-      "occurrences": "0",
-      "occurrences_by_day": "0,0,0,0,0,0,0",
-      "timestamps": ""
-    },
-    {
-      "songs": [
-        {
-          "id": "1762265942205",
-          "title": "Jó",
-          "artist": "Midian Lima",
-          "author": "Delino Marçal"
         }
       ],
       "occurrences": "0",
