@@ -413,7 +413,7 @@
                     let rows = '';
                     data.items.forEach(musica => {
                         const songTitles = (musica.songs || [])
-                            .map(song => song.title)
+                            .map(song => '<strong>' + song.title + '</strong> (<i>' + song.artist + '</i>)')
                             .filter(Boolean);
 
                         const formattedTimestamps = (Array.isArray(musica.timestamps) ? musica.timestamps : String(musica.timestamps || '').split(','))
@@ -433,7 +433,7 @@
                             .join(', ');
 
                         rows += `<tr>`;
-                        rows += `<td><strong>${songTitles.join(', ')}</strong></td>`;
+                        rows += `<td>${songTitles.join('<br> ')}</td>`;
                         rows += `<td>${formattedTimestamps}</td>`;
                         const occurrences = musica.occurrences;
                         rows += `<td align='center'><strong>${occurrences === '0' ? '' : occurrences}</strong></td>`;
