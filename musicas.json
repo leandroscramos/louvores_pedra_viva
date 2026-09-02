@@ -2043,6 +2043,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -2657,6 +2658,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -3926,7 +3928,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/paulo-cesar-baruk/clamo-jesus",
       "extra": ""
     }
@@ -5309,6 +5310,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/corinhos-evangelicos/corpo-familia",
       "extra": ""
     }
@@ -10121,7 +10123,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -12046,7 +12047,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -14171,6 +14171,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/nivea-soares/maravilhado",
       "extra": ""
     }
@@ -19546,7 +19547,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -21623,6 +21623,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/aline-barros/primeira-essencia",
       "extra": ""
     }
@@ -21954,7 +21955,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -24201,7 +24201,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/sozo/seja-exaltado",
       "extra": ""
     }
@@ -24631,6 +24630,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/toque-no-altar/sobre-as-aguas",
       "extra": ""
     }
@@ -26652,123 +26652,95 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Tu és Santo\n(Tu és Santo)\n\nPoderoso\n(Poderoso)\n\nTu és Digno\n(Tu és Digno)\n\nDo meu louvor\n(Do meu louvor)\n\nVou seguir-Te\n(Vou seguir-Te)\n\nVou ouvir-Te\n(Vou ouvir-Te)\n\nPara sempre\n(Para sempre)\n\nTe amarei\n(Te amarei)\n\nÉs o Rei dos reis\nPoderoso Deus\n\nSoberano Pai\nSobre a Terra e Céus\n\nDeus Emanuel\nÉs o grande eu sou\n\nEle é o cordeiro\nQue me salvou\n\nEle vivo está\nEle ressurgiu\n\nSempre reinará\nSempre existiu\n\nEle é o alfa e o ômega\nO início e fim\n\nDeus eterno, Messias\nAmigo pra mim\n\nPríncipe da paz\nViverei pra Teu louvor",
+      "full_text": "Tu és Santo (Tu és Santo)\nPoderoso (Poderoso)\n\nTu és Digno (Tu és Digno)\nDo meu louvor (Do meu louvor)\n\nVou seguir-Te (Vou seguir-Te)\nVou ouvir-Te (Vou ouvir-Te)\n\nPara sempre (Para sempre)\nTe amarei (Te amarei)\n\nÉs o Rei dos reis\nPoderoso Deus\n\nSoberano Pai\nSobre a Terra e Céus\n\nDeus Emanuel\nÉs o grande eu sou\n\nEle é o cordeiro\nQue me salvou\n\nEle vivo está\nEle ressurgiu\n\nSempre reinará\nSempre existiu\n\nEle é o alfa e o ômega\nO início e fim\n\nDeus eterno, Messias\nAmigo pra mim\n\nPríncipe da paz\nViverei pra Teu louvor",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Tu és Santo\n(Tu és Santo)",
+          "text": "Tu és Santo (Tu és Santo)\nPoderoso (Poderoso)",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "Poderoso\n(Poderoso)",
+          "text": "Tu és Digno (Tu és Digno)\nDo meu louvor (Do meu louvor)",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "Tu és Digno\n(Tu és Digno)",
+          "text": "Vou seguir-Te (Vou seguir-Te)\nVou ouvir-Te (Vou ouvir-Te)",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Do meu louvor\n(Do meu louvor)",
+          "text": "Para sempre (Para sempre)\nTe amarei (Te amarei)",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Vou seguir-Te\n(Vou seguir-Te)",
+          "text": "És o Rei dos reis\nPoderoso Deus",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Vou ouvir-Te\n(Vou ouvir-Te)",
+          "text": "Soberano Pai\nSobre a Terra e Céus",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Para sempre\n(Para sempre)",
+          "text": "Deus Emanuel\nÉs o grande eu sou",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Te amarei\n(Te amarei)",
+          "text": "Ele é o cordeiro\nQue me salvou",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 9,
           "description": "",
-          "text": "És o Rei dos reis\nPoderoso Deus",
+          "text": "Ele vivo está\nEle ressurgiu",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 10,
           "description": "",
-          "text": "Soberano Pai\nSobre a Terra e Céus",
+          "text": "Sempre reinará\nSempre existiu",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 11,
           "description": "",
-          "text": "Deus Emanuel\nÉs o grande eu sou",
+          "text": "Ele é o alfa e o ômega\nO início e fim",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 12,
           "description": "",
-          "text": "Ele é o cordeiro\nQue me salvou",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 13,
-          "description": "",
-          "text": "Ele vivo está\nEle ressurgiu",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 14,
-          "description": "",
-          "text": "Sempre reinará\nSempre existiu",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 15,
-          "description": "",
-          "text": "Ele é o alfa e o ômega\nO início e fim",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 16,
-          "description": "",
           "text": "Deus eterno, Messias\nAmigo pra mim",
           "text_with_comment": null,
           "translations": null
         },
         {
-          "number": 17,
+          "number": 13,
           "description": "",
           "text": "Príncipe da paz\nViverei pra Teu louvor",
           "text_with_comment": null,
@@ -27203,7 +27175,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/felipe-rodrigues/tudo-e-perda",
       "extra": ""
     }
@@ -27546,6 +27517,131 @@
       }
     },
     "extras": {
+      "extra": ""
+    }
+  },
+  {
+    "id": 1788358757078,
+    "title": "Última Chance",
+    "artist": "Ministério Ipiranga",
+    "author": "Davi Passamani",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "F",
+    "bpm": 62.5,
+    "time_sig": "4/4",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Uma chance\nIgual a essa\n\nTalvez eu\nNão tenha mais\n\nQuero estar\nEm Tua presença\n\nNem que seja\nA última vez\n\nSe tiver que gritar\nEu gritarei\n\nSe tiver que chorar\nEu chorarei\n\nSe tiver que humilhar\nO meu espírito\n\nAssim o farei\nMe dá mais uma chance\n\nEu quero nascer\nDo Teu Espírito\n\nEu quero matar\nMinha carne\n\nFazer Tua vontade\nDoce Espírito\n\nQue a minha vida\nSeja Tua vida, Jesus",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Uma chance\nIgual a essa",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Talvez eu\nNão tenha mais",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Quero estar\nEm Tua presença",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Nem que seja\nA última vez",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Se tiver que gritar\nEu gritarei",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Se tiver que chorar\nEu chorarei",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Se tiver que humilhar\nO meu espírito",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Assim o farei\nMe dá mais uma chance",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Eu quero nascer\nDo Teu Espírito",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Eu quero matar\nMinha carne",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Fazer Tua vontade\nDoce Espírito",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Que a minha vida\nSeja Tua vida, Jesus",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "https://open.spotify.com/track/1EjywP3XKEcuNT97o44NIy",
+        "youtube": "https://youtube.com/watch?v=K06m_UV6VrQ",
+        "deezer": "https://deezer.com/track/87077293",
+        "apple_music": "https://music.apple.com/br/song/923280565",
+        "amazon_music": "https://music.amazon.com.br/tracks/B00O2EFMLM"
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
+      }
+    },
+    "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
