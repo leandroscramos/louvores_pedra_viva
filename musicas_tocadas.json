@@ -1,7 +1,7 @@
 {
   "filter": {
     "start": "2026-01-01",
-    "end": "2026-08-23",
+    "end": "2026-09-10",
     "service": null,
     "days": [
       "sun",
@@ -44,6 +44,32 @@
     {
       "songs": [
         {
+          "id": "1774306946649",
+          "title": "Tudo é Perda",
+          "artist": "Felipe Rodrigues",
+          "author": "Felipe Rodrigues"
+        }
+      ],
+      "occurrences": "7",
+      "occurrences_by_day": "4,0,0,0,3,0,0",
+      "timestamps": "1774821600,1775174652,1775390400,1775775600,1777809600,1788127200,1788476400"
+    },
+    {
+      "songs": [
+        {
+          "id": "1768701842881",
+          "title": "Aclame Ao Senhor",
+          "artist": "Diante do Trono",
+          "author": "Ana Paula Valadão, Darlene Zschech"
+        }
+      ],
+      "occurrences": "6",
+      "occurrences_by_day": "3,0,0,0,3,0,0",
+      "timestamps": "1768773600,1771803176,1772150201,1779060747,1779405681,1787871600"
+    },
+    {
+      "songs": [
+        {
           "id": "1762268854445",
           "title": "Sublime",
           "artist": "FHOP Music",
@@ -76,15 +102,41 @@
     {
       "songs": [
         {
-          "id": "1768701842881",
-          "title": "Aclame Ao Senhor",
-          "artist": "Diante do Trono",
-          "author": "Ana Paula Valadão, Darlene Zschech"
+          "id": "1769459589958",
+          "title": "Autor da Vida",
+          "artist": "Aline Barros",
+          "author": "Clovis Pinho"
         }
       ],
       "occurrences": "5",
-      "occurrences_by_day": "3,0,0,0,2,0,0",
-      "timestamps": "1768773600,1771803176,1772150201,1779060747,1779405681"
+      "occurrences_by_day": "4,0,0,0,1,0,0",
+      "timestamps": "1769947200,1771803181,1780833600,1781220364,1788696000"
+    },
+    {
+      "songs": [
+        {
+          "id": "1762265976644",
+          "title": "Clamo Jesus",
+          "artist": "Paulo César Baruk e Marsena",
+          "author": "Abby Benton, Carlene Prince, Dustin Smith, Jesse Reeves, Kristen Dutton, Raina Pratt"
+        }
+      ],
+      "occurrences": "5",
+      "occurrences_by_day": "2,0,0,0,3,0,0",
+      "timestamps": "1777590000,1779660000,1780009200,1788127200,1788476400"
+    },
+    {
+      "songs": [
+        {
+          "id": "1760984444630",
+          "title": "Em Teus Braços",
+          "artist": "Laura Souguellis",
+          "author": "Laura Souguellis"
+        }
+      ],
+      "occurrences": "5",
+      "occurrences_by_day": "2,0,0,0,3,0,0",
+      "timestamps": "1767913200,1771200292,1778799600,1787522400,1787871600"
     },
     {
       "songs": [
@@ -147,19 +199,6 @@
     {
       "songs": [
         {
-          "id": "1774306946649",
-          "title": "Tudo é Perda",
-          "artist": "Felipe Rodrigues",
-          "author": "Felipe Rodrigues"
-        }
-      ],
-      "occurrences": "5",
-      "occurrences_by_day": "3,0,0,0,2,0,0",
-      "timestamps": "1774821600,1775174652,1775390400,1775775600,1777809600"
-    },
-    {
-      "songs": [
-        {
           "id": "1760703427386",
           "title": "A Ele a Glória",
           "artist": "Gabriela Rocha",
@@ -182,32 +221,6 @@
       "occurrences": "4",
       "occurrences_by_day": "2,0,0,0,2,0,0",
       "timestamps": "1773007200,1778198550,1781475970,1781823600"
-    },
-    {
-      "songs": [
-        {
-          "id": "1769459589958",
-          "title": "Autor da Vida",
-          "artist": "Aline Barros",
-          "author": "Clovis Pinho"
-        }
-      ],
-      "occurrences": "4",
-      "occurrences_by_day": "3,0,0,0,1,0,0",
-      "timestamps": "1769947200,1771803181,1780833600,1781220364"
-    },
-    {
-      "songs": [
-        {
-          "id": "1760984444630",
-          "title": "Em Teus Braços",
-          "artist": "Laura Souguellis",
-          "author": "Laura Souguellis"
-        }
-      ],
-      "occurrences": "4",
-      "occurrences_by_day": "2,0,0,0,2,0,0",
-      "timestamps": "1767913200,1771200292,1778799600,1787522400"
     },
     {
       "songs": [
@@ -368,19 +381,6 @@
     {
       "songs": [
         {
-          "id": "1762265976644",
-          "title": "Clamo Jesus",
-          "artist": "Paulo César Baruk e Marsena",
-          "author": "Abby Benton, Carlene Prince, Dustin Smith, Jesse Reeves, Kristen Dutton, Raina Pratt"
-        }
-      ],
-      "occurrences": "3",
-      "occurrences_by_day": "1,0,0,0,2,0,0",
-      "timestamps": "1777590000,1779660000,1780009200"
-    },
-    {
-      "songs": [
-        {
           "id": "1761051397113",
           "title": "Consagração",
           "artist": "Aline Barros",
@@ -439,6 +439,32 @@
     {
       "songs": [
         {
+          "id": "1762267412513",
+          "title": "Eu preciso de ti",
+          "artist": "Filhos do Homem",
+          "author": "Cris Batiston"
+        }
+      ],
+      "occurrences": "3",
+      "occurrences_by_day": "2,0,0,0,1,0,0",
+      "timestamps": "1769947200,1781222730,1788127200"
+    },
+    {
+      "songs": [
+        {
+          "id": "1761654146275",
+          "title": "Maravilhado",
+          "artist": "Nívea Soares",
+          "author": "Ana Paula Valadão, Jamie Birkenfeld, Klaus Kuehn, Robert Quintana"
+        }
+      ],
+      "occurrences": "3",
+      "occurrences_by_day": "2,0,0,0,1,0,0",
+      "timestamps": "1770589832,1786057200,1788696000"
+    },
+    {
+      "songs": [
+        {
           "id": "1778012658035",
           "title": "O Fogo Arderá + Reacende a Chama + Acende Outra Vez",
           "artist": "Yasmin Teixeira",
@@ -461,6 +487,19 @@
       "occurrences": "3",
       "occurrences_by_day": "2,0,0,0,1,0,0",
       "timestamps": "1770332400,1773612000,1787522400"
+    },
+    {
+      "songs": [
+        {
+          "id": "1762266641384",
+          "title": "Oferta de Amor",
+          "artist": "Min. Koinonya de Louvor",
+          "author": "Willen Soares"
+        }
+      ],
+      "occurrences": "3",
+      "occurrences_by_day": "2,0,0,0,1,0,0",
+      "timestamps": "1774821600,1778198901,1788127200"
     },
     {
       "songs": [
@@ -539,6 +578,19 @@
       "occurrences": "3",
       "occurrences_by_day": "2,0,0,0,1,0,0",
       "timestamps": "1771803184,1778800717,1786312800"
+    },
+    {
+      "songs": [
+        {
+          "id": "1762264859516",
+          "title": "Sobre as Águas",
+          "artist": "Toque no Altar",
+          "author": "Davi Sacer, Luiz Arcanjo, Ronald Fonseca"
+        }
+      ],
+      "occurrences": "3",
+      "occurrences_by_day": "1,0,0,0,2,0,0",
+      "timestamps": "1769122800,1782684000,1789081200"
     },
     {
       "songs": [
@@ -630,6 +682,19 @@
       "occurrences": "2",
       "occurrences_by_day": "1,0,0,0,1,0,0",
       "timestamps": "1776636000,1776985200"
+    },
+    {
+      "songs": [
+        {
+          "id": "1762266627995",
+          "title": "Alto Preço",
+          "artist": "Asaph Borba",
+          "author": "Asaph Borba, Jan Gottfridsson"
+        }
+      ],
+      "occurrences": "2",
+      "occurrences_by_day": "2,0,0,0,0,0,0",
+      "timestamps": "1779055200,1788696000"
     },
     {
       "songs": [
@@ -738,6 +803,32 @@
     {
       "songs": [
         {
+          "id": "1762265297953",
+          "title": "Corpo e Família",
+          "artist": "Corinhos Evangélicos",
+          "author": "Corinhos Evangélicos"
+        }
+      ],
+      "occurrences": "2",
+      "occurrences_by_day": "1,0,0,0,1,0,0",
+      "timestamps": "1788696000,1789081200"
+    },
+    {
+      "songs": [
+        {
+          "id": "1762264464237",
+          "title": "Creio Que Tu És a Cura",
+          "artist": "Gabriela Rocha",
+          "author": "Mike Guglielmucci"
+        }
+      ],
+      "occurrences": "2",
+      "occurrences_by_day": "0,0,0,0,2,0,0",
+      "timestamps": "1773961200,1787871600"
+    },
+    {
+      "songs": [
+        {
           "id": "1762264207842",
           "title": "Deixa Queimar",
           "artist": "Alessandro Vilas Boas",
@@ -790,19 +881,6 @@
     {
       "songs": [
         {
-          "id": "1762267412513",
-          "title": "Eu preciso de ti",
-          "artist": "Filhos do Homem",
-          "author": "Cris Batiston"
-        }
-      ],
-      "occurrences": "2",
-      "occurrences_by_day": "1,0,0,0,1,0,0",
-      "timestamps": "1769947200,1781222730"
-    },
-    {
-      "songs": [
-        {
           "id": "1764609629221",
           "title": "Eu Vou Clamar",
           "artist": "Renascer Praise",
@@ -838,19 +916,6 @@
       "occurrences": "2",
       "occurrences_by_day": "1,0,0,0,1,0,0",
       "timestamps": "1769378400,1769727600"
-    },
-    {
-      "songs": [
-        {
-          "id": "1761654146275",
-          "title": "Maravilhado",
-          "artist": "Nívea Soares",
-          "author": "Ana Paula Valadão, Jamie Birkenfeld, Klaus Kuehn, Robert Quintana"
-        }
-      ],
-      "occurrences": "2",
-      "occurrences_by_day": "1,0,0,0,1,0,0",
-      "timestamps": "1770589832,1786057200"
     },
     {
       "songs": [
@@ -972,19 +1037,6 @@
     {
       "songs": [
         {
-          "id": "1762266641384",
-          "title": "Oferta de Amor",
-          "artist": "Min. Koinonya de Louvor",
-          "author": "Willen Soares"
-        }
-      ],
-      "occurrences": "2",
-      "occurrences_by_day": "1,0,0,0,1,0,0",
-      "timestamps": "1774821600,1778198901"
-    },
-    {
-      "songs": [
-        {
           "id": "1760469681079",
           "title": "Oh, Quão Lindo Esse Nome É",
           "artist": "Ana Nóbrega",
@@ -1007,6 +1059,19 @@
       "occurrences": "2",
       "occurrences_by_day": "2,0,0,0,0,0,0",
       "timestamps": "1772979019,1773007200"
+    },
+    {
+      "songs": [
+        {
+          "id": "1762265723739",
+          "title": "Primeira Essência",
+          "artist": "Aline Barros",
+          "author": "Anderson Freire"
+        }
+      ],
+      "occurrences": "2",
+      "occurrences_by_day": "2,0,0,0,0,0,0",
+      "timestamps": "1782684000,1788696000"
     },
     {
       "songs": [
@@ -1063,15 +1128,15 @@
     {
       "songs": [
         {
-          "id": "1762264859516",
-          "title": "Sobre as Águas",
-          "artist": "Toque no Altar",
-          "author": "Davi Sacer, Luiz Arcanjo, Ronald Fonseca"
+          "id": "1762265229986",
+          "title": "Seja Exaltado (ajustar letra com Samuel)",
+          "artist": "SOZO",
+          "author": "Josh Baldwin"
         }
       ],
       "occurrences": "2",
       "occurrences_by_day": "1,0,0,0,1,0,0",
-      "timestamps": "1769122800,1782684000"
+      "timestamps": "1777240800,1788476400"
     },
     {
       "songs": [
@@ -1111,6 +1176,19 @@
       "occurrences": "2",
       "occurrences_by_day": "1,0,0,0,1,0,0",
       "timestamps": "1779062265,1779408138"
+    },
+    {
+      "songs": [
+        {
+          "id": "1787055522359",
+          "title": "Tu És Santo (Príncipe da Paz)",
+          "artist": "Andrea Fontes",
+          "author": "Marc Imboden, Tammi Rhoton"
+        }
+      ],
+      "occurrences": "2",
+      "occurrences_by_day": "1,0,0,0,1,0,0",
+      "timestamps": "1787522400,1787871600"
     },
     {
       "songs": [
@@ -1163,19 +1241,6 @@
       "occurrences": "1",
       "occurrences_by_day": "1,0,0,0,0,0,0",
       "timestamps": "1786917600"
-    },
-    {
-      "songs": [
-        {
-          "id": "1762266627995",
-          "title": "Alto Preço",
-          "artist": "Asaph Borba",
-          "author": "Asaph Borba, Jan Gottfridsson"
-        }
-      ],
-      "occurrences": "1",
-      "occurrences_by_day": "1,0,0,0,0,0,0",
-      "timestamps": "1779055200"
     },
     {
       "songs": [
@@ -1241,19 +1306,6 @@
       "occurrences": "1",
       "occurrences_by_day": "0,0,0,0,1,0,0",
       "timestamps": "1785452400"
-    },
-    {
-      "songs": [
-        {
-          "id": "1762264464237",
-          "title": "Creio Que Tu És a Cura",
-          "artist": "Gabriela Rocha",
-          "author": "Mike Guglielmucci"
-        }
-      ],
-      "occurrences": "1",
-      "occurrences_by_day": "0,0,0,0,1,0,0",
-      "timestamps": "1773961200"
     },
     {
       "songs": [
@@ -1332,6 +1384,19 @@
       "occurrences": "1",
       "occurrences_by_day": "0,0,0,0,1,0,0",
       "timestamps": "1767913200"
+    },
+    {
+      "songs": [
+        {
+          "id": "1762266748172",
+          "title": "Espirito Enche a Minha Vida",
+          "artist": "Min. Koinonya de Louvor",
+          "author": "Willen Soares, Ana Santos"
+        }
+      ],
+      "occurrences": "1",
+      "occurrences_by_day": "0,0,0,0,1,0,0",
+      "timestamps": "1789081200"
     },
     {
       "songs": [
@@ -1436,6 +1501,19 @@
       "occurrences": "1",
       "occurrences_by_day": "1,0,0,0,0,0,0",
       "timestamps": "1783252800"
+    },
+    {
+      "songs": [
+        {
+          "id": "1762360464792",
+          "title": "Hino da Vitória",
+          "artist": "Cassiane",
+          "author": "Rozeane Ribeiro"
+        }
+      ],
+      "occurrences": "1",
+      "occurrences_by_day": "1,0,0,0,0,0,0",
+      "timestamps": "1788127200"
     },
     {
       "songs": [
@@ -1661,15 +1739,15 @@
     {
       "songs": [
         {
-          "id": "1762265723739",
-          "title": "Primeira Essência",
-          "artist": "Aline Barros",
-          "author": "Anderson Freire"
+          "id": "1760469974376",
+          "title": "Que Ele Cresça",
+          "artist": "Nívea Soares e Nathanael Brito",
+          "author": "Helenildo Teixeira"
         }
       ],
       "occurrences": "1",
-      "occurrences_by_day": "1,0,0,0,0,0,0",
-      "timestamps": "1782684000"
+      "occurrences_by_day": "0,0,0,0,1,0,0",
+      "timestamps": "1788476400"
     },
     {
       "songs": [
@@ -1709,19 +1787,6 @@
       "occurrences": "1",
       "occurrences_by_day": "1,0,0,0,0,0,0",
       "timestamps": "1785672000"
-    },
-    {
-      "songs": [
-        {
-          "id": "1762265229986",
-          "title": "Seja Exaltado",
-          "artist": "SOZO",
-          "author": "Josh Baldwin"
-        }
-      ],
-      "occurrences": "1",
-      "occurrences_by_day": "1,0,0,0,0,0,0",
-      "timestamps": "1777240800"
     },
     {
       "songs": [
@@ -1778,19 +1843,6 @@
     {
       "songs": [
         {
-          "id": "1787055522359",
-          "title": "Tu És Santo (Príncipe da Paz)",
-          "artist": "Andrea Fontes",
-          "author": "Marc Imboden, Tammi Rhoton"
-        }
-      ],
-      "occurrences": "1",
-      "occurrences_by_day": "1,0,0,0,0,0,0",
-      "timestamps": "1787522400"
-    },
-    {
-      "songs": [
-        {
           "id": "1780796153859",
           "title": "Tudo é Perda + Quem é Esse",
           "artist": "Felipe Carvalho",
@@ -1800,6 +1852,19 @@
       "occurrences": "1",
       "occurrences_by_day": "1,0,0,0,0,0,0",
       "timestamps": "1780833600"
+    },
+    {
+      "songs": [
+        {
+          "id": "1788358757078",
+          "title": "Última Chance",
+          "artist": "Ministério Ipiranga",
+          "author": "Davi Passamani"
+        }
+      ],
+      "occurrences": "1",
+      "occurrences_by_day": "0,0,0,0,1,0,0",
+      "timestamps": "1789081200"
     },
     {
       "songs": [
@@ -1999,19 +2064,6 @@
     {
       "songs": [
         {
-          "id": "1762265297953",
-          "title": "Corpo e Família",
-          "artist": "Corinhos Evangélicos",
-          "author": "Corinhos Evangélicos"
-        }
-      ],
-      "occurrences": "0",
-      "occurrences_by_day": "0,0,0,0,0,0,0",
-      "timestamps": ""
-    },
-    {
-      "songs": [
-        {
           "id": "1760703359019",
           "title": "De Dentro Pra Fora",
           "artist": "Julia Vitória",
@@ -2168,19 +2220,6 @@
     {
       "songs": [
         {
-          "id": "1762266748172",
-          "title": "Espirito Enche a Minha Vida",
-          "artist": "Min. Koinonya de Louvor",
-          "author": "Willen Soares, Ana Santos"
-        }
-      ],
-      "occurrences": "0",
-      "occurrences_by_day": "0,0,0,0,0,0,0",
-      "timestamps": ""
-    },
-    {
-      "songs": [
-        {
           "id": "1760470376539",
           "title": "Espírito Santo",
           "artist": "Fernanda Brum",
@@ -2250,19 +2289,6 @@
           "title": "Há Momentos",
           "artist": "Kadoshi",
           "author": "César Furtado, Silas Furtado"
-        }
-      ],
-      "occurrences": "0",
-      "occurrences_by_day": "0,0,0,0,0,0,0",
-      "timestamps": ""
-    },
-    {
-      "songs": [
-        {
-          "id": "1762360464792",
-          "title": "Hino da Vitória",
-          "artist": "Cassiane",
-          "author": "Rozeane Ribeiro"
         }
       ],
       "occurrences": "0",
@@ -2510,19 +2536,6 @@
           "title": "Quão Grande É O Meu Deus",
           "artist": "Soraya Moraes",
           "author": "Chris Tomlin, Ed Cash, Jesse Reeves"
-        }
-      ],
-      "occurrences": "0",
-      "occurrences_by_day": "0,0,0,0,0,0,0",
-      "timestamps": ""
-    },
-    {
-      "songs": [
-        {
-          "id": "1760469974376",
-          "title": "Que Ele Cresça",
-          "artist": "Nívea Soares e Nathanael Brito",
-          "author": "Helenildo Teixeira"
         }
       ],
       "occurrences": "0",
