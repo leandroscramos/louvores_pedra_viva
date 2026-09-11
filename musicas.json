@@ -1546,6 +1546,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "nova": "s",
       "extra": ""
     }
@@ -1930,97 +1931,90 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Eu sei que foi pago \nUm alto preço\n\nPara que contigo \nEu fosse um, meu irmão\n\nQuando Jesus derramou Sua vida\n\nEle pensava em Ti \nEle pensava em mim\n\nPensava em nós\n\nE nos via redimidos \nPor Seu sangue\n\nLutando o bom combate \nDo Senhor\n\nLado a lado trabalhando, \nSua Igreja edificando\n\nE rompendo \nAs barreiras pelo amor\n\nE na força do Espírito Santo \nNós proclamamos aqui\n\nQue pagaremos o preço de sermos \nUm só coração no Senhor\n\nE por mais que as trevas militem \nE nos tentem separar\n\nCom nossos olhos em Cristo, \nUnidos iremos andar",
+      "full_text": "Eu sei que foi pago\num alto preço\n\nPara que contigo \neu fosse um, meu irmão\n\nQuando Jesus\nderramou Sua vida\n\nEle pensava em Ti \nEle pensava em mim\nPensava em nós\n\nE nos via redimidos \npor Seu sangue\n\nLutando o bom\ncombate do Senhor\n\nLado a lado trabalhando\nSua Igreja edificando\n\nE rompendo \nAs barreiras pelo amor\n\nE na força do\nEspírito Santo\nNós proclamamos aqui\n\nQue pagaremos o preço\nde sermos um só\ncoração no Senhor\n\nE por mais que\nas trevas militem e\nnos tentem separar\n\nCom nossos olhos\nem Cristo, unidos\niremos andar",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Eu sei que foi pago \nUm alto preço",
+          "text": "Eu sei que foi pago\num alto preço",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "Para que contigo \nEu fosse um, meu irmão",
+          "text": "Para que contigo \neu fosse um, meu irmão",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "Quando Jesus derramou Sua vida",
+          "text": "Quando Jesus\nderramou Sua vida",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Ele pensava em Ti \nEle pensava em mim",
+          "text": "Ele pensava em Ti \nEle pensava em mim\nPensava em nós",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Pensava em nós",
+          "text": "E nos via redimidos \npor Seu sangue",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "E nos via redimidos \nPor Seu sangue",
+          "text": "Lutando o bom\ncombate do Senhor",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Lutando o bom combate \nDo Senhor",
+          "text": "Lado a lado trabalhando\nSua Igreja edificando",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Lado a lado trabalhando, \nSua Igreja edificando",
+          "text": "E rompendo \nAs barreiras pelo amor",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 9,
           "description": "",
-          "text": "E rompendo \nAs barreiras pelo amor",
+          "text": "E na força do\nEspírito Santo\nNós proclamamos aqui",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 10,
           "description": "",
-          "text": "E na força do Espírito Santo \nNós proclamamos aqui",
+          "text": "Que pagaremos o preço\nde sermos um só\ncoração no Senhor",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 11,
           "description": "",
-          "text": "Que pagaremos o preço de sermos \nUm só coração no Senhor",
+          "text": "E por mais que\nas trevas militem e\nnos tentem separar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 12,
           "description": "",
-          "text": "E por mais que as trevas militem \nE nos tentem separar",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 13,
-          "description": "",
-          "text": "Com nossos olhos em Cristo, \nUnidos iremos andar",
+          "text": "Com nossos olhos\nem Cristo, unidos\niremos andar",
           "text_with_comment": null,
           "translations": null
         }
@@ -2043,7 +2037,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -2250,6 +2243,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/aline-barros/ao-unico",
       "extra": ""
     }
@@ -2658,7 +2652,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -5211,13 +5204,13 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Recebi um novo coração do Pai\n\nCoração regenerado\nCoração transformado\n\nCoração que é ensinado por Jesus\n\nComo fruto deste novo coração\nEu declaro a paz de Cristo\n\nTe abençoo, meu irmão\nPreciosa é a nossa comunhão\n\nSomos corpo\nE, assim, bem ajustado\n\nTotalmente ligados\nUnidos, vivendo em amor\n\nUma família sem qualquer falsidade\nVivendo a verdade\n\nExpressando a glória do Senhor\n\nUma família vivendo o compromisso\nDo grande amor de Cristo\n\nEu preciso de ti, querido irmão\nPrecioso és para mim, querido irmão",
+      "full_text": "Recebi um novo\ncoração do Pai\n\nCoração regenerado\nCoração transformado\n\nCoração que é\nensinado por Jesus\n\nComo fruto deste\nnovo coração\n\nEu declaro a\npaz de Cristo\n\nTe abençoo, meu irmão\nPreciosa é a\nnossa comunhão\n\nSomos corpo\ne, assim, bem ajustado\n\nTotalmente ligados\nunidos, vivendo em amor\n\nUma família sem\nqualquer falsidade\nvivendo a verdade\n\nExpressando a\nglória do Senhor\n\nUma família vivendo\no compromisso\n\nDo grande amor\nde Cristo\n\nEu preciso de ti\nquerido irmão\n\nPrecioso és para mim\nquerido irmão",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Recebi um novo coração do Pai",
+          "text": "Recebi um novo\ncoração do Pai",
           "text_with_comment": null,
           "translations": null
         },
@@ -5231,63 +5224,84 @@
         {
           "number": 3,
           "description": "",
-          "text": "Coração que é ensinado por Jesus",
+          "text": "Coração que é\nensinado por Jesus",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Como fruto deste novo coração\nEu declaro a paz de Cristo",
+          "text": "Como fruto deste\nnovo coração",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Te abençoo, meu irmão\nPreciosa é a nossa comunhão",
+          "text": "Eu declaro a\npaz de Cristo",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Somos corpo\nE, assim, bem ajustado",
+          "text": "Te abençoo, meu irmão\nPreciosa é a\nnossa comunhão",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Totalmente ligados\nUnidos, vivendo em amor",
+          "text": "Somos corpo\ne, assim, bem ajustado",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Uma família sem qualquer falsidade\nVivendo a verdade",
+          "text": "Totalmente ligados\nunidos, vivendo em amor",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 9,
           "description": "",
-          "text": "Expressando a glória do Senhor",
+          "text": "Uma família sem\nqualquer falsidade\nvivendo a verdade",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 10,
           "description": "",
-          "text": "Uma família vivendo o compromisso\nDo grande amor de Cristo",
+          "text": "Expressando a\nglória do Senhor",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 11,
           "description": "",
-          "text": "Eu preciso de ti, querido irmão\nPrecioso és para mim, querido irmão",
+          "text": "Uma família vivendo\no compromisso",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Do grande amor\nde Cristo",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "Eu preciso de ti\nquerido irmão",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "Precioso és para mim\nquerido irmão",
           "text_with_comment": null,
           "translations": null
         }
@@ -5310,7 +5324,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/corinhos-evangelicos/corpo-familia",
       "extra": ""
     }
@@ -6667,6 +6680,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -7505,6 +7519,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -14171,7 +14186,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/nivea-soares/maravilhado",
       "extra": ""
     }
@@ -19263,6 +19277,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -21623,7 +21638,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/aline-barros/primeira-essencia",
       "extra": ""
     }
@@ -24096,7 +24110,7 @@
   },
   {
     "id": 1762265229986,
-    "title": "Seja Exaltado",
+    "title": "Seja Exaltado (ajustar letra com Samuel)",
     "artist": "SOZO",
     "author": "Josh Baldwin",
     "note": "",
@@ -24109,7 +24123,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Eu louvo o Teu nome\nLouvo o Teu nome\n\nNome que está\nSobre todo nome\n\nToda honra ao Teu nome\nHonras ao Teu nome\n\nO nome que é maior\nQue todo nome\n\nSeja exaltado\nSeja exaltado\n\nSeja exaltado\nExaltado\n\nTeu nome é vida\nTeu nome é\n\nEsperança em mim\nA esperança em mim\n\nTeu nome é amor\nO amor que\n\nSempre me encontra\nSempre me encontra",
+      "full_text": "Eu louvo o Teu nome\nLouvo o Teu nome\n\nNome que está\nSobre todo nome\n\nToda honra ao Teu nome\nHonras ao Teu nome\n\nO nome que é maior\nQue todo nome\n\nSeja exaltado\nSeja exaltado\n\nSeja exaltado\nExaltado\n\nTeu nome é amor\nO amor que\n\nSempre me encontra\nSempre me encontra\n\nTeu nome é vida\nTeu nome é\n\nEsperança em mim\nA esperança em mim",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -24157,28 +24171,28 @@
         {
           "number": 7,
           "description": "",
-          "text": "Teu nome é vida\nTeu nome é",
+          "text": "Teu nome é amor\nO amor que",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Esperança em mim\nA esperança em mim",
+          "text": "Sempre me encontra\nSempre me encontra",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 9,
           "description": "",
-          "text": "Teu nome é amor\nO amor que",
+          "text": "Teu nome é vida\nTeu nome é",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 10,
           "description": "",
-          "text": "Sempre me encontra\nSempre me encontra",
+          "text": "Esperança em mim\nA esperança em mim",
           "text_with_comment": null,
           "translations": null
         }
@@ -24552,62 +24566,62 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Se o sol se pôr\nE a noite chegar\nTu és quem me guia\n\nSe a tempestade\nMe alcançar\nTu és meu abrigo\n\nSe o mar me submergir\nA Tua mão me traz\nÀ tona pra respirar\n\nE me faz andar\nSobre as águas\n\nTu és o Deus\nDa minha salvação\n\nÉs o meu dono\nMinha paixão\n\nMinha canção\nE o meu louvor\n\nAleluia aleluia",
+      "full_text": "Se o sol se pôr\ne a noite chegar\nTu és quem me guia\n\nSe a tempestade\nme alcançar\nTu és meu abrigo\n\nSe o mar me submergir\na Tua mão me traz\nà tona pra respirar\n\nE me faz andar\nsobre as águas\n\nTu és o Deus\nda minha salvação\n\nÉs o meu dono\nminha paixão\n\nMinha canção\ne o meu louvor\n\nAleluia",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Se o sol se pôr\nE a noite chegar\nTu és quem me guia",
+          "text": "Se o sol se pôr\ne a noite chegar\nTu és quem me guia",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "Se a tempestade\nMe alcançar\nTu és meu abrigo",
+          "text": "Se a tempestade\nme alcançar\nTu és meu abrigo",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "Se o mar me submergir\nA Tua mão me traz\nÀ tona pra respirar",
+          "text": "Se o mar me submergir\na Tua mão me traz\nà tona pra respirar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "E me faz andar\nSobre as águas",
+          "text": "E me faz andar\nsobre as águas",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Tu és o Deus\nDa minha salvação",
+          "text": "Tu és o Deus\nda minha salvação",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "És o meu dono\nMinha paixão",
+          "text": "És o meu dono\nminha paixão",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Minha canção\nE o meu louvor",
+          "text": "Minha canção\ne o meu louvor",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Aleluia aleluia",
+          "text": "Aleluia",
           "text_with_comment": null,
           "translations": null
         }
@@ -24630,7 +24644,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/toque-no-altar/sobre-as-aguas",
       "extra": ""
     }
@@ -27535,90 +27548,90 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Uma chance\nIgual a essa\n\nTalvez eu\nNão tenha mais\n\nQuero estar\nEm Tua presença\n\nNem que seja\nA última vez\n\nSe tiver que gritar\nEu gritarei\n\nSe tiver que chorar\nEu chorarei\n\nSe tiver que humilhar\nO meu espírito\n\nAssim o farei\nMe dá mais uma chance\n\nEu quero nascer\nDo Teu Espírito\n\nEu quero matar\nMinha carne\n\nFazer Tua vontade\nDoce Espírito\n\nQue a minha vida\nSeja Tua vida, Jesus",
+      "full_text": "Uma chance\nigual a essa\n\nTalvez eu\nnão tenha mais\n\nQuero estar\nem Tua presença\n\nNem que seja\na última vez\n\nSe tiver que gritar\neu gritarei\n\nSe tiver que chorar\neu chorarei\n\nSe tiver que humilhar\no meu espírito\n\nAssim o farei\nme dá mais uma chance\n\nEu quero nascer\ndo Teu Espírito\n\nEu quero matar\nminha carne\n\nFazer Tua vontade\ndoce Espírito\n\nQue a minha vida\nseja Tua vida, Jesus",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Uma chance\nIgual a essa",
+          "text": "Uma chance\nigual a essa",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "Talvez eu\nNão tenha mais",
+          "text": "Talvez eu\nnão tenha mais",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "Quero estar\nEm Tua presença",
+          "text": "Quero estar\nem Tua presença",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Nem que seja\nA última vez",
+          "text": "Nem que seja\na última vez",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Se tiver que gritar\nEu gritarei",
+          "text": "Se tiver que gritar\neu gritarei",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Se tiver que chorar\nEu chorarei",
+          "text": "Se tiver que chorar\neu chorarei",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Se tiver que humilhar\nO meu espírito",
+          "text": "Se tiver que humilhar\no meu espírito",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Assim o farei\nMe dá mais uma chance",
+          "text": "Assim o farei\nme dá mais uma chance",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 9,
           "description": "",
-          "text": "Eu quero nascer\nDo Teu Espírito",
+          "text": "Eu quero nascer\ndo Teu Espírito",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 10,
           "description": "",
-          "text": "Eu quero matar\nMinha carne",
+          "text": "Eu quero matar\nminha carne",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 11,
           "description": "",
-          "text": "Fazer Tua vontade\nDoce Espírito",
+          "text": "Fazer Tua vontade\ndoce Espírito",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 12,
           "description": "",
-          "text": "Que a minha vida\nSeja Tua vida, Jesus",
+          "text": "Que a minha vida\nseja Tua vida, Jesus",
           "text_with_comment": null,
           "translations": null
         }
@@ -27641,7 +27654,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -28429,6 +28441,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
