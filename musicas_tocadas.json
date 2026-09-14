@@ -1,7 +1,7 @@
 {
   "filter": {
     "start": "2026-01-01",
-    "end": "2026-09-10",
+    "end": "2026-09-13",
     "service": null,
     "days": [
       "sun",
@@ -368,6 +368,19 @@
     {
       "songs": [
         {
+          "id": "1762265838995",
+          "title": "Vem, Esta é a Hora",
+          "artist": "Vineyard",
+          "author": "Brian Doerksen"
+        }
+      ],
+      "occurrences": "4",
+      "occurrences_by_day": "3,0,0,0,1,0,0",
+      "timestamps": "1773007200,1777809600,1778198545,1789336800"
+    },
+    {
+      "songs": [
+        {
           "id": "1782155778748",
           "title": "Chuva de Poder",
           "artist": "Eyshila",
@@ -474,6 +487,19 @@
       "occurrences": "3",
       "occurrences_by_day": "2,0,0,0,1,0,0",
       "timestamps": "1778450400,1778800723,1783893600"
+    },
+    {
+      "songs": [
+        {
+          "id": "1762266764409",
+          "title": "O Que Sua Glória Fez Comigo",
+          "artist": "Fernanda Brum",
+          "author": "Duda Moon"
+        }
+      ],
+      "occurrences": "3",
+      "occurrences_by_day": "2,0,0,0,1,0,0",
+      "timestamps": "1771200288,1771545954,1789336800"
     },
     {
       "songs": [
@@ -621,19 +647,6 @@
     {
       "songs": [
         {
-          "id": "1762265838995",
-          "title": "Vem, Esta é a Hora",
-          "artist": "Vineyard",
-          "author": "Brian Doerksen"
-        }
-      ],
-      "occurrences": "3",
-      "occurrences_by_day": "2,0,0,0,1,0,0",
-      "timestamps": "1773007200,1777809600,1778198545"
-    },
-    {
-      "songs": [
-        {
           "id": "1762361144914",
           "title": "Vem Me Buscar",
           "artist": "Jefferson \u0026 Suellen",
@@ -682,6 +695,19 @@
       "occurrences": "2",
       "occurrences_by_day": "1,0,0,0,1,0,0",
       "timestamps": "1776636000,1776985200"
+    },
+    {
+      "songs": [
+        {
+          "id": "1786045598355",
+          "title": "Ah, Jesus / Coração Igual ao Teu",
+          "artist": "Julliany Souza",
+          "author": "Léo Brandão, Lucas Wallas, Ana Paula Valadão"
+        }
+      ],
+      "occurrences": "2",
+      "occurrences_by_day": "2,0,0,0,0,0,0",
+      "timestamps": "1786917600,1789336800"
     },
     {
       "songs": [
@@ -1024,19 +1050,6 @@
     {
       "songs": [
         {
-          "id": "1762266764409",
-          "title": "O Que Sua Glória Fez Comigo",
-          "artist": "Fernanda Brum",
-          "author": "Duda Moon"
-        }
-      ],
-      "occurrences": "2",
-      "occurrences_by_day": "1,0,0,0,1,0,0",
-      "timestamps": "1771200288,1771545954"
-    },
-    {
-      "songs": [
-        {
           "id": "1760469681079",
           "title": "Oh, Quão Lindo Esse Nome É",
           "artist": "Ana Nóbrega",
@@ -1232,19 +1245,6 @@
     {
       "songs": [
         {
-          "id": "1786045598355",
-          "title": "Ah, Jesus / Coração Igual ao Teu",
-          "artist": "Julliany Souza",
-          "author": "Léo Brandão, Lucas Wallas, Ana Paula Valadão"
-        }
-      ],
-      "occurrences": "1",
-      "occurrences_by_day": "1,0,0,0,0,0,0",
-      "timestamps": "1786917600"
-    },
-    {
-      "songs": [
-        {
           "id": "1762265991665",
           "title": "Bem Mais Que Tudo",
           "artist": "Aline Barros",
@@ -1345,6 +1345,19 @@
       "occurrences": "1",
       "occurrences_by_day": "1,0,0,0,0,0,0",
       "timestamps": "1773612000"
+    },
+    {
+      "songs": [
+        {
+          "id": "1762265420949",
+          "title": "Diz",
+          "artist": "Gabriela Rocha",
+          "author": "Jason Ingram, Lauren Daigle, Paul Mabury"
+        }
+      ],
+      "occurrences": "1",
+      "occurrences_by_day": "1,0,0,0,0,0,0",
+      "timestamps": "1789336800"
     },
     {
       "songs": [
@@ -2168,19 +2181,6 @@
     {
       "songs": [
         {
-          "id": "1762265420949",
-          "title": "Diz",
-          "artist": "Gabriela Rocha",
-          "author": "Jason Ingram, Lauren Daigle, Paul Mabury"
-        }
-      ],
-      "occurrences": "0",
-      "occurrences_by_day": "0,0,0,0,0,0,0",
-      "timestamps": ""
-    },
-    {
-      "songs": [
-        {
           "id": "1776167005235",
           "title": "Ele Vem",
           "artist": "David Quinlan",
@@ -2211,6 +2211,19 @@
           "title": "Em Tua Presença",
           "artist": "Nívea Soares",
           "author": "Nívea Soares, Gustavo Soares"
+        }
+      ],
+      "occurrences": "0",
+      "occurrences_by_day": "0,0,0,0,0,0,0",
+      "timestamps": ""
+    },
+    {
+      "songs": [
+        {
+          "id": "1789398602360",
+          "title": "Entrega",
+          "artist": "Vineyard",
+          "author": "Marc James"
         }
       ],
       "occurrences": "0",
@@ -2614,6 +2627,19 @@
           "title": "Teu Reino",
           "artist": "Ministério Cristo Vivo",
           "author": "Vinicius Zulato"
+        }
+      ],
+      "occurrences": "0",
+      "occurrences_by_day": "0,0,0,0,0,0,0",
+      "timestamps": ""
+    },
+    {
+      "songs": [
+        {
+          "id": "1789398626836",
+          "title": "Toda Terra",
+          "artist": "Gabriela Rocha",
+          "author": "Abdiel Arsenio"
         }
       ],
       "occurrences": "0",

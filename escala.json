@@ -1,6 +1,6 @@
 {
   "start": "2026-01-01",
-  "end": "2026-09-10",
+  "end": "2026-09-13",
   "songs": [
     {
       "song": {
@@ -211,6 +211,15 @@
     },
     {
       "song": {
+        "id": "1762265838995",
+        "title": "Vem, Esta é a Hora",
+        "artist": "Vineyard",
+        "author": "Brian Doerksen"
+      },
+      "occurrences": "4"
+    },
+    {
+      "song": {
         "id": "1782155778748",
         "title": "Chuva de Poder",
         "artist": "Eyshila",
@@ -269,6 +278,15 @@
         "title": "O Fogo Arderá + Reacende a Chama + Acende Outra Vez",
         "artist": "Yasmin Teixeira",
         "author": "Yasmin Teixeira"
+      },
+      "occurrences": "3"
+    },
+    {
+      "song": {
+        "id": "1762266764409",
+        "title": "O Que Sua Glória Fez Comigo",
+        "artist": "Fernanda Brum",
+        "author": "Duda Moon"
       },
       "occurrences": "3"
     },
@@ -382,15 +400,6 @@
     },
     {
       "song": {
-        "id": "1762265838995",
-        "title": "Vem, Esta é a Hora",
-        "artist": "Vineyard",
-        "author": "Brian Doerksen"
-      },
-      "occurrences": "3"
-    },
-    {
-      "song": {
         "id": "1762361144914",
         "title": "Vem Me Buscar",
         "artist": "Jefferson \u0026 Suellen",
@@ -422,6 +431,15 @@
         "title": "Agnus Dei",
         "artist": "David Quinlan",
         "author": "Michael W. Smith"
+      },
+      "occurrences": "2"
+    },
+    {
+      "song": {
+        "id": "1786045598355",
+        "title": "Ah, Jesus / Coração Igual ao Teu",
+        "artist": "Julliany Souza",
+        "author": "Léo Brandão, Lucas Wallas, Ana Paula Valadão"
       },
       "occurrences": "2"
     },
@@ -652,15 +670,6 @@
     },
     {
       "song": {
-        "id": "1762266764409",
-        "title": "O Que Sua Glória Fez Comigo",
-        "artist": "Fernanda Brum",
-        "author": "Duda Moon"
-      },
-      "occurrences": "2"
-    },
-    {
-      "song": {
         "id": "1760469681079",
         "title": "Oh, Quão Lindo Esse Nome É",
         "artist": "Ana Nóbrega",
@@ -787,15 +796,6 @@
     },
     {
       "song": {
-        "id": "1786045598355",
-        "title": "Ah, Jesus / Coração Igual ao Teu",
-        "artist": "Julliany Souza",
-        "author": "Léo Brandão, Lucas Wallas, Ana Paula Valadão"
-      },
-      "occurrences": "1"
-    },
-    {
-      "song": {
         "id": "1762265991665",
         "title": "Bem Mais Que Tudo",
         "artist": "Aline Barros",
@@ -872,6 +872,15 @@
         "title": "Digno É o Senhor",
         "artist": "Aline Barros",
         "author": "Darlene Zschech"
+      },
+      "occurrences": "1"
+    },
+    {
+      "song": {
+        "id": "1762265420949",
+        "title": "Diz",
+        "artist": "Gabriela Rocha",
+        "author": "Jason Ingram, Lauren Daigle, Paul Mabury"
       },
       "occurrences": "1"
     },
@@ -1453,15 +1462,6 @@
     },
     {
       "song": {
-        "id": "1762265420949",
-        "title": "Diz",
-        "artist": "Gabriela Rocha",
-        "author": "Jason Ingram, Lauren Daigle, Paul Mabury"
-      },
-      "occurrences": "0"
-    },
-    {
-      "song": {
         "id": "1776167005235",
         "title": "Ele Vem",
         "artist": "David Quinlan",
@@ -1484,6 +1484,15 @@
         "title": "Em Tua Presença",
         "artist": "Nívea Soares",
         "author": "Nívea Soares, Gustavo Soares"
+      },
+      "occurrences": "0"
+    },
+    {
+      "song": {
+        "id": "1789398602360",
+        "title": "Entrega",
+        "artist": "Vineyard",
+        "author": "Marc James"
       },
       "occurrences": "0"
     },
@@ -1768,6 +1777,15 @@
     },
     {
       "song": {
+        "id": "1789398626836",
+        "title": "Toda Terra",
+        "artist": "Gabriela Rocha",
+        "author": "Abdiel Arsenio"
+      },
+      "occurrences": "0"
+    },
+    {
+      "song": {
         "id": "1762265710085",
         "title": "Todavia Me Alegrarei",
         "artist": "Leandro Soares",
@@ -1835,7 +1853,7 @@
         "name": "Guilherme"
       },
       "responsible": "0",
-      "scheduled": "66"
+      "scheduled": "67"
     },
     {
       "member": {
@@ -1851,7 +1869,7 @@
         "name": "Juliana"
       },
       "responsible": "0",
-      "scheduled": "38"
+      "scheduled": "39"
     },
     {
       "member": {
@@ -1867,7 +1885,7 @@
         "name": "Leandro"
       },
       "responsible": "0",
-      "scheduled": "34"
+      "scheduled": "35"
     },
     {
       "member": {
@@ -1875,7 +1893,7 @@
         "name": "Lucas"
       },
       "responsible": "0",
-      "scheduled": "46"
+      "scheduled": "47"
     },
     {
       "member": {
@@ -1883,7 +1901,7 @@
         "name": "Malú"
       },
       "responsible": "0",
-      "scheduled": "37"
+      "scheduled": "38"
     },
     {
       "member": {
@@ -1899,7 +1917,7 @@
         "name": "Renan"
       },
       "responsible": "0",
-      "scheduled": "25"
+      "scheduled": "26"
     },
     {
       "member": {
@@ -1907,7 +1925,7 @@
         "name": "Samuel"
       },
       "responsible": "0",
-      "scheduled": "71"
+      "scheduled": "72"
     },
     {
       "member": {
@@ -1915,7 +1933,7 @@
         "name": "Lukinhas"
       },
       "responsible": "0",
-      "scheduled": "30"
+      "scheduled": "31"
     },
     {
       "member": {

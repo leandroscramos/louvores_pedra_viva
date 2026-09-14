@@ -26301,46 +26301,60 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Eu ouvi uma vez\nE li no Teu livro\nO que o Senhor fez\nFaz mais uma vez\n\nQue onde houver dois ou três\nJuntos em Meu nome\nAli estarei, faz mais uma vez\n\nToda a Terra será cheia\nDo conhecimento\nDa glória de Deus\n\nComo as águas\nCobrem o mar\nEnche a Terra\nAo som da Tua igreja\n\nEstamos juntando a Terra\nCom os anjos\nEstamos entrando\nNa Sala do Trono\n\nAleluia\nAleluia",
+      "full_text": "Eu ouvi uma vez\nE li no Teu livro\n\nO que o Senhor fez\nFaz mais uma vez\n\nQue onde houver dois ou três\nJuntos em Meu nome\nAli estarei, faz mais uma vez\n\nToda a Terra será cheia\nDo conhecimento\nDa glória de Deus\n\nComo as águas\nCobrem o mar\n\nEnche a Terra\nAo som da Tua igreja\n\nEstamos juntando a Terra\nCom os anjos\nEstamos entrando\nNa Sala do Trono\n\nAleluia\nAleluia",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Eu ouvi uma vez\nE li no Teu livro\nO que o Senhor fez\nFaz mais uma vez",
+          "text": "Eu ouvi uma vez\nE li no Teu livro",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "Que onde houver dois ou três\nJuntos em Meu nome\nAli estarei, faz mais uma vez",
+          "text": "O que o Senhor fez\nFaz mais uma vez",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "Toda a Terra será cheia\nDo conhecimento\nDa glória de Deus",
+          "text": "Que onde houver dois ou três\nJuntos em Meu nome\nAli estarei, faz mais uma vez",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Como as águas\nCobrem o mar\nEnche a Terra\nAo som da Tua igreja",
+          "text": "Toda a Terra será cheia\nDo conhecimento\nDa glória de Deus",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Estamos juntando a Terra\nCom os anjos\nEstamos entrando\nNa Sala do Trono",
+          "text": "Como as águas\nCobrem o mar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
+          "description": "",
+          "text": "Enche a Terra\nAo som da Tua igreja",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Estamos juntando a Terra\nCom os anjos\nEstamos entrando\nNa Sala do Trono",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
           "description": "",
           "text": "Aleluia\nAleluia",
           "text_with_comment": null,
@@ -26350,11 +26364,11 @@
     },
     "streaming": {
       "audio": {
-        "spotify": "https://open.spotify.com/track/409bxok0eao5dfqJfL3Mot",
-        "youtube": "https://youtube.com/watch?v=gtwFDkJ4dZ8",
-        "deezer": "https://deezer.com/track/2790157132",
-        "apple_music": "https://music.apple.com/br/song/1785013510",
-        "amazon_music": "https://music.amazon.com.br/tracks/B0DFZYT6CD"
+        "spotify": "",
+        "youtube": "https://www.youtube.com/watch?v=I1vgtswaIfE",
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
