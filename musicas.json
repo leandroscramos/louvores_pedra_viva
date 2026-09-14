@@ -5542,9 +5542,9 @@
     },
     "streaming": {
       "audio": {
-        "spotify": "https://open.spotify.com/track/56tz4dLbydeQGTcWs7nMHa",
-        "youtube": "https://youtube.com/watch?v=MiMGdPB46jY",
-        "deezer": "https://deezer.com/track/821433612",
+        "spotify": "",
+        "youtube": "https://www.youtube.com/watch?v=OXBCV5WixCU",
+        "deezer": "",
         "apple_music": "",
         "amazon_music": ""
       },
