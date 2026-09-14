@@ -1546,8 +1546,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
-      "nova": "s",
       "extra": ""
     }
   },
@@ -2243,7 +2241,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/aline-barros/ao-unico",
       "extra": ""
     }
@@ -5560,6 +5557,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/julia-vitoria/de-dentro-pra-fora",
       "extra": ""
     }
@@ -6532,13 +6530,13 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Eu posso até estar aflito\nMas nunca derrotado\n\nEu posso até chorar\nEu posso até sofrer\n\nMas o amanhã virá\n\nE minha fé\nSerá recompensada\n\nE o meu Deus não falha, não\n\nEu posso até estar ferido\nMas nunca destruído\n\nEu posso ser provado\nPara ser aprovado\n\nMas o amanhã virá\n\nE minha fé\nSerá recompensada\n\nE o meu Deus não falha, não\n\nNão vivo pela vista, não\nEu vivo pela fé, então\n\nDeus proverá\nDeus proverá\n\nOlho para o alto, então\nVem o socorro, sim\n\nDeus proverá\nDeus proverá\n\nDeus proverá quando\nO azeite e a farinha faltar\n\nE a minha força se esgotar\nDeus proverá\n\nDeus proverá\nMesmo cego me faz enxergar\n\nMesmo falho me faz andar\nSobre as águas",
+      "full_text": "Eu posso até estar aflito\nmas nunca derrotado\n\nEu posso até chorar\nEu posso até sofrer\n\nMas o amanhã virá\ne minha fé será\nrecompensada\n\nE o meu Deus não\nfalha, não\n\nEu posso até estar ferido\nmas nunca destruído\n\nEu posso ser provado\npara ser aprovado\n\nMas o amanhã virá\ne minha fé será\nrecompensada\n\nE o meu Deus não\nfalha, não\n\nNão vivo pela vista, não\nEu vivo pela fé, então\n\nDeus proverá\nDeus proverá\n\nOlho para o alto, então\nVem o socorro, sim\n\nDeus proverá\nDeus proverá\n\nDeus proverá quando\no azeite e a farinha faltar\n\nE a minha força se esgotar\nDeus proverá\n\nDeus proverá\nMesmo cego me\nfaz enxergar\n\nMesmo falho me\nfaz andar\nsobre as águas",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Eu posso até estar aflito\nMas nunca derrotado",
+          "text": "Eu posso até estar aflito\nmas nunca derrotado",
           "text_with_comment": null,
           "translations": null
         },
@@ -6552,63 +6550,63 @@
         {
           "number": 3,
           "description": "",
-          "text": "Mas o amanhã virá",
+          "text": "Mas o amanhã virá\ne minha fé será\nrecompensada",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "E minha fé\nSerá recompensada",
+          "text": "E o meu Deus não\nfalha, não",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "E o meu Deus não falha, não",
+          "text": "Eu posso até estar ferido\nmas nunca destruído",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Eu posso até estar ferido\nMas nunca destruído",
+          "text": "Eu posso ser provado\npara ser aprovado",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Eu posso ser provado\nPara ser aprovado",
+          "text": "Mas o amanhã virá\ne minha fé será\nrecompensada",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Mas o amanhã virá",
+          "text": "E o meu Deus não\nfalha, não",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 9,
           "description": "",
-          "text": "E minha fé\nSerá recompensada",
+          "text": "Não vivo pela vista, não\nEu vivo pela fé, então",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 10,
           "description": "",
-          "text": "E o meu Deus não falha, não",
+          "text": "Deus proverá\nDeus proverá",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 11,
           "description": "",
-          "text": "Não vivo pela vista, não\nEu vivo pela fé, então",
+          "text": "Olho para o alto, então\nVem o socorro, sim",
           "text_with_comment": null,
           "translations": null
         },
@@ -6622,42 +6620,28 @@
         {
           "number": 13,
           "description": "",
-          "text": "Olho para o alto, então\nVem o socorro, sim",
+          "text": "Deus proverá quando\no azeite e a farinha faltar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 14,
           "description": "",
-          "text": "Deus proverá\nDeus proverá",
+          "text": "E a minha força se esgotar\nDeus proverá",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 15,
           "description": "",
-          "text": "Deus proverá quando\nO azeite e a farinha faltar",
+          "text": "Deus proverá\nMesmo cego me\nfaz enxergar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 16,
           "description": "",
-          "text": "E a minha força se esgotar\nDeus proverá",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 17,
-          "description": "",
-          "text": "Deus proverá\nMesmo cego me faz enxergar",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 18,
-          "description": "",
-          "text": "Mesmo falho me faz andar\nSobre as águas",
+          "text": "Mesmo falho me\nfaz andar\nsobre as águas",
           "text_with_comment": null,
           "translations": null
         }
@@ -6680,7 +6664,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -7392,69 +7375,69 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Luto contra vozes que me dizem\nQue eu não sou capaz\n\nContra enganos que me dizem\nQue eu não vou chegar lá\n\nMeus altos e baixos\nNunca vão medir meu valor\n\nA Tua voz me lembra\nE me diz quem realmente sou\n\nDiz que amado sou\nSem que eu me sinta assim\n\nDiz que forte sou\nQuando há fraqueza em mim\n\nE que seguro estou\nSe frágil me sentir\n\nE que não estou só\nPois eu pertenço a Ti\n\nEu creio sim, creio sim\nEm que diz sobre mim\n\nCreio sim\n\nTudo que importa agora\nÉ o que a Tua voz me diz\n\nA minha identidade e o valor\nSó encontro em Ti\n\nTudo que eu tenho\nRendo aos Teus pés\n\nA mais ninguém\n\nTe dei meus fracassos\nE as vitórias Te darei também",
+      "full_text": "Luto contra vozes\nque me dizem\nque eu não sou capaz\n\nContra enganos que\nme dizem que eu não\nvou chegar lá\n\nMeus altos e baixos\nnunca vão medir meu valor\n\nA Tua voz me lembra\ne me diz quem\nrealmente sou\n\nDiz que amado sou\nsem que eu me sinta assim\n\nDiz que forte sou\nquando há fraqueza em mim\n\nE que seguro estou\nse frágil me sentir\n\nE que não estou só\npois eu pertenço a Ti\n\nEu creio sim, creio sim\nem que diz sobre mim\n\nCreio sim\n\nTudo que importa agora\né o que a Tua voz me diz\n\nA minha identidade\ne o valor\nsó encontro em Ti\n\nTudo que eu tenho\nrendo aos Teus pés\nA mais ninguém\n\nTe dei meus fracassos\nE as vitórias Te\ndarei também",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Luto contra vozes que me dizem\nQue eu não sou capaz",
+          "text": "Luto contra vozes\nque me dizem\nque eu não sou capaz",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "Contra enganos que me dizem\nQue eu não vou chegar lá",
+          "text": "Contra enganos que\nme dizem que eu não\nvou chegar lá",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "Meus altos e baixos\nNunca vão medir meu valor",
+          "text": "Meus altos e baixos\nnunca vão medir meu valor",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "A Tua voz me lembra\nE me diz quem realmente sou",
+          "text": "A Tua voz me lembra\ne me diz quem\nrealmente sou",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Diz que amado sou\nSem que eu me sinta assim",
+          "text": "Diz que amado sou\nsem que eu me sinta assim",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Diz que forte sou\nQuando há fraqueza em mim",
+          "text": "Diz que forte sou\nquando há fraqueza em mim",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "E que seguro estou\nSe frágil me sentir",
+          "text": "E que seguro estou\nse frágil me sentir",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "E que não estou só\nPois eu pertenço a Ti",
+          "text": "E que não estou só\npois eu pertenço a Ti",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 9,
           "description": "",
-          "text": "Eu creio sim, creio sim\nEm que diz sobre mim",
+          "text": "Eu creio sim, creio sim\nem que diz sobre mim",
           "text_with_comment": null,
           "translations": null
         },
@@ -7468,35 +7451,28 @@
         {
           "number": 11,
           "description": "",
-          "text": "Tudo que importa agora\nÉ o que a Tua voz me diz",
+          "text": "Tudo que importa agora\né o que a Tua voz me diz",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 12,
           "description": "",
-          "text": "A minha identidade e o valor\nSó encontro em Ti",
+          "text": "A minha identidade\ne o valor\nsó encontro em Ti",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 13,
           "description": "",
-          "text": "Tudo que eu tenho\nRendo aos Teus pés",
+          "text": "Tudo que eu tenho\nrendo aos Teus pés\nA mais ninguém",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 14,
           "description": "",
-          "text": "A mais ninguém",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 15,
-          "description": "",
-          "text": "Te dei meus fracassos\nE as vitórias Te darei também",
+          "text": "Te dei meus fracassos\nE as vitórias Te\ndarei também",
           "text_with_comment": null,
           "translations": null
         }
@@ -7519,7 +7495,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -8799,6 +8774,82 @@
       }
     },
     "extras": {
+      "extra": ""
+    }
+  },
+  {
+    "id": 1789398602360,
+    "title": "Entrega",
+    "artist": "Vineyard",
+    "author": "Marc James",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "G",
+    "bpm": 64.0,
+    "time_sig": "4/4",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Te dou meu coração\nE tudo que há em mim\nEntrego meu viver\nPor amor a Ti, meu Rei\n\nMeus sonhos rendo a Ti\nE meus direitos dou\nOrgulho vou trocar\nPela vida do Senhor\n\nE eu entrego tudo a Ti\nTudo a Ti\nE eu entrego tudo a Ti\nTudo a Ti\n\nEu canto esta canção\nDe entrega a Ti, Jesus\nE o que o mundo dá\nEu deixo aos pés da cruz\n\nVou conhecer a Ti\nTeu nome dar louvor\nSentir Tua alegria\nPartilhando Tua dor",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Te dou meu coração\nE tudo que há em mim\nEntrego meu viver\nPor amor a Ti, meu Rei",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Meus sonhos rendo a Ti\nE meus direitos dou\nOrgulho vou trocar\nPela vida do Senhor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "E eu entrego tudo a Ti\nTudo a Ti\nE eu entrego tudo a Ti\nTudo a Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Eu canto esta canção\nDe entrega a Ti, Jesus\nE o que o mundo dá\nEu deixo aos pés da cruz",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Vou conhecer a Ti\nTeu nome dar louvor\nSentir Tua alegria\nPartilhando Tua dor",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "https://open.spotify.com/track/1F1QgUqVHcudGY7wsaexhX",
+        "youtube": "https://youtube.com/watch?v=BlDHHPw0B4Y",
+        "deezer": "https://deezer.com/track/930153272",
+        "apple_music": "https://music.apple.com/br/song/1507820588",
+        "amazon_music": "https://music.amazon.com.br/tracks/B0872L9NQB"
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
+      }
+    },
+    "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -16940,6 +16991,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/florianopolis-house-of-prayer/nada-mais",
       "extra": ""
     }
@@ -19199,62 +19251,97 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Eu me rasgo por inteiro\nFaço tudo, mas vem novamente\n\nEu mergulho na mirra ardente\nMas peço que Tua presença aumente\n\nE se eu passar pelo fogo, não temerei\nNa Tua fumaça de glória eu entrarei\n\nLonge do Santo dos Santos\nNão sei mais viver\n\nQuem já pisou no Santo dos Santos\nEm outro lugar não sabe viver\n\nE onde estiver, clamar pela glória\nA glória de Deus\n\nGlória, glória, glória, glória\nSanto, Santo, Santo, Santo\n\nKadosh, Kadosh, Kadosh, Kadosh\nHoly, Holy, Holy, Holy",
+      "full_text": "Eu me rasgo\npor inteiro\n\nFaço tudo, mas\nvem novamente\n\nEu mergulho na\nmirra ardente\n\nMas peço que Tua\npresença aumente\n\nE se eu passar pelo fogo,\nnão temerei\n\nNa Tua fumaça de glória\neu entrarei\n\nLonge do Santo dos Santos\nnão sei mais viver\n\nQuem já pisou no Santo\ndos Santos\n\nEm outro lugar não\nsabe viver\n\nE onde estiver,\nclamar pela glória\n\nA glória de Deus\n\nGlória...\nSanto...\n\nKadosh...\nHoly...",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Eu me rasgo por inteiro\nFaço tudo, mas vem novamente",
+          "text": "Eu me rasgo\npor inteiro",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "Eu mergulho na mirra ardente\nMas peço que Tua presença aumente",
+          "text": "Faço tudo, mas\nvem novamente",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "E se eu passar pelo fogo, não temerei\nNa Tua fumaça de glória eu entrarei",
+          "text": "Eu mergulho na\nmirra ardente",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Longe do Santo dos Santos\nNão sei mais viver",
+          "text": "Mas peço que Tua\npresença aumente",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Quem já pisou no Santo dos Santos\nEm outro lugar não sabe viver",
+          "text": "E se eu passar pelo fogo,\nnão temerei",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "E onde estiver, clamar pela glória\nA glória de Deus",
+          "text": "Na Tua fumaça de glória\neu entrarei",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Glória, glória, glória, glória\nSanto, Santo, Santo, Santo",
+          "text": "Longe do Santo dos Santos\nnão sei mais viver",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Kadosh, Kadosh, Kadosh, Kadosh\nHoly, Holy, Holy, Holy",
+          "text": "Quem já pisou no Santo\ndos Santos",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Em outro lugar não\nsabe viver",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "E onde estiver,\nclamar pela glória",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "A glória de Deus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Glória...\nSanto...",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "Kadosh...\nHoly...",
           "text_with_comment": null,
           "translations": null
         }
@@ -19277,7 +19364,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -25975,6 +26061,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -26196,6 +26283,89 @@
       }
     },
     "extras": {
+      "extra": ""
+    }
+  },
+  {
+    "id": 1789398626836,
+    "title": "Toda Terra",
+    "artist": "Gabriela Rocha",
+    "author": "Abdiel Arsenio",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "E",
+    "bpm": 66.0,
+    "time_sig": "4/4",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Eu ouvi uma vez\nE li no Teu livro\nO que o Senhor fez\nFaz mais uma vez\n\nQue onde houver dois ou três\nJuntos em Meu nome\nAli estarei, faz mais uma vez\n\nToda a Terra será cheia\nDo conhecimento\nDa glória de Deus\n\nComo as águas\nCobrem o mar\nEnche a Terra\nAo som da Tua igreja\n\nEstamos juntando a Terra\nCom os anjos\nEstamos entrando\nNa Sala do Trono\n\nAleluia\nAleluia",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Eu ouvi uma vez\nE li no Teu livro\nO que o Senhor fez\nFaz mais uma vez",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Que onde houver dois ou três\nJuntos em Meu nome\nAli estarei, faz mais uma vez",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Toda a Terra será cheia\nDo conhecimento\nDa glória de Deus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Como as águas\nCobrem o mar\nEnche a Terra\nAo som da Tua igreja",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Estamos juntando a Terra\nCom os anjos\nEstamos entrando\nNa Sala do Trono",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Aleluia\nAleluia",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "https://open.spotify.com/track/409bxok0eao5dfqJfL3Mot",
+        "youtube": "https://youtube.com/watch?v=gtwFDkJ4dZ8",
+        "deezer": "https://deezer.com/track/2790157132",
+        "apple_music": "https://music.apple.com/br/song/1785013510",
+        "amazon_music": "https://music.amazon.com.br/tracks/B0DFZYT6CD"
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
+      }
+    },
+    "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -28363,34 +28533,34 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Vem\nEsta é a hora\nda adoração\n\nVem\nDar a Ele\nteu coração\n\nVem\nAssim como estás\npara adorar\n\nVem\nAssim como estás\ndiante do Pai, vem\n\nToda língua\nconfessará ao Senhor\n\nTodo joelho se dobrará\n\nMas aquele que a\nTi escolher\n\nO tesouro maior terá",
+      "full_text": "Vem! Esta é a hora\nda adoração\n\nVem! Dar a Ele\nteu coração\n\nVem! Assim como\nestás para adorar\n\nVem! Assim como estás\ndiante do Pai, vem!\n\nToda língua\nconfessará ao Senhor\n\nTodo joelho se dobrará\n\nMas aquele que a\nTi escolher\n\nO tesouro maior terá",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Vem\nEsta é a hora\nda adoração",
+          "text": "Vem! Esta é a hora\nda adoração",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "Vem\nDar a Ele\nteu coração",
+          "text": "Vem! Dar a Ele\nteu coração",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "Vem\nAssim como estás\npara adorar",
+          "text": "Vem! Assim como\nestás para adorar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Vem\nAssim como estás\ndiante do Pai, vem",
+          "text": "Vem! Assim como estás\ndiante do Pai, vem!",
           "text_with_comment": null,
           "translations": null
         },
@@ -28426,9 +28596,9 @@
     },
     "streaming": {
       "audio": {
-        "spotify": "https://open.spotify.com/track/1rf6L934JnNgx4k5TnrqzT",
-        "youtube": "https://youtube.com/watch?v=Vn_SRpg3bTY",
-        "deezer": "https://deezer.com/track/729229622",
+        "spotify": "",
+        "youtube": "https://www.youtube.com/watch?v=tesOYs6bIgc",
+        "deezer": "",
         "apple_music": "",
         "amazon_music": ""
       },
@@ -28441,7 +28611,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -28829,6 +28998,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -29126,6 +29296,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
