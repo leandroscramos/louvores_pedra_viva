@@ -8834,11 +8834,11 @@
     },
     "streaming": {
       "audio": {
-        "spotify": "https://open.spotify.com/track/1F1QgUqVHcudGY7wsaexhX",
-        "youtube": "https://youtube.com/watch?v=BlDHHPw0B4Y",
-        "deezer": "https://deezer.com/track/930153272",
-        "apple_music": "https://music.apple.com/br/song/1507820588",
-        "amazon_music": "https://music.amazon.com.br/tracks/B0872L9NQB"
+        "spotify": "",
+        "youtube": "https://www.youtube.com/watch?v=z1vnYfxqIZ8",
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
