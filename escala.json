@@ -1,6 +1,6 @@
 {
   "start": "2026-01-01",
-  "end": "2026-09-13",
+  "end": "2026-09-20",
   "songs": [
     {
       "song": {
@@ -184,6 +184,15 @@
     },
     {
       "song": {
+        "id": "1762266764409",
+        "title": "O Que Sua Glória Fez Comigo",
+        "artist": "Fernanda Brum",
+        "author": "Duda Moon"
+      },
+      "occurrences": "4"
+    },
+    {
+      "song": {
         "id": "1762287221344",
         "title": "Quem É Esse?",
         "artist": "Julliany Souza",
@@ -217,6 +226,15 @@
         "author": "Brian Doerksen"
       },
       "occurrences": "4"
+    },
+    {
+      "song": {
+        "id": "1762264609310",
+        "title": "Ao Único",
+        "artist": "Aline Barros",
+        "author": "Bené Gomes"
+      },
+      "occurrences": "3"
     },
     {
       "song": {
@@ -278,15 +296,6 @@
         "title": "O Fogo Arderá + Reacende a Chama + Acende Outra Vez",
         "artist": "Yasmin Teixeira",
         "author": "Yasmin Teixeira"
-      },
-      "occurrences": "3"
-    },
-    {
-      "song": {
-        "id": "1762266764409",
-        "title": "O Que Sua Glória Fez Comigo",
-        "artist": "Fernanda Brum",
-        "author": "Duda Moon"
       },
       "occurrences": "3"
     },
@@ -454,15 +463,6 @@
     },
     {
       "song": {
-        "id": "1762264609310",
-        "title": "Ao Único",
-        "artist": "Aline Barros",
-        "author": "Bené Gomes"
-      },
-      "occurrences": "2"
-    },
-    {
-      "song": {
         "id": "1762266789938",
         "title": "Atos 2",
         "artist": "Gabriela Rocha",
@@ -562,6 +562,15 @@
     },
     {
       "song": {
+        "id": "1762265420949",
+        "title": "Diz",
+        "artist": "Gabriela Rocha",
+        "author": "Jason Ingram, Lauren Daigle, Paul Mabury"
+      },
+      "occurrences": "2"
+    },
+    {
+      "song": {
         "id": "1762264339346",
         "title": "Estrela da Manhã",
         "artist": "Marcos Góes",
@@ -647,6 +656,15 @@
         "title": "Na Casa de Meu Pai",
         "artist": "Comunidade de Nilópolis",
         "author": ""
+      },
+      "occurrences": "2"
+    },
+    {
+      "song": {
+        "id": "1784635578746",
+        "title": "Nada Mais",
+        "artist": "FHOP Music",
+        "author": "Cody Carnes, Hank Bentley, Jessie Early"
       },
       "occurrences": "2"
     },
@@ -850,10 +868,28 @@
     },
     {
       "song": {
+        "id": "1760703359019",
+        "title": "De Dentro Pra Fora",
+        "artist": "Julia Vitória",
+        "author": "Julia Vitória"
+      },
+      "occurrences": "1"
+    },
+    {
+      "song": {
         "id": "1762264630874",
         "title": "Deus Me Ama",
         "artist": "Thalles Roberto",
         "author": "Thalles Roberto"
+      },
+      "occurrences": "1"
+    },
+    {
+      "song": {
+        "id": "1762265070553",
+        "title": "Deus Proverá",
+        "artist": "Gabriela Gomes",
+        "author": "Gabriela Gomes"
       },
       "occurrences": "1"
     },
@@ -872,15 +908,6 @@
         "title": "Digno É o Senhor",
         "artist": "Aline Barros",
         "author": "Darlene Zschech"
-      },
-      "occurrences": "1"
-    },
-    {
-      "song": {
-        "id": "1762265420949",
-        "title": "Diz",
-        "artist": "Gabriela Rocha",
-        "author": "Jason Ingram, Lauren Daigle, Paul Mabury"
       },
       "occurrences": "1"
     },
@@ -1093,15 +1120,6 @@
     },
     {
       "song": {
-        "id": "1784635578746",
-        "title": "Nada Mais",
-        "artist": "FHOP Music",
-        "author": "Cody Carnes, Hank Bentley, Jessie Early"
-      },
-      "occurrences": "1"
-    },
-    {
-      "song": {
         "id": "1760469698878",
         "title": "Não Vou Calar Meus Lábios",
         "artist": "Marcos Góes",
@@ -1228,6 +1246,15 @@
     },
     {
       "song": {
+        "id": "1789398626836",
+        "title": "Toda Terra",
+        "artist": "Gabriela Rocha",
+        "author": "Abdiel Arsenio"
+      },
+      "occurrences": "1"
+    },
+    {
+      "song": {
         "id": "1762264929980",
         "title": "Tu És + Águas Purificadoras",
         "artist": "FHOP Music",
@@ -1291,10 +1318,28 @@
     },
     {
       "song": {
+        "id": "1762265244057",
+        "title": "Vim Para Adorar-Te",
+        "artist": "Adoração e Adoradores e Ana Paula Valadão",
+        "author": "Tim Hughes"
+      },
+      "occurrences": "1"
+    },
+    {
+      "song": {
         "id": "1760470049835",
         "title": "Vitória No Deserto",
         "artist": "Aline Barros",
         "author": "Luciano Moreira"
+      },
+      "occurrences": "1"
+    },
+    {
+      "song": {
+        "id": "1762264715471",
+        "title": "Vitorioso És",
+        "artist": "Gabriel Guedes",
+        "author": "Reuben Morgan, Ben Fielding, Matt Crocker, Brian Johnson"
       },
       "occurrences": "1"
     },
@@ -1390,15 +1435,6 @@
     },
     {
       "song": {
-        "id": "1760703359019",
-        "title": "De Dentro Pra Fora",
-        "artist": "Julia Vitória",
-        "author": "Julia Vitória"
-      },
-      "occurrences": "0"
-    },
-    {
-      "song": {
         "id": "1762265276884",
         "title": "Deus Cuida de Mim",
         "artist": "Kleber Lucas",
@@ -1435,19 +1471,19 @@
     },
     {
       "song": {
-        "id": "1762264882917",
-        "title": "Deus Forte Como Jeová",
-        "artist": "",
-        "author": "Livingston Farias"
+        "id": "1790079485651",
+        "title": "Deus Está Aqui / O Espírito de Deus / Manancial",
+        "artist": "Gabriela Rocha",
+        "author": "Francisco Javier Gacías Mateo, Bené Gomes, Ana Paula Valadão"
       },
       "occurrences": "0"
     },
     {
       "song": {
-        "id": "1762265070553",
-        "title": "Deus Proverá",
-        "artist": "Gabriela Gomes",
-        "author": "Gabriela Gomes"
+        "id": "1762264882917",
+        "title": "Deus Forte Como Jeová",
+        "artist": "",
+        "author": "Livingston Farias"
       },
       "occurrences": "0"
     },
@@ -1777,15 +1813,6 @@
     },
     {
       "song": {
-        "id": "1789398626836",
-        "title": "Toda Terra",
-        "artist": "Gabriela Rocha",
-        "author": "Abdiel Arsenio"
-      },
-      "occurrences": "0"
-    },
-    {
-      "song": {
         "id": "1762265710085",
         "title": "Todavia Me Alegrarei",
         "artist": "Leandro Soares",
@@ -1810,24 +1837,6 @@
         "author": "Willen Soares"
       },
       "occurrences": "0"
-    },
-    {
-      "song": {
-        "id": "1762265244057",
-        "title": "Vim Para Adorar-Te",
-        "artist": "Adoração e Adoradores e Ana Paula Valadão",
-        "author": "Tim Hughes"
-      },
-      "occurrences": "0"
-    },
-    {
-      "song": {
-        "id": "1762264715471",
-        "title": "Vitorioso És",
-        "artist": "Gabriel Guedes",
-        "author": "Reuben Morgan, Ben Fielding, Matt Crocker, Brian Johnson"
-      },
-      "occurrences": "0"
     }
   ],
   "members": [
@@ -1837,7 +1846,7 @@
         "name": "Diego"
       },
       "responsible": "0",
-      "scheduled": "26"
+      "scheduled": "27"
     },
     {
       "member": {
@@ -1845,7 +1854,7 @@
         "name": "Fernanda"
       },
       "responsible": "0",
-      "scheduled": "34"
+      "scheduled": "35"
     },
     {
       "member": {
@@ -1853,7 +1862,7 @@
         "name": "Guilherme"
       },
       "responsible": "0",
-      "scheduled": "67"
+      "scheduled": "68"
     },
     {
       "member": {
@@ -1861,7 +1870,15 @@
         "name": "Gustavo"
       },
       "responsible": "0",
-      "scheduled": "26"
+      "scheduled": "27"
+    },
+    {
+      "member": {
+        "id": "1760462870706",
+        "name": "João"
+      },
+      "responsible": "0",
+      "scheduled": "15"
     },
     {
       "member": {
@@ -1869,7 +1886,7 @@
         "name": "Juliana"
       },
       "responsible": "0",
-      "scheduled": "39"
+      "scheduled": "40"
     },
     {
       "member": {
@@ -1877,7 +1894,7 @@
         "name": "Karina"
       },
       "responsible": "0",
-      "scheduled": "35"
+      "scheduled": "36"
     },
     {
       "member": {
@@ -1885,7 +1902,7 @@
         "name": "Leandro"
       },
       "responsible": "0",
-      "scheduled": "35"
+      "scheduled": "37"
     },
     {
       "member": {
@@ -1893,7 +1910,15 @@
         "name": "Lucas"
       },
       "responsible": "0",
-      "scheduled": "47"
+      "scheduled": "49"
+    },
+    {
+      "member": {
+        "id": "1760462806640",
+        "name": "Lukinhas"
+      },
+      "responsible": "0",
+      "scheduled": "32"
     },
     {
       "member": {
@@ -1901,7 +1926,15 @@
         "name": "Malú"
       },
       "responsible": "0",
-      "scheduled": "38"
+      "scheduled": "39"
+    },
+    {
+      "member": {
+        "id": "1787318299287",
+        "name": "Marcelo"
+      },
+      "responsible": "0",
+      "scheduled": "4"
     },
     {
       "member": {
@@ -1917,7 +1950,7 @@
         "name": "Renan"
       },
       "responsible": "0",
-      "scheduled": "26"
+      "scheduled": "27"
     },
     {
       "member": {
@@ -1925,31 +1958,7 @@
         "name": "Samuel"
       },
       "responsible": "0",
-      "scheduled": "72"
-    },
-    {
-      "member": {
-        "id": "1760462806640",
-        "name": "Lukinhas"
-      },
-      "responsible": "0",
-      "scheduled": "31"
-    },
-    {
-      "member": {
-        "id": "1760462870706",
-        "name": "João"
-      },
-      "responsible": "0",
-      "scheduled": "15"
-    },
-    {
-      "member": {
-        "id": "1787318299287",
-        "name": "Marcelo"
-      },
-      "responsible": "0",
-      "scheduled": "4"
+      "scheduled": "74"
     },
     {
       "member": {
@@ -1957,7 +1966,7 @@
         "name": "Vini"
       },
       "responsible": "0",
-      "scheduled": "18"
+      "scheduled": "19"
     }
   ]
 }

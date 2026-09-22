@@ -333,7 +333,7 @@
     "streaming": {
       "audio": {
         "spotify": "https://open.spotify.com/track/5aH9yQIcGLtxjDBUhMRkSi",
-        "youtube": "https://youtube.com/watch?v=2GWJ1QNjO8o",
+        "youtube": "https://www.youtube.com/watch?v=9p3qBC3VotM",
         "deezer": "https://deezer.com/track/813703812",
         "apple_music": "",
         "amazon_music": ""
@@ -347,6 +347,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -4771,6 +4772,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/jefferson-e-suellen/cordeiro-e-leao",
       "extra": ""
     }
@@ -5557,7 +5559,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/julia-vitoria/de-dentro-pra-fora",
       "extra": ""
     }
@@ -6015,6 +6016,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -6274,6 +6276,153 @@
     }
   },
   {
+    "id": 1790079485651,
+    "title": "Deus Está Aqui / O Espírito de Deus / Manancial",
+    "artist": "Gabriela Rocha",
+    "author": "Francisco Javier Gacías Mateo, Bené Gomes, Ana Paula Valadão",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "",
+    "bpm": 0.0,
+    "time_sig": "",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Deus está aqui\nTão certo como o ar que eu respiro\n\nTão certo como o amanhã que se levanta\nTão certo como eu te falo e podes me ouvir\n\nDeus está aqui\nTão certo como o ar que eu respiro\n\nTão certo como o amanhã que se levanta\nTão certo como eu te falo e podes me ouvir\n\nOs feridos de alma são curados\nOs cativos e oprimidos livres são\n\nOs enfermos e doentes são sarados\nPois o Espírito de Deus está aqui\n\nOs feridos de alma são curados\nOs cativos e oprimidos livres são\n\nOs enfermos e doentes são sarados\nPois o Espírito de Deus está aqui\n\nEu quero ser como um jardim fechado\nRegado e cuidado pelo Teu Espírito\n\nFlua em mim como um manancial\nDo meu interior, com águas vivas\n\nEu quero ser como um jardim fechado\nRegado e cuidado pelo Teu Espírito\n\nFlua em mim como um manancial\nDo meu interior, com águas vivas\n\nRestaura o meu ser\nPara o Teu louvor\nPara o Teu louvor\nPara o Teu louvor\nPara o Teu louvor\n\nEu quero ser como um jardim fechado\nRegado e cuidado pelo Teu Espírito\nFlua em mim como um manancial\nDo meu interior, com águas vivas\n\nRestaura o meu ser\nPara o Teu louvor",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Deus está aqui\nTão certo como o ar que eu respiro",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Tão certo como o amanhã que se levanta\nTão certo como eu te falo e podes me ouvir",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Deus está aqui\nTão certo como o ar que eu respiro",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Tão certo como o amanhã que se levanta\nTão certo como eu te falo e podes me ouvir",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Os feridos de alma são curados\nOs cativos e oprimidos livres são",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Os enfermos e doentes são sarados\nPois o Espírito de Deus está aqui",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Os feridos de alma são curados\nOs cativos e oprimidos livres são",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Os enfermos e doentes são sarados\nPois o Espírito de Deus está aqui",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Eu quero ser como um jardim fechado\nRegado e cuidado pelo Teu Espírito",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Flua em mim como um manancial\nDo meu interior, com águas vivas",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Eu quero ser como um jardim fechado\nRegado e cuidado pelo Teu Espírito",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Flua em mim como um manancial\nDo meu interior, com águas vivas",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "Restaura o meu ser\nPara o Teu louvor\nPara o Teu louvor\nPara o Teu louvor\nPara o Teu louvor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "Eu quero ser como um jardim fechado\nRegado e cuidado pelo Teu Espírito\nFlua em mim como um manancial\nDo meu interior, com águas vivas",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 15,
+          "description": "",
+          "text": "Restaura o meu ser\nPara o Teu louvor",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "https://open.spotify.com/track/3jbkfF5kFYJiEN1XnCLKcN",
+        "youtube": "https://www.youtube.com/watch?v=2Xs4Qq_wr3k",
+        "deezer": "https://deezer.com/track/2951046991",
+        "apple_music": "https://music.apple.com/br/song/1763873374",
+        "amazon_music": "https://music.amazon.com.br/tracks/B0DFZNSHS3"
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
+      }
+    },
+    "extras": {
+      "playlist_semana": "s",
+      "nova": "s",
+      "extra": ""
+    }
+  },
+  {
     "id": 1762264882917,
     "title": "Deus Forte Como Jeová",
     "artist": "",
@@ -6511,6 +6660,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/thalles-roberto/deus-me-ama",
       "extra": ""
     }
@@ -8792,41 +8942,90 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Te dou meu coração\nE tudo que há em mim\nEntrego meu viver\nPor amor a Ti, meu Rei\n\nMeus sonhos rendo a Ti\nE meus direitos dou\nOrgulho vou trocar\nPela vida do Senhor\n\nE eu entrego tudo a Ti\nTudo a Ti\nE eu entrego tudo a Ti\nTudo a Ti\n\nEu canto esta canção\nDe entrega a Ti, Jesus\nE o que o mundo dá\nEu deixo aos pés da cruz\n\nVou conhecer a Ti\nTeu nome dar louvor\nSentir Tua alegria\nPartilhando Tua dor",
+      "full_text": "Te dou meu coração\ne tudo que há em mim\n\nEntrego meu viver\npor amor a Ti, meu Rei\n\nMeus sonhos rendo a Ti\ne meus direitos dou\n\nOrgulho vou trocar\npela vida do Senhor\n\nE eu entrego tudo a Ti\ntudo a Ti\n\nE eu entrego tudo a Ti\ntudo a Ti\n\nEu canto esta canção\nde entrega a Ti, Jesus\n\nE o que o mundo dá\neu deixo aos pés da cruz\n\nVou conhecer a Ti\nTeu nome dar louvor\n\nSentir Tua alegria\npartilhando Tua dor\n\nE eu entrego tudo a Ti\ntudo a Ti\n\nE eu entrego tudo a Ti\ntudo a Ti",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Te dou meu coração\nE tudo que há em mim\nEntrego meu viver\nPor amor a Ti, meu Rei",
+          "text": "Te dou meu coração\ne tudo que há em mim",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "Meus sonhos rendo a Ti\nE meus direitos dou\nOrgulho vou trocar\nPela vida do Senhor",
+          "text": "Entrego meu viver\npor amor a Ti, meu Rei",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "E eu entrego tudo a Ti\nTudo a Ti\nE eu entrego tudo a Ti\nTudo a Ti",
+          "text": "Meus sonhos rendo a Ti\ne meus direitos dou",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Eu canto esta canção\nDe entrega a Ti, Jesus\nE o que o mundo dá\nEu deixo aos pés da cruz",
+          "text": "Orgulho vou trocar\npela vida do Senhor",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Vou conhecer a Ti\nTeu nome dar louvor\nSentir Tua alegria\nPartilhando Tua dor",
+          "text": "E eu entrego tudo a Ti\ntudo a Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "E eu entrego tudo a Ti\ntudo a Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Eu canto esta canção\nde entrega a Ti, Jesus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "E o que o mundo dá\neu deixo aos pés da cruz",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Vou conhecer a Ti\nTeu nome dar louvor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Sentir Tua alegria\npartilhando Tua dor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "E eu entrego tudo a Ti\ntudo a Ti",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "E eu entrego tudo a Ti\ntudo a Ti",
           "text_with_comment": null,
           "translations": null
         }
@@ -8849,7 +9048,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -16273,6 +16471,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -16991,7 +17190,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/florianopolis-house-of-prayer/nada-mais",
       "extra": ""
     }
@@ -19251,7 +19449,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Eu me rasgo\npor inteiro\n\nFaço tudo, mas\nvem novamente\n\nEu mergulho na\nmirra ardente\n\nMas peço que Tua\npresença aumente\n\nE se eu passar pelo fogo,\nnão temerei\n\nNa Tua fumaça de glória\neu entrarei\n\nLonge do Santo dos Santos\nnão sei mais viver\n\nQuem já pisou no Santo\ndos Santos\n\nEm outro lugar não\nsabe viver\n\nE onde estiver,\nclamar pela glória\n\nA glória de Deus\n\nGlória...\nSanto...\n\nKadosh...\nHoly...",
+      "full_text": "Eu me rasgo\npor inteiro\n\nFaço tudo, mas\nvem novamente\n\nEu mergulho na\nmirra ardente\n\nMas peço que Tua\npresença aumente\n\nE se eu passar pelo fogo,\nnão temerei\n\nNa Tua fumaça de glória\neu entrarei\n\nLonge do Santo dos Santos\nnão sei mais viver\n\nQuem já pisou no Santo\ndos Santos\n\nEm outro lugar não\nsabe viver\n\nE onde estiver,\nclamar pela glória\n\nA glória de Deus\n\nGlória\n\nSanto\n\nKadosh\n\nHoly",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -19334,14 +19532,28 @@
         {
           "number": 12,
           "description": "",
-          "text": "Glória...\nSanto...",
+          "text": "Glória",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 13,
           "description": "",
-          "text": "Kadosh...\nHoly...",
+          "text": "Santo",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "Kadosh",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 15,
+          "description": "",
+          "text": "Holy",
           "text_with_comment": null,
           "translations": null
         }
@@ -26061,7 +26273,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -26301,14 +26512,14 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Eu ouvi uma vez\nE li no Teu livro\n\nO que o Senhor fez\nFaz mais uma vez\n\nQue onde houver dois ou três\nJuntos em Meu nome\nAli estarei, faz mais uma vez\n\nToda a Terra será cheia\nDo conhecimento\nDa glória de Deus\n\nComo as águas\nCobrem o mar\n\nEnche a Terra\nAo som da Tua igreja\n\nEstamos juntando a Terra\nCom os anjos\nEstamos entrando\nNa Sala do Trono\n\nAleluia\nAleluia",
-      "full_text_with_comment": null,
+      "full_text": "Eu ouvi uma vez\ne li no Teu livro\n\nO que o Senhor fez\nFaz mais uma vez\n\nQue onde houver dois ou três\njuntos em Meu nome\n\nAli estarei, faz\nmais uma vez\n\nToda a Terra será cheia\ndo conhecimento da\nglória de Deus\n\nComo as águas\ncobrem o mar\n\nEnche a Terra\nao som da Tua igreja\n\nEstamos juntando a Terra\ncom os anjos\n\nEstamos entrando\nna Sala do Trono\n\nAleluia!!!",
+      "full_text_with_comment": "// Parte 1\nEu ouvi uma vez\ne li no Teu livro\n\nO que o Senhor fez\nFaz mais uma vez\n\nQue onde houver dois ou três\njuntos em Meu nome\n\nAli estarei, faz\nmais uma vez\n\n// Refrão\nToda a Terra será cheia\ndo conhecimento da\nglória de Deus\n\nComo as águas\ncobrem o mar\n\nEnche a Terra\nao som da Tua igreja\n\n// Parte 2\nEstamos juntando a Terra\ncom os anjos\n\nEstamos entrando\nna Sala do Trono\n\n// Parte 3\nAleluia!!!",
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Eu ouvi uma vez\nE li no Teu livro",
-          "text_with_comment": null,
+          "text": "Eu ouvi uma vez\ne li no Teu livro",
+          "text_with_comment": "// Parte 1\nEu ouvi uma vez\ne li no Teu livro",
           "translations": null
         },
         {
@@ -26321,43 +26532,57 @@
         {
           "number": 3,
           "description": "",
-          "text": "Que onde houver dois ou três\nJuntos em Meu nome\nAli estarei, faz mais uma vez",
+          "text": "Que onde houver dois ou três\njuntos em Meu nome",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Toda a Terra será cheia\nDo conhecimento\nDa glória de Deus",
+          "text": "Ali estarei, faz\nmais uma vez",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Como as águas\nCobrem o mar",
-          "text_with_comment": null,
+          "text": "Toda a Terra será cheia\ndo conhecimento da\nglória de Deus",
+          "text_with_comment": "// Refrão\nToda a Terra será cheia\ndo conhecimento da\nglória de Deus",
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Enche a Terra\nAo som da Tua igreja",
+          "text": "Como as águas\ncobrem o mar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Estamos juntando a Terra\nCom os anjos\nEstamos entrando\nNa Sala do Trono",
+          "text": "Enche a Terra\nao som da Tua igreja",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Aleluia\nAleluia",
+          "text": "Estamos juntando a Terra\ncom os anjos",
+          "text_with_comment": "// Parte 2\nEstamos juntando a Terra\ncom os anjos",
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Estamos entrando\nna Sala do Trono",
           "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Aleluia!!!",
+          "text_with_comment": "// Parte 3\nAleluia!!!",
           "translations": null
         }
       ]
@@ -26379,8 +26604,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
-      "nova": "s",
       "extra": ""
     }
   },
@@ -26963,7 +27186,9 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/michael-w-smith-musicas/tu-es-santo-principe-da-paz",
+      "nova": "s",
       "extra": ""
     }
   },
@@ -29013,7 +29238,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -29311,7 +29535,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "extra": ""
     }
   },

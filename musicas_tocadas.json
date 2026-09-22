@@ -1,7 +1,7 @@
 {
   "filter": {
     "start": "2026-01-01",
-    "end": "2026-09-13",
+    "end": "2026-09-20",
     "service": null,
     "days": [
       "sun",
@@ -66,6 +66,25 @@
       "occurrences": "6",
       "occurrences_by_day": "3,0,0,0,3,0,0",
       "timestamps": "1768773600,1771803176,1772150201,1779060747,1779405681,1787871600"
+    },
+    {
+      "songs": [
+        {
+          "id": "1784635578746",
+          "title": "Nada Mais",
+          "artist": "FHOP Music",
+          "author": "Cody Carnes, Hank Bentley, Jessie Early"
+        },
+        {
+          "id": "1771527481026",
+          "title": "Nada Mais + Uma Vez",
+          "artist": "Brasa Church",
+          "author": ""
+        }
+      ],
+      "occurrences": "6",
+      "occurrences_by_day": "4,0,0,0,2,0,0",
+      "timestamps": "1771803169,1772148176,1777240800,1777590000,1785103200,1789941600"
     },
     {
       "songs": [
@@ -150,25 +169,6 @@
       "occurrences": "5",
       "occurrences_by_day": "2,0,0,0,3,0,0",
       "timestamps": "1768773600,1769122800,1776380400,1783893600,1784242800"
-    },
-    {
-      "songs": [
-        {
-          "id": "1784635578746",
-          "title": "Nada Mais",
-          "artist": "FHOP Music",
-          "author": "Cody Carnes, Hank Bentley, Jessie Early"
-        },
-        {
-          "id": "1771527481026",
-          "title": "Nada Mais + Uma Vez",
-          "artist": "Brasa Church",
-          "author": ""
-        }
-      ],
-      "occurrences": "5",
-      "occurrences_by_day": "3,0,0,0,2,0,0",
-      "timestamps": "1771803169,1772148176,1777240800,1777590000,1785103200"
     },
     {
       "songs": [
@@ -316,6 +316,19 @@
     {
       "songs": [
         {
+          "id": "1762266764409",
+          "title": "O Que Sua Glória Fez Comigo",
+          "artist": "Fernanda Brum",
+          "author": "Duda Moon"
+        }
+      ],
+      "occurrences": "4",
+      "occurrences_by_day": "2,0,0,0,2,0,0",
+      "timestamps": "1771200288,1771545954,1789336800,1789686000"
+    },
+    {
+      "songs": [
+        {
           "id": "1762287221344",
           "title": "Quem É Esse?",
           "artist": "Julliany Souza",
@@ -377,6 +390,19 @@
       "occurrences": "4",
       "occurrences_by_day": "3,0,0,0,1,0,0",
       "timestamps": "1773007200,1777809600,1778198545,1789336800"
+    },
+    {
+      "songs": [
+        {
+          "id": "1762264609310",
+          "title": "Ao Único",
+          "artist": "Aline Barros",
+          "author": "Bené Gomes"
+        }
+      ],
+      "occurrences": "3",
+      "occurrences_by_day": "0,0,0,0,3,0,0",
+      "timestamps": "1783036553,1787266800,1789686000"
     },
     {
       "songs": [
@@ -487,19 +513,6 @@
       "occurrences": "3",
       "occurrences_by_day": "2,0,0,0,1,0,0",
       "timestamps": "1778450400,1778800723,1783893600"
-    },
-    {
-      "songs": [
-        {
-          "id": "1762266764409",
-          "title": "O Que Sua Glória Fez Comigo",
-          "artist": "Fernanda Brum",
-          "author": "Duda Moon"
-        }
-      ],
-      "occurrences": "3",
-      "occurrences_by_day": "2,0,0,0,1,0,0",
-      "timestamps": "1771200288,1771545954,1789336800"
     },
     {
       "songs": [
@@ -725,19 +738,6 @@
     {
       "songs": [
         {
-          "id": "1762264609310",
-          "title": "Ao Único",
-          "artist": "Aline Barros",
-          "author": "Bené Gomes"
-        }
-      ],
-      "occurrences": "2",
-      "occurrences_by_day": "0,0,0,0,2,0,0",
-      "timestamps": "1783036553,1787266800"
-    },
-    {
-      "songs": [
-        {
           "id": "1762266789938",
           "title": "Atos 2",
           "artist": "Gabriela Rocha",
@@ -894,6 +894,19 @@
     {
       "songs": [
         {
+          "id": "1762265420949",
+          "title": "Diz",
+          "artist": "Gabriela Rocha",
+          "author": "Jason Ingram, Lauren Daigle, Paul Mabury"
+        }
+      ],
+      "occurrences": "2",
+      "occurrences_by_day": "1,0,0,0,1,0,0",
+      "timestamps": "1789336800,1789686000"
+    },
+    {
+      "songs": [
+        {
           "id": "1762264339346",
           "title": "Estrela da Manhã",
           "artist": "Marcos Góes",
@@ -1020,6 +1033,19 @@
       "occurrences": "2",
       "occurrences_by_day": "1,0,0,0,1,0,0",
       "timestamps": "1773007200,1773359924"
+    },
+    {
+      "songs": [
+        {
+          "id": "1784635578746",
+          "title": "Nada Mais",
+          "artist": "FHOP Music",
+          "author": "Cody Carnes, Hank Bentley, Jessie Early"
+        }
+      ],
+      "occurrences": "2",
+      "occurrences_by_day": "2,0,0,0,0,0,0",
+      "timestamps": "1785103200,1789941600"
     },
     {
       "songs": [
@@ -1310,6 +1336,19 @@
     {
       "songs": [
         {
+          "id": "1760703359019",
+          "title": "De Dentro Pra Fora",
+          "artist": "Julia Vitória",
+          "author": "Julia Vitória"
+        }
+      ],
+      "occurrences": "1",
+      "occurrences_by_day": "1,0,0,0,0,0,0",
+      "timestamps": "1789941600"
+    },
+    {
+      "songs": [
+        {
           "id": "1762264630874",
           "title": "Deus Me Ama",
           "artist": "Thalles Roberto",
@@ -1319,6 +1358,19 @@
       "occurrences": "1",
       "occurrences_by_day": "1,0,0,0,0,0,0",
       "timestamps": "1786917600"
+    },
+    {
+      "songs": [
+        {
+          "id": "1762265070553",
+          "title": "Deus Proverá",
+          "artist": "Gabriela Gomes",
+          "author": "Gabriela Gomes"
+        }
+      ],
+      "occurrences": "1",
+      "occurrences_by_day": "0,0,0,0,1,0,0",
+      "timestamps": "1789686000"
     },
     {
       "songs": [
@@ -1345,19 +1397,6 @@
       "occurrences": "1",
       "occurrences_by_day": "1,0,0,0,0,0,0",
       "timestamps": "1773612000"
-    },
-    {
-      "songs": [
-        {
-          "id": "1762265420949",
-          "title": "Diz",
-          "artist": "Gabriela Rocha",
-          "author": "Jason Ingram, Lauren Daigle, Paul Mabury"
-        }
-      ],
-      "occurrences": "1",
-      "occurrences_by_day": "1,0,0,0,0,0,0",
-      "timestamps": "1789336800"
     },
     {
       "songs": [
@@ -1661,19 +1700,6 @@
     {
       "songs": [
         {
-          "id": "1784635578746",
-          "title": "Nada Mais",
-          "artist": "FHOP Music",
-          "author": "Cody Carnes, Hank Bentley, Jessie Early"
-        }
-      ],
-      "occurrences": "1",
-      "occurrences_by_day": "1,0,0,0,0,0,0",
-      "timestamps": "1785103200"
-    },
-    {
-      "songs": [
-        {
           "id": "1760469698878",
           "title": "Não Vou Calar Meus Lábios",
           "artist": "Marcos Góes",
@@ -1843,6 +1869,19 @@
     {
       "songs": [
         {
+          "id": "1789398626836",
+          "title": "Toda Terra",
+          "artist": "Gabriela Rocha",
+          "author": "Abdiel Arsenio"
+        }
+      ],
+      "occurrences": "1",
+      "occurrences_by_day": "1,0,0,0,0,0,0",
+      "timestamps": "1789941600"
+    },
+    {
+      "songs": [
+        {
           "id": "1762264929980",
           "title": "Tu És + Águas Purificadoras",
           "artist": "FHOP Music",
@@ -1934,6 +1973,19 @@
     {
       "songs": [
         {
+          "id": "1762265244057",
+          "title": "Vim Para Adorar-Te",
+          "artist": "Adoração e Adoradores e Ana Paula Valadão",
+          "author": "Tim Hughes"
+        }
+      ],
+      "occurrences": "1",
+      "occurrences_by_day": "1,0,0,0,0,0,0",
+      "timestamps": "1789941600"
+    },
+    {
+      "songs": [
+        {
           "id": "1760470049835",
           "title": "Vitória No Deserto",
           "artist": "Aline Barros",
@@ -1943,6 +1995,19 @@
       "occurrences": "1",
       "occurrences_by_day": "1,0,0,0,0,0,0",
       "timestamps": "1778450400"
+    },
+    {
+      "songs": [
+        {
+          "id": "1762264715471",
+          "title": "Vitorioso És",
+          "artist": "Gabriel Guedes",
+          "author": "Reuben Morgan, Ben Fielding, Matt Crocker, Brian Johnson"
+        }
+      ],
+      "occurrences": "1",
+      "occurrences_by_day": "1,0,0,0,0,0,0",
+      "timestamps": "1789941600"
     },
     {
       "songs": [
@@ -2077,19 +2142,6 @@
     {
       "songs": [
         {
-          "id": "1760703359019",
-          "title": "De Dentro Pra Fora",
-          "artist": "Julia Vitória",
-          "author": "Julia Vitória"
-        }
-      ],
-      "occurrences": "0",
-      "occurrences_by_day": "0,0,0,0,0,0,0",
-      "timestamps": ""
-    },
-    {
-      "songs": [
-        {
           "id": "1762265276884",
           "title": "Deus Cuida de Mim",
           "artist": "Kleber Lucas",
@@ -2142,10 +2194,10 @@
     {
       "songs": [
         {
-          "id": "1762264882917",
-          "title": "Deus Forte Como Jeová",
-          "artist": "",
-          "author": "Livingston Farias"
+          "id": "1790079485651",
+          "title": "Deus Está Aqui / O Espírito de Deus / Manancial",
+          "artist": "Gabriela Rocha",
+          "author": "Francisco Javier Gacías Mateo, Bené Gomes, Ana Paula Valadão"
         }
       ],
       "occurrences": "0",
@@ -2155,10 +2207,10 @@
     {
       "songs": [
         {
-          "id": "1762265070553",
-          "title": "Deus Proverá",
-          "artist": "Gabriela Gomes",
-          "author": "Gabriela Gomes"
+          "id": "1762264882917",
+          "title": "Deus Forte Como Jeová",
+          "artist": "",
+          "author": "Livingston Farias"
         }
       ],
       "occurrences": "0",
@@ -2636,19 +2688,6 @@
     {
       "songs": [
         {
-          "id": "1789398626836",
-          "title": "Toda Terra",
-          "artist": "Gabriela Rocha",
-          "author": "Abdiel Arsenio"
-        }
-      ],
-      "occurrences": "0",
-      "occurrences_by_day": "0,0,0,0,0,0,0",
-      "timestamps": ""
-    },
-    {
-      "songs": [
-        {
           "id": "1762265710085",
           "title": "Todavia Me Alegrarei",
           "artist": "Leandro Soares",
@@ -2679,32 +2718,6 @@
           "title": "Venho, Senhor, Minha Vida Oferecer",
           "artist": "Igreja Cristã Maranata",
           "author": "Willen Soares"
-        }
-      ],
-      "occurrences": "0",
-      "occurrences_by_day": "0,0,0,0,0,0,0",
-      "timestamps": ""
-    },
-    {
-      "songs": [
-        {
-          "id": "1762265244057",
-          "title": "Vim Para Adorar-Te",
-          "artist": "Adoração e Adoradores e Ana Paula Valadão",
-          "author": "Tim Hughes"
-        }
-      ],
-      "occurrences": "0",
-      "occurrences_by_day": "0,0,0,0,0,0,0",
-      "timestamps": ""
-    },
-    {
-      "songs": [
-        {
-          "id": "1762264715471",
-          "title": "Vitorioso És",
-          "artist": "Gabriel Guedes",
-          "author": "Reuben Morgan, Ben Fielding, Matt Crocker, Brian Johnson"
         }
       ],
       "occurrences": "0",
