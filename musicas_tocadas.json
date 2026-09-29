@@ -1,7 +1,7 @@
 {
   "filter": {
     "start": "2026-01-01",
-    "end": "2026-09-20",
+    "end": "2026-09-27",
     "service": null,
     "days": [
       "sun",
@@ -44,6 +44,25 @@
     {
       "songs": [
         {
+          "id": "1784635578746",
+          "title": "Nada Mais",
+          "artist": "FHOP Music",
+          "author": "Cody Carnes, Hank Bentley, Jessie Early"
+        },
+        {
+          "id": "1771527481026",
+          "title": "Nada Mais + Uma Vez",
+          "artist": "Brasa Church",
+          "author": ""
+        }
+      ],
+      "occurrences": "7",
+      "occurrences_by_day": "4,0,0,0,3,0,0",
+      "timestamps": "1771803169,1772148176,1777240800,1777590000,1785103200,1789941600,1790290800"
+    },
+    {
+      "songs": [
+        {
           "id": "1774306946649",
           "title": "Tudo é Perda",
           "artist": "Felipe Rodrigues",
@@ -66,25 +85,6 @@
       "occurrences": "6",
       "occurrences_by_day": "3,0,0,0,3,0,0",
       "timestamps": "1768773600,1771803176,1772150201,1779060747,1779405681,1787871600"
-    },
-    {
-      "songs": [
-        {
-          "id": "1784635578746",
-          "title": "Nada Mais",
-          "artist": "FHOP Music",
-          "author": "Cody Carnes, Hank Bentley, Jessie Early"
-        },
-        {
-          "id": "1771527481026",
-          "title": "Nada Mais + Uma Vez",
-          "artist": "Brasa Church",
-          "author": ""
-        }
-      ],
-      "occurrences": "6",
-      "occurrences_by_day": "4,0,0,0,2,0,0",
-      "timestamps": "1771803169,1772148176,1777240800,1777590000,1785103200,1789941600"
     },
     {
       "songs": [
@@ -504,6 +504,19 @@
     {
       "songs": [
         {
+          "id": "1784635578746",
+          "title": "Nada Mais",
+          "artist": "FHOP Music",
+          "author": "Cody Carnes, Hank Bentley, Jessie Early"
+        }
+      ],
+      "occurrences": "3",
+      "occurrences_by_day": "2,0,0,0,1,0,0",
+      "timestamps": "1785103200,1789941600,1790290800"
+    },
+    {
+      "songs": [
+        {
           "id": "1778012658035",
           "title": "O Fogo Arderá + Reacende a Chama + Acende Outra Vez",
           "artist": "Yasmin Teixeira",
@@ -855,6 +868,19 @@
     {
       "songs": [
         {
+          "id": "1760703359019",
+          "title": "De Dentro Pra Fora",
+          "artist": "Julia Vitória",
+          "author": "Julia Vitória"
+        }
+      ],
+      "occurrences": "2",
+      "occurrences_by_day": "1,0,0,0,1,0,0",
+      "timestamps": "1789941600,1790290800"
+    },
+    {
+      "songs": [
+        {
           "id": "1762264207842",
           "title": "Deixa Queimar",
           "artist": "Alessandro Vilas Boas",
@@ -1033,19 +1059,6 @@
       "occurrences": "2",
       "occurrences_by_day": "1,0,0,0,1,0,0",
       "timestamps": "1773007200,1773359924"
-    },
-    {
-      "songs": [
-        {
-          "id": "1784635578746",
-          "title": "Nada Mais",
-          "artist": "FHOP Music",
-          "author": "Cody Carnes, Hank Bentley, Jessie Early"
-        }
-      ],
-      "occurrences": "2",
-      "occurrences_by_day": "2,0,0,0,0,0,0",
-      "timestamps": "1785103200,1789941600"
     },
     {
       "songs": [
@@ -1245,6 +1258,19 @@
     {
       "songs": [
         {
+          "id": "1762265244057",
+          "title": "Vim Para Adorar-Te",
+          "artist": "Adoração e Adoradores e Ana Paula Valadão",
+          "author": "Tim Hughes"
+        }
+      ],
+      "occurrences": "2",
+      "occurrences_by_day": "1,0,0,0,1,0,0",
+      "timestamps": "1789941600,1790290800"
+    },
+    {
+      "songs": [
+        {
           "id": "1760984475830",
           "title": "Yahweh Se Manifestará",
           "artist": "Marcos Freire, Julliany Souza e Léo Brandão",
@@ -1336,19 +1362,6 @@
     {
       "songs": [
         {
-          "id": "1760703359019",
-          "title": "De Dentro Pra Fora",
-          "artist": "Julia Vitória",
-          "author": "Julia Vitória"
-        }
-      ],
-      "occurrences": "1",
-      "occurrences_by_day": "1,0,0,0,0,0,0",
-      "timestamps": "1789941600"
-    },
-    {
-      "songs": [
-        {
           "id": "1762264630874",
           "title": "Deus Me Ama",
           "artist": "Thalles Roberto",
@@ -1436,6 +1449,19 @@
       "occurrences": "1",
       "occurrences_by_day": "0,0,0,0,1,0,0",
       "timestamps": "1767913200"
+    },
+    {
+      "songs": [
+        {
+          "id": "1789398602360",
+          "title": "Entrega",
+          "artist": "Vineyard",
+          "author": "Marc James"
+        }
+      ],
+      "occurrences": "1",
+      "occurrences_by_day": "0,0,0,0,1,0,0",
+      "timestamps": "1790290800"
     },
     {
       "songs": [
@@ -1688,7 +1714,7 @@
       "songs": [
         {
           "id": "1775076564772",
-          "title": "Nada Além do Sangue / Pra Sempre",
+          "title": "Nada Além do Sangue / Pra Sempre / Oh Quão Lindo Esse Nome É",
           "artist": "Theo Rubia",
           "author": ""
         }
@@ -1973,19 +1999,6 @@
     {
       "songs": [
         {
-          "id": "1762265244057",
-          "title": "Vim Para Adorar-Te",
-          "artist": "Adoração e Adoradores e Ana Paula Valadão",
-          "author": "Tim Hughes"
-        }
-      ],
-      "occurrences": "1",
-      "occurrences_by_day": "1,0,0,0,0,0,0",
-      "timestamps": "1789941600"
-    },
-    {
-      "songs": [
-        {
           "id": "1760470049835",
           "title": "Vitória No Deserto",
           "artist": "Aline Barros",
@@ -2233,6 +2246,19 @@
     {
       "songs": [
         {
+          "id": "1790686107135",
+          "title": "Digno É o Senhor",
+          "artist": "Gabi Sampaio, Carol Braga $ Som do Céu",
+          "author": ""
+        }
+      ],
+      "occurrences": "0",
+      "occurrences_by_day": "0,0,0,0,0,0,0",
+      "timestamps": ""
+    },
+    {
+      "songs": [
+        {
           "id": "1776167005235",
           "title": "Ele Vem",
           "artist": "David Quinlan",
@@ -2263,19 +2289,6 @@
           "title": "Em Tua Presença",
           "artist": "Nívea Soares",
           "author": "Nívea Soares, Gustavo Soares"
-        }
-      ],
-      "occurrences": "0",
-      "occurrences_by_day": "0,0,0,0,0,0,0",
-      "timestamps": ""
-    },
-    {
-      "songs": [
-        {
-          "id": "1789398602360",
-          "title": "Entrega",
-          "artist": "Vineyard",
-          "author": "Marc James"
         }
       ],
       "occurrences": "0",
@@ -2406,6 +2419,19 @@
           "title": "Maravilhosa Graça",
           "artist": "Comunidade da Graça",
           "author": "Jeremy Riddle, Josh Farro, Phil Wickham"
+        }
+      ],
+      "occurrences": "0",
+      "occurrences_by_day": "0,0,0,0,0,0,0",
+      "timestamps": ""
+    },
+    {
+      "songs": [
+        {
+          "id": "1790686257200",
+          "title": "Me Ama",
+          "artist": "Get Worship",
+          "author": ""
         }
       ],
       "occurrences": "0",

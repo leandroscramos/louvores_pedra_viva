@@ -347,7 +347,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -4631,20 +4630,20 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Existe um nome\nSobre todo nome\n\nE esse nome é\npoderoso, sim\nJesus, Jesus\n\nAquele que morreu\ncomo cordeiro\n\nMas ressuscitou como\num Leão, Jesus\n\nAquele que ali\nna cruz do meio\n\nLiberou o Seu\nperdão, Jesus\n\nAquele que morreu\nmas ressuscitou\n\nE vivo está pra\nsempre, Jesus\n\nÓ morte, onde\nestá tua vitória?\n\nEle ressuscitou\nEle ressuscitou\n\nÓ morte, onde\nestá tua vitória?\n\nEle ressuscitou\nEle ressuscitou\n\nCantamos ao Cordeiro\nque venceu\nSanto, Santo\n\nCantamos ao Cordeiro\nque venceu\nSanto, Santo\n\nQue se ouça na Terra\no mesmo som\n\nQue os anjos\ncantam lá no Céu\n\nSanto, Santo, Santo\nSanto, Santo, Santo",
+      "full_text": "Existe um nome\nsobre todo nome\n\nE esse nome é poderoso, sim\nJesus, Jesus\n\nAquele que morreu\ncomo cordeiro\n\nMas ressuscitou como\num Leão, Jesus\n\nAquele que ali\nna cruz do meio\n\nLiberou o Seu\nperdão, Jesus\n\nAquele que morreu\nmas ressuscitou\n\nE vivo está pra\nsempre, Jesus\n\nÓ morte, onde\nestá tua vitória?\n\nEle ressuscitou\nEle ressuscitou\n\nÓ morte, onde\nestá tua vitória?\n\nEle ressuscitou\nEle ressuscitou\n\nCantamos ao Cordeiro\nque venceu\nSanto, Santo\n\nCantamos ao Cordeiro\nque venceu\nSanto, Santo\n\nQue se ouça na Terra\no mesmo som\n\nQue os anjos\ncantam lá no Céu\n\nSanto, Santo, Santo\nSanto, Santo, Santo",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Existe um nome\nSobre todo nome",
+          "text": "Existe um nome\nsobre todo nome",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "E esse nome é\npoderoso, sim\nJesus, Jesus",
+          "text": "E esse nome é poderoso, sim\nJesus, Jesus",
           "text_with_comment": null,
           "translations": null
         },
@@ -4772,7 +4771,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/jefferson-e-suellen/cordeiro-e-leao",
       "extra": ""
     }
@@ -5889,111 +5887,97 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Sei que os teus olhos\nSempre atentos\n\nPermanecem em mim\n\nE os teus ouvidos\nEstão sensíveis\n\nPara ouvir meu clamor\n\nPosso até chorar\nMas a alegria vem de manhã\n\nÉs Deus de perto\nE não de longe\n\nNunca mudastes\nTu és fiel\n\nDeus de aliança\nDeus de promessas\n\nDeus que não é homem\nPra mentir\n\nTudo pode passar\nTudo pode mudar\n\nMas Tua palavra vai\nSe cumprir\n\nPosso enfrentar o que for\nEu sei quem luta por mim\n\nSeus planos\nNão podem ser frustrados\n\nMinha esperança está\nNas mãos do Grande Eu Sou\n\nMeus olhos vão ver\nO impossível acontecer",
+      "full_text": "Sei que os Teus olhos\nsempre atentos\npermanecem em mim\n\nE os Teus ouvidos\nestão sensíveis\npara ouvir meu clamor\n\nPosso até chorar\nmas a alegria vem de manhã\n\nÉs Deus de perto\ne não de longe\n\nNunca mudastes\nTu és fiel\n\nDeus de aliança\nDeus de promessas\n\nDeus que não é homem\npra mentir\n\nTudo pode passar\nTudo pode mudar\n\nMas Tua palavra vai\nse cumprir\n\nPosso enfrentar o que for\nEu sei quem luta por mim\n\nSeus planos\nnão podem ser frustrados\n\nMinha esperança está\nnas mãos do Grande Eu Sou\n\nMeus olhos vão ver\no impossível acontecer",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Sei que os teus olhos\nSempre atentos",
+          "text": "Sei que os Teus olhos\nsempre atentos\npermanecem em mim",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "Permanecem em mim",
+          "text": "E os Teus ouvidos\nestão sensíveis\npara ouvir meu clamor",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "E os teus ouvidos\nEstão sensíveis",
+          "text": "Posso até chorar\nmas a alegria vem de manhã",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Para ouvir meu clamor",
+          "text": "És Deus de perto\ne não de longe",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Posso até chorar\nMas a alegria vem de manhã",
+          "text": "Nunca mudastes\nTu és fiel",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "És Deus de perto\nE não de longe",
+          "text": "Deus de aliança\nDeus de promessas",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Nunca mudastes\nTu és fiel",
+          "text": "Deus que não é homem\npra mentir",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Deus de aliança\nDeus de promessas",
+          "text": "Tudo pode passar\nTudo pode mudar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 9,
           "description": "",
-          "text": "Deus que não é homem\nPra mentir",
+          "text": "Mas Tua palavra vai\nse cumprir",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 10,
           "description": "",
-          "text": "Tudo pode passar\nTudo pode mudar",
+          "text": "Posso enfrentar o que for\nEu sei quem luta por mim",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 11,
           "description": "",
-          "text": "Mas Tua palavra vai\nSe cumprir",
+          "text": "Seus planos\nnão podem ser frustrados",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 12,
           "description": "",
-          "text": "Posso enfrentar o que for\nEu sei quem luta por mim",
+          "text": "Minha esperança está\nnas mãos do Grande Eu Sou",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 13,
           "description": "",
-          "text": "Seus planos\nNão podem ser frustrados",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 14,
-          "description": "",
-          "text": "Minha esperança está\nNas mãos do Grande Eu Sou",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 15,
-          "description": "",
-          "text": "Meus olhos vão ver\nO impossível acontecer",
+          "text": "Meus olhos vão ver\no impossível acontecer",
           "text_with_comment": null,
           "translations": null
         }
@@ -6016,7 +6000,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -6290,111 +6273,104 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Deus está aqui\nTão certo como o ar que eu respiro\n\nTão certo como o amanhã que se levanta\nTão certo como eu te falo e podes me ouvir\n\nDeus está aqui\nTão certo como o ar que eu respiro\n\nTão certo como o amanhã que se levanta\nTão certo como eu te falo e podes me ouvir\n\nOs feridos de alma são curados\nOs cativos e oprimidos livres são\n\nOs enfermos e doentes são sarados\nPois o Espírito de Deus está aqui\n\nOs feridos de alma são curados\nOs cativos e oprimidos livres são\n\nOs enfermos e doentes são sarados\nPois o Espírito de Deus está aqui\n\nEu quero ser como um jardim fechado\nRegado e cuidado pelo Teu Espírito\n\nFlua em mim como um manancial\nDo meu interior, com águas vivas\n\nEu quero ser como um jardim fechado\nRegado e cuidado pelo Teu Espírito\n\nFlua em mim como um manancial\nDo meu interior, com águas vivas\n\nRestaura o meu ser\nPara o Teu louvor\nPara o Teu louvor\nPara o Teu louvor\nPara o Teu louvor\n\nEu quero ser como um jardim fechado\nRegado e cuidado pelo Teu Espírito\nFlua em mim como um manancial\nDo meu interior, com águas vivas\n\nRestaura o meu ser\nPara o Teu louvor",
+      "full_text": "Deus está aqui\n\nTão certo como o\nar que eu respiro\n\nTão certo como o amanhã\nque se levanta\n\nTão certo como eu te falo\ne podes me ouvir\n\nOs feridos de alma\nsão curados\n\nOs cativos e oprimidos\nlivres são\n\nOs enfermos e doentes\nsão sarados\n\nPois o Espírito de Deus\nestá aqui\n\nEu quero ser como um\njardim fechado\n\nRegado e cuidado pelo\nTeu Espírito\n\nFlua em mim como\num manancial\n\nDo meu interior,\ncom águas vivas\n\nRestaura o meu ser\npara o Teu louvor\n\nPara o Teu louvor",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Deus está aqui\nTão certo como o ar que eu respiro",
+          "text": "Deus está aqui",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "Tão certo como o amanhã que se levanta\nTão certo como eu te falo e podes me ouvir",
+          "text": "Tão certo como o\nar que eu respiro",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "Deus está aqui\nTão certo como o ar que eu respiro",
+          "text": "Tão certo como o amanhã\nque se levanta",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Tão certo como o amanhã que se levanta\nTão certo como eu te falo e podes me ouvir",
+          "text": "Tão certo como eu te falo\ne podes me ouvir",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Os feridos de alma são curados\nOs cativos e oprimidos livres são",
+          "text": "Os feridos de alma\nsão curados",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Os enfermos e doentes são sarados\nPois o Espírito de Deus está aqui",
+          "text": "Os cativos e oprimidos\nlivres são",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Os feridos de alma são curados\nOs cativos e oprimidos livres são",
+          "text": "Os enfermos e doentes\nsão sarados",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Os enfermos e doentes são sarados\nPois o Espírito de Deus está aqui",
+          "text": "Pois o Espírito de Deus\nestá aqui",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 9,
           "description": "",
-          "text": "Eu quero ser como um jardim fechado\nRegado e cuidado pelo Teu Espírito",
+          "text": "Eu quero ser como um\njardim fechado",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 10,
           "description": "",
-          "text": "Flua em mim como um manancial\nDo meu interior, com águas vivas",
+          "text": "Regado e cuidado pelo\nTeu Espírito",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 11,
           "description": "",
-          "text": "Eu quero ser como um jardim fechado\nRegado e cuidado pelo Teu Espírito",
+          "text": "Flua em mim como\num manancial",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 12,
           "description": "",
-          "text": "Flua em mim como um manancial\nDo meu interior, com águas vivas",
+          "text": "Do meu interior,\ncom águas vivas",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 13,
           "description": "",
-          "text": "Restaura o meu ser\nPara o Teu louvor\nPara o Teu louvor\nPara o Teu louvor\nPara o Teu louvor",
+          "text": "Restaura o meu ser\npara o Teu louvor",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 14,
           "description": "",
-          "text": "Eu quero ser como um jardim fechado\nRegado e cuidado pelo Teu Espírito\nFlua em mim como um manancial\nDo meu interior, com águas vivas",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 15,
-          "description": "",
-          "text": "Restaura o meu ser\nPara o Teu louvor",
+          "text": "Para o Teu louvor",
           "text_with_comment": null,
           "translations": null
         }
@@ -6417,8 +6393,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
-      "nova": "s",
       "extra": ""
     }
   },
@@ -6660,7 +6634,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/thalles-roberto/deus-me-ama",
       "extra": ""
     }
@@ -7511,6 +7484,133 @@
     }
   },
   {
+    "id": 1790686107135,
+    "title": "Digno É o Senhor",
+    "artist": "Gabi Sampaio, Carol Braga $ Som do Céu",
+    "author": "",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "Ab",
+    "bpm": 69.0,
+    "time_sig": "4/4",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Graças eu Te dou, Pai\nPelo preço que pagou\n\nSacrifício de amor\nQue me comprou\n\nUngido do Senhor\n\nPelos cravos em Tuas mãos\nGraças eu Te dou\n\nÓ meu Senhor\n\nLavou minha mente e coração\nMe deu perdão\n\nRestaurou-me a comunhão\n\nDigno é o Senhor\nSobre o trono está\n\nSoberano, criador\nVou sempre Te adorar\n\nElevo minhas mãos\nAo Cristo que venceu\n\nCordeiro de Deus\nMorreu por mim\n\nMas ressuscitou\nDigno é o Senhor",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Graças eu Te dou, Pai\nPelo preço que pagou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Sacrifício de amor\nQue me comprou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Ungido do Senhor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Pelos cravos em Tuas mãos\nGraças eu Te dou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Ó meu Senhor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Lavou minha mente e coração\nMe deu perdão",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Restaurou-me a comunhão",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Digno é o Senhor\nSobre o trono está",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Soberano, criador\nVou sempre Te adorar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Elevo minhas mãos\nAo Cristo que venceu",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Cordeiro de Deus\nMorreu por mim",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Mas ressuscitou\nDigno é o Senhor",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "",
+        "youtube": "https://www.youtube.com/watch?is=gvdeRMztVT0cXE2t&v=qhc-RceZvYE&feature=youtu.be",
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
+      }
+    },
+    "extras": {
+      "playlist_semana": "s",
+      "cifra": "https://www.cifrashub.com.br/song/aline-barros/digno-o-senhor--",
+      "nova": "s",
+      "extra": ""
+    }
+  },
+  {
     "id": 1762265420949,
     "title": "Diz",
     "artist": "Gabriela Rocha",
@@ -8310,6 +8410,8 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
+      "cifra": "https://www.cifrashub.com.br/song/adhemar-de-campos/ele-exaltado",
       "extra": ""
     }
   },
@@ -8611,7 +8713,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Em Espírito, em verdade\nTe adoramos, Te adoramos\n\nRei dos reis e Senhor\nTe entregamos nosso viver\n\nPra Te adorar, ó Rei dos reis\nFoi que eu nasci, ó Rei Jesus\n\nMeu prazer é Te louvar\n\nMeu prazer é estar\nNos átrios do Senhor\n\nMeu prazer é viver na casa de Deus\nOnde flui o amor\n\nMeu prazer é viver na casa de Deus\nMinistrando o louvor",
+      "full_text": "Em Espírito, em verdade\nTe adoramos, Te adoramos\n\nRei dos reis e Senhor\nTe entregamos nosso viver\n\nPra Te adorar, ó Rei dos reis\nFoi que eu nasci, ó Rei Jesus\n\nMeu prazer é Te louvar\n\nMeu prazer é estar\nNos átrios do Senhor\n\nMeu prazer é viver na\ncasa de Deus\nOnde flui o amor\n\nMeu prazer é viver na\ncasa de Deus\nMinistrando o louvor",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -8652,14 +8754,14 @@
         {
           "number": 6,
           "description": "",
-          "text": "Meu prazer é viver na casa de Deus\nOnde flui o amor",
+          "text": "Meu prazer é viver na\ncasa de Deus\nOnde flui o amor",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Meu prazer é viver na casa de Deus\nMinistrando o louvor",
+          "text": "Meu prazer é viver na\ncasa de Deus\nMinistrando o louvor",
           "text_with_comment": null,
           "translations": null
         }
@@ -13518,6 +13620,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/julliany-souza/lindo-momento",
       "extra": ""
     }
@@ -15007,6 +15110,187 @@
     }
   },
   {
+    "id": 1790686257200,
+    "title": "Me Ama",
+    "artist": "Get Worship",
+    "author": "",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "A",
+    "bpm": 77.0,
+    "time_sig": "6/8",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Tem ciúmes de mim\nO Seu amor é\n\nComo um furacão\nE eu me rendo\n\nAo vento de\nSua misericórdia\n\nE então de repente\nNão vejo mais\n\nMinhas aflições\nEu só vejo a glória\n\nE percebo\nQuão maravilhoso Ele é\n\nE o tanto que\nEle me quer\n\nOh, Ele me amou\nOh, Ele me ama\n\nEle me amou\n\nMe ama\nEle me ama\n\nEle me ama\nEle me ama\n\nSomos Sua herança\nE Ele é o nosso galardão\n\nSeu olhar de graça\nNos atrai à redenção\n\nSe a graça é um oceano,\nEstamos afogando\n\nO céu se une à Terra\nComo um beijo apaixonado\n\nMeu coração dispara\nEm meu peito acelerado\n\nNão tenho pra perder\nCom ressentimentos\n\nQuando penso que Ele\n\nMe ama\nEle me ama\n\nEle me ama\nEle me ama",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Tem ciúmes de mim\nO Seu amor é",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Como um furacão\nE eu me rendo",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Ao vento de\nSua misericórdia",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "E então de repente\nNão vejo mais",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Minhas aflições\nEu só vejo a glória",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "E percebo\nQuão maravilhoso Ele é",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "E o tanto que\nEle me quer",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Oh, Ele me amou\nOh, Ele me ama",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Ele me amou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Me ama\nEle me ama",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Ele me ama\nEle me ama",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Somos Sua herança\nE Ele é o nosso galardão",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "Seu olhar de graça\nNos atrai à redenção",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "Se a graça é um oceano,\nEstamos afogando",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 15,
+          "description": "",
+          "text": "O céu se une à Terra\nComo um beijo apaixonado",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 16,
+          "description": "",
+          "text": "Meu coração dispara\nEm meu peito acelerado",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 17,
+          "description": "",
+          "text": "Não tenho pra perder\nCom ressentimentos",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 18,
+          "description": "",
+          "text": "Quando penso que Ele",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 19,
+          "description": "",
+          "text": "Me ama\nEle me ama",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 20,
+          "description": "",
+          "text": "Ele me ama\nEle me ama",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "",
+        "youtube": "https://www.youtube.com/watch?v=xG7sSQhchJY",
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
+      }
+    },
+    "extras": {
+      "playlist_semana": "s",
+      "extra": ""
+    }
+  },
+  {
     "id": 1766939993192,
     "title": "Me Atraiu",
     "artist": "Gabriela Rocha",
@@ -16347,6 +16631,8 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
+      "cifra": "https://www.cifrashub.com.br/song/renascer-praise/1000-graus",
       "extra": ""
     }
   },
@@ -16365,7 +16651,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Minh'alma engrandece ao Senhor\n\nMeu Espírito se alegra\nEm Deus meu Salvador\n\nPois com poder tem feito grandes coisas\n\nE com misericórdia\nDemonstrado amor\n\nSanto, Santo\nSanto és Senhor\n\nSanto, Santo\nSanto és Senhor\n\nTem enchido nossas lâmpadas\nCom o óleo do Espírito\nTem feito Sua vide florescer\n\nTem enchido nossas lâmpadas\nCom o óleo do Espírito\nTem feito Sua vide florescer\n\nSanto, Santo\nSanto és Senhor\n\nSanto, Santo\nSanto és Senhor\n\nAdorado, exaltado és, Senhor\nTão amado, desejado das nações\n\nAdorado mais que todos\nMais que tudo és amado, adorado",
+      "full_text": "Minh'alma engrandece ao Senhor\n\nMeu Espírito se alegra\nem Deus meu Salvador\n\nPois com poder tem feito\ngrandes coisas\n\nE com misericórdia\ndemonstrado amor\n\nSanto, Santo\nSanto és Senhor\n\nSanto, Santo\nSanto és Senhor\n\nTem enchido nossas lâmpadas\nCom o óleo do Espírito\nTem feito Sua vide florescer\n\nTem enchido nossas lâmpadas\nCom o óleo do Espírito\nTem feito Sua vide florescer\n\nSanto, Santo\nSanto és Senhor\n\nSanto, Santo\nSanto és Senhor\n\nAdorado, exaltado és, Senhor\nTão amado, desejado das nações\n\nAdorado mais que todos\nMais que tudo és amado, adorado",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -16378,21 +16664,21 @@
         {
           "number": 2,
           "description": "",
-          "text": "Meu Espírito se alegra\nEm Deus meu Salvador",
+          "text": "Meu Espírito se alegra\nem Deus meu Salvador",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "Pois com poder tem feito grandes coisas",
+          "text": "Pois com poder tem feito\ngrandes coisas",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "E com misericórdia\nDemonstrado amor",
+          "text": "E com misericórdia\ndemonstrado amor",
           "text_with_comment": null,
           "translations": null
         },
@@ -16471,7 +16757,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -16772,7 +17057,7 @@
   },
   {
     "id": 1775076564772,
-    "title": "Nada Além do Sangue / Pra Sempre",
+    "title": "Nada Além do Sangue / Pra Sempre / Oh Quão Lindo Esse Nome É",
     "artist": "Theo Rubia",
     "author": "",
     "note": "",
@@ -17038,7 +17323,7 @@
     "streaming": {
       "audio": {
         "spotify": "",
-        "youtube": "",
+        "youtube": "https://www.youtube.com/watch?v=uV301YO81I0",
         "deezer": "",
         "apple_music": "",
         "amazon_music": ""
@@ -17052,6 +17337,9 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
+      "cifra": "https://www.cifrashub.com.br/song/theo-rubia/nada-alem-do-sangue-pra-sempre-oh-quao-lindo-esse-nome-e",
+      "nova": "s",
       "extra": ""
     }
   },
@@ -26622,13 +26910,13 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Eu tenho um Deus\nQue não vai deixar\n\nEssa luta me matar\nO desespero me tomar\n\nPor mais pressão que seja\nA situação\n\nO controle ainda está\nNa palma de Suas mãos\n\nO choro dura uma noite\nMas a alegria, ela vem pela manhã\n\nEu creio, eu creio\n\nAinda que a figueira não floresça\nQue não haja fruto na vide\n\nE o produto da oliveira minta\n\nTodavia eu me alegrarei (3x)",
+      "full_text": "Eu tenho um Deus\nque não vai deixar\n\nEssa luta me matar\nO desespero me tomar\n\nPor mais pressão que\nseja a situação\n\nO controle ainda está\nna palma de Suas mãos\n\nO choro dura uma noite\nmas a alegria,\nela vem pela manhã\n\nEu creio, eu creio\n\nO choro dura uma noite\nmas a alegria,\nela vem pela manhã\n\nEu creio, eu creio\n\nAinda que a figueira não floresça\nQue não haja fruto na vide\n\nE o produto da oliveira minta\n\nTodavia eu me alegrarei",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Eu tenho um Deus\nQue não vai deixar",
+          "text": "Eu tenho um Deus\nque não vai deixar",
           "text_with_comment": null,
           "translations": null
         },
@@ -26642,21 +26930,21 @@
         {
           "number": 3,
           "description": "",
-          "text": "Por mais pressão que seja\nA situação",
+          "text": "Por mais pressão que\nseja a situação",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "O controle ainda está\nNa palma de Suas mãos",
+          "text": "O controle ainda está\nna palma de Suas mãos",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "O choro dura uma noite\nMas a alegria, ela vem pela manhã",
+          "text": "O choro dura uma noite\nmas a alegria,\nela vem pela manhã",
           "text_with_comment": null,
           "translations": null
         },
@@ -26670,21 +26958,35 @@
         {
           "number": 7,
           "description": "",
-          "text": "Ainda que a figueira não floresça\nQue não haja fruto na vide",
+          "text": "O choro dura uma noite\nmas a alegria,\nela vem pela manhã",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "E o produto da oliveira minta",
+          "text": "Eu creio, eu creio",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 9,
           "description": "",
-          "text": "Todavia eu me alegrarei (3x)",
+          "text": "Ainda que a figueira não floresça\nQue não haja fruto na vide",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "E o produto da oliveira minta",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Todavia eu me alegrarei",
           "text_with_comment": null,
           "translations": null
         }
@@ -27186,9 +27488,7 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/michael-w-smith-musicas/tu-es-santo-principe-da-paz",
-      "nova": "s",
       "extra": ""
     }
   },
@@ -29120,6 +29420,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/gabriela-rocha/vida-aos-sepulcros-part-elevation-worship",
       "extra": ""
     }
@@ -29256,48 +29557,48 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Quando a noite fria\nCair sobre mim\n\nE num deserto\nEu me encontrar\n\nMe vi cercado\nPor egípcios e por faraó\n\nSendo impedido\nDe prosseguir\n\nSei que o Teu fogo\nCairá sobre mim\n\nSei que o Teu fogo\nCairá sobre mim\n\nE me levará em\nTi confiar\n\nE me levará em\nTi confiar\n\nEntão eu direi\nÔô, abra-se o mar\n\nE eu passarei\nPulando e dançando\nEm Sua presença\n\nEntão eu direi\nÔô, abra-se o mar\n\nE eu passarei\nPulando e dançando\nEm Sua presença\n\nPor isso eu pulo\nPulo, pulo, pulo, pulo\nNa presença do Rei\n\nPor isso eu danço\nDanço, danço, danço, danço\nNa presença do Rei\n\nPor isso eu grito\nGrito, grito, grito, grito\nNa presença do Rei\n\nPor isso eu corro\nCorro, corro, corro, corro\nNa presença do Rei",
+      "full_text": "Quando a noite fria\ncair sobre mim\n\nE num deserto\neu me encontrar\n\nMe vi cercado\npor egípcios e por faraó\n\nSendo impedido\nde prosseguir\n\nSei que o Teu fogo\ncairá sobre mim\n\nSei que o Teu fogo\ncairá sobre mim\n\nE me levará em\nTi confiar\n\nE me levará em\nTi confiar\n\nEntão eu direi\nôô, abra-se o mar\n\nE eu passarei\npulando e dançando\nem Sua presença\n\nEntão eu direi\nôô, abra-se o mar\n\nE eu passarei\npulando e dançando\nem Sua presença\n\nPor isso eu pulo\npulo, pulo, pulo, pulo\nna presença do Rei\n\nPor isso eu danço\ndanço, danço, danço, danço\nna presença do Rei\n\nPor isso eu grito\ngrito, grito, grito, grito\nna presença do Rei\n\nPor isso eu corro\ncorro, corro, corro, corro\nna presença do Rei",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Quando a noite fria\nCair sobre mim",
+          "text": "Quando a noite fria\ncair sobre mim",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "E num deserto\nEu me encontrar",
+          "text": "E num deserto\neu me encontrar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "Me vi cercado\nPor egípcios e por faraó",
+          "text": "Me vi cercado\npor egípcios e por faraó",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Sendo impedido\nDe prosseguir",
+          "text": "Sendo impedido\nde prosseguir",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Sei que o Teu fogo\nCairá sobre mim",
+          "text": "Sei que o Teu fogo\ncairá sobre mim",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Sei que o Teu fogo\nCairá sobre mim",
+          "text": "Sei que o Teu fogo\ncairá sobre mim",
           "text_with_comment": null,
           "translations": null
         },
@@ -29318,56 +29619,56 @@
         {
           "number": 9,
           "description": "",
-          "text": "Então eu direi\nÔô, abra-se o mar",
+          "text": "Então eu direi\nôô, abra-se o mar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 10,
           "description": "",
-          "text": "E eu passarei\nPulando e dançando\nEm Sua presença",
+          "text": "E eu passarei\npulando e dançando\nem Sua presença",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 11,
           "description": "",
-          "text": "Então eu direi\nÔô, abra-se o mar",
+          "text": "Então eu direi\nôô, abra-se o mar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 12,
           "description": "",
-          "text": "E eu passarei\nPulando e dançando\nEm Sua presença",
+          "text": "E eu passarei\npulando e dançando\nem Sua presença",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 13,
           "description": "",
-          "text": "Por isso eu pulo\nPulo, pulo, pulo, pulo\nNa presença do Rei",
+          "text": "Por isso eu pulo\npulo, pulo, pulo, pulo\nna presença do Rei",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 14,
           "description": "",
-          "text": "Por isso eu danço\nDanço, danço, danço, danço\nNa presença do Rei",
+          "text": "Por isso eu danço\ndanço, danço, danço, danço\nna presença do Rei",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 15,
           "description": "",
-          "text": "Por isso eu grito\nGrito, grito, grito, grito\nNa presença do Rei",
+          "text": "Por isso eu grito\ngrito, grito, grito, grito\nna presença do Rei",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 16,
           "description": "",
-          "text": "Por isso eu corro\nCorro, corro, corro, corro\nNa presença do Rei",
+          "text": "Por isso eu corro\ncorro, corro, corro, corro\nna presença do Rei",
           "text_with_comment": null,
           "translations": null
         }

@@ -1,6 +1,6 @@
 {
   "start": "2026-01-01",
-  "end": "2026-09-20",
+  "end": "2026-10-08",
   "songs": [
     {
       "song": {
@@ -40,6 +40,15 @@
     },
     {
       "song": {
+        "id": "1762265976644",
+        "title": "Clamo Jesus",
+        "artist": "Paulo César Baruk e Marsena",
+        "author": "Abby Benton, Carlene Prince, Dustin Smith, Jesse Reeves, Kristen Dutton, Raina Pratt"
+      },
+      "occurrences": "6"
+    },
+    {
+      "song": {
         "id": "1761050954822",
         "title": "Tuas Águas",
         "artist": "Julia Vitória e Gabriela Rocha",
@@ -49,19 +58,19 @@
     },
     {
       "song": {
-        "id": "1769459589958",
-        "title": "Autor da Vida",
-        "artist": "Aline Barros",
-        "author": "Clovis Pinho"
+        "id": "1760703427386",
+        "title": "A Ele a Glória",
+        "artist": "Gabriela Rocha",
+        "author": "Ana Paula Valadão, Kevin Jonas"
       },
       "occurrences": "5"
     },
     {
       "song": {
-        "id": "1762265976644",
-        "title": "Clamo Jesus",
-        "artist": "Paulo César Baruk e Marsena",
-        "author": "Abby Benton, Carlene Prince, Dustin Smith, Jesse Reeves, Kristen Dutton, Raina Pratt"
+        "id": "1769459589958",
+        "title": "Autor da Vida",
+        "artist": "Aline Barros",
+        "author": "Clovis Pinho"
       },
       "occurrences": "5"
     },
@@ -100,15 +109,6 @@
         "author": "Aliyah Stamper, Eniola Abioye, Jenn Johnson, Jonathan Stamper, Lindy Cofer, Nathan Carter"
       },
       "occurrences": "5"
-    },
-    {
-      "song": {
-        "id": "1760703427386",
-        "title": "A Ele a Glória",
-        "artist": "Gabriela Rocha",
-        "author": "Ana Paula Valadão, Kevin Jonas"
-      },
-      "occurrences": "4"
     },
     {
       "song": {
@@ -292,6 +292,15 @@
     },
     {
       "song": {
+        "id": "1784635578746",
+        "title": "Nada Mais",
+        "artist": "FHOP Music",
+        "author": "Cody Carnes, Hank Bentley, Jessie Early"
+      },
+      "occurrences": "3"
+    },
+    {
+      "song": {
         "id": "1778012658035",
         "title": "O Fogo Arderá + Reacende a Chama + Acende Outra Vez",
         "artist": "Yasmin Teixeira",
@@ -395,6 +404,15 @@
         "title": "Sonda-me, Usa-me",
         "artist": "Aline Barros",
         "author": "Aline Barros, Ana Feitosa, Edson Feitosa"
+      },
+      "occurrences": "3"
+    },
+    {
+      "song": {
+        "id": "1787055522359",
+        "title": "Tu És Santo (Príncipe da Paz)",
+        "artist": "Andrea Fontes",
+        "author": "Marc Imboden, Tammi Rhoton"
       },
       "occurrences": "3"
     },
@@ -535,6 +553,15 @@
     },
     {
       "song": {
+        "id": "1760703359019",
+        "title": "De Dentro Pra Fora",
+        "artist": "Julia Vitória",
+        "author": "Julia Vitória"
+      },
+      "occurrences": "2"
+    },
+    {
+      "song": {
         "id": "1762264207842",
         "title": "Deixa Queimar",
         "artist": "Alessandro Vilas Boas",
@@ -566,6 +593,15 @@
         "title": "Diz",
         "artist": "Gabriela Rocha",
         "author": "Jason Ingram, Lauren Daigle, Paul Mabury"
+      },
+      "occurrences": "2"
+    },
+    {
+      "song": {
+        "id": "1761050980354",
+        "title": "Em Espírito e Em Verdade",
+        "artist": "Min. Koinonya de Louvor",
+        "author": "Márcio Pereira"
       },
       "occurrences": "2"
     },
@@ -656,15 +692,6 @@
         "title": "Na Casa de Meu Pai",
         "artist": "Comunidade de Nilópolis",
         "author": ""
-      },
-      "occurrences": "2"
-    },
-    {
-      "song": {
-        "id": "1784635578746",
-        "title": "Nada Mais",
-        "artist": "FHOP Music",
-        "author": "Cody Carnes, Hank Bentley, Jessie Early"
       },
       "occurrences": "2"
     },
@@ -778,19 +805,28 @@
     },
     {
       "song": {
-        "id": "1787055522359",
-        "title": "Tu És Santo (Príncipe da Paz)",
-        "artist": "Andrea Fontes",
-        "author": "Marc Imboden, Tammi Rhoton"
+        "id": "1762264375970",
+        "title": "Uma Nova História",
+        "artist": "Fernandinho",
+        "author": "Fernandinho"
       },
       "occurrences": "2"
     },
     {
       "song": {
-        "id": "1762264375970",
-        "title": "Uma Nova História",
-        "artist": "Fernandinho",
-        "author": "Fernandinho"
+        "id": "1762265244057",
+        "title": "Vim Para Adorar-Te",
+        "artist": "Adoração e Adoradores e Ana Paula Valadão",
+        "author": "Tim Hughes"
+      },
+      "occurrences": "2"
+    },
+    {
+      "song": {
+        "id": "1760470049835",
+        "title": "Vitória No Deserto",
+        "artist": "Aline Barros",
+        "author": "Luciano Moreira"
       },
       "occurrences": "2"
     },
@@ -859,6 +895,15 @@
     },
     {
       "song": {
+        "id": "1762265087537",
+        "title": "Cordeiro e Leão",
+        "artist": "Jefferson \u0026 Suellen",
+        "author": "Jeferson Rodrigo"
+      },
+      "occurrences": "1"
+    },
+    {
+      "song": {
         "id": "1778702436096",
         "title": "Corinhos (Medley)",
         "artist": "",
@@ -868,10 +913,19 @@
     },
     {
       "song": {
-        "id": "1760703359019",
-        "title": "De Dentro Pra Fora",
-        "artist": "Julia Vitória",
-        "author": "Julia Vitória"
+        "id": "1762266099624",
+        "title": "Deus De Promessas",
+        "artist": "Toque no Altar",
+        "author": "Davi Sacer, Ronald Fonseca, Verônica Sacer"
+      },
+      "occurrences": "1"
+    },
+    {
+      "song": {
+        "id": "1790079485651",
+        "title": "Deus Está Aqui / O Espírito de Deus / Manancial",
+        "artist": "Gabriela Rocha",
+        "author": "Francisco Javier Gacías Mateo, Bené Gomes, Ana Paula Valadão"
       },
       "occurrences": "1"
     },
@@ -931,10 +985,10 @@
     },
     {
       "song": {
-        "id": "1761050980354",
-        "title": "Em Espírito e Em Verdade",
-        "artist": "Min. Koinonya de Louvor",
-        "author": "Márcio Pereira"
+        "id": "1789398602360",
+        "title": "Entrega",
+        "artist": "Vineyard",
+        "author": "Marc James"
       },
       "occurrences": "1"
     },
@@ -1112,7 +1166,7 @@
     {
       "song": {
         "id": "1775076564772",
-        "title": "Nada Além do Sangue / Pra Sempre",
+        "title": "Nada Além do Sangue / Pra Sempre / Oh Quão Lindo Esse Nome É",
         "artist": "Theo Rubia",
         "author": ""
       },
@@ -1255,6 +1309,15 @@
     },
     {
       "song": {
+        "id": "1762265710085",
+        "title": "Todavia Me Alegrarei",
+        "artist": "Leandro Soares",
+        "author": "Samuel Messias"
+      },
+      "occurrences": "1"
+    },
+    {
+      "song": {
         "id": "1762264929980",
         "title": "Tu És + Águas Purificadoras",
         "artist": "FHOP Music",
@@ -1313,24 +1376,6 @@
         "title": "Vida Aos Sepulcros",
         "artist": "Gabriela Rocha",
         "author": "Brandon Lake, Chris Brown, Steven Furtick, Tiffany Hudson"
-      },
-      "occurrences": "1"
-    },
-    {
-      "song": {
-        "id": "1762265244057",
-        "title": "Vim Para Adorar-Te",
-        "artist": "Adoração e Adoradores e Ana Paula Valadão",
-        "author": "Tim Hughes"
-      },
-      "occurrences": "1"
-    },
-    {
-      "song": {
-        "id": "1760470049835",
-        "title": "Vitória No Deserto",
-        "artist": "Aline Barros",
-        "author": "Luciano Moreira"
       },
       "occurrences": "1"
     },
@@ -1426,28 +1471,10 @@
     },
     {
       "song": {
-        "id": "1762265087537",
-        "title": "Cordeiro e Leão",
-        "artist": "Jefferson \u0026 Suellen",
-        "author": "Jeferson Rodrigo"
-      },
-      "occurrences": "0"
-    },
-    {
-      "song": {
         "id": "1762265276884",
         "title": "Deus Cuida de Mim",
         "artist": "Kleber Lucas",
         "author": "Kleber Lucas"
-      },
-      "occurrences": "0"
-    },
-    {
-      "song": {
-        "id": "1762266099624",
-        "title": "Deus De Promessas",
-        "artist": "Toque no Altar",
-        "author": "Davi Sacer, Ronald Fonseca, Verônica Sacer"
       },
       "occurrences": "0"
     },
@@ -1471,15 +1498,6 @@
     },
     {
       "song": {
-        "id": "1790079485651",
-        "title": "Deus Está Aqui / O Espírito de Deus / Manancial",
-        "artist": "Gabriela Rocha",
-        "author": "Francisco Javier Gacías Mateo, Bené Gomes, Ana Paula Valadão"
-      },
-      "occurrences": "0"
-    },
-    {
-      "song": {
         "id": "1762264882917",
         "title": "Deus Forte Como Jeová",
         "artist": "",
@@ -1493,6 +1511,15 @@
         "title": "Digno de Glória",
         "artist": "Asaph Borba",
         "author": "Asaph Borba, Eva-Lena Hellmark"
+      },
+      "occurrences": "0"
+    },
+    {
+      "song": {
+        "id": "1790686107135",
+        "title": "Digno É o Senhor",
+        "artist": "Gabi Sampaio, Carol Braga $ Som do Céu",
+        "author": ""
       },
       "occurrences": "0"
     },
@@ -1520,15 +1547,6 @@
         "title": "Em Tua Presença",
         "artist": "Nívea Soares",
         "author": "Nívea Soares, Gustavo Soares"
-      },
-      "occurrences": "0"
-    },
-    {
-      "song": {
-        "id": "1789398602360",
-        "title": "Entrega",
-        "artist": "Vineyard",
-        "author": "Marc James"
       },
       "occurrences": "0"
     },
@@ -1619,6 +1637,15 @@
         "title": "Maravilhosa Graça",
         "artist": "Comunidade da Graça",
         "author": "Jeremy Riddle, Josh Farro, Phil Wickham"
+      },
+      "occurrences": "0"
+    },
+    {
+      "song": {
+        "id": "1790686257200",
+        "title": "Me Ama",
+        "artist": "Get Worship",
+        "author": ""
       },
       "occurrences": "0"
     },
@@ -1813,15 +1840,6 @@
     },
     {
       "song": {
-        "id": "1762265710085",
-        "title": "Todavia Me Alegrarei",
-        "artist": "Leandro Soares",
-        "author": "Samuel Messias"
-      },
-      "occurrences": "0"
-    },
-    {
-      "song": {
         "id": "1762266580530",
         "title": "Tributo a Yehovah",
         "artist": "Paulo César Baruk",
@@ -1846,7 +1864,7 @@
         "name": "Diego"
       },
       "responsible": "0",
-      "scheduled": "27"
+      "scheduled": "31"
     },
     {
       "member": {
@@ -1854,7 +1872,7 @@
         "name": "Fernanda"
       },
       "responsible": "0",
-      "scheduled": "35"
+      "scheduled": "40"
     },
     {
       "member": {
@@ -1862,7 +1880,7 @@
         "name": "Guilherme"
       },
       "responsible": "0",
-      "scheduled": "68"
+      "scheduled": "73"
     },
     {
       "member": {
@@ -1870,7 +1888,7 @@
         "name": "Gustavo"
       },
       "responsible": "0",
-      "scheduled": "27"
+      "scheduled": "30"
     },
     {
       "member": {
@@ -1886,7 +1904,7 @@
         "name": "Juliana"
       },
       "responsible": "0",
-      "scheduled": "40"
+      "scheduled": "43"
     },
     {
       "member": {
@@ -1894,7 +1912,7 @@
         "name": "Karina"
       },
       "responsible": "0",
-      "scheduled": "36"
+      "scheduled": "40"
     },
     {
       "member": {
@@ -1902,7 +1920,7 @@
         "name": "Leandro"
       },
       "responsible": "0",
-      "scheduled": "37"
+      "scheduled": "43"
     },
     {
       "member": {
@@ -1910,7 +1928,7 @@
         "name": "Lucas"
       },
       "responsible": "0",
-      "scheduled": "49"
+      "scheduled": "54"
     },
     {
       "member": {
@@ -1918,7 +1936,7 @@
         "name": "Lukinhas"
       },
       "responsible": "0",
-      "scheduled": "32"
+      "scheduled": "38"
     },
     {
       "member": {
@@ -1934,7 +1952,7 @@
         "name": "Marcelo"
       },
       "responsible": "0",
-      "scheduled": "4"
+      "scheduled": "5"
     },
     {
       "member": {
@@ -1950,7 +1968,7 @@
         "name": "Renan"
       },
       "responsible": "0",
-      "scheduled": "27"
+      "scheduled": "29"
     },
     {
       "member": {
@@ -1958,7 +1976,7 @@
         "name": "Samuel"
       },
       "responsible": "0",
-      "scheduled": "74"
+      "scheduled": "76"
     },
     {
       "member": {
@@ -1966,7 +1984,7 @@
         "name": "Vini"
       },
       "responsible": "0",
-      "scheduled": "19"
+      "scheduled": "20"
     }
   ]
 }
