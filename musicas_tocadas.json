@@ -1,7 +1,7 @@
 {
   "filter": {
     "start": "2026-01-01",
-    "end": "2026-09-27",
+    "end": "2026-10-04",
     "service": null,
     "days": [
       "sun",
@@ -72,6 +72,19 @@
       "occurrences": "7",
       "occurrences_by_day": "4,0,0,0,3,0,0",
       "timestamps": "1774821600,1775174652,1775390400,1775775600,1777809600,1788127200,1788476400"
+    },
+    {
+      "songs": [
+        {
+          "id": "1760703427386",
+          "title": "A Ele a Glória",
+          "artist": "Gabriela Rocha",
+          "author": "Ana Paula Valadão, Kevin Jonas"
+        }
+      ],
+      "occurrences": "6",
+      "occurrences_by_day": "3,0,0,0,3,0,0",
+      "timestamps": "1773007200,1773357903,1779660000,1786662000,1790546400,1790895600"
     },
     {
       "songs": [
@@ -173,6 +186,25 @@
     {
       "songs": [
         {
+          "id": "1762266243905",
+          "title": "Me Ama",
+          "artist": "Diante do Trono",
+          "author": "Ana Paula Valadão, John Mark McMillan"
+        },
+        {
+          "id": "1790686257200",
+          "title": "Me Ama",
+          "artist": "Get Worship",
+          "author": ""
+        }
+      ],
+      "occurrences": "5",
+      "occurrences_by_day": "3,0,0,0,2,0,0",
+      "timestamps": "1774821600,1775171744,1786917600,1787266800,1791115200"
+    },
+    {
+      "songs": [
+        {
           "id": "1777404006107",
           "title": "O Espírito de Deus Está Aqui",
           "artist": "Luciana Debortoli",
@@ -195,19 +227,6 @@
       "occurrences": "5",
       "occurrences_by_day": "3,0,0,0,2,0,0",
       "timestamps": "1768168800,1768518000,1773961200,1779660000,1781474847"
-    },
-    {
-      "songs": [
-        {
-          "id": "1760703427386",
-          "title": "A Ele a Glória",
-          "artist": "Gabriela Rocha",
-          "author": "Ana Paula Valadão, Kevin Jonas"
-        }
-      ],
-      "occurrences": "4",
-      "occurrences_by_day": "2,0,0,0,2,0,0",
-      "timestamps": "1773007200,1773357903,1779660000,1786662000"
     },
     {
       "songs": [
@@ -504,6 +523,19 @@
     {
       "songs": [
         {
+          "id": "1762288727969",
+          "title": "Minh\u0027alma Engrandece ao Senhor | Adorado",
+          "artist": "Rachel Novaes e Thamires Garcia",
+          "author": ""
+        }
+      ],
+      "occurrences": "3",
+      "occurrences_by_day": "1,0,0,0,2,0,0",
+      "timestamps": "1768518000,1776636000,1790895600"
+    },
+    {
+      "songs": [
+        {
           "id": "1784635578746",
           "title": "Nada Mais",
           "artist": "FHOP Music",
@@ -656,6 +688,19 @@
       "occurrences": "3",
       "occurrences_by_day": "1,0,0,0,2,0,0",
       "timestamps": "1770941640,1784498400,1784848684"
+    },
+    {
+      "songs": [
+        {
+          "id": "1787055522359",
+          "title": "Tu És Santo (Príncipe da Paz)",
+          "artist": "Andrea Fontes",
+          "author": "Marc Imboden, Tammi Rhoton"
+        }
+      ],
+      "occurrences": "3",
+      "occurrences_by_day": "2,0,0,0,1,0,0",
+      "timestamps": "1787522400,1787871600,1790546400"
     },
     {
       "songs": [
@@ -894,6 +939,32 @@
     {
       "songs": [
         {
+          "id": "1790079485651",
+          "title": "Deus Está Aqui / O Espírito de Deus / Manancial",
+          "artist": "Gabriela Rocha",
+          "author": "Francisco Javier Gacías Mateo, Bené Gomes, Ana Paula Valadão"
+        }
+      ],
+      "occurrences": "2",
+      "occurrences_by_day": "1,0,0,0,1,0,0",
+      "timestamps": "1790546400,1790895600"
+    },
+    {
+      "songs": [
+        {
+          "id": "1762264630874",
+          "title": "Deus Me Ama",
+          "artist": "Thalles Roberto",
+          "author": "Thalles Roberto"
+        }
+      ],
+      "occurrences": "2",
+      "occurrences_by_day": "1,0,0,0,1,0,0",
+      "timestamps": "1786917600,1790895600"
+    },
+    {
+      "songs": [
+        {
           "id": "1762265590269",
           "title": "Diante da Cruz",
           "artist": "Aline Barros",
@@ -916,6 +987,25 @@
       "occurrences": "2",
       "occurrences_by_day": "1,0,0,0,1,0,0",
       "timestamps": "1768773600,1769122800"
+    },
+    {
+      "songs": [
+        {
+          "id": "1761654263487",
+          "title": "Digno É o Senhor",
+          "artist": "Aline Barros",
+          "author": "Darlene Zschech"
+        },
+        {
+          "id": "1790686107135",
+          "title": "Digno É o Senhor",
+          "artist": "Gabi Sampaio, Carol Braga e Som do Céu",
+          "author": ""
+        }
+      ],
+      "occurrences": "2",
+      "occurrences_by_day": "2,0,0,0,0,0,0",
+      "timestamps": "1773612000,1791115200"
     },
     {
       "songs": [
@@ -1037,15 +1127,15 @@
     {
       "songs": [
         {
-          "id": "1762288727969",
-          "title": "Minh\u0027alma Engrandece ao Senhor | Adorado",
-          "artist": "Rachel Novaes e Thamires Garcia",
-          "author": ""
+          "id": "1760984491074",
+          "title": "Mil Graus",
+          "artist": "Renascer Praise",
+          "author": "Clovis Pinho"
         }
       ],
       "occurrences": "2",
       "occurrences_by_day": "1,0,0,0,1,0,0",
-      "timestamps": "1768518000,1776636000"
+      "timestamps": "1780009200,1791115200"
     },
     {
       "songs": [
@@ -1059,6 +1149,19 @@
       "occurrences": "2",
       "occurrences_by_day": "1,0,0,0,1,0,0",
       "timestamps": "1773007200,1773359924"
+    },
+    {
+      "songs": [
+        {
+          "id": "1775076564772",
+          "title": "Nada Além do Sangue / Pra Sempre / Oh Quão Lindo Esse Nome É",
+          "artist": "Theo Rubia",
+          "author": ""
+        }
+      ],
+      "occurrences": "2",
+      "occurrences_by_day": "2,0,0,0,0,0,0",
+      "timestamps": "1775390400,1791115200"
     },
     {
       "songs": [
@@ -1232,19 +1335,6 @@
     {
       "songs": [
         {
-          "id": "1787055522359",
-          "title": "Tu És Santo (Príncipe da Paz)",
-          "artist": "Andrea Fontes",
-          "author": "Marc Imboden, Tammi Rhoton"
-        }
-      ],
-      "occurrences": "2",
-      "occurrences_by_day": "1,0,0,0,1,0,0",
-      "timestamps": "1787522400,1787871600"
-    },
-    {
-      "songs": [
-        {
           "id": "1762264375970",
           "title": "Uma Nova História",
           "artist": "Fernandinho",
@@ -1254,6 +1344,19 @@
       "occurrences": "2",
       "occurrences_by_day": "1,0,0,0,1,0,0",
       "timestamps": "1776031200,1784242800"
+    },
+    {
+      "songs": [
+        {
+          "id": "1762265173614",
+          "title": "Vida Aos Sepulcros",
+          "artist": "Gabriela Rocha",
+          "author": "Brandon Lake, Chris Brown, Steven Furtick, Tiffany Hudson"
+        }
+      ],
+      "occurrences": "2",
+      "occurrences_by_day": "2,0,0,0,0,0,0",
+      "timestamps": "1781479555,1791115200"
     },
     {
       "songs": [
@@ -1362,15 +1465,28 @@
     {
       "songs": [
         {
-          "id": "1762264630874",
-          "title": "Deus Me Ama",
-          "artist": "Thalles Roberto",
-          "author": "Thalles Roberto"
+          "id": "1762265087537",
+          "title": "Cordeiro e Leão",
+          "artist": "Jefferson \u0026 Suellen",
+          "author": "Jeferson Rodrigo"
         }
       ],
       "occurrences": "1",
       "occurrences_by_day": "1,0,0,0,0,0,0",
-      "timestamps": "1786917600"
+      "timestamps": "1790546400"
+    },
+    {
+      "songs": [
+        {
+          "id": "1762266099624",
+          "title": "Deus De Promessas",
+          "artist": "Toque no Altar",
+          "author": "Davi Sacer, Ronald Fonseca, Verônica Sacer"
+        }
+      ],
+      "occurrences": "1",
+      "occurrences_by_day": "1,0,0,0,0,0,0",
+      "timestamps": "1790546400"
     },
     {
       "songs": [
@@ -1410,6 +1526,19 @@
       "occurrences": "1",
       "occurrences_by_day": "1,0,0,0,0,0,0",
       "timestamps": "1773612000"
+    },
+    {
+      "songs": [
+        {
+          "id": "1790686107135",
+          "title": "Digno É o Senhor",
+          "artist": "Gabi Sampaio, Carol Braga e Som do Céu",
+          "author": ""
+        }
+      ],
+      "occurrences": "1",
+      "occurrences_by_day": "1,0,0,0,0,0,0",
+      "timestamps": "1791115200"
     },
     {
       "songs": [
@@ -1687,6 +1816,19 @@
     {
       "songs": [
         {
+          "id": "1790686257200",
+          "title": "Me Ama",
+          "artist": "Get Worship",
+          "author": ""
+        }
+      ],
+      "occurrences": "1",
+      "occurrences_by_day": "1,0,0,0,0,0,0",
+      "timestamps": "1791115200"
+    },
+    {
+      "songs": [
+        {
           "id": "1762265411807",
           "title": "Meu Barquinho",
           "artist": "Nani Azevedo",
@@ -1696,32 +1838,6 @@
       "occurrences": "1",
       "occurrences_by_day": "0,0,0,0,1,0,0",
       "timestamps": "1776985200"
-    },
-    {
-      "songs": [
-        {
-          "id": "1760984491074",
-          "title": "Mil Graus",
-          "artist": "Renascer Praise",
-          "author": "Clovis Pinho"
-        }
-      ],
-      "occurrences": "1",
-      "occurrences_by_day": "0,0,0,0,1,0,0",
-      "timestamps": "1780009200"
-    },
-    {
-      "songs": [
-        {
-          "id": "1775076564772",
-          "title": "Nada Além do Sangue / Pra Sempre / Oh Quão Lindo Esse Nome É",
-          "artist": "Theo Rubia",
-          "author": ""
-        }
-      ],
-      "occurrences": "1",
-      "occurrences_by_day": "1,0,0,0,0,0,0",
-      "timestamps": "1775390400"
     },
     {
       "songs": [
@@ -1986,19 +2102,6 @@
     {
       "songs": [
         {
-          "id": "1762265173614",
-          "title": "Vida Aos Sepulcros",
-          "artist": "Gabriela Rocha",
-          "author": "Brandon Lake, Chris Brown, Steven Furtick, Tiffany Hudson"
-        }
-      ],
-      "occurrences": "1",
-      "occurrences_by_day": "1,0,0,0,0,0,0",
-      "timestamps": "1781479555"
-    },
-    {
-      "songs": [
-        {
           "id": "1760470049835",
           "title": "Vitória No Deserto",
           "artist": "Aline Barros",
@@ -2142,36 +2245,10 @@
     {
       "songs": [
         {
-          "id": "1762265087537",
-          "title": "Cordeiro e Leão",
-          "artist": "Jefferson \u0026 Suellen",
-          "author": "Jeferson Rodrigo"
-        }
-      ],
-      "occurrences": "0",
-      "occurrences_by_day": "0,0,0,0,0,0,0",
-      "timestamps": ""
-    },
-    {
-      "songs": [
-        {
           "id": "1762265276884",
           "title": "Deus Cuida de Mim",
           "artist": "Kleber Lucas",
           "author": "Kleber Lucas"
-        }
-      ],
-      "occurrences": "0",
-      "occurrences_by_day": "0,0,0,0,0,0,0",
-      "timestamps": ""
-    },
-    {
-      "songs": [
-        {
-          "id": "1762266099624",
-          "title": "Deus De Promessas",
-          "artist": "Toque no Altar",
-          "author": "Davi Sacer, Ronald Fonseca, Verônica Sacer"
         }
       ],
       "occurrences": "0",
@@ -2207,19 +2284,6 @@
     {
       "songs": [
         {
-          "id": "1790079485651",
-          "title": "Deus Está Aqui / O Espírito de Deus / Manancial",
-          "artist": "Gabriela Rocha",
-          "author": "Francisco Javier Gacías Mateo, Bené Gomes, Ana Paula Valadão"
-        }
-      ],
-      "occurrences": "0",
-      "occurrences_by_day": "0,0,0,0,0,0,0",
-      "timestamps": ""
-    },
-    {
-      "songs": [
-        {
           "id": "1762264882917",
           "title": "Deus Forte Como Jeová",
           "artist": "",
@@ -2237,19 +2301,6 @@
           "title": "Digno de Glória",
           "artist": "Asaph Borba",
           "author": "Asaph Borba, Eva-Lena Hellmark"
-        }
-      ],
-      "occurrences": "0",
-      "occurrences_by_day": "0,0,0,0,0,0,0",
-      "timestamps": ""
-    },
-    {
-      "songs": [
-        {
-          "id": "1790686107135",
-          "title": "Digno É o Senhor",
-          "artist": "Gabi Sampaio, Carol Braga $ Som do Céu",
-          "author": ""
         }
       ],
       "occurrences": "0",
@@ -2419,19 +2470,6 @@
           "title": "Maravilhosa Graça",
           "artist": "Comunidade da Graça",
           "author": "Jeremy Riddle, Josh Farro, Phil Wickham"
-        }
-      ],
-      "occurrences": "0",
-      "occurrences_by_day": "0,0,0,0,0,0,0",
-      "timestamps": ""
-    },
-    {
-      "songs": [
-        {
-          "id": "1790686257200",
-          "title": "Me Ama",
-          "artist": "Get Worship",
-          "author": ""
         }
       ],
       "occurrences": "0",
@@ -2731,6 +2769,19 @@
           "title": "Tributo a Yehovah",
           "artist": "Paulo César Baruk",
           "author": "Adhemar de Campos"
+        }
+      ],
+      "occurrences": "0",
+      "occurrences_by_day": "0,0,0,0,0,0,0",
+      "timestamps": ""
+    },
+    {
+      "songs": [
+        {
+          "id": "1790891988242",
+          "title": "Um Só Deus",
+          "artist": "Daniel Souza",
+          "author": ""
         }
       ],
       "occurrences": "0",

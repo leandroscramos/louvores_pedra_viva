@@ -6500,13 +6500,13 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Mesmo sendo assim\nPobre pecador\n\nDeus me ama\n\nMesmo sendo falho\nMesmo sem merecer\n\nDeus me ama\n\nSe estou forte\nSe eu estou de pé\n\nDeus me ama\n\nSe estou fraco\nSe eu estou caído\n\nEle não deixa de me amar\n\nSem o Seu amor\nSem o Seu perdão\n\nO que seria de mim?\n\nDeus me amou tanto\nQue entregou Seu Filho\n\nPara morrer em meu lugar\n\nDeus me ama\n\nE o Seu amor é tão grande\nIncondicional\n\nDeus me ama\n\nE Ele está sempre\nDe braços abertos pra mim",
+      "full_text": "Mesmo sendo assim\npobre pecador\n\nDeus me ama\n\nMesmo sendo falho\nMesmo sem merecer\n\nDeus me ama\n\nSe estou forte\nSe eu estou de pé\n\nDeus me ama\n\nSe estou fraco\nSe eu estou caído\n\nEle não deixa de me amar\n\nSem o Seu amor\nSem o Seu perdão\n\nO que seria de mim?\n\nDeus me amou tanto\nque entregou Seu Filho\n\nPara morrer em meu lugar\n\nDeus me ama\n\nE o Seu amor é tão grande\nIncondicional\n\nDeus me ama\n\nE Ele está sempre\nde braços abertos pra mim",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Mesmo sendo assim\nPobre pecador",
+          "text": "Mesmo sendo assim\npobre pecador",
           "text_with_comment": null,
           "translations": null
         },
@@ -6576,7 +6576,7 @@
         {
           "number": 11,
           "description": "",
-          "text": "Deus me amou tanto\nQue entregou Seu Filho",
+          "text": "Deus me amou tanto\nque entregou Seu Filho",
           "text_with_comment": null,
           "translations": null
         },
@@ -6611,7 +6611,7 @@
         {
           "number": 16,
           "description": "",
-          "text": "E Ele está sempre\nDe braços abertos pra mim",
+          "text": "E Ele está sempre\nde braços abertos pra mim",
           "text_with_comment": null,
           "translations": null
         }
@@ -7604,9 +7604,7 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/aline-barros/digno-o-senhor--",
-      "nova": "s",
       "extra": ""
     }
   },
@@ -8134,6 +8132,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -8410,7 +8409,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/adhemar-de-campos/ele-exaltado",
       "extra": ""
     }
@@ -9011,11 +9009,11 @@
     },
     "streaming": {
       "audio": {
-        "spotify": "https://open.spotify.com/track/2xpotltTAOvJbWJgJKCUoI",
-        "youtube": "https://youtube.com/watch?v=MzddoTY8VwM",
-        "deezer": "https://deezer.com/track/554480142",
-        "apple_music": "https://music.apple.com/br/song/600494844",
-        "amazon_music": "https://music.amazon.com.br/tracks/B0DFYZWRGN"
+        "spotify": "",
+        "youtube": "https://www.youtube.com/watch?v=zcWjnBQt3TI",
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
       },
       "backing_track": {
         "spotify": "",
@@ -9026,6 +9024,8 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
+      "nova": "s",
       "extra": ""
     }
   },
@@ -11272,6 +11272,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -13620,7 +13621,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/julliany-souza/lindo-momento",
       "extra": ""
     }
@@ -15286,8 +15286,7 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
-      "nova": "s",
+      "cifra": "https://www.cifrashub.com.br/song/diante-do-trono/me-ama-",
       "extra": ""
     }
   },
@@ -16632,7 +16631,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/renascer-praise/1000-graus",
       "extra": ""
     }
@@ -16652,13 +16650,13 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Minh'alma engrandece ao Senhor\n\nMeu Espírito se alegra\nem Deus meu Salvador\n\nPois com poder tem feito\ngrandes coisas\n\nE com misericórdia\ndemonstrado amor\n\nSanto, Santo\nSanto és Senhor\n\nSanto, Santo\nSanto és Senhor\n\nTem enchido nossas lâmpadas\nCom o óleo do Espírito\nTem feito Sua vide florescer\n\nTem enchido nossas lâmpadas\nCom o óleo do Espírito\nTem feito Sua vide florescer\n\nSanto, Santo\nSanto és Senhor\n\nSanto, Santo\nSanto és Senhor\n\nAdorado, exaltado és, Senhor\nTão amado, desejado das nações\n\nAdorado mais que todos\nMais que tudo és amado, adorado",
+      "full_text": "Minh'alma engrandece\nao Senhor\n\nMeu Espírito se alegra\nem Deus meu Salvador\n\nPois com poder tem feito\ngrandes coisas\n\nE com misericórdia\ndemonstrado amor\n\nSanto, Santo\nSanto és Senhor\n\nSanto, Santo\nSanto és Senhor\n\nTem enchido nossas lâmpadas\ncom o óleo do Espírito\n\nTem feito Sua\nvide florescer\n\nTem enchido nossas lâmpadas\ncom o óleo do Espírito\n\nTem feito Sua\nvide florescer\n\nSanto, Santo\nSanto és Senhor\n\nSanto, Santo\nSanto és Senhor\n\nAdorado, exaltado\nés, Senhor\n\nTão amado,\ndesejado das nações\n\nAdorado mais\nque todos\n\nMais que tudo\nés amado, adorado",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Minh'alma engrandece ao Senhor",
+          "text": "Minh'alma engrandece\nao Senhor",
           "text_with_comment": null,
           "translations": null
         },
@@ -16700,42 +16698,70 @@
         {
           "number": 7,
           "description": "",
-          "text": "Tem enchido nossas lâmpadas\nCom o óleo do Espírito\nTem feito Sua vide florescer",
+          "text": "Tem enchido nossas lâmpadas\ncom o óleo do Espírito",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Tem enchido nossas lâmpadas\nCom o óleo do Espírito\nTem feito Sua vide florescer",
+          "text": "Tem feito Sua\nvide florescer",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 9,
           "description": "",
-          "text": "Santo, Santo\nSanto és Senhor",
+          "text": "Tem enchido nossas lâmpadas\ncom o óleo do Espírito",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 10,
           "description": "",
-          "text": "Santo, Santo\nSanto és Senhor",
+          "text": "Tem feito Sua\nvide florescer",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 11,
           "description": "",
-          "text": "Adorado, exaltado és, Senhor\nTão amado, desejado das nações",
+          "text": "Santo, Santo\nSanto és Senhor",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 12,
           "description": "",
-          "text": "Adorado mais que todos\nMais que tudo és amado, adorado",
+          "text": "Santo, Santo\nSanto és Senhor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "Adorado, exaltado\nés, Senhor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "Tão amado,\ndesejado das nações",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 15,
+          "description": "",
+          "text": "Adorado mais\nque todos",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 16,
+          "description": "",
+          "text": "Mais que tudo\nés amado, adorado",
           "text_with_comment": null,
           "translations": null
         }
@@ -17338,9 +17364,7 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/theo-rubia/nada-alem-do-sangue-pra-sempre-oh-quao-lindo-esse-nome-e",
-      "nova": "s",
       "extra": ""
     }
   },
@@ -18032,6 +18056,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -25968,6 +25993,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/florianopolis-house-of-prayer/sublime",
       "extra": ""
     }
@@ -27899,6 +27925,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/felipe-rodrigues/tudo-e-perda",
       "extra": ""
     }
@@ -28355,6 +28382,81 @@
         "deezer": "https://deezer.com/track/87077293",
         "apple_music": "https://music.apple.com/br/song/923280565",
         "amazon_music": "https://music.amazon.com.br/tracks/B00O2EFMLM"
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
+      }
+    },
+    "extras": {
+      "extra": ""
+    }
+  },
+  {
+    "id": 1790891988242,
+    "title": "Um Só Deus",
+    "artist": "Daniel Souza",
+    "author": "",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "",
+    "bpm": 0.0,
+    "time_sig": "",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Um só Deus, um só Senhor\nUma só fé um só amor\n\nUm só batismo\nUm só Espírito mediador\n\nUm povo justificado\nPelo sangue do salvador\n\nUm caminho que nos conduz\nPara o reino de Jesus\n\nPara o reino de Jesus",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Um só Deus, um só Senhor\nUma só fé um só amor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Um só batismo\nUm só Espírito mediador",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Um povo justificado\nPelo sangue do salvador",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Um caminho que nos conduz\nPara o reino de Jesus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Para o reino de Jesus",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "https://open.spotify.com/track/7fhR55GKT6gUN07ax01d2w",
+        "youtube": "https://youtube.com/watch?v=OciEXv0fgzM",
+        "deezer": "https://deezer.com/track/85568998",
+        "apple_music": "https://music.apple.com/br/song/918655579",
+        "amazon_music": "https://music.amazon.com.br/tracks/B00NNJY9XE"
       },
       "backing_track": {
         "spotify": "",
@@ -29421,7 +29523,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/gabriela-rocha/vida-aos-sepulcros-part-elevation-worship",
       "extra": ""
     }
@@ -30275,6 +30376,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/fernandinho/yeshua-part-heloisa-rosa",
       "extra": ""
     }

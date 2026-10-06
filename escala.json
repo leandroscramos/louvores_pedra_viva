@@ -1,6 +1,6 @@
 {
   "start": "2026-01-01",
-  "end": "2026-10-08",
+  "end": "2026-10-04",
   "songs": [
     {
       "song": {
@@ -31,6 +31,15 @@
     },
     {
       "song": {
+        "id": "1760703427386",
+        "title": "A Ele a Glória",
+        "artist": "Gabriela Rocha",
+        "author": "Ana Paula Valadão, Kevin Jonas"
+      },
+      "occurrences": "6"
+    },
+    {
+      "song": {
         "id": "1768701842881",
         "title": "Aclame Ao Senhor",
         "artist": "Diante do Trono",
@@ -55,15 +64,6 @@
         "author": "Guilherme Franco"
       },
       "occurrences": "6"
-    },
-    {
-      "song": {
-        "id": "1760703427386",
-        "title": "A Ele a Glória",
-        "artist": "Gabriela Rocha",
-        "author": "Ana Paula Valadão, Kevin Jonas"
-      },
-      "occurrences": "5"
     },
     {
       "song": {
@@ -287,6 +287,15 @@
         "title": "Maravilhado",
         "artist": "Nívea Soares",
         "author": "Ana Paula Valadão, Jamie Birkenfeld, Klaus Kuehn, Robert Quintana"
+      },
+      "occurrences": "3"
+    },
+    {
+      "song": {
+        "id": "1762288727969",
+        "title": "Minh\u0027alma Engrandece ao Senhor | Adorado",
+        "artist": "Rachel Novaes e Thamires Garcia",
+        "author": ""
       },
       "occurrences": "3"
     },
@@ -571,6 +580,24 @@
     },
     {
       "song": {
+        "id": "1790079485651",
+        "title": "Deus Está Aqui / O Espírito de Deus / Manancial",
+        "artist": "Gabriela Rocha",
+        "author": "Francisco Javier Gacías Mateo, Bené Gomes, Ana Paula Valadão"
+      },
+      "occurrences": "2"
+    },
+    {
+      "song": {
+        "id": "1762264630874",
+        "title": "Deus Me Ama",
+        "artist": "Thalles Roberto",
+        "author": "Thalles Roberto"
+      },
+      "occurrences": "2"
+    },
+    {
+      "song": {
         "id": "1762265590269",
         "title": "Diante da Cruz",
         "artist": "Aline Barros",
@@ -679,10 +706,10 @@
     },
     {
       "song": {
-        "id": "1762288727969",
-        "title": "Minh\u0027alma Engrandece ao Senhor | Adorado",
-        "artist": "Rachel Novaes e Thamires Garcia",
-        "author": ""
+        "id": "1760984491074",
+        "title": "Mil Graus",
+        "artist": "Renascer Praise",
+        "author": "Clovis Pinho"
       },
       "occurrences": "2"
     },
@@ -691,6 +718,15 @@
         "id": "1762352144477",
         "title": "Na Casa de Meu Pai",
         "artist": "Comunidade de Nilópolis",
+        "author": ""
+      },
+      "occurrences": "2"
+    },
+    {
+      "song": {
+        "id": "1775076564772",
+        "title": "Nada Além do Sangue / Pra Sempre / Oh Quão Lindo Esse Nome É",
+        "artist": "Theo Rubia",
         "author": ""
       },
       "occurrences": "2"
@@ -814,6 +850,15 @@
     },
     {
       "song": {
+        "id": "1762265173614",
+        "title": "Vida Aos Sepulcros",
+        "artist": "Gabriela Rocha",
+        "author": "Brandon Lake, Chris Brown, Steven Furtick, Tiffany Hudson"
+      },
+      "occurrences": "2"
+    },
+    {
+      "song": {
         "id": "1762265244057",
         "title": "Vim Para Adorar-Te",
         "artist": "Adoração e Adoradores e Ana Paula Valadão",
@@ -922,24 +967,6 @@
     },
     {
       "song": {
-        "id": "1790079485651",
-        "title": "Deus Está Aqui / O Espírito de Deus / Manancial",
-        "artist": "Gabriela Rocha",
-        "author": "Francisco Javier Gacías Mateo, Bené Gomes, Ana Paula Valadão"
-      },
-      "occurrences": "1"
-    },
-    {
-      "song": {
-        "id": "1762264630874",
-        "title": "Deus Me Ama",
-        "artist": "Thalles Roberto",
-        "author": "Thalles Roberto"
-      },
-      "occurrences": "1"
-    },
-    {
-      "song": {
         "id": "1762265070553",
         "title": "Deus Proverá",
         "artist": "Gabriela Gomes",
@@ -962,6 +989,15 @@
         "title": "Digno É o Senhor",
         "artist": "Aline Barros",
         "author": "Darlene Zschech"
+      },
+      "occurrences": "1"
+    },
+    {
+      "song": {
+        "id": "1790686107135",
+        "title": "Digno É o Senhor",
+        "artist": "Gabi Sampaio, Carol Braga e Som do Céu",
+        "author": ""
       },
       "occurrences": "1"
     },
@@ -1147,28 +1183,19 @@
     },
     {
       "song": {
+        "id": "1790686257200",
+        "title": "Me Ama",
+        "artist": "Get Worship",
+        "author": ""
+      },
+      "occurrences": "1"
+    },
+    {
+      "song": {
         "id": "1762265411807",
         "title": "Meu Barquinho",
         "artist": "Nani Azevedo",
         "author": "Moisés Cleyton"
-      },
-      "occurrences": "1"
-    },
-    {
-      "song": {
-        "id": "1760984491074",
-        "title": "Mil Graus",
-        "artist": "Renascer Praise",
-        "author": "Clovis Pinho"
-      },
-      "occurrences": "1"
-    },
-    {
-      "song": {
-        "id": "1775076564772",
-        "title": "Nada Além do Sangue / Pra Sempre / Oh Quão Lindo Esse Nome É",
-        "artist": "Theo Rubia",
-        "author": ""
       },
       "occurrences": "1"
     },
@@ -1372,15 +1399,6 @@
     },
     {
       "song": {
-        "id": "1762265173614",
-        "title": "Vida Aos Sepulcros",
-        "artist": "Gabriela Rocha",
-        "author": "Brandon Lake, Chris Brown, Steven Furtick, Tiffany Hudson"
-      },
-      "occurrences": "1"
-    },
-    {
-      "song": {
         "id": "1762264715471",
         "title": "Vitorioso És",
         "artist": "Gabriel Guedes",
@@ -1516,15 +1534,6 @@
     },
     {
       "song": {
-        "id": "1790686107135",
-        "title": "Digno É o Senhor",
-        "artist": "Gabi Sampaio, Carol Braga $ Som do Céu",
-        "author": ""
-      },
-      "occurrences": "0"
-    },
-    {
-      "song": {
         "id": "1776167005235",
         "title": "Ele Vem",
         "artist": "David Quinlan",
@@ -1637,15 +1646,6 @@
         "title": "Maravilhosa Graça",
         "artist": "Comunidade da Graça",
         "author": "Jeremy Riddle, Josh Farro, Phil Wickham"
-      },
-      "occurrences": "0"
-    },
-    {
-      "song": {
-        "id": "1790686257200",
-        "title": "Me Ama",
-        "artist": "Get Worship",
-        "author": ""
       },
       "occurrences": "0"
     },
@@ -1849,6 +1849,15 @@
     },
     {
       "song": {
+        "id": "1790891988242",
+        "title": "Um Só Deus",
+        "artist": "Daniel Souza",
+        "author": ""
+      },
+      "occurrences": "0"
+    },
+    {
+      "song": {
         "id": "1762265565301",
         "title": "Venho, Senhor, Minha Vida Oferecer",
         "artist": "Igreja Cristã Maranata",
@@ -1864,7 +1873,7 @@
         "name": "Diego"
       },
       "responsible": "0",
-      "scheduled": "31"
+      "scheduled": "30"
     },
     {
       "member": {
@@ -1872,7 +1881,7 @@
         "name": "Fernanda"
       },
       "responsible": "0",
-      "scheduled": "40"
+      "scheduled": "39"
     },
     {
       "member": {
@@ -1880,7 +1889,7 @@
         "name": "Guilherme"
       },
       "responsible": "0",
-      "scheduled": "73"
+      "scheduled": "72"
     },
     {
       "member": {
@@ -1888,15 +1897,7 @@
         "name": "Gustavo"
       },
       "responsible": "0",
-      "scheduled": "30"
-    },
-    {
-      "member": {
-        "id": "1760462870706",
-        "name": "João"
-      },
-      "responsible": "0",
-      "scheduled": "15"
+      "scheduled": "29"
     },
     {
       "member": {
@@ -1904,7 +1905,7 @@
         "name": "Juliana"
       },
       "responsible": "0",
-      "scheduled": "43"
+      "scheduled": "42"
     },
     {
       "member": {
@@ -1920,7 +1921,7 @@
         "name": "Leandro"
       },
       "responsible": "0",
-      "scheduled": "43"
+      "scheduled": "42"
     },
     {
       "member": {
@@ -1928,7 +1929,7 @@
         "name": "Lucas"
       },
       "responsible": "0",
-      "scheduled": "54"
+      "scheduled": "53"
     },
     {
       "member": {
@@ -1936,7 +1937,7 @@
         "name": "Lukinhas"
       },
       "responsible": "0",
-      "scheduled": "38"
+      "scheduled": "37"
     },
     {
       "member": {
@@ -1952,7 +1953,7 @@
         "name": "Marcelo"
       },
       "responsible": "0",
-      "scheduled": "5"
+      "scheduled": "4"
     },
     {
       "member": {
@@ -1961,6 +1962,14 @@
       },
       "responsible": "0",
       "scheduled": "20"
+    },
+    {
+      "member": {
+        "id": "1790774857317",
+        "name": "Nicole"
+      },
+      "responsible": "0",
+      "scheduled": "2"
     },
     {
       "member": {
@@ -1985,6 +1994,14 @@
       },
       "responsible": "0",
       "scheduled": "20"
+    },
+    {
+      "member": {
+        "id": "1760462870706",
+        "name": "João"
+      },
+      "responsible": "0",
+      "scheduled": "15"
     }
   ]
 }
