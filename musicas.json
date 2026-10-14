@@ -779,6 +779,110 @@
     }
   },
   {
+    "id": 1791938875855,
+    "title": "Acende Outra Vez",
+    "artist": "Jefferson & Suellen",
+    "author": "Jeferson Rodrigo",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "F#",
+    "bpm": 68.0,
+    "time_sig": "4/4",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Ouço um barulho diferente\nÉ como um vento veemente\n\nEu vejo línguas\nComo que de fogo\nPousando sobre o ambiente\n\nNós estamos reunidos\nA casa está preparada\n\nPode soprar o vento\nReacender a brasa\n\nMe batiza com fogo\nReacende a chama em mim\n\nAcende outra vez\nTua chama em nós\n\nAviva outra vez\nAviva outra vez\n\nA nossa geração\nTem lenha pra queimar\n\nPode incendiar\nVem nos batizar",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Ouço um barulho diferente\nÉ como um vento veemente",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Eu vejo línguas\nComo que de fogo\nPousando sobre o ambiente",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Nós estamos reunidos\nA casa está preparada",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Pode soprar o vento\nReacender a brasa",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Me batiza com fogo\nReacende a chama em mim",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Acende outra vez\nTua chama em nós",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Aviva outra vez\nAviva outra vez",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "A nossa geração\nTem lenha pra queimar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Pode incendiar\nVem nos batizar",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "https://open.spotify.com/track/5lhq9aAxK66gzHwfUaHB2d",
+        "youtube": "https://youtube.com/watch?v=rhLjWlRaoSM",
+        "deezer": "https://deezer.com/track/2455708665",
+        "apple_music": "https://music.apple.com/br/song/1708466982",
+        "amazon_music": "https://music.amazon.com.br/tracks/B0F5ZD2P1B"
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
+      }
+    },
+    "extras": {
+      "playlist_semana": "s",
+      "extra": ""
+    }
+  },
+  {
     "id": 1768701842881,
     "title": "Aclame Ao Senhor",
     "artist": "Diante do Trono",
@@ -1915,6 +2019,83 @@
     }
   },
   {
+    "id": 1791938924593,
+    "title": "Aliança",
+    "artist": "Min. Koinonya de Louvor",
+    "author": "Bené Gomes",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "C",
+    "bpm": 65.0,
+    "time_sig": "4/4",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Como é precioso, irmão\nEstar bem junto a Ti\nE juntos, lado a lado\nAndarmos com Jesus\n\nE expressar o amor\nQue um dia Ele nos deu\nPelo sangue no calvário\nSua vida trouxe a nós\n\nA aliança do Senhor\nEu tenho com você\nNão existem mais barreiras \nEm meu ser\n\nEu sou livre pra te amar\nPra te aceitar\nE para te pedir\nPerdoa-me, irmão\n\nEu sou um com você\nNo amor de nosso Pai\nSomos um no amor de Jesus",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Como é precioso, irmão\nEstar bem junto a Ti\nE juntos, lado a lado\nAndarmos com Jesus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "E expressar o amor\nQue um dia Ele nos deu\nPelo sangue no calvário\nSua vida trouxe a nós",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "A aliança do Senhor\nEu tenho com você\nNão existem mais barreiras \nEm meu ser",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Eu sou livre pra te amar\nPra te aceitar\nE para te pedir\nPerdoa-me, irmão",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Eu sou um com você\nNo amor de nosso Pai\nSomos um no amor de Jesus",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "https://open.spotify.com/track/1xrzuSqkjTiT2CFOE6KRJX",
+        "youtube": "https://youtube.com/watch?v=7XNFu7mA_JM",
+        "deezer": "https://deezer.com/track/647730662",
+        "apple_music": "https://music.apple.com/br/song/1456062397",
+        "amazon_music": "https://music.amazon.com.br/tracks/B07PN7H8KR"
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
+      }
+    },
+    "extras": {
+      "playlist_semana": "s",
+      "nova": "s",
+      "extra": ""
+    }
+  },
+  {
     "id": 1762266627995,
     "title": "Alto Preço",
     "artist": "Asaph Borba",
@@ -2241,6 +2422,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/aline-barros/ao-unico",
       "extra": ""
     }
@@ -8033,81 +8215,102 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Eu Sou Aquele que te amou primeiro\n\nEu Sou Aquele que te viu\nEm terra muito seca\n\nEu Sou Aquele que desceu dos céus\nE Se entregou, foi por amor\n\nFoi por amor\nFoi por amor\n\nEis que estou à porta e bato\nSe alguém ouvir Minha voz e abrir\n\nEu entrarei\n\nAos cansados e todos os oprimidos\n\nSobrecarregados e aflitos\nVenham, venham a Mim\n\nEis que estou à porta e bato\nSe alguém ouvir Minha voz e abrir\n\nEu entrarei\n\nEu entrarei\nEu entrarei",
+      "full_text": "Eu Sou Aquele que te\namou primeiro\n\nEu Sou Aquele que te\nviu em terra muito seca\n\nEu Sou Aquele que\ndesceu dos céus\n\nE Se entregou,\nfoi por amor\n\nFoi por amor\nFoi por amor\n\nEis que estou à porta e bato\n\nSe alguém ouvir Minha\nvoz e abrir\n\nEu entrarei\n\nAos cansados e todos\nos oprimidos\n\nSobrecarregados e aflitos\nVenham, venham a Mim\n\nEis que estou à porta e bato\n\nSe alguém ouvir Minha\nvoz e abrir\n\nEu entrarei\n\nEu entrarei\nEu entrarei",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Eu Sou Aquele que te amou primeiro",
+          "text": "Eu Sou Aquele que te\namou primeiro",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "Eu Sou Aquele que te viu\nEm terra muito seca",
+          "text": "Eu Sou Aquele que te\nviu em terra muito seca",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "Eu Sou Aquele que desceu dos céus\nE Se entregou, foi por amor",
+          "text": "Eu Sou Aquele que\ndesceu dos céus",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Foi por amor\nFoi por amor",
+          "text": "E Se entregou,\nfoi por amor",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Eis que estou à porta e bato\nSe alguém ouvir Minha voz e abrir",
+          "text": "Foi por amor\nFoi por amor",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Eu entrarei",
+          "text": "Eis que estou à porta e bato",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Aos cansados e todos os oprimidos",
+          "text": "Se alguém ouvir Minha\nvoz e abrir",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Sobrecarregados e aflitos\nVenham, venham a Mim",
+          "text": "Eu entrarei",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 9,
           "description": "",
-          "text": "Eis que estou à porta e bato\nSe alguém ouvir Minha voz e abrir",
+          "text": "Aos cansados e todos\nos oprimidos",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 10,
           "description": "",
-          "text": "Eu entrarei",
+          "text": "Sobrecarregados e aflitos\nVenham, venham a Mim",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 11,
+          "description": "",
+          "text": "Eis que estou à porta e bato",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Se alguém ouvir Minha\nvoz e abrir",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "Eu entrarei",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
           "description": "",
           "text": "Eu entrarei\nEu entrarei",
           "text_with_comment": null,
@@ -8132,7 +8335,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -9024,8 +9226,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
-      "nova": "s",
       "extra": ""
     }
   },
@@ -11138,27 +11338,27 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Assim como a corça\nAnseia por águas\n\nComo terra seca\nPrecisa da chuva\n\nMeu coração\nTem sede de Ti\n\nRei meu e Deus meu\n\nAssim como a corça\nAnseia por águas\n\nComo terra seca\nPrecisa da chuva\n\nMeu coração\nTem sede de Ti\n\nRei meu e Deus meu\n\nFaz chover\nSenhor Jesus\n\nDerrama chuva\nNeste lugar\n\nVem com o Teu rio\nSenhor Jesus\n\nInundar o meu coração\n\nFaz chover\nSenhor Jesus\n\nDerrama chuva\nNeste lugar\n\nVem com o Teu rio\nSenhor Jesus\n\nInundar o meu coração",
+      "full_text": "Assim como a corça\nanseia por águas\n\nComo terra seca\nprecisa da chuva\n\nMeu coração\ntem sede de Ti\n\nRei meu e Deus meu\n\nAssim como a corça\nanseia por águas\n\nComo terra seca\nprecisa da chuva\n\nMeu coração\ntem sede de Ti\n\nRei meu e Deus meu\n\nFaz chover\nSenhor Jesus\n\nDerrama chuva\nneste lugar\n\nVem com o Teu rio\nSenhor Jesus\n\nInundar o meu coração\n\nFaz chover\nSenhor Jesus\n\nDerrama chuva\nneste lugar\n\nVem com o Teu rio\nSenhor Jesus\n\nInundar o meu coração",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Assim como a corça\nAnseia por águas",
+          "text": "Assim como a corça\nanseia por águas",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "Como terra seca\nPrecisa da chuva",
+          "text": "Como terra seca\nprecisa da chuva",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "Meu coração\nTem sede de Ti",
+          "text": "Meu coração\ntem sede de Ti",
           "text_with_comment": null,
           "translations": null
         },
@@ -11172,21 +11372,21 @@
         {
           "number": 5,
           "description": "",
-          "text": "Assim como a corça\nAnseia por águas",
+          "text": "Assim como a corça\nanseia por águas",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Como terra seca\nPrecisa da chuva",
+          "text": "Como terra seca\nprecisa da chuva",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Meu coração\nTem sede de Ti",
+          "text": "Meu coração\ntem sede de Ti",
           "text_with_comment": null,
           "translations": null
         },
@@ -11207,7 +11407,7 @@
         {
           "number": 10,
           "description": "",
-          "text": "Derrama chuva\nNeste lugar",
+          "text": "Derrama chuva\nneste lugar",
           "text_with_comment": null,
           "translations": null
         },
@@ -11235,7 +11435,7 @@
         {
           "number": 14,
           "description": "",
-          "text": "Derrama chuva\nNeste lugar",
+          "text": "Derrama chuva\nneste lugar",
           "text_with_comment": null,
           "translations": null
         },
@@ -11272,7 +11472,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -14794,6 +14993,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -17649,6 +17849,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -17985,7 +18186,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Não vou calar meus lábios\nVou profetizar\n\nManifestar a graça\n\nE abençoar\nA quem Deus quer libertar\n\nSobre tua vida\nVou profetizar\n\nNenhuma maldição\nTe alcançará\n\nSei que Deus tem pra ti\nUm manancial\n\nCujas águas nunca secarão",
+      "full_text": "Não vou calar meus lábios\nVou profetizar\n\nManifestar a graça\n\nE abençoar\na quem Deus quer libertar\n\nSobre tua vida\nvou profetizar\n\nNenhuma maldição\nte alcançará\n\nSei que Deus tem pra ti\num manancial\n\nCujas águas nunca\nsecarão",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -18005,35 +18206,35 @@
         {
           "number": 3,
           "description": "",
-          "text": "E abençoar\nA quem Deus quer libertar",
+          "text": "E abençoar\na quem Deus quer libertar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Sobre tua vida\nVou profetizar",
+          "text": "Sobre tua vida\nvou profetizar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Nenhuma maldição\nTe alcançará",
+          "text": "Nenhuma maldição\nte alcançará",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Sei que Deus tem pra ti\nUm manancial",
+          "text": "Sei que Deus tem pra ti\num manancial",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Cujas águas nunca secarão",
+          "text": "Cujas águas nunca\nsecarão",
           "text_with_comment": null,
           "translations": null
         }
@@ -18056,7 +18257,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -20830,6 +21030,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -25993,7 +26194,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/florianopolis-house-of-prayer/sublime",
       "extra": ""
     }
@@ -27925,7 +28125,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/felipe-rodrigues/tudo-e-perda",
       "extra": ""
     }
@@ -30258,6 +30457,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/marcos-freire/yahweh-se-manifestara-part-julliany-souza-e-leo-brandao",
       "extra": ""
     }
@@ -30376,7 +30576,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/fernandinho/yeshua-part-heloisa-rosa",
       "extra": ""
     }
