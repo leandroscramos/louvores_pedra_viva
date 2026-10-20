@@ -1,7 +1,7 @@
 {
   "filter": {
     "start": "2026-01-01",
-    "end": "2026-10-04",
+    "end": "2026-10-18",
     "service": null,
     "days": [
       "sun",
@@ -56,9 +56,9 @@
           "author": ""
         }
       ],
-      "occurrences": "7",
-      "occurrences_by_day": "4,0,0,0,3,0,0",
-      "timestamps": "1771803169,1772148176,1777240800,1777590000,1785103200,1789941600,1790290800"
+      "occurrences": "8",
+      "occurrences_by_day": "5,0,0,0,3,0,0",
+      "timestamps": "1771803169,1772148176,1777240800,1777590000,1785103200,1789941600,1790290800,1792360800"
     },
     {
       "songs": [
@@ -69,9 +69,9 @@
           "author": "Felipe Rodrigues"
         }
       ],
-      "occurrences": "7",
-      "occurrences_by_day": "4,0,0,0,3,0,0",
-      "timestamps": "1774821600,1775174652,1775390400,1775775600,1777809600,1788127200,1788476400"
+      "occurrences": "8",
+      "occurrences_by_day": "4,0,0,0,4,0,0",
+      "timestamps": "1774821600,1775174652,1775390400,1775775600,1777809600,1788127200,1788476400,1792105200"
     },
     {
       "songs": [
@@ -98,6 +98,38 @@
       "occurrences": "6",
       "occurrences_by_day": "3,0,0,0,3,0,0",
       "timestamps": "1768773600,1771803176,1772150201,1779060747,1779405681,1787871600"
+    },
+    {
+      "songs": [
+        {
+          "id": "1760984512526",
+          "title": "Lindo Momento",
+          "artist": "Julliany Souza",
+          "author": "Challenge Salcedo, Enmanuel Encarnación, Laurelys Castillo"
+        }
+      ],
+      "occurrences": "6",
+      "occurrences_by_day": "2,0,0,0,4,0,0",
+      "timestamps": "1768773600,1769122800,1776380400,1783893600,1784242800,1791500400"
+    },
+    {
+      "songs": [
+        {
+          "id": "1762266243905",
+          "title": "Me Ama",
+          "artist": "Diante do Trono",
+          "author": "Ana Paula Valadão, John Mark McMillan"
+        },
+        {
+          "id": "1790686257200",
+          "title": "Me Ama",
+          "artist": "Get Worship",
+          "author": ""
+        }
+      ],
+      "occurrences": "6",
+      "occurrences_by_day": "3,0,0,0,3,0,0",
+      "timestamps": "1774821600,1775171744,1786917600,1787266800,1791115200,1791500400"
     },
     {
       "songs": [
@@ -173,34 +205,28 @@
     {
       "songs": [
         {
-          "id": "1760984512526",
-          "title": "Lindo Momento",
-          "artist": "Julliany Souza",
-          "author": "Challenge Salcedo, Enmanuel Encarnación, Laurelys Castillo"
+          "id": "1762264481613",
+          "title": "Jeová Jireh",
+          "artist": "Aline Barros",
+          "author": "Samuel Messias"
         }
       ],
       "occurrences": "5",
-      "occurrences_by_day": "2,0,0,0,3,0,0",
-      "timestamps": "1768773600,1769122800,1776380400,1783893600,1784242800"
+      "occurrences_by_day": "3,0,0,0,2,0,0",
+      "timestamps": "1774570103,1778450400,1784498400,1784851847,1791756000"
     },
     {
       "songs": [
         {
-          "id": "1762266243905",
-          "title": "Me Ama",
-          "artist": "Diante do Trono",
-          "author": "Ana Paula Valadão, John Mark McMillan"
-        },
-        {
-          "id": "1790686257200",
-          "title": "Me Ama",
-          "artist": "Get Worship",
+          "id": "1771527481026",
+          "title": "Nada Mais + Uma Vez",
+          "artist": "Brasa Church",
           "author": ""
         }
       ],
       "occurrences": "5",
       "occurrences_by_day": "3,0,0,0,2,0,0",
-      "timestamps": "1774821600,1775171744,1786917600,1787266800,1791115200"
+      "timestamps": "1771803169,1772148176,1777240800,1777590000,1792360800"
     },
     {
       "songs": [
@@ -244,6 +270,19 @@
     {
       "songs": [
         {
+          "id": "1762265184546",
+          "title": "Ele é Exaltado",
+          "artist": "Adhemar de Campos",
+          "author": "Adhemar de Campos, Twila Paris"
+        }
+      ],
+      "occurrences": "4",
+      "occurrences_by_day": "2,0,0,0,2,0,0",
+      "timestamps": "1770594575,1770939104,1776636000,1791500400"
+    },
+    {
+      "songs": [
+        {
           "id": "1762265308741",
           "title": "Estamos de Pé",
           "artist": "Marcus Salles",
@@ -266,19 +305,6 @@
       "occurrences": "4",
       "occurrences_by_day": "2,0,0,0,2,0,0",
       "timestamps": "1770589677,1770939107,1782080602,1782429613"
-    },
-    {
-      "songs": [
-        {
-          "id": "1762264481613",
-          "title": "Jeová Jireh",
-          "artist": "Aline Barros",
-          "author": "Samuel Messias"
-        }
-      ],
-      "occurrences": "4",
-      "occurrences_by_day": "2,0,0,0,2,0,0",
-      "timestamps": "1774570103,1778450400,1784498400,1784851847"
     },
     {
       "songs": [
@@ -309,15 +335,15 @@
     {
       "songs": [
         {
-          "id": "1771527481026",
-          "title": "Nada Mais + Uma Vez",
-          "artist": "Brasa Church",
-          "author": ""
+          "id": "1761654121883",
+          "title": "Meu Respirar",
+          "artist": "Vineyard e Nívea Soares",
+          "author": "Marie Barnett"
         }
       ],
       "occurrences": "4",
       "occurrences_by_day": "2,0,0,0,2,0,0",
-      "timestamps": "1771803169,1772148176,1777240800,1777590000"
+      "timestamps": "1782684000,1783036951,1791756000,1792105200"
     },
     {
       "songs": [
@@ -413,6 +439,19 @@
     {
       "songs": [
         {
+          "id": "1762264594485",
+          "title": "Yeshua",
+          "artist": "Heloisa Rosa e Fernandinho",
+          "author": "Hananiel Eduardo, Heloisa Rosa"
+        }
+      ],
+      "occurrences": "4",
+      "occurrences_by_day": "2,0,0,0,2,0,0",
+      "timestamps": "1769947200,1773357900,1783252800,1792105200"
+    },
+    {
+      "songs": [
+        {
           "id": "1762264609310",
           "title": "Ao Único",
           "artist": "Aline Barros",
@@ -461,19 +500,6 @@
       "occurrences": "3",
       "occurrences_by_day": "2,0,0,0,1,0,0",
       "timestamps": "1771803165,1779660000,1784849178"
-    },
-    {
-      "songs": [
-        {
-          "id": "1762265184546",
-          "title": "Ele é Exaltado",
-          "artist": "Adhemar de Campos",
-          "author": "Adhemar de Campos, Twila Paris"
-        }
-      ],
-      "occurrences": "3",
-      "occurrences_by_day": "2,0,0,0,1,0,0",
-      "timestamps": "1770594575,1770939104,1776636000"
     },
     {
       "songs": [
@@ -549,6 +575,19 @@
     {
       "songs": [
         {
+          "id": "1760469698878",
+          "title": "Não Vou Calar Meus Lábios",
+          "artist": "Marcos Góes",
+          "author": "Marcelo Guimarães"
+        }
+      ],
+      "occurrences": "3",
+      "occurrences_by_day": "1,0,0,0,2,0,0",
+      "timestamps": "1772751600,1791756000,1792105200"
+    },
+    {
+      "songs": [
+        {
           "id": "1778012658035",
           "title": "O Fogo Arderá + Reacende a Chama + Acende Outra Vez",
           "artist": "Yasmin Teixeira",
@@ -610,6 +649,19 @@
       "occurrences": "3",
       "occurrences_by_day": "3,0,0,0,0,0,0",
       "timestamps": "1767528000,1777809600,1783252800"
+    },
+    {
+      "songs": [
+        {
+          "id": "1762265723739",
+          "title": "Primeira Essência",
+          "artist": "Aline Barros",
+          "author": "Anderson Freire"
+        }
+      ],
+      "occurrences": "3",
+      "occurrences_by_day": "3,0,0,0,0,0,0",
+      "timestamps": "1782684000,1788696000,1792360800"
     },
     {
       "songs": [
@@ -731,15 +783,28 @@
     {
       "songs": [
         {
-          "id": "1762264594485",
-          "title": "Yeshua",
-          "artist": "Heloisa Rosa e Fernandinho",
-          "author": "Hananiel Eduardo, Heloisa Rosa"
+          "id": "1762265173614",
+          "title": "Vida Aos Sepulcros",
+          "artist": "Gabriela Rocha",
+          "author": "Brandon Lake, Chris Brown, Steven Furtick, Tiffany Hudson"
         }
       ],
       "occurrences": "3",
       "occurrences_by_day": "2,0,0,0,1,0,0",
-      "timestamps": "1769947200,1773357900,1783252800"
+      "timestamps": "1781479555,1791115200,1791500400"
+    },
+    {
+      "songs": [
+        {
+          "id": "1760984475830",
+          "title": "Yahweh Se Manifestará",
+          "artist": "Marcos Freire, Julliany Souza e Léo Brandão",
+          "author": "Elimart De la Rosa"
+        }
+      ],
+      "occurrences": "3",
+      "occurrences_by_day": "2,0,0,0,1,0,0",
+      "timestamps": "1777240800,1783036556,1792360800"
     },
     {
       "songs": [
@@ -1049,6 +1114,19 @@
     {
       "songs": [
         {
+          "id": "1784302306399",
+          "title": "Faz Chover",
+          "artist": "Fernandinho",
+          "author": "Fernandinho"
+        }
+      ],
+      "occurrences": "2",
+      "occurrences_by_day": "2,0,0,0,0,0,0",
+      "timestamps": "1784498400,1791756000"
+    },
+    {
+      "songs": [
+        {
           "id": "1760470357799",
           "title": "Grande é o Senhor",
           "artist": "Adhemar de Campos",
@@ -1075,6 +1153,19 @@
     {
       "songs": [
         {
+          "id": "1790686257200",
+          "title": "Me Ama",
+          "artist": "Get Worship",
+          "author": ""
+        }
+      ],
+      "occurrences": "2",
+      "occurrences_by_day": "1,0,0,0,1,0,0",
+      "timestamps": "1791115200,1791500400"
+    },
+    {
+      "songs": [
+        {
           "id": "1766939993192",
           "title": "Me Atraiu",
           "artist": "Gabriela Rocha",
@@ -1097,19 +1188,6 @@
       "occurrences": "2",
       "occurrences_by_day": "1,0,0,0,1,0,0",
       "timestamps": "1777240800,1777590000"
-    },
-    {
-      "songs": [
-        {
-          "id": "1761654121883",
-          "title": "Meu Respirar",
-          "artist": "Vineyard e Nívea Soares",
-          "author": "Marie Barnett"
-        }
-      ],
-      "occurrences": "2",
-      "occurrences_by_day": "1,0,0,0,1,0,0",
-      "timestamps": "1782684000,1783036951"
     },
     {
       "songs": [
@@ -1214,19 +1292,6 @@
       "occurrences": "2",
       "occurrences_by_day": "2,0,0,0,0,0,0",
       "timestamps": "1772979019,1773007200"
-    },
-    {
-      "songs": [
-        {
-          "id": "1762265723739",
-          "title": "Primeira Essência",
-          "artist": "Aline Barros",
-          "author": "Anderson Freire"
-        }
-      ],
-      "occurrences": "2",
-      "occurrences_by_day": "2,0,0,0,0,0,0",
-      "timestamps": "1782684000,1788696000"
     },
     {
       "songs": [
@@ -1348,19 +1413,6 @@
     {
       "songs": [
         {
-          "id": "1762265173614",
-          "title": "Vida Aos Sepulcros",
-          "artist": "Gabriela Rocha",
-          "author": "Brandon Lake, Chris Brown, Steven Furtick, Tiffany Hudson"
-        }
-      ],
-      "occurrences": "2",
-      "occurrences_by_day": "2,0,0,0,0,0,0",
-      "timestamps": "1781479555,1791115200"
-    },
-    {
-      "songs": [
-        {
           "id": "1762265244057",
           "title": "Vim Para Adorar-Te",
           "artist": "Adoração e Adoradores e Ana Paula Valadão",
@@ -1374,19 +1426,6 @@
     {
       "songs": [
         {
-          "id": "1760984475830",
-          "title": "Yahweh Se Manifestará",
-          "artist": "Marcos Freire, Julliany Souza e Léo Brandão",
-          "author": "Elimart De la Rosa"
-        }
-      ],
-      "occurrences": "2",
-      "occurrences_by_day": "1,0,0,0,1,0,0",
-      "timestamps": "1777240800,1783036556"
-    },
-    {
-      "songs": [
-        {
           "id": "1762360415903",
           "title": "A Bênção",
           "artist": "Gabriel Guedes e Nívea Soares",
@@ -1396,6 +1435,32 @@
       "occurrences": "1",
       "occurrences_by_day": "1,0,0,0,0,0,0",
       "timestamps": "1774216800"
+    },
+    {
+      "songs": [
+        {
+          "id": "1791938875855",
+          "title": "Acende Outra Vez",
+          "artist": "Jefferson \u0026 Suellen",
+          "author": "Jeferson Rodrigo"
+        }
+      ],
+      "occurrences": "1",
+      "occurrences_by_day": "1,0,0,0,0,0,0",
+      "timestamps": "1792360800"
+    },
+    {
+      "songs": [
+        {
+          "id": "1791938924593",
+          "title": "Aliança",
+          "artist": "Min. Koinonya de Louvor",
+          "author": "Bené Gomes"
+        }
+      ],
+      "occurrences": "1",
+      "occurrences_by_day": "1,0,0,0,0,0,0",
+      "timestamps": "1792360800"
     },
     {
       "songs": [
@@ -1582,6 +1647,19 @@
     {
       "songs": [
         {
+          "id": "1787060411995",
+          "title": "Em Tua Presença",
+          "artist": "Nívea Soares",
+          "author": "Nívea Soares, Gustavo Soares"
+        }
+      ],
+      "occurrences": "1",
+      "occurrences_by_day": "1,0,0,0,0,0,0",
+      "timestamps": "1791756000"
+    },
+    {
+      "songs": [
+        {
           "id": "1789398602360",
           "title": "Entrega",
           "artist": "Vineyard",
@@ -1669,19 +1747,6 @@
       "occurrences": "1",
       "occurrences_by_day": "0,0,0,0,1,0,0",
       "timestamps": "1777590000"
-    },
-    {
-      "songs": [
-        {
-          "id": "1784302306399",
-          "title": "Faz Chover",
-          "artist": "Fernandinho",
-          "author": "Fernandinho"
-        }
-      ],
-      "occurrences": "1",
-      "occurrences_by_day": "1,0,0,0,0,0,0",
-      "timestamps": "1784498400"
     },
     {
       "songs": [
@@ -1816,19 +1881,6 @@
     {
       "songs": [
         {
-          "id": "1790686257200",
-          "title": "Me Ama",
-          "artist": "Get Worship",
-          "author": ""
-        }
-      ],
-      "occurrences": "1",
-      "occurrences_by_day": "1,0,0,0,0,0,0",
-      "timestamps": "1791115200"
-    },
-    {
-      "songs": [
-        {
           "id": "1762265411807",
           "title": "Meu Barquinho",
           "artist": "Nani Azevedo",
@@ -1838,19 +1890,6 @@
       "occurrences": "1",
       "occurrences_by_day": "0,0,0,0,1,0,0",
       "timestamps": "1776985200"
-    },
-    {
-      "songs": [
-        {
-          "id": "1760469698878",
-          "title": "Não Vou Calar Meus Lábios",
-          "artist": "Marcos Góes",
-          "author": "Marcelo Guimarães"
-        }
-      ],
-      "occurrences": "1",
-      "occurrences_by_day": "0,0,0,0,1,0,0",
-      "timestamps": "1772751600"
     },
     {
       "songs": [
@@ -2336,19 +2375,6 @@
     {
       "songs": [
         {
-          "id": "1787060411995",
-          "title": "Em Tua Presença",
-          "artist": "Nívea Soares",
-          "author": "Nívea Soares, Gustavo Soares"
-        }
-      ],
-      "occurrences": "0",
-      "occurrences_by_day": "0,0,0,0,0,0,0",
-      "timestamps": ""
-    },
-    {
-      "songs": [
-        {
           "id": "1760470376539",
           "title": "Espírito Santo",
           "artist": "Fernanda Brum",
@@ -2574,6 +2600,19 @@
           "title": "O Fogo Arderá",
           "artist": "Alexsander Lucio",
           "author": "Alexsander Lucio"
+        }
+      ],
+      "occurrences": "0",
+      "occurrences_by_day": "0,0,0,0,0,0,0",
+      "timestamps": ""
+    },
+    {
+      "songs": [
+        {
+          "id": "1792513738393",
+          "title": "O Mapa do Tesouro",
+          "artist": "Anderson Freire",
+          "author": "Anderson Freire"
         }
       ],
       "occurrences": "0",

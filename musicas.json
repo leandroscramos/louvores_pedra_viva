@@ -793,7 +793,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Ouço um barulho diferente\nÉ como um vento veemente\n\nEu vejo línguas\nComo que de fogo\nPousando sobre o ambiente\n\nNós estamos reunidos\nA casa está preparada\n\nPode soprar o vento\nReacender a brasa\n\nMe batiza com fogo\nReacende a chama em mim\n\nAcende outra vez\nTua chama em nós\n\nAviva outra vez\nAviva outra vez\n\nA nossa geração\nTem lenha pra queimar\n\nPode incendiar\nVem nos batizar",
+      "full_text": "Ouço um barulho diferente\nÉ como um vento veemente\n\nEu vejo línguas\nComo que de fogo\n\nPousando sobre o\nambiente\n\nNós estamos reunidos\nA casa está preparada\n\nPode soprar o vento\nReacender a brasa\n\nNós estamos reunidos\nA casa está preparada\n\nPode soprar o vento\nReacender a brasa\n\nMe batiza com fogo\nReacende a chama em mim\n\nMe batiza com fogo\nReacende a chama em mim\n\nAcende outra vez\nTua chama em nós\n\nAviva outra vez\nAviva outra vez\n\nA nossa geração\nTem lenha pra queimar\n\nPode incendiar\nVem nos batizar",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -806,54 +806,82 @@
         {
           "number": 2,
           "description": "",
-          "text": "Eu vejo línguas\nComo que de fogo\nPousando sobre o ambiente",
+          "text": "Eu vejo línguas\nComo que de fogo",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "Nós estamos reunidos\nA casa está preparada",
+          "text": "Pousando sobre o\nambiente",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Pode soprar o vento\nReacender a brasa",
+          "text": "Nós estamos reunidos\nA casa está preparada",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Me batiza com fogo\nReacende a chama em mim",
+          "text": "Pode soprar o vento\nReacender a brasa",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Acende outra vez\nTua chama em nós",
+          "text": "Nós estamos reunidos\nA casa está preparada",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Aviva outra vez\nAviva outra vez",
+          "text": "Pode soprar o vento\nReacender a brasa",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "A nossa geração\nTem lenha pra queimar",
+          "text": "Me batiza com fogo\nReacende a chama em mim",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 9,
+          "description": "",
+          "text": "Me batiza com fogo\nReacende a chama em mim",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Acende outra vez\nTua chama em nós",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Aviva outra vez\nAviva outra vez",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "A nossa geração\nTem lenha pra queimar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
           "description": "",
           "text": "Pode incendiar\nVem nos batizar",
           "text_with_comment": null,
@@ -878,7 +906,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -2033,41 +2060,76 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Como é precioso, irmão\nEstar bem junto a Ti\nE juntos, lado a lado\nAndarmos com Jesus\n\nE expressar o amor\nQue um dia Ele nos deu\nPelo sangue no calvário\nSua vida trouxe a nós\n\nA aliança do Senhor\nEu tenho com você\nNão existem mais barreiras \nEm meu ser\n\nEu sou livre pra te amar\nPra te aceitar\nE para te pedir\nPerdoa-me, irmão\n\nEu sou um com você\nNo amor de nosso Pai\nSomos um no amor de Jesus",
+      "full_text": "Como é precioso, irmão\nEstar bem junto a Ti\n\nE juntos, lado a lado\nAndarmos com Jesus\n\nE expressar o amor\nQue um dia Ele nos deu\n\nPelo sangue no calvário\nSua vida trouxe a nós\n\nA aliança do Senhor\nEu tenho com você\n\nNão existem mais barreiras \nEm meu ser\n\nEu sou livre pra te amar\nPra te aceitar\n\nE para te pedir\nPerdoa-me, irmão\n\nEu sou um com você\nNo amor de nosso Pai\n\nSomos um no amor de Jesus",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Como é precioso, irmão\nEstar bem junto a Ti\nE juntos, lado a lado\nAndarmos com Jesus",
+          "text": "Como é precioso, irmão\nEstar bem junto a Ti",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "E expressar o amor\nQue um dia Ele nos deu\nPelo sangue no calvário\nSua vida trouxe a nós",
+          "text": "E juntos, lado a lado\nAndarmos com Jesus",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "A aliança do Senhor\nEu tenho com você\nNão existem mais barreiras \nEm meu ser",
+          "text": "E expressar o amor\nQue um dia Ele nos deu",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Eu sou livre pra te amar\nPra te aceitar\nE para te pedir\nPerdoa-me, irmão",
+          "text": "Pelo sangue no calvário\nSua vida trouxe a nós",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Eu sou um com você\nNo amor de nosso Pai\nSomos um no amor de Jesus",
+          "text": "A aliança do Senhor\nEu tenho com você",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Não existem mais barreiras \nEm meu ser",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Eu sou livre pra te amar\nPra te aceitar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "E para te pedir\nPerdoa-me, irmão",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Eu sou um com você\nNo amor de nosso Pai",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Somos um no amor de Jesus",
           "text_with_comment": null,
           "translations": null
         }
@@ -2090,8 +2152,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
-      "nova": "s",
       "extra": ""
     }
   },
@@ -2422,7 +2482,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/aline-barros/ao-unico",
       "extra": ""
     }
@@ -5878,6 +5937,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -6575,6 +6635,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -9226,6 +9287,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -14915,7 +14977,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Quão formoso és\nRei do universo\n\nTua glória enche a Terra\nE enche o Céu\n\nTua glória enche a Terra\nTua glória enche o Céu\n\nTua glória enche minha vida\nSenhor\n\nMaravilhoso é\nEstar em Tua presença\n\nMaravilhoso é\nPoder Te adorar\n\nMaravilhoso é\nTocar nas Tuas vestes\n\nMaravilhoso é\nTe contemplar, Senhor",
+      "full_text": "Quão formoso és\nRei do universo\n\nTua glória enche a Terra\nE enche o Céu\n\nTua glória enche a Terra\nTua glória enche o Céu\n\nTua glória enche\nminha vida Senhor\n\nMaravilhoso é\nEstar em Tua presença\n\nMaravilhoso é\nPoder Te adorar\n\nMaravilhoso é\nTocar nas Tuas vestes\n\nMaravilhoso é\nTe contemplar, Senhor",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -14942,7 +15004,7 @@
         {
           "number": 4,
           "description": "",
-          "text": "Tua glória enche minha vida\nSenhor",
+          "text": "Tua glória enche\nminha vida Senhor",
           "text_with_comment": null,
           "translations": null
         },
@@ -14993,7 +15055,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -16412,7 +16473,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Este é o meu respirar\n\nEste é o meu respirar\n\nTeu Santo Espírito\nVivendo em mim\n\nE este é o meu pão\n\nE este é o meu pão\n\nTua Vontade\nFeita em mim\n\nE eu, eu nada\nsou sem Ti\n\nE eu perdido\nestou sem Ti\n\nEste é o meu respirar\n\nEste é o meu respirar",
+      "full_text": "Este é o meu respirar\n\nEste é o meu respirar\n\nTeu Santo Espírito\nvivendo em mim\n\nE este é o meu pão\n\nE este é o meu pão\n\nTua Vontade\nfeita em mim\n\nE eu, eu nada\nsou sem Ti\n\nE eu perdido\nestou sem Ti",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -16432,7 +16493,7 @@
         {
           "number": 3,
           "description": "",
-          "text": "Teu Santo Espírito\nVivendo em mim",
+          "text": "Teu Santo Espírito\nvivendo em mim",
           "text_with_comment": null,
           "translations": null
         },
@@ -16453,7 +16514,7 @@
         {
           "number": 6,
           "description": "",
-          "text": "Tua Vontade\nFeita em mim",
+          "text": "Tua Vontade\nfeita em mim",
           "text_with_comment": null,
           "translations": null
         },
@@ -16468,20 +16529,6 @@
           "number": 8,
           "description": "",
           "text": "E eu perdido\nestou sem Ti",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 9,
-          "description": "",
-          "text": "Este é o meu respirar",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 10,
-          "description": "",
-          "text": "Este é o meu respirar",
           "text_with_comment": null,
           "translations": null
         }
@@ -17849,7 +17896,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -18186,7 +18232,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Não vou calar meus lábios\nVou profetizar\n\nManifestar a graça\n\nE abençoar\na quem Deus quer libertar\n\nSobre tua vida\nvou profetizar\n\nNenhuma maldição\nte alcançará\n\nSei que Deus tem pra ti\num manancial\n\nCujas águas nunca\nsecarão",
+      "full_text": "Não vou calar meus lábios\nVou profetizar\n\nManifestar a graça\n\nE abençoar\na quem Deus quer libertar\n\nNão vou calar meus lábios\nVou profetizar\n\nManifestar a graça\n\nE abençoar\na quem Deus quer libertar\n\nSobre tua vida\nvou profetizar\n\nNenhuma maldição\nte alcançará\n\nSei que Deus tem pra ti\num manancial\n\nCujas águas nunca\nfaltarão\n\nSei que Deus tem pra ti\num manancial\n\nCujas águas nunca\nsecarão",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -18213,26 +18259,61 @@
         {
           "number": 4,
           "description": "",
-          "text": "Sobre tua vida\nvou profetizar",
+          "text": "Não vou calar meus lábios\nVou profetizar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Nenhuma maldição\nte alcançará",
+          "text": "Manifestar a graça",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Sei que Deus tem pra ti\num manancial",
+          "text": "E abençoar\na quem Deus quer libertar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
+          "description": "",
+          "text": "Sobre tua vida\nvou profetizar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Nenhuma maldição\nte alcançará",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Sei que Deus tem pra ti\num manancial",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Cujas águas nunca\nfaltarão",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Sei que Deus tem pra ti\num manancial",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
           "description": "",
           "text": "Cujas águas nunca\nsecarão",
           "text_with_comment": null,
@@ -19789,6 +19870,195 @@
     }
   },
   {
+    "id": 1792513738393,
+    "title": "O Mapa do Tesouro",
+    "artist": "Anderson Freire",
+    "author": "Anderson Freire",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "Bb",
+    "bpm": 73.0,
+    "time_sig": "4/4",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Ninguém é super-homem\nDeus não te fez de aço\n\nNão leve em teus ombros\nAlém do que Ele te deixou\n\nO mundo é natural\nA carne é mortal\n\nÉ a realidade\nPra chegar no ideal\n\nO inimigo luta\nPra você deixar a cruz\n\nSem ela, ele sabe\nQue você negou Jesus\n\nO peso da tribulação\nNão dá pra comparar\n\nCom o peso da glória\nQue o céu vai revelar\n\nNão despreze a sua cruz\n\nEla tem sua medida\nDeus um dia calculou\n\nEle conhece a força\nE a fraqueza de um pecador\n\nNo calvário declarou\nCom o sangue de Jesus\n\nPara o mundo o seu valor\nNão despreze a sua cruz\n\nA renúncia é o braço\nDe equilíbrio pra você\n\nHoje você não entende\nMas um dia irá saber\n\nQue as pegadas de Jesus\nSão o mapa do tesouro\n\nDeus tem recompensa\nPra você\n\nA cruz é\nA responsabilidade do fiel\n\nÉ o domínio sobre a carne\nA ponte para o céu\n\nDiga \"sim\" pra Deus\nNão negue o que é teu\n\nA trajetória certa\nEle escreveu",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Ninguém é super-homem\nDeus não te fez de aço",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Não leve em teus ombros\nAlém do que Ele te deixou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "O mundo é natural\nA carne é mortal",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "É a realidade\nPra chegar no ideal",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "O inimigo luta\nPra você deixar a cruz",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Sem ela, ele sabe\nQue você negou Jesus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "O peso da tribulação\nNão dá pra comparar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Com o peso da glória\nQue o céu vai revelar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Não despreze a sua cruz",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Ela tem sua medida\nDeus um dia calculou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Ele conhece a força\nE a fraqueza de um pecador",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "No calvário declarou\nCom o sangue de Jesus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "Para o mundo o seu valor\nNão despreze a sua cruz",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "A renúncia é o braço\nDe equilíbrio pra você",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 15,
+          "description": "",
+          "text": "Hoje você não entende\nMas um dia irá saber",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 16,
+          "description": "",
+          "text": "Que as pegadas de Jesus\nSão o mapa do tesouro",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 17,
+          "description": "",
+          "text": "Deus tem recompensa\nPra você",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 18,
+          "description": "",
+          "text": "A cruz é\nA responsabilidade do fiel",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 19,
+          "description": "",
+          "text": "É o domínio sobre a carne\nA ponte para o céu",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 20,
+          "description": "",
+          "text": "Diga \"sim\" pra Deus\nNão negue o que é teu",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 21,
+          "description": "",
+          "text": "A trajetória certa\nEle escreveu",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "https://open.spotify.com/track/4IoRFVUCHDfHnTi4AhsXfx",
+        "youtube": "https://youtube.com/watch?v=5VVJ4jSIyns",
+        "deezer": "https://deezer.com/track/104286668",
+        "apple_music": "",
+        "amazon_music": ""
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
+      }
+    },
+    "extras": {
+      "playlist_semana": "s",
+      "nova": "s",
+      "extra": ""
+    }
+  },
+  {
     "id": 1770293907538,
     "title": "O Nosso General É Cristo",
     "artist": "Gabriela Rocha",
@@ -21030,7 +21300,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -23115,6 +23384,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -23946,6 +24216,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -24209,6 +24480,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/nivea-soares/ruja-o-leao-que-se-abram-os-ceus-part-isaias-saad",
       "extra": ""
     }
@@ -27119,6 +27391,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -28005,7 +28278,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Tudo é perda se\nnão tenho a Ti\n\nA Tua graça é o\nque me basta\n\nSem Ti não sei\npra onde ir\n\nSem Tua presença\nnada importa\n\nDo que adianta\nEu ganhar o mundo inteiro\n\nE a minha alma\nSe perder sem Ti, Senhor\n\nDo que adianta\nEu juntar os meus tesouros\n\nE me esquecer\nDaquele que me amou\n\nSe eu não tenho a Ti\nNão tenho nada\n\nNada eu serei sem\nTi, Senhor\n\nSó Tua Presença é o\nque me basta\n\nEu Te levarei por\nonde eu for\n\nTua presença é o\nque me basta\n\nQuem sou eu sem\nTeu amor, Senhor",
+      "full_text": "Tudo é perda se\nnão tenho a Ti\n\nA Tua graça é o\nque me basta\n\nSem Ti não sei\npra onde ir\n\nSem Tua presença\nnada importa\n\nDo que adianta\neu ganhar o mundo inteiro\n\nE a minha alma\nse perder sem Ti, Senhor\n\nDo que adianta\neu juntar os meus tesouros\n\nE me esquecer\nDaquele que me amou\n\nSe eu não tenho a Ti\nnão tenho nada\n\nNada eu serei sem\nTi, Senhor\n\nSó Tua Presença é o\nque me basta\n\nEu Te levarei por\nonde eu for\n\nTua presença é o\nque me basta\n\nQuem sou eu sem\nTeu amor, Senhor",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -28039,21 +28312,21 @@
         {
           "number": 5,
           "description": "",
-          "text": "Do que adianta\nEu ganhar o mundo inteiro",
+          "text": "Do que adianta\neu ganhar o mundo inteiro",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "E a minha alma\nSe perder sem Ti, Senhor",
+          "text": "E a minha alma\nse perder sem Ti, Senhor",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Do que adianta\nEu juntar os meus tesouros",
+          "text": "Do que adianta\neu juntar os meus tesouros",
           "text_with_comment": null,
           "translations": null
         },
@@ -28067,7 +28340,7 @@
         {
           "number": 9,
           "description": "",
-          "text": "Se eu não tenho a Ti\nNão tenho nada",
+          "text": "Se eu não tenho a Ti\nnão tenho nada",
           "text_with_comment": null,
           "translations": null
         },
@@ -30457,7 +30730,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/marcos-freire/yahweh-se-manifestara-part-julliany-souza-e-leo-brandao",
       "extra": ""
     }
@@ -30477,20 +30749,20 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Eu não consigo entender\nO que eu fiz pra merecer\n\nO Rei que homem se tornou\nE os meus pecados suportou\n\nSeu nome é Emanuel\nO Rei dos reis é o Senhor\n\nNum gesto simples de amor\nNum jumentinho triunfou\n\nBendito é o Rei que vem\nQue vem em nome do Senhor\n\nToda a Terra canta\nAo Messias\n\nA morte não pôde deter\nO sangue derramado foi\n\nAo terceiro dia, ressuscitou\n\nYeshua\nYeshua\n\nGlória seja ao Rei\nGlorioso Salvador\n\nRessuscitou\nRessuscitou",
+      "full_text": "Eu não consigo entender\no que eu fiz pra merecer\n\nO Rei que homem se tornou\ne os meus pecados suportou\n\nSeu nome é Emanuel\nO Rei dos reis é o Senhor\n\nNum gesto simples de amor\nNum jumentinho triunfou\n\nBendito é o Rei que vem\nQue vem em nome do Senhor\n\nToda a Terra canta\nAo Messias\n\nA morte não pôde deter\nO sangue derramado foi\n\nAo terceiro dia\nressuscitou\n\nYeshua\nYeshua\n\nGlória seja ao Rei\nGlorioso Salvador\n\nRessuscitou\nRessuscitou",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Eu não consigo entender\nO que eu fiz pra merecer",
+          "text": "Eu não consigo entender\no que eu fiz pra merecer",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "O Rei que homem se tornou\nE os meus pecados suportou",
+          "text": "O Rei que homem se tornou\ne os meus pecados suportou",
           "text_with_comment": null,
           "translations": null
         },
@@ -30532,7 +30804,7 @@
         {
           "number": 8,
           "description": "",
-          "text": "Ao terceiro dia, ressuscitou",
+          "text": "Ao terceiro dia\nressuscitou",
           "text_with_comment": null,
           "translations": null
         },
