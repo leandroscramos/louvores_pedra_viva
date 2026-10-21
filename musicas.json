@@ -23389,6 +23389,209 @@
     }
   },
   {
+    "id": 1792586576515,
+    "title": "Quem Dizes Que Eu Sou",
+    "artist": "Hillsong em Português",
+    "author": "Ben Fielding, Reuben Morgan",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "F#",
+    "bpm": 86.0,
+    "time_sig": "6/8",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Quem sou eu\nPra que o Grande Rei\n\nMe receba assim\n\nMe perdi\nE Ele me encontrou\n\nSeu amor por mim\nSeu amor por mim\n\nQuem Deus libertar\nLivre enfim será\n\nSou filho de Deus\nSim eu sou\n\nSua graça me resgatou\nMe purificou\n\nQuando eu era um pecador\n\nMorreu por mim\nSim, morreu por mim\n\nQuem Deus libertar\nLivre enfim será\n\nSou filho de Deus\nSim eu sou\n\nEm Tua casa, oh Pai\nHá um lugar pra mim\n\nSou filho de Deus\nSim eu sou\n\nEscolhido, perdoado\n\nEu sou\nQuem dizes que eu sou\n\nTu és por mim\nAté o fim\n\nEu sou\nQuem dizes que eu sou\n\nEu sou\nQuem dizes que eu sou\n\nEu sou\nQuem dizes que eu sou\n\nQuem Deus libertar\nLivre enfim será\n\nSou filho de Deus\nSim eu sou\n\nEm Tua casa, oh Pai\nHá um lugar pra mim\n\nSou filho de Deus\nSim eu sou",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Quem sou eu\nPra que o Grande Rei",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Me receba assim",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Me perdi\nE Ele me encontrou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Seu amor por mim\nSeu amor por mim",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Quem Deus libertar\nLivre enfim será",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Sou filho de Deus\nSim eu sou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Sua graça me resgatou\nMe purificou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Quando eu era um pecador",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Morreu por mim\nSim, morreu por mim",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Quem Deus libertar\nLivre enfim será",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Sou filho de Deus\nSim eu sou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Em Tua casa, oh Pai\nHá um lugar pra mim",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "Sou filho de Deus\nSim eu sou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "Escolhido, perdoado",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 15,
+          "description": "",
+          "text": "Eu sou\nQuem dizes que eu sou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 16,
+          "description": "",
+          "text": "Tu és por mim\nAté o fim",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 17,
+          "description": "",
+          "text": "Eu sou\nQuem dizes que eu sou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 18,
+          "description": "",
+          "text": "Eu sou\nQuem dizes que eu sou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 19,
+          "description": "",
+          "text": "Eu sou\nQuem dizes que eu sou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 20,
+          "description": "",
+          "text": "Quem Deus libertar\nLivre enfim será",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 21,
+          "description": "",
+          "text": "Sou filho de Deus\nSim eu sou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 22,
+          "description": "",
+          "text": "Em Tua casa, oh Pai\nHá um lugar pra mim",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 23,
+          "description": "",
+          "text": "Sou filho de Deus\nSim eu sou",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "https://open.spotify.com/track/0XCJhazlavQEh6gK4UjO3t",
+        "youtube": "https://youtube.com/watch?v=NwU08uOR81E",
+        "deezer": "https://deezer.com/track/615945052",
+        "apple_music": "https://music.apple.com/br/song/1785403056",
+        "amazon_music": "https://music.amazon.com.br/tracks/B07BF7GR37"
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
+      }
+    },
+    "extras": {
+      "playlist_semana": "s",
+      "nova": "s",
+      "extra": ""
+    }
+  },
+  {
     "id": 1762287221344,
     "title": "Quem É Esse?",
     "artist": "Julliany Souza",
