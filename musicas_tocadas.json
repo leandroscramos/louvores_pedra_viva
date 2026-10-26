@@ -1,7 +1,7 @@
 {
   "filter": {
     "start": "2026-01-01",
-    "end": "2026-10-18",
+    "end": "2026-11-05",
     "service": null,
     "days": [
       "sun",
@@ -15,6 +15,25 @@
   },
   "group": "_all",
   "items": [
+    {
+      "songs": [
+        {
+          "id": "1784635578746",
+          "title": "Nada Mais",
+          "artist": "FHOP Music",
+          "author": "Cody Carnes, Hank Bentley, Jessie Early"
+        },
+        {
+          "id": "1771527481026",
+          "title": "Nada Mais + Uma Vez",
+          "artist": "Brasa Church",
+          "author": ""
+        }
+      ],
+      "occurrences": "9",
+      "occurrences_by_day": "5,0,0,0,4,0,0",
+      "timestamps": "1771803169,1772148176,1777240800,1777590000,1785103200,1789941600,1790290800,1792360800,1792710000"
+    },
     {
       "songs": [
         {
@@ -40,25 +59,6 @@
       "occurrences": "8",
       "occurrences_by_day": "5,0,0,0,3,0,0",
       "timestamps": "1771200280,1771543953,1772366400,1772751600,1775390400,1776031200,1780267086,1780614566"
-    },
-    {
-      "songs": [
-        {
-          "id": "1784635578746",
-          "title": "Nada Mais",
-          "artist": "FHOP Music",
-          "author": "Cody Carnes, Hank Bentley, Jessie Early"
-        },
-        {
-          "id": "1771527481026",
-          "title": "Nada Mais + Uma Vez",
-          "artist": "Brasa Church",
-          "author": ""
-        }
-      ],
-      "occurrences": "8",
-      "occurrences_by_day": "5,0,0,0,3,0,0",
-      "timestamps": "1771803169,1772148176,1777240800,1777590000,1785103200,1789941600,1790290800,1792360800"
     },
     {
       "songs": [
@@ -270,6 +270,19 @@
     {
       "songs": [
         {
+          "id": "1762264609310",
+          "title": "Ao Único",
+          "artist": "Aline Barros",
+          "author": "Bené Gomes"
+        }
+      ],
+      "occurrences": "4",
+      "occurrences_by_day": "0,0,0,0,4,0,0",
+      "timestamps": "1783036553,1787266800,1789686000,1792710000"
+    },
+    {
+      "songs": [
+        {
           "id": "1762265184546",
           "title": "Ele é Exaltado",
           "artist": "Adhemar de Campos",
@@ -348,6 +361,19 @@
     {
       "songs": [
         {
+          "id": "1784635578746",
+          "title": "Nada Mais",
+          "artist": "FHOP Music",
+          "author": "Cody Carnes, Hank Bentley, Jessie Early"
+        }
+      ],
+      "occurrences": "4",
+      "occurrences_by_day": "2,0,0,0,2,0,0",
+      "timestamps": "1785103200,1789941600,1790290800,1792710000"
+    },
+    {
+      "songs": [
+        {
           "id": "1770293907538",
           "title": "O Nosso General É Cristo",
           "artist": "Gabriela Rocha",
@@ -396,6 +422,19 @@
       "occurrences": "4",
       "occurrences_by_day": "2,0,1,0,1,0,0",
       "timestamps": "1774216800,1778032099,1778450400,1785452400"
+    },
+    {
+      "songs": [
+        {
+          "id": "1760703496009",
+          "title": "Ruja o Leão, Que Se Abram Os Céus",
+          "artist": "Isaias Saad e Nívea Soares",
+          "author": "Talita Catanzaro, Cody Carnes, Kari Jobe"
+        }
+      ],
+      "occurrences": "4",
+      "occurrences_by_day": "2,0,0,0,2,0,0",
+      "timestamps": "1767913200,1772148172,1787522400,1792965600"
     },
     {
       "songs": [
@@ -452,19 +491,6 @@
     {
       "songs": [
         {
-          "id": "1762264609310",
-          "title": "Ao Único",
-          "artist": "Aline Barros",
-          "author": "Bené Gomes"
-        }
-      ],
-      "occurrences": "3",
-      "occurrences_by_day": "0,0,0,0,3,0,0",
-      "timestamps": "1783036553,1787266800,1789686000"
-    },
-    {
-      "songs": [
-        {
           "id": "1782155778748",
           "title": "Chuva de Poder",
           "artist": "Eyshila",
@@ -487,6 +513,19 @@
       "occurrences": "3",
       "occurrences_by_day": "1,0,0,0,2,0,0",
       "timestamps": "1769122800,1780833600,1781219919"
+    },
+    {
+      "songs": [
+        {
+          "id": "1790079485651",
+          "title": "Deus Está Aqui / O Espírito de Deus / Manancial",
+          "artist": "Gabriela Rocha",
+          "author": "Francisco Javier Gacías Mateo, Bené Gomes, Ana Paula Valadão"
+        }
+      ],
+      "occurrences": "3",
+      "occurrences_by_day": "2,0,0,0,1,0,0",
+      "timestamps": "1790546400,1790895600,1792965600"
     },
     {
       "songs": [
@@ -558,19 +597,6 @@
       "occurrences": "3",
       "occurrences_by_day": "1,0,0,0,2,0,0",
       "timestamps": "1768518000,1776636000,1790895600"
-    },
-    {
-      "songs": [
-        {
-          "id": "1784635578746",
-          "title": "Nada Mais",
-          "artist": "FHOP Music",
-          "author": "Cody Carnes, Hank Bentley, Jessie Early"
-        }
-      ],
-      "occurrences": "3",
-      "occurrences_by_day": "2,0,0,0,1,0,0",
-      "timestamps": "1785103200,1789941600,1790290800"
     },
     {
       "songs": [
@@ -675,19 +701,6 @@
       "occurrences": "3",
       "occurrences_by_day": "2,0,0,0,1,0,0",
       "timestamps": "1777240800,1784498400,1784848411"
-    },
-    {
-      "songs": [
-        {
-          "id": "1760703496009",
-          "title": "Ruja o Leão, Que Se Abram Os Céus",
-          "artist": "Isaias Saad e Nívea Soares",
-          "author": "Talita Catanzaro, Cody Carnes, Kari Jobe"
-        }
-      ],
-      "occurrences": "3",
-      "occurrences_by_day": "1,0,0,0,2,0,0",
-      "timestamps": "1767913200,1772148172,1787522400"
     },
     {
       "songs": [
@@ -1004,19 +1017,6 @@
     {
       "songs": [
         {
-          "id": "1790079485651",
-          "title": "Deus Está Aqui / O Espírito de Deus / Manancial",
-          "artist": "Gabriela Rocha",
-          "author": "Francisco Javier Gacías Mateo, Bené Gomes, Ana Paula Valadão"
-        }
-      ],
-      "occurrences": "2",
-      "occurrences_by_day": "1,0,0,0,1,0,0",
-      "timestamps": "1790546400,1790895600"
-    },
-    {
-      "songs": [
-        {
           "id": "1762264630874",
           "title": "Deus Me Ama",
           "artist": "Thalles Roberto",
@@ -1084,6 +1084,19 @@
       "occurrences": "2",
       "occurrences_by_day": "1,0,0,0,1,0,0",
       "timestamps": "1789336800,1789686000"
+    },
+    {
+      "songs": [
+        {
+          "id": "1787060411995",
+          "title": "Em Tua Presença",
+          "artist": "Nívea Soares",
+          "author": "Nívea Soares, Gustavo Soares"
+        }
+      ],
+      "occurrences": "2",
+      "occurrences_by_day": "2,0,0,0,0,0,0",
+      "timestamps": "1791756000,1792965600"
     },
     {
       "songs": [
@@ -1348,6 +1361,19 @@
     {
       "songs": [
         {
+          "id": "1762360494766",
+          "title": "Restitui",
+          "artist": "Toque no Altar",
+          "author": "Davi Sacer, Luiz Arcanjo"
+        }
+      ],
+      "occurrences": "2",
+      "occurrences_by_day": "2,0,0,0,0,0,0",
+      "timestamps": "1769378400,1792965600"
+    },
+    {
+      "songs": [
+        {
           "id": "1762265229986",
           "title": "Seja Exaltado (ajustar letra com Samuel)",
           "artist": "SOZO",
@@ -1396,6 +1422,19 @@
       "occurrences": "2",
       "occurrences_by_day": "1,0,0,0,1,0,0",
       "timestamps": "1779062265,1779408138"
+    },
+    {
+      "songs": [
+        {
+          "id": "1789398626836",
+          "title": "Toda Terra",
+          "artist": "Gabriela Rocha",
+          "author": "Abdiel Arsenio"
+        }
+      ],
+      "occurrences": "2",
+      "occurrences_by_day": "2,0,0,0,0,0,0",
+      "timestamps": "1789941600,1792965600"
     },
     {
       "songs": [
@@ -1643,19 +1682,6 @@
       "occurrences": "1",
       "occurrences_by_day": "0,0,0,0,1,0,0",
       "timestamps": "1767913200"
-    },
-    {
-      "songs": [
-        {
-          "id": "1787060411995",
-          "title": "Em Tua Presença",
-          "artist": "Nívea Soares",
-          "author": "Nívea Soares, Gustavo Soares"
-        }
-      ],
-      "occurrences": "1",
-      "occurrences_by_day": "1,0,0,0,0,0,0",
-      "timestamps": "1791756000"
     },
     {
       "songs": [
@@ -1920,6 +1946,19 @@
     {
       "songs": [
         {
+          "id": "1762264650783",
+          "title": "Pai Nosso",
+          "artist": "Pedras Vivas",
+          "author": "Marcus Meier"
+        }
+      ],
+      "occurrences": "1",
+      "occurrences_by_day": "0,0,0,0,1,0,0",
+      "timestamps": "1792710000"
+    },
+    {
+      "songs": [
+        {
           "id": "1764875686212",
           "title": "Pra Sempre",
           "artist": "Fernandinho",
@@ -1985,19 +2024,6 @@
     {
       "songs": [
         {
-          "id": "1762360494766",
-          "title": "Restitui",
-          "artist": "Toque no Altar",
-          "author": "Davi Sacer, Luiz Arcanjo"
-        }
-      ],
-      "occurrences": "1",
-      "occurrences_by_day": "1,0,0,0,0,0,0",
-      "timestamps": "1769378400"
-    },
-    {
-      "songs": [
-        {
           "id": "1785622333907",
           "title": "Santo",
           "artist": "Felipe Rodrigues",
@@ -2046,19 +2072,6 @@
       "occurrences": "1",
       "occurrences_by_day": "0,0,0,0,1,0,0",
       "timestamps": "1768518000"
-    },
-    {
-      "songs": [
-        {
-          "id": "1789398626836",
-          "title": "Toda Terra",
-          "artist": "Gabriela Rocha",
-          "author": "Abdiel Arsenio"
-        }
-      ],
-      "occurrences": "1",
-      "occurrences_by_day": "1,0,0,0,0,0,0",
-      "timestamps": "1789941600"
     },
     {
       "songs": [
@@ -2648,19 +2661,6 @@
     {
       "songs": [
         {
-          "id": "1762264650783",
-          "title": "Pai Nosso",
-          "artist": "Pedras Vivas",
-          "author": "Marcus Meier"
-        }
-      ],
-      "occurrences": "0",
-      "occurrences_by_day": "0,0,0,0,0,0,0",
-      "timestamps": ""
-    },
-    {
-      "songs": [
-        {
           "id": "1762264699788",
           "title": "Pela Fé",
           "artist": "André Valadão",
@@ -2704,6 +2704,19 @@
           "title": "Quão Grande É O Meu Deus",
           "artist": "Soraya Moraes",
           "author": "Chris Tomlin, Ed Cash, Jesse Reeves"
+        }
+      ],
+      "occurrences": "0",
+      "occurrences_by_day": "0,0,0,0,0,0,0",
+      "timestamps": ""
+    },
+    {
+      "songs": [
+        {
+          "id": "1792586576515",
+          "title": "Quem Dizes Que Eu Sou",
+          "artist": "Hillsong em Português",
+          "author": "Ben Fielding, Reuben Morgan"
         }
       ],
       "occurrences": "0",

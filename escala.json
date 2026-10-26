@@ -1,6 +1,6 @@
 {
   "start": "2026-01-01",
-  "end": "2026-10-29",
+  "end": "2026-11-05",
   "songs": [
     {
       "song": {
@@ -139,6 +139,24 @@
     },
     {
       "song": {
+        "id": "1762264609310",
+        "title": "Ao Único",
+        "artist": "Aline Barros",
+        "author": "Bené Gomes"
+      },
+      "occurrences": "4"
+    },
+    {
+      "song": {
+        "id": "1790079485651",
+        "title": "Deus Está Aqui / O Espírito de Deus / Manancial",
+        "artist": "Gabriela Rocha",
+        "author": "Francisco Javier Gacías Mateo, Bené Gomes, Ana Paula Valadão"
+      },
+      "occurrences": "4"
+    },
+    {
+      "song": {
         "id": "1762265184546",
         "title": "Ele é Exaltado",
         "artist": "Adhemar de Campos",
@@ -193,6 +211,15 @@
     },
     {
       "song": {
+        "id": "1784635578746",
+        "title": "Nada Mais",
+        "artist": "FHOP Music",
+        "author": "Cody Carnes, Hank Bentley, Jessie Early"
+      },
+      "occurrences": "4"
+    },
+    {
+      "song": {
         "id": "1770293907538",
         "title": "O Nosso General É Cristo",
         "artist": "Gabriela Rocha",
@@ -215,6 +242,15 @@
         "title": "Quem É Esse?",
         "artist": "Julliany Souza",
         "author": "Léo Brandão"
+      },
+      "occurrences": "4"
+    },
+    {
+      "song": {
+        "id": "1760703496009",
+        "title": "Ruja o Leão, Que Se Abram Os Céus",
+        "artist": "Isaias Saad e Nívea Soares",
+        "author": "Talita Catanzaro, Cody Carnes, Kari Jobe"
       },
       "occurrences": "4"
     },
@@ -253,15 +289,6 @@
         "author": "Hananiel Eduardo, Heloisa Rosa"
       },
       "occurrences": "4"
-    },
-    {
-      "song": {
-        "id": "1762264609310",
-        "title": "Ao Único",
-        "artist": "Aline Barros",
-        "author": "Bené Gomes"
-      },
-      "occurrences": "3"
     },
     {
       "song": {
@@ -314,15 +341,6 @@
         "title": "Minh\u0027alma Engrandece ao Senhor | Adorado",
         "artist": "Rachel Novaes e Thamires Garcia",
         "author": ""
-      },
-      "occurrences": "3"
-    },
-    {
-      "song": {
-        "id": "1784635578746",
-        "title": "Nada Mais",
-        "artist": "FHOP Music",
-        "author": "Cody Carnes, Hank Bentley, Jessie Early"
       },
       "occurrences": "3"
     },
@@ -404,15 +422,6 @@
         "title": "Rompendo em Fé",
         "artist": "Com. Ev. Inter. da Zona Sul",
         "author": "Ana Feitosa, Edson Feitosa, Marco Antonio"
-      },
-      "occurrences": "3"
-    },
-    {
-      "song": {
-        "id": "1760703496009",
-        "title": "Ruja o Leão, Que Se Abram Os Céus",
-        "artist": "Isaias Saad e Nívea Soares",
-        "author": "Talita Catanzaro, Cody Carnes, Kari Jobe"
       },
       "occurrences": "3"
     },
@@ -625,15 +634,6 @@
     },
     {
       "song": {
-        "id": "1790079485651",
-        "title": "Deus Está Aqui / O Espírito de Deus / Manancial",
-        "artist": "Gabriela Rocha",
-        "author": "Francisco Javier Gacías Mateo, Bené Gomes, Ana Paula Valadão"
-      },
-      "occurrences": "2"
-    },
-    {
-      "song": {
         "id": "1762264630874",
         "title": "Deus Me Ama",
         "artist": "Thalles Roberto",
@@ -674,6 +674,15 @@
         "title": "Em Espírito e Em Verdade",
         "artist": "Min. Koinonya de Louvor",
         "author": "Márcio Pereira"
+      },
+      "occurrences": "2"
+    },
+    {
+      "song": {
+        "id": "1787060411995",
+        "title": "Em Tua Presença",
+        "artist": "Nívea Soares",
+        "author": "Nívea Soares, Gustavo Soares"
       },
       "occurrences": "2"
     },
@@ -850,6 +859,15 @@
     },
     {
       "song": {
+        "id": "1762360494766",
+        "title": "Restitui",
+        "artist": "Toque no Altar",
+        "author": "Davi Sacer, Luiz Arcanjo"
+      },
+      "occurrences": "2"
+    },
+    {
+      "song": {
         "id": "1762265229986",
         "title": "Seja Exaltado (ajustar letra com Samuel)",
         "artist": "SOZO",
@@ -881,6 +899,15 @@
         "title": "Te Agradeço",
         "artist": "Diante do Trono",
         "author": "Ana Paula Valadão, Dennis Jernigan"
+      },
+      "occurrences": "2"
+    },
+    {
+      "song": {
+        "id": "1789398626836",
+        "title": "Toda Terra",
+        "artist": "Gabriela Rocha",
+        "author": "Abdiel Arsenio"
       },
       "occurrences": "2"
     },
@@ -1066,15 +1093,6 @@
     },
     {
       "song": {
-        "id": "1787060411995",
-        "title": "Em Tua Presença",
-        "artist": "Nívea Soares",
-        "author": "Nívea Soares, Gustavo Soares"
-      },
-      "occurrences": "1"
-    },
-    {
-      "song": {
         "id": "1789398602360",
         "title": "Entrega",
         "artist": "Vineyard",
@@ -1255,6 +1273,15 @@
     },
     {
       "song": {
+        "id": "1762264650783",
+        "title": "Pai Nosso",
+        "artist": "Pedras Vivas",
+        "author": "Marcus Meier"
+      },
+      "occurrences": "1"
+    },
+    {
+      "song": {
         "id": "1762265156309",
         "title": "Poderoso Deus",
         "artist": "Antônio Cirilo e David Quinlan",
@@ -1300,19 +1327,19 @@
     },
     {
       "song": {
-        "id": "1781896204840",
-        "title": "Quero Que Valorize",
-        "artist": "Armando Filho",
-        "author": "Armando Filho"
+        "id": "1792586576515",
+        "title": "Quem Dizes Que Eu Sou",
+        "artist": "Hillsong em Português",
+        "author": "Ben Fielding, Reuben Morgan"
       },
       "occurrences": "1"
     },
     {
       "song": {
-        "id": "1762360494766",
-        "title": "Restitui",
-        "artist": "Toque no Altar",
-        "author": "Davi Sacer, Luiz Arcanjo"
+        "id": "1781896204840",
+        "title": "Quero Que Valorize",
+        "artist": "Armando Filho",
+        "author": "Armando Filho"
       },
       "occurrences": "1"
     },
@@ -1349,15 +1376,6 @@
         "title": "Teu Amor Não Falha",
         "artist": "Nívea Soares",
         "author": "Anthony Skinner, Chris McClarney, Christie Tristão, Nívea Soares"
-      },
-      "occurrences": "1"
-    },
-    {
-      "song": {
-        "id": "1789398626836",
-        "title": "Toda Terra",
-        "artist": "Gabriela Rocha",
-        "author": "Abdiel Arsenio"
       },
       "occurrences": "1"
     },
@@ -1768,15 +1786,6 @@
     },
     {
       "song": {
-        "id": "1762264650783",
-        "title": "Pai Nosso",
-        "artist": "Pedras Vivas",
-        "author": "Marcus Meier"
-      },
-      "occurrences": "0"
-    },
-    {
-      "song": {
         "id": "1762264699788",
         "title": "Pela Fé",
         "artist": "André Valadão",
@@ -1900,7 +1909,7 @@
         "name": "Diego"
       },
       "responsible": "0",
-      "scheduled": "32"
+      "scheduled": "35"
     },
     {
       "member": {
@@ -1908,7 +1917,7 @@
         "name": "Fernanda"
       },
       "responsible": "0",
-      "scheduled": "40"
+      "scheduled": "42"
     },
     {
       "member": {
@@ -1924,7 +1933,7 @@
         "name": "Gustavo"
       },
       "responsible": "0",
-      "scheduled": "30"
+      "scheduled": "32"
     },
     {
       "member": {
@@ -1940,7 +1949,7 @@
         "name": "Karina"
       },
       "responsible": "0",
-      "scheduled": "44"
+      "scheduled": "46"
     },
     {
       "member": {
@@ -1948,7 +1957,7 @@
         "name": "Leandro"
       },
       "responsible": "0",
-      "scheduled": "49"
+      "scheduled": "52"
     },
     {
       "member": {
@@ -1956,7 +1965,7 @@
         "name": "Lucas"
       },
       "responsible": "0",
-      "scheduled": "59"
+      "scheduled": "62"
     },
     {
       "member": {
@@ -1964,7 +1973,7 @@
         "name": "Lukinhas"
       },
       "responsible": "0",
-      "scheduled": "43"
+      "scheduled": "45"
     },
     {
       "member": {
@@ -1980,7 +1989,7 @@
         "name": "Marcelo"
       },
       "responsible": "0",
-      "scheduled": "7"
+      "scheduled": "8"
     },
     {
       "member": {
@@ -2012,7 +2021,7 @@
         "name": "Samuel"
       },
       "responsible": "0",
-      "scheduled": "83"
+      "scheduled": "86"
     },
     {
       "member": {
