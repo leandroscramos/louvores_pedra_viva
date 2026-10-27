@@ -1677,6 +1677,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -2386,6 +2387,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -3374,7 +3376,7 @@
     "streaming": {
       "audio": {
         "spotify": "https://open.spotify.com/track/4VvsTSxSSAu8IRBpt3iDMR",
-        "youtube": "https://youtube.com/watch?v=_ptnCyRScxY",
+        "youtube": "https://www.youtube.com/watch?v=mZ9yZYo9Mmk",
         "deezer": "https://deezer.com/track/2192727777",
         "apple_music": "",
         "amazon_music": ""
@@ -3388,6 +3390,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/isaias-saad/bondade-de-deus",
       "extra": ""
     }
@@ -3971,6 +3974,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/eyshila/chuva-de-poder",
       "extra": ""
     }
@@ -5937,7 +5941,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -6635,7 +6638,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -8257,6 +8259,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/drops-ina/e-ele",
       "extra": ""
     }
@@ -9287,7 +9290,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -14959,6 +14961,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -20053,8 +20056,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
-      "nova": "s",
       "extra": ""
     }
   },
@@ -21403,6 +21404,223 @@
       }
     },
     "extras": {
+      "extra": ""
+    }
+  },
+  {
+    "id": 1793108214856,
+    "title": "Pelo Sangue",
+    "artist": "Renascer Praise",
+    "author": "Clovis Pinho",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "G",
+    "bpm": 70.0,
+    "time_sig": "4/4",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "O sacrifício vivo\nSe entregou por mim\n\nCom armas de amor\nEle lutou até o fim\n\nVestido de silêncio\nO semblante era de dor\n\nA todos que o feriu\nLá no calvário perdoou\n\nSubiu naquela cruz\nSem nada reclamar\n\nCordeiro imaculado\nQue sofreu por me amar\n\nE a minha vida foi lavada\nPelo sangue de Jesus\n\nMinha história dividiu\nAntes e depois\n\nPelo sangue\nPelo sangue de Jesus\n\nFui salvo pelo sangue\nFui curado pelo sangue\n\nFui comprado pelo sangue\nFui liberto pelo sangue\n\nO sangue de Jesus\nQue me leva até o céu\n\nO sangue de Jesus\nVermelho, forte e fiel\n\nSuportou a cruz\nA preço de sangue por amor\n\nPrecioso sangue de Jesus\n\nO sacrifício vivo\nEu quero ser pra Deus\n\nTão puro e agradável\nComo Cristo ofereceu\n\nCom a Sua verdade\nVou me comprometer\n\nE ser exemplo vivo\nDe Sua graça e poder\n\nAmar como a mim mesmo\nA quem me odiar\n\nUsar as minhas mãos\nPra outras mãos abençoar\n\nE já não vivo eu\n\nMas agora Jesus Cristo\nVive em mim\n\nO meu passado apagou\nTudo perdoou\n\nPelo sangue\nPelo sangue de Jesus",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "O sacrifício vivo\nSe entregou por mim",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Com armas de amor\nEle lutou até o fim",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Vestido de silêncio\nO semblante era de dor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "A todos que o feriu\nLá no calvário perdoou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Subiu naquela cruz\nSem nada reclamar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Cordeiro imaculado\nQue sofreu por me amar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "E a minha vida foi lavada\nPelo sangue de Jesus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Minha história dividiu\nAntes e depois",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Pelo sangue\nPelo sangue de Jesus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Fui salvo pelo sangue\nFui curado pelo sangue",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Fui comprado pelo sangue\nFui liberto pelo sangue",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "O sangue de Jesus\nQue me leva até o céu",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "O sangue de Jesus\nVermelho, forte e fiel",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "Suportou a cruz\nA preço de sangue por amor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 15,
+          "description": "",
+          "text": "Precioso sangue de Jesus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 16,
+          "description": "",
+          "text": "O sacrifício vivo\nEu quero ser pra Deus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 17,
+          "description": "",
+          "text": "Tão puro e agradável\nComo Cristo ofereceu",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 18,
+          "description": "",
+          "text": "Com a Sua verdade\nVou me comprometer",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 19,
+          "description": "",
+          "text": "E ser exemplo vivo\nDe Sua graça e poder",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 20,
+          "description": "",
+          "text": "Amar como a mim mesmo\nA quem me odiar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 21,
+          "description": "",
+          "text": "Usar as minhas mãos\nPra outras mãos abençoar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 22,
+          "description": "",
+          "text": "E já não vivo eu",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 23,
+          "description": "",
+          "text": "Mas agora Jesus Cristo\nVive em mim",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 24,
+          "description": "",
+          "text": "O meu passado apagou\nTudo perdoou",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 25,
+          "description": "",
+          "text": "Pelo sangue\nPelo sangue de Jesus",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "https://open.spotify.com/track/2gy2GkxilvEUr5GDHUUddw",
+        "youtube": "https://youtu.be/voVCOqZ59og?is=Vj00HYbz_iHn_J2T",
+        "deezer": "https://deezer.com/track/56419331",
+        "apple_music": "https://music.apple.com/br/song/554019320",
+        "amazon_music": "https://music.amazon.com.br/tracks/B009BIAILS"
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
+      }
+    },
+    "extras": {
+      "playlist_semana": "s",
+      "nova": "s",
       "extra": ""
     }
   },
@@ -23384,7 +23602,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -23586,8 +23803,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
-      "nova": "s",
       "extra": ""
     }
   },
@@ -24419,7 +24634,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -24577,7 +24791,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Sobre o trono de justiça\neternamente haverá um Rei\n\nEle voltará para governar\nas nações em amor\n\nQue ruja o leão\ne que a Terra estremeça\n\nDiante da majestade\nde Jesus\n\nO descendente de Davi\nO homem mais notável\n\nEle ama a justiça\nOdeia iniquidade\n\nQue se abram os céus\nO Teu reino vem\n\nNossa fé está no\nnosso Deus\n\nQue os céus fechados\nse abram\n\nTeu reino venha mover\n\nA nossa fé e esperança\nestão em Deus\n\nGrande Deus",
+      "full_text": "Sobre o trono de justiça\neternamente haverá um Rei\n\nEle voltará para governar\nas nações em amor\n\nQue ruja o Leão\ne que a Terra estremeça\n\nDiante da majestade\nde Jesus\n\nO descendente de Davi\nO homem mais notável\n\nEle ama a justiça\nOdeia iniquidade\n\nQue se abram os céus\nO Teu reino vem\n\nNossa fé está no\nnosso Deus\n\nQue os céus fechados\nse abram\n\nTeu reino venha mover\n\nA nossa fé e esperança\nestão em Deus\n\nGrande Deus",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -24597,7 +24811,7 @@
         {
           "number": 3,
           "description": "",
-          "text": "Que ruja o leão\ne que a Terra estremeça",
+          "text": "Que ruja o Leão\ne que a Terra estremeça",
           "text_with_comment": null,
           "translations": null
         },
@@ -24683,7 +24897,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/nivea-soares/ruja-o-leao-que-se-abram-os-ceus-part-isaias-saad",
       "extra": ""
     }
@@ -27594,7 +27807,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -30018,7 +30230,7 @@
     "streaming": {
       "audio": {
         "spotify": "https://open.spotify.com/track/2MqySzHNP8fXUgEXOt7cNc",
-        "youtube": "",
+        "youtube": "https://www.youtube.com/watch?v=Nw5WGBPkxXo",
         "deezer": "https://deezer.com/track/2741263811",
         "apple_music": "",
         "amazon_music": ""
@@ -30032,6 +30244,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
