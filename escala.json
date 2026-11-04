@@ -103,6 +103,15 @@
     },
     {
       "song": {
+        "id": "1761654121883",
+        "title": "Meu Respirar",
+        "artist": "Vineyard e Nívea Soares",
+        "author": "Marie Barnett"
+      },
+      "occurrences": "5"
+    },
+    {
+      "song": {
         "id": "1771527481026",
         "title": "Nada Mais + Uma Vez",
         "artist": "Brasa Church",
@@ -202,15 +211,6 @@
     },
     {
       "song": {
-        "id": "1761654121883",
-        "title": "Meu Respirar",
-        "artist": "Vineyard e Nívea Soares",
-        "author": "Marie Barnett"
-      },
-      "occurrences": "4"
-    },
-    {
-      "song": {
         "id": "1784635578746",
         "title": "Nada Mais",
         "artist": "FHOP Music",
@@ -292,6 +292,24 @@
     },
     {
       "song": {
+        "id": "1786045598355",
+        "title": "Ah, Jesus / Coração Igual ao Teu",
+        "artist": "Julliany Souza",
+        "author": "Léo Brandão, Lucas Wallas, Ana Paula Valadão"
+      },
+      "occurrences": "3"
+    },
+    {
+      "song": {
+        "id": "1761670629356",
+        "title": "Bondade de Deus",
+        "artist": "Isaias Saad",
+        "author": "Jason Ingram, Jenn Johnson, Ben Fielding, Ed Cash, Brian Johnson"
+      },
+      "occurrences": "3"
+    },
+    {
+      "song": {
         "id": "1782155778748",
         "title": "Chuva de Poder",
         "artist": "Eyshila",
@@ -305,6 +323,15 @@
         "title": "Consagração",
         "artist": "Aline Barros",
         "author": "Anderson Mattos, Marcelo de Mattos"
+      },
+      "occurrences": "3"
+    },
+    {
+      "song": {
+        "id": "1762264207842",
+        "title": "Deixa Queimar",
+        "artist": "Alessandro Vilas Boas",
+        "author": "Alessandro Vilas Boas"
       },
       "occurrences": "3"
     },
@@ -526,15 +553,6 @@
     },
     {
       "song": {
-        "id": "1786045598355",
-        "title": "Ah, Jesus / Coração Igual ao Teu",
-        "artist": "Julliany Souza",
-        "author": "Léo Brandão, Lucas Wallas, Ana Paula Valadão"
-      },
-      "occurrences": "2"
-    },
-    {
-      "song": {
         "id": "1762266627995",
         "title": "Alto Preço",
         "artist": "Asaph Borba",
@@ -566,15 +584,6 @@
         "title": "Bom Estarmos Aqui",
         "artist": "Renascer Praise",
         "author": "Silas Furtado"
-      },
-      "occurrences": "2"
-    },
-    {
-      "song": {
-        "id": "1761670629356",
-        "title": "Bondade de Deus",
-        "artist": "Isaias Saad",
-        "author": "Jason Ingram, Jenn Johnson, Ben Fielding, Ed Cash, Brian Johnson"
       },
       "occurrences": "2"
     },
@@ -620,15 +629,6 @@
         "title": "De Dentro Pra Fora",
         "artist": "Julia Vitória",
         "author": "Julia Vitória"
-      },
-      "occurrences": "2"
-    },
-    {
-      "song": {
-        "id": "1762264207842",
-        "title": "Deixa Queimar",
-        "artist": "Alessandro Vilas Boas",
-        "author": "Alessandro Vilas Boas"
       },
       "occurrences": "2"
     },
@@ -692,6 +692,15 @@
         "title": "Estrela da Manhã",
         "artist": "Marcos Góes",
         "author": "Jonatas Liasch"
+      },
+      "occurrences": "2"
+    },
+    {
+      "song": {
+        "id": "1773526592621",
+        "title": "Eu Navegarei",
+        "artist": "Gabriela Rocha",
+        "author": "Azmaveth C. Silva"
       },
       "occurrences": "2"
     },
@@ -967,6 +976,15 @@
     },
     {
       "song": {
+        "id": "1793487023609",
+        "title": "Alvo Mais Que a Neve",
+        "artist": "Harpa Cristã",
+        "author": "Eden R. Latta, Henry S. Perkins, H. Maxwell Wright"
+      },
+      "occurrences": "1"
+    },
+    {
+      "song": {
         "id": "1762265991665",
         "title": "Bem Mais Que Tudo",
         "artist": "Aline Barros",
@@ -1120,15 +1138,6 @@
     },
     {
       "song": {
-        "id": "1773526592621",
-        "title": "Eu Navegarei",
-        "artist": "Gabriela Rocha",
-        "author": "Azmaveth C. Silva"
-      },
-      "occurrences": "1"
-    },
-    {
-      "song": {
         "id": "1760470166927",
         "title": "Eu Te Louvarei Meu Bom Jesus",
         "artist": "Ronaldo Bezerra",
@@ -1228,6 +1237,15 @@
     },
     {
       "song": {
+        "id": "1760468997362",
+        "title": "Maravilhosa Graça",
+        "artist": "Comunidade da Graça",
+        "author": "Jeremy Riddle, Josh Farro, Phil Wickham"
+      },
+      "occurrences": "1"
+    },
+    {
+      "song": {
         "id": "1762266085750",
         "title": "Maravilhoso És",
         "artist": "Eli Soares",
@@ -1277,6 +1295,15 @@
         "title": "Pai Nosso",
         "artist": "Pedras Vivas",
         "author": "Marcus Meier"
+      },
+      "occurrences": "1"
+    },
+    {
+      "song": {
+        "id": "1793108214856",
+        "title": "Pelo Sangue",
+        "artist": "Renascer Praise",
+        "author": "Clovis Pinho"
       },
       "occurrences": "1"
     },
@@ -1678,15 +1705,6 @@
     },
     {
       "song": {
-        "id": "1760468997362",
-        "title": "Maravilhosa Graça",
-        "artist": "Comunidade da Graça",
-        "author": "Jeremy Riddle, Josh Farro, Phil Wickham"
-      },
-      "occurrences": "0"
-    },
-    {
-      "song": {
         "id": "1765911007408",
         "title": "Medley Natal",
         "artist": "Paulo Cesar Baruk e Palavra Tocada",
@@ -1957,7 +1975,7 @@
         "name": "Leandro"
       },
       "responsible": "0",
-      "scheduled": "52"
+      "scheduled": "51"
     },
     {
       "member": {
@@ -1989,7 +2007,7 @@
         "name": "Marcelo"
       },
       "responsible": "0",
-      "scheduled": "8"
+      "scheduled": "7"
     },
     {
       "member": {
@@ -2013,7 +2031,7 @@
         "name": "Renan"
       },
       "responsible": "0",
-      "scheduled": "31"
+      "scheduled": "33"
     },
     {
       "member": {

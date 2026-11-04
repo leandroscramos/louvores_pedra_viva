@@ -1,7 +1,7 @@
 {
   "filter": {
     "start": "2026-01-01",
-    "end": "2026-11-05",
+    "end": "2026-11-01",
     "service": null,
     "days": [
       "sun",
@@ -218,6 +218,19 @@
     {
       "songs": [
         {
+          "id": "1761654121883",
+          "title": "Meu Respirar",
+          "artist": "Vineyard e Nívea Soares",
+          "author": "Marie Barnett"
+        }
+      ],
+      "occurrences": "5",
+      "occurrences_by_day": "2,0,0,0,3,0,0",
+      "timestamps": "1782684000,1783036951,1791756000,1792105200,1793314800"
+    },
+    {
+      "songs": [
+        {
           "id": "1771527481026",
           "title": "Nada Mais + Uma Vez",
           "artist": "Brasa Church",
@@ -344,19 +357,6 @@
       "occurrences": "4",
       "occurrences_by_day": "3,0,0,0,1,0,0",
       "timestamps": "1767528000,1770588985,1783893600,1784242800"
-    },
-    {
-      "songs": [
-        {
-          "id": "1761654121883",
-          "title": "Meu Respirar",
-          "artist": "Vineyard e Nívea Soares",
-          "author": "Marie Barnett"
-        }
-      ],
-      "occurrences": "4",
-      "occurrences_by_day": "2,0,0,0,2,0,0",
-      "timestamps": "1782684000,1783036951,1791756000,1792105200"
     },
     {
       "songs": [
@@ -491,6 +491,32 @@
     {
       "songs": [
         {
+          "id": "1786045598355",
+          "title": "Ah, Jesus / Coração Igual ao Teu",
+          "artist": "Julliany Souza",
+          "author": "Léo Brandão, Lucas Wallas, Ana Paula Valadão"
+        }
+      ],
+      "occurrences": "3",
+      "occurrences_by_day": "3,0,0,0,0,0,0",
+      "timestamps": "1786917600,1789336800,1793534400"
+    },
+    {
+      "songs": [
+        {
+          "id": "1761670629356",
+          "title": "Bondade de Deus",
+          "artist": "Isaias Saad",
+          "author": "Jason Ingram, Jenn Johnson, Ben Fielding, Ed Cash, Brian Johnson"
+        }
+      ],
+      "occurrences": "3",
+      "occurrences_by_day": "3,0,0,0,0,0,0",
+      "timestamps": "1769378400,1781475437,1793534400"
+    },
+    {
+      "songs": [
+        {
           "id": "1782155778748",
           "title": "Chuva de Poder",
           "artist": "Eyshila",
@@ -513,6 +539,19 @@
       "occurrences": "3",
       "occurrences_by_day": "1,0,0,0,2,0,0",
       "timestamps": "1769122800,1780833600,1781219919"
+    },
+    {
+      "songs": [
+        {
+          "id": "1762264207842",
+          "title": "Deixa Queimar",
+          "artist": "Alessandro Vilas Boas",
+          "author": "Alessandro Vilas Boas"
+        }
+      ],
+      "occurrences": "3",
+      "occurrences_by_day": "1,0,0,0,2,0,0",
+      "timestamps": "1772148178,1787522400,1793314800"
     },
     {
       "songs": [
@@ -848,19 +887,6 @@
     {
       "songs": [
         {
-          "id": "1786045598355",
-          "title": "Ah, Jesus / Coração Igual ao Teu",
-          "artist": "Julliany Souza",
-          "author": "Léo Brandão, Lucas Wallas, Ana Paula Valadão"
-        }
-      ],
-      "occurrences": "2",
-      "occurrences_by_day": "2,0,0,0,0,0,0",
-      "timestamps": "1786917600,1789336800"
-    },
-    {
-      "songs": [
-        {
           "id": "1762266627995",
           "title": "Alto Preço",
           "artist": "Asaph Borba",
@@ -909,19 +935,6 @@
       "occurrences": "2",
       "occurrences_by_day": "0,0,0,0,2,0,0",
       "timestamps": "1776985200,1782432368"
-    },
-    {
-      "songs": [
-        {
-          "id": "1761670629356",
-          "title": "Bondade de Deus",
-          "artist": "Isaias Saad",
-          "author": "Jason Ingram, Jenn Johnson, Ben Fielding, Ed Cash, Brian Johnson"
-        }
-      ],
-      "occurrences": "2",
-      "occurrences_by_day": "2,0,0,0,0,0,0",
-      "timestamps": "1769378400,1781475437"
     },
     {
       "songs": [
@@ -1000,19 +1013,6 @@
       "occurrences": "2",
       "occurrences_by_day": "1,0,0,0,1,0,0",
       "timestamps": "1789941600,1790290800"
-    },
-    {
-      "songs": [
-        {
-          "id": "1762264207842",
-          "title": "Deixa Queimar",
-          "artist": "Alessandro Vilas Boas",
-          "author": "Alessandro Vilas Boas"
-        }
-      ],
-      "occurrences": "2",
-      "occurrences_by_day": "1,0,0,0,1,0,0",
-      "timestamps": "1772148178,1787522400"
     },
     {
       "songs": [
@@ -1110,6 +1110,19 @@
       "occurrences": "2",
       "occurrences_by_day": "1,0,0,0,1,0,0",
       "timestamps": "1786312800,1786662000"
+    },
+    {
+      "songs": [
+        {
+          "id": "1773526592621",
+          "title": "Eu Navegarei",
+          "artist": "Gabriela Rocha",
+          "author": "Azmaveth C. Silva"
+        }
+      ],
+      "occurrences": "2",
+      "occurrences_by_day": "1,0,0,0,1,0,0",
+      "timestamps": "1773612000,1793314800"
     },
     {
       "songs": [
@@ -1504,6 +1517,19 @@
     {
       "songs": [
         {
+          "id": "1793487023609",
+          "title": "Alvo Mais Que a Neve",
+          "artist": "Harpa Cristã",
+          "author": "Eden R. Latta, Henry S. Perkins, H. Maxwell Wright"
+        }
+      ],
+      "occurrences": "1",
+      "occurrences_by_day": "1,0,0,0,0,0,0",
+      "timestamps": "1793534400"
+    },
+    {
+      "songs": [
+        {
           "id": "1762265991665",
           "title": "Bem Mais Que Tudo",
           "artist": "Aline Barros",
@@ -1725,19 +1751,6 @@
     {
       "songs": [
         {
-          "id": "1773526592621",
-          "title": "Eu Navegarei",
-          "artist": "Gabriela Rocha",
-          "author": "Azmaveth C. Silva"
-        }
-      ],
-      "occurrences": "1",
-      "occurrences_by_day": "1,0,0,0,0,0,0",
-      "timestamps": "1773612000"
-    },
-    {
-      "songs": [
-        {
           "id": "1760470166927",
           "title": "Eu Te Louvarei Meu Bom Jesus",
           "artist": "Ronaldo Bezerra",
@@ -1881,6 +1894,19 @@
     {
       "songs": [
         {
+          "id": "1760468997362",
+          "title": "Maravilhosa Graça",
+          "artist": "Comunidade da Graça",
+          "author": "Jeremy Riddle, Josh Farro, Phil Wickham"
+        }
+      ],
+      "occurrences": "1",
+      "occurrences_by_day": "1,0,0,0,0,0,0",
+      "timestamps": "1793534400"
+    },
+    {
+      "songs": [
+        {
           "id": "1762266085750",
           "title": "Maravilhoso És",
           "artist": "Eli Soares",
@@ -1955,6 +1981,19 @@
       "occurrences": "1",
       "occurrences_by_day": "0,0,0,0,1,0,0",
       "timestamps": "1792710000"
+    },
+    {
+      "songs": [
+        {
+          "id": "1793108214856",
+          "title": "Pelo Sangue",
+          "artist": "Renascer Praise",
+          "author": "Clovis Pinho"
+        }
+      ],
+      "occurrences": "1",
+      "occurrences_by_day": "1,0,0,0,0,0,0",
+      "timestamps": "1793534400"
     },
     {
       "songs": [
@@ -2496,19 +2535,6 @@
           "title": "Lugar Secreto",
           "artist": "Gabriela Rocha",
           "author": "Gabriela Rocha, Hananiel Eduardo"
-        }
-      ],
-      "occurrences": "0",
-      "occurrences_by_day": "0,0,0,0,0,0,0",
-      "timestamps": ""
-    },
-    {
-      "songs": [
-        {
-          "id": "1760468997362",
-          "title": "Maravilhosa Graça",
-          "artist": "Comunidade da Graça",
-          "author": "Jeremy Riddle, Josh Farro, Phil Wickham"
         }
       ],
       "occurrences": "0",
