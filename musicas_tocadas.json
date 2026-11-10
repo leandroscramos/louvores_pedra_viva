@@ -1,7 +1,7 @@
 {
   "filter": {
     "start": "2026-01-01",
-    "end": "2026-11-01",
+    "end": "2026-11-08",
     "service": null,
     "days": [
       "sun",
@@ -134,6 +134,19 @@
     {
       "songs": [
         {
+          "id": "1764877280709",
+          "title": "Outro Igual Não Há",
+          "artist": "Gabriel Guedes",
+          "author": "Aliyah Stamper, Eniola Abioye, Jenn Johnson, Jonathan Stamper, Lindy Cofer, Nathan Carter"
+        }
+      ],
+      "occurrences": "6",
+      "occurrences_by_day": "4,0,0,0,2,0,0",
+      "timestamps": "1768168800,1768518000,1773961200,1779660000,1781474847,1794175200"
+    },
+    {
+      "songs": [
+        {
           "id": "1762268854445",
           "title": "Sublime",
           "artist": "FHOP Music",
@@ -257,19 +270,6 @@
     {
       "songs": [
         {
-          "id": "1764877280709",
-          "title": "Outro Igual Não Há",
-          "artist": "Gabriel Guedes",
-          "author": "Aliyah Stamper, Eniola Abioye, Jenn Johnson, Jonathan Stamper, Lindy Cofer, Nathan Carter"
-        }
-      ],
-      "occurrences": "5",
-      "occurrences_by_day": "3,0,0,0,2,0,0",
-      "timestamps": "1768168800,1768518000,1773961200,1779660000,1781474847"
-    },
-    {
-      "songs": [
-        {
           "id": "1762265206490",
           "title": "Alfa e Ômega",
           "artist": "Marine Friesen",
@@ -292,6 +292,32 @@
       "occurrences": "4",
       "occurrences_by_day": "0,0,0,0,4,0,0",
       "timestamps": "1783036553,1787266800,1789686000,1792710000"
+    },
+    {
+      "songs": [
+        {
+          "id": "1782155778748",
+          "title": "Chuva de Poder",
+          "artist": "Eyshila",
+          "author": "Eyshila"
+        }
+      ],
+      "occurrences": "4",
+      "occurrences_by_day": "2,0,0,0,2,0,0",
+      "timestamps": "1782684000,1783036550,1784498400,1793919600"
+    },
+    {
+      "songs": [
+        {
+          "id": "1762264941889",
+          "title": "É Ele",
+          "artist": "DROPS",
+          "author": "Paulo Vicente"
+        }
+      ],
+      "occurrences": "4",
+      "occurrences_by_day": "2,0,0,0,2,0,0",
+      "timestamps": "1771803165,1779660000,1784849178,1793919600"
     },
     {
       "songs": [
@@ -374,6 +400,19 @@
     {
       "songs": [
         {
+          "id": "1778012658035",
+          "title": "O Fogo Arderá + Reacende a Chama + Acende Outra Vez",
+          "artist": "Yasmin Teixeira",
+          "author": "Yasmin Teixeira"
+        }
+      ],
+      "occurrences": "4",
+      "occurrences_by_day": "3,0,0,0,1,0,0",
+      "timestamps": "1778450400,1778800723,1783893600,1794175200"
+    },
+    {
+      "songs": [
+        {
           "id": "1770293907538",
           "title": "O Nosso General É Cristo",
           "artist": "Gabriela Rocha",
@@ -396,6 +435,25 @@
       "occurrences": "4",
       "occurrences_by_day": "2,0,0,0,2,0,0",
       "timestamps": "1771200288,1771545954,1789336800,1789686000"
+    },
+    {
+      "songs": [
+        {
+          "id": "1762266641384",
+          "title": "Oferta de Amor",
+          "artist": "Min. Koinonya de Louvor",
+          "author": "Willen Soares"
+        },
+        {
+          "id": "1762265565301",
+          "title": "Venho, Senhor, Minha Vida Oferecer",
+          "artist": "Igreja Cristã Maranata",
+          "author": "Willen Soares"
+        }
+      ],
+      "occurrences": "4",
+      "occurrences_by_day": "2,0,0,0,2,0,0",
+      "timestamps": "1774821600,1778198901,1788127200,1793919600"
     },
     {
       "songs": [
@@ -517,19 +575,6 @@
     {
       "songs": [
         {
-          "id": "1782155778748",
-          "title": "Chuva de Poder",
-          "artist": "Eyshila",
-          "author": "Eyshila"
-        }
-      ],
-      "occurrences": "3",
-      "occurrences_by_day": "2,0,0,0,1,0,0",
-      "timestamps": "1782684000,1783036550,1784498400"
-    },
-    {
-      "songs": [
-        {
           "id": "1761051397113",
           "title": "Consagração",
           "artist": "Aline Barros",
@@ -565,19 +610,6 @@
       "occurrences": "3",
       "occurrences_by_day": "2,0,0,0,1,0,0",
       "timestamps": "1790546400,1790895600,1792965600"
-    },
-    {
-      "songs": [
-        {
-          "id": "1762264941889",
-          "title": "É Ele",
-          "artist": "DROPS",
-          "author": "Paulo Vicente"
-        }
-      ],
-      "occurrences": "3",
-      "occurrences_by_day": "2,0,0,0,1,0,0",
-      "timestamps": "1771803165,1779660000,1784849178"
     },
     {
       "songs": [
@@ -653,19 +685,6 @@
     {
       "songs": [
         {
-          "id": "1778012658035",
-          "title": "O Fogo Arderá + Reacende a Chama + Acende Outra Vez",
-          "artist": "Yasmin Teixeira",
-          "author": "Yasmin Teixeira"
-        }
-      ],
-      "occurrences": "3",
-      "occurrences_by_day": "2,0,0,0,1,0,0",
-      "timestamps": "1778450400,1778800723,1783893600"
-    },
-    {
-      "songs": [
-        {
           "id": "1761050941558",
           "title": "Oceanos",
           "artist": "Ana Nóbrega",
@@ -714,6 +733,19 @@
       "occurrences": "3",
       "occurrences_by_day": "3,0,0,0,0,0,0",
       "timestamps": "1767528000,1777809600,1783252800"
+    },
+    {
+      "songs": [
+        {
+          "id": "1762265156309",
+          "title": "Poderoso Deus",
+          "artist": "Antônio Cirilo e David Quinlan",
+          "author": "Antônio Cirilo"
+        }
+      ],
+      "occurrences": "3",
+      "occurrences_by_day": "3,0,0,0,0,0,0",
+      "timestamps": "1772979019,1773007200,1794175200"
     },
     {
       "songs": [
@@ -1309,19 +1341,6 @@
     {
       "songs": [
         {
-          "id": "1762265156309",
-          "title": "Poderoso Deus",
-          "artist": "Antônio Cirilo e David Quinlan",
-          "author": "Antônio Cirilo"
-        }
-      ],
-      "occurrences": "2",
-      "occurrences_by_day": "2,0,0,0,0,0,0",
-      "timestamps": "1772979019,1773007200"
-    },
-    {
-      "songs": [
-        {
           "id": "1760470027956",
           "title": "Quebrantado",
           "artist": "Vineyard",
@@ -1388,7 +1407,7 @@
       "songs": [
         {
           "id": "1762265229986",
-          "title": "Seja Exaltado (ajustar letra com Samuel)",
+          "title": "Seja Exaltado",
           "artist": "SOZO",
           "author": "Josh Baldwin"
         }
@@ -1881,6 +1900,19 @@
     {
       "songs": [
         {
+          "id": "1762264961202",
+          "title": "Lindo És / Só Quero Ver Você",
+          "artist": "Juliano Son e Livres Para Adorar",
+          "author": "David Brymer, Filipe Hitzschky"
+        }
+      ],
+      "occurrences": "1",
+      "occurrences_by_day": "1,0,0,0,0,0,0",
+      "timestamps": "1794175200"
+    },
+    {
+      "songs": [
+        {
           "id": "1767654051972",
           "title": "Lugares Altos",
           "artist": "Renascer Praise",
@@ -2193,6 +2225,19 @@
     {
       "songs": [
         {
+          "id": "1762265565301",
+          "title": "Venho, Senhor, Minha Vida Oferecer",
+          "artist": "Igreja Cristã Maranata",
+          "author": "Willen Soares"
+        }
+      ],
+      "occurrences": "1",
+      "occurrences_by_day": "0,0,0,0,1,0,0",
+      "timestamps": "1793919600"
+    },
+    {
+      "songs": [
+        {
           "id": "1760470049835",
           "title": "Vitória No Deserto",
           "artist": "Aline Barros",
@@ -2466,6 +2511,19 @@
     {
       "songs": [
         {
+          "id": "1794339501643",
+          "title": "Fogo Em Teus Olhos",
+          "artist": "Carol Braga",
+          "author": ""
+        }
+      ],
+      "occurrences": "0",
+      "occurrences_by_day": "0,0,0,0,0,0,0",
+      "timestamps": ""
+    },
+    {
+      "songs": [
+        {
           "id": "1761050902558",
           "title": "Galileu",
           "artist": "Fernandinho",
@@ -2509,19 +2567,6 @@
           "title": "Hosana",
           "artist": "Mariana Valadão",
           "author": "Brooke Ligertwood"
-        }
-      ],
-      "occurrences": "0",
-      "occurrences_by_day": "0,0,0,0,0,0,0",
-      "timestamps": ""
-    },
-    {
-      "songs": [
-        {
-          "id": "1762264961202",
-          "title": "Lindo És / Só Quero Ver Você",
-          "artist": "Juliano Son e Livres Para Adorar",
-          "author": "David Brymer, Filipe Hitzschky"
         }
       ],
       "occurrences": "0",
@@ -2860,19 +2905,6 @@
           "title": "Um Só Deus",
           "artist": "Daniel Souza",
           "author": ""
-        }
-      ],
-      "occurrences": "0",
-      "occurrences_by_day": "0,0,0,0,0,0,0",
-      "timestamps": ""
-    },
-    {
-      "songs": [
-        {
-          "id": "1762265565301",
-          "title": "Venho, Senhor, Minha Vida Oferecer",
-          "artist": "Igreja Cristã Maranata",
-          "author": "Willen Soares"
         }
       ],
       "occurrences": "0",

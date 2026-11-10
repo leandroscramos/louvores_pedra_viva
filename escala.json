@@ -1,6 +1,6 @@
 {
   "start": "2026-01-01",
-  "end": "2026-11-05",
+  "end": "2026-11-19",
   "songs": [
     {
       "song": {
@@ -62,6 +62,15 @@
         "title": "Lindo Momento",
         "artist": "Julliany Souza",
         "author": "Challenge Salcedo, Enmanuel Encarnación, Laurelys Castillo"
+      },
+      "occurrences": "6"
+    },
+    {
+      "song": {
+        "id": "1764877280709",
+        "title": "Outro Igual Não Há",
+        "artist": "Gabriel Guedes",
+        "author": "Aliyah Stamper, Eniola Abioye, Jenn Johnson, Jonathan Stamper, Lindy Cofer, Nathan Carter"
       },
       "occurrences": "6"
     },
@@ -130,15 +139,6 @@
     },
     {
       "song": {
-        "id": "1764877280709",
-        "title": "Outro Igual Não Há",
-        "artist": "Gabriel Guedes",
-        "author": "Aliyah Stamper, Eniola Abioye, Jenn Johnson, Jonathan Stamper, Lindy Cofer, Nathan Carter"
-      },
-      "occurrences": "5"
-    },
-    {
-      "song": {
         "id": "1762265206490",
         "title": "Alfa e Ômega",
         "artist": "Marine Friesen",
@@ -157,10 +157,28 @@
     },
     {
       "song": {
+        "id": "1782155778748",
+        "title": "Chuva de Poder",
+        "artist": "Eyshila",
+        "author": "Eyshila"
+      },
+      "occurrences": "4"
+    },
+    {
+      "song": {
         "id": "1790079485651",
         "title": "Deus Está Aqui / O Espírito de Deus / Manancial",
         "artist": "Gabriela Rocha",
         "author": "Francisco Javier Gacías Mateo, Bené Gomes, Ana Paula Valadão"
+      },
+      "occurrences": "4"
+    },
+    {
+      "song": {
+        "id": "1762264941889",
+        "title": "É Ele",
+        "artist": "DROPS",
+        "author": "Paulo Vicente"
       },
       "occurrences": "4"
     },
@@ -215,6 +233,15 @@
         "title": "Nada Mais",
         "artist": "FHOP Music",
         "author": "Cody Carnes, Hank Bentley, Jessie Early"
+      },
+      "occurrences": "4"
+    },
+    {
+      "song": {
+        "id": "1778012658035",
+        "title": "O Fogo Arderá + Reacende a Chama + Acende Outra Vez",
+        "artist": "Yasmin Teixeira",
+        "author": "Yasmin Teixeira"
       },
       "occurrences": "4"
     },
@@ -310,15 +337,6 @@
     },
     {
       "song": {
-        "id": "1782155778748",
-        "title": "Chuva de Poder",
-        "artist": "Eyshila",
-        "author": "Eyshila"
-      },
-      "occurrences": "3"
-    },
-    {
-      "song": {
         "id": "1761051397113",
         "title": "Consagração",
         "artist": "Aline Barros",
@@ -332,15 +350,6 @@
         "title": "Deixa Queimar",
         "artist": "Alessandro Vilas Boas",
         "author": "Alessandro Vilas Boas"
-      },
-      "occurrences": "3"
-    },
-    {
-      "song": {
-        "id": "1762264941889",
-        "title": "É Ele",
-        "artist": "DROPS",
-        "author": "Paulo Vicente"
       },
       "occurrences": "3"
     },
@@ -377,15 +386,6 @@
         "title": "Não Vou Calar Meus Lábios",
         "artist": "Marcos Góes",
         "author": "Marcelo Guimarães"
-      },
-      "occurrences": "3"
-    },
-    {
-      "song": {
-        "id": "1778012658035",
-        "title": "O Fogo Arderá + Reacende a Chama + Acende Outra Vez",
-        "artist": "Yasmin Teixeira",
-        "author": "Yasmin Teixeira"
       },
       "occurrences": "3"
     },
@@ -832,6 +832,15 @@
     },
     {
       "song": {
+        "id": "1762265156309",
+        "title": "Poderoso Deus",
+        "artist": "Antônio Cirilo e David Quinlan",
+        "author": "Antônio Cirilo"
+      },
+      "occurrences": "2"
+    },
+    {
+      "song": {
         "id": "1760470027956",
         "title": "Quebrantado",
         "artist": "Vineyard",
@@ -878,7 +887,7 @@
     {
       "song": {
         "id": "1762265229986",
-        "title": "Seja Exaltado (ajustar letra com Samuel)",
+        "title": "Seja Exaltado",
         "artist": "SOZO",
         "author": "Josh Baldwin"
       },
@@ -1228,6 +1237,15 @@
     },
     {
       "song": {
+        "id": "1762264961202",
+        "title": "Lindo És / Só Quero Ver Você",
+        "artist": "Juliano Son e Livres Para Adorar",
+        "author": "David Brymer, Filipe Hitzschky"
+      },
+      "occurrences": "1"
+    },
+    {
+      "song": {
         "id": "1767654051972",
         "title": "Lugares Altos",
         "artist": "Renascer Praise",
@@ -1304,15 +1322,6 @@
         "title": "Pelo Sangue",
         "artist": "Renascer Praise",
         "author": "Clovis Pinho"
-      },
-      "occurrences": "1"
-    },
-    {
-      "song": {
-        "id": "1762265156309",
-        "title": "Poderoso Deus",
-        "artist": "Antônio Cirilo e David Quinlan",
-        "author": "Antônio Cirilo"
       },
       "occurrences": "1"
     },
@@ -1466,6 +1475,15 @@
         "title": "Vem Cear",
         "artist": "Harpa Cristã",
         "author": "Paulo Leivas Macalão"
+      },
+      "occurrences": "1"
+    },
+    {
+      "song": {
+        "id": "1762265565301",
+        "title": "Venho, Senhor, Minha Vida Oferecer",
+        "artist": "Igreja Cristã Maranata",
+        "author": "Willen Soares"
       },
       "occurrences": "1"
     },
@@ -1651,6 +1669,15 @@
     },
     {
       "song": {
+        "id": "1794339501643",
+        "title": "Fogo Em Teus Olhos",
+        "artist": "Carol Braga",
+        "author": ""
+      },
+      "occurrences": "0"
+    },
+    {
+      "song": {
         "id": "1761050902558",
         "title": "Galileu",
         "artist": "Fernandinho",
@@ -1682,15 +1709,6 @@
         "title": "Hosana",
         "artist": "Mariana Valadão",
         "author": "Brooke Ligertwood"
-      },
-      "occurrences": "0"
-    },
-    {
-      "song": {
-        "id": "1762264961202",
-        "title": "Lindo És / Só Quero Ver Você",
-        "artist": "Juliano Son e Livres Para Adorar",
-        "author": "David Brymer, Filipe Hitzschky"
       },
       "occurrences": "0"
     },
@@ -1909,15 +1927,6 @@
         "author": ""
       },
       "occurrences": "0"
-    },
-    {
-      "song": {
-        "id": "1762265565301",
-        "title": "Venho, Senhor, Minha Vida Oferecer",
-        "artist": "Igreja Cristã Maranata",
-        "author": "Willen Soares"
-      },
-      "occurrences": "0"
     }
   ],
   "members": [
@@ -1927,7 +1936,7 @@
         "name": "Diego"
       },
       "responsible": "0",
-      "scheduled": "35"
+      "scheduled": "37"
     },
     {
       "member": {
@@ -1943,7 +1952,7 @@
         "name": "Guilherme"
       },
       "responsible": "0",
-      "scheduled": "77"
+      "scheduled": "79"
     },
     {
       "member": {
@@ -1951,7 +1960,7 @@
         "name": "Gustavo"
       },
       "responsible": "0",
-      "scheduled": "32"
+      "scheduled": "31"
     },
     {
       "member": {
@@ -1959,7 +1968,7 @@
         "name": "Juliana"
       },
       "responsible": "0",
-      "scheduled": "47"
+      "scheduled": "51"
     },
     {
       "member": {
@@ -1975,7 +1984,7 @@
         "name": "Leandro"
       },
       "responsible": "0",
-      "scheduled": "51"
+      "scheduled": "55"
     },
     {
       "member": {
@@ -1983,7 +1992,7 @@
         "name": "Lucas"
       },
       "responsible": "0",
-      "scheduled": "62"
+      "scheduled": "66"
     },
     {
       "member": {
@@ -1991,7 +2000,7 @@
         "name": "Lukinhas"
       },
       "responsible": "0",
-      "scheduled": "45"
+      "scheduled": "46"
     },
     {
       "member": {
@@ -1999,7 +2008,7 @@
         "name": "Malú"
       },
       "responsible": "0",
-      "scheduled": "43"
+      "scheduled": "47"
     },
     {
       "member": {
@@ -2007,7 +2016,7 @@
         "name": "Marcelo"
       },
       "responsible": "0",
-      "scheduled": "7"
+      "scheduled": "8"
     },
     {
       "member": {
@@ -2015,7 +2024,7 @@
         "name": "Marcos"
       },
       "responsible": "0",
-      "scheduled": "22"
+      "scheduled": "24"
     },
     {
       "member": {
@@ -2023,7 +2032,7 @@
         "name": "Nicole"
       },
       "responsible": "0",
-      "scheduled": "2"
+      "scheduled": "3"
     },
     {
       "member": {
@@ -2031,7 +2040,7 @@
         "name": "Renan"
       },
       "responsible": "0",
-      "scheduled": "33"
+      "scheduled": "35"
     },
     {
       "member": {
@@ -2039,7 +2048,7 @@
         "name": "Samuel"
       },
       "responsible": "0",
-      "scheduled": "86"
+      "scheduled": "90"
     },
     {
       "member": {
@@ -2047,7 +2056,7 @@
         "name": "Vini"
       },
       "responsible": "0",
-      "scheduled": "21"
+      "scheduled": "22"
     },
     {
       "member": {

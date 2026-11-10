@@ -655,7 +655,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Ensina-me a sentir\nTeu coração\n\nJesus, quero ouvir\nTeu respirar\n\nTirar Teu fôlego\nCom minha fé\n\nE Te adorar\n\nJesus, Tu és o pão\nQue me alimenta\n\nO verbo vivo\nQue desceu do céu\n\nVem aquecer\nMeu frio coração\n\nCom Teu amor\n\nAbraça-me, abraça-me\nCura-me, cura-me\n\nUnge-me, unge-me\nToca-me, toca-me\n\nVem sobre mim\nCom o Teu manto\n\nReina em mim\nCom Tua glória\n\nPois ao Teu lado\nÉ o meu lugar\n\nAleluia, aleluia",
+      "full_text": "Ensina-me a sentir\nTeu coração\n\nJesus, quero ouvir\nTeu respirar\n\nTirar Teu fôlego\ncom minha fé\n\ne Te adorar\n\nJesus, Tu és o pão\nque me alimenta\n\nO verbo vivo\nque desceu do céu\n\nVem aquecer\nmeu frio coração\n\ncom Teu amor\n\nAbraça-me, abraça-me\ncura-me, cura-me\n\nUnge-me, unge-me\ntoca-me, toca-me\n\nVem sobre mim\ncom o Teu manto\n\nReina em mim\ncom Tua glória\n\nPois ao Teu lado\né o meu lugar\n\nAleluia, aleluia",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -675,77 +675,77 @@
         {
           "number": 3,
           "description": "",
-          "text": "Tirar Teu fôlego\nCom minha fé",
+          "text": "Tirar Teu fôlego\ncom minha fé",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "E Te adorar",
+          "text": "e Te adorar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Jesus, Tu és o pão\nQue me alimenta",
+          "text": "Jesus, Tu és o pão\nque me alimenta",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "O verbo vivo\nQue desceu do céu",
+          "text": "O verbo vivo\nque desceu do céu",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Vem aquecer\nMeu frio coração",
+          "text": "Vem aquecer\nmeu frio coração",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Com Teu amor",
+          "text": "com Teu amor",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 9,
           "description": "",
-          "text": "Abraça-me, abraça-me\nCura-me, cura-me",
+          "text": "Abraça-me, abraça-me\ncura-me, cura-me",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 10,
           "description": "",
-          "text": "Unge-me, unge-me\nToca-me, toca-me",
+          "text": "Unge-me, unge-me\ntoca-me, toca-me",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 11,
           "description": "",
-          "text": "Vem sobre mim\nCom o Teu manto",
+          "text": "Vem sobre mim\ncom o Teu manto",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 12,
           "description": "",
-          "text": "Reina em mim\nCom Tua glória",
+          "text": "Reina em mim\ncom Tua glória",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 13,
           "description": "",
-          "text": "Pois ao Teu lado\nÉ o meu lugar",
+          "text": "Pois ao Teu lado\né o meu lugar",
           "text_with_comment": null,
           "translations": null
         },
@@ -1933,6 +1933,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -11943,6 +11944,104 @@
     }
   },
   {
+    "id": 1794339501643,
+    "title": "Fogo Em Teus Olhos",
+    "artist": "Carol Braga",
+    "author": "",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "Em",
+    "bpm": 67.5,
+    "time_sig": "4/4",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Me aproximei, permaneci\nO Teu olhar me consumiu\n\nEu sou todo Teu\n\nO fogo em Teus olhos\nFez eu me apaixonar\n\nQueimou todos os\nOutros amores\n\nQueimou todos os\nOutros amores\n\nEu ainda tenho fome\nEu ainda tenho lenha\n\nPode vir queimar\nPode vir queimar\n\nNos tornamos responsáveis\nA chama não vai apagar",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Me aproximei, permaneci\nO Teu olhar me consumiu",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Eu sou todo Teu",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "O fogo em Teus olhos\nFez eu me apaixonar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Queimou todos os\nOutros amores",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Queimou todos os\nOutros amores",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Eu ainda tenho fome\nEu ainda tenho lenha",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Pode vir queimar\nPode vir queimar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Nos tornamos responsáveis\nA chama não vai apagar",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "",
+        "youtube": "https://www.youtube.com/watch?v=rr2p8CTcXSM",
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
+      }
+    },
+    "extras": {
+      "playlist_semana": "s",
+      "nova": "s",
+      "extra": ""
+    }
+  },
+  {
     "id": 1762287862268,
     "title": "Foi na Cruz | Nada Além do Sangue | O Rei está voltando",
     "artist": "Fernandinho e Gabriel Guedes",
@@ -13547,7 +13646,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/quatro-por-um/jesus-em-tua-presenca",
       "extra": ""
     }
@@ -13845,7 +13943,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Lindo, lindo, lindo és\nGlória, glória eu Te dou\n\nJesus, Jesus\n\nMe leva à sala do trono\n\nMostra Tua beleza\nQuero ver Tua face\n\nSó quero, só quero, ver Você\nSó quero, só quero, ver Você",
+      "full_text": "Lindo, lindo, lindo és\nGlória, glória eu Te dou\n\nJesus, Jesus\n\nMe leva à sala do trono\n\nMostra Tua beleza\nQuero ver Tua face\n\nSó quero, só quero\nTe ver Senhor\n\nO que é que os anjos veem,\nque os fazem se prostrar?\n\nO que é que os anjos veem,\nque os fazem cantar Santo?",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -13879,7 +13977,21 @@
         {
           "number": 5,
           "description": "",
-          "text": "Só quero, só quero, ver Você\nSó quero, só quero, ver Você",
+          "text": "Só quero, só quero\nTe ver Senhor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "O que é que os anjos veem,\nque os fazem se prostrar?",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "O que é que os anjos veem,\nque os fazem cantar Santo?",
           "text_with_comment": null,
           "translations": null
         }
@@ -13902,7 +14014,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -19402,13 +19513,13 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Teu fogo arde em mim\nE muda o meu viver\n\nSou Teu templo, sou Teu altar\nSacrifício vivo quero oferecer\n\nQue o nosso louvor\nNão seja um momento\n\nLágrimas vazias\nSem avivamento\n\nQue o nosso amor não seja fingido\n\nHonrado com os lábios\nNos corações esquecido\n\nPois de que vale\nTer as poesias mais lindas\n\nAs harmonias mais brilhantes\nSe não há verdade em nós?\n\nPois de que vale\nTer tudo e não ter nada?\n\nTe dar meus lábios\nNão minha alma?\n\nQuero me entregar a Ti\n\nEntregar minha vida\nComo adoração\n\nNão vale a pena só me emocionar\n\nE buscar as canções\nMais lindas pra cantar\n\nSe eu não for uma canção\nQue alegra a Ti\n\nSe o meu coração\nNão queimar por Ti\n\nO fogo arderá sobre o altar\nContinuamente sobre o altar\n\nE não se apagará\n\nO fogo arderá sobre o altar\nContinuamente sobre o altar\n\nE não se apagará\nE não se apagará",
+      "full_text": "Teu fogo arde em mim\ne muda o meu viver\n\nSou Teu templo, sou Teu altar\nSacrifício vivo quero oferecer\n\nQue o nosso louvor\nnão seja um momento\n\nLágrimas vazias\nsem avivamento\n\nQue o nosso amor\nnão seja fingido\n\nHonrado com os lábios\nnos corações esquecido\n\nPois de que vale\nter as poesias mais lindas\n\nAs harmonias mais brilhantes\nse não há verdade em nós?\n\nPois de que vale\nter tudo e não ter nada?\n\nTe dar meus lábios\nnão minha alma?\n\nQuero me entregar a Ti\nEntregar minha vida\ncomo adoração\n\nNão vale a pena só\nme emocionar\n\nE buscar as canções\nmais lindas pra cantar\n\nSe eu não for uma canção\nque alegra a Ti\n\nSe o meu coração\nnão queimar por Ti\n\nO fogo arderá sobre o altar\nContinuamente sobre o altar\n\nE não se apagará\n\nO fogo arderá sobre o altar\nContinuamente sobre o altar\n\nE não se apagará\nE não se apagará",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Teu fogo arde em mim\nE muda o meu viver",
+          "text": "Teu fogo arde em mim\ne muda o meu viver",
           "text_with_comment": null,
           "translations": null
         },
@@ -19422,124 +19533,117 @@
         {
           "number": 3,
           "description": "",
-          "text": "Que o nosso louvor\nNão seja um momento",
+          "text": "Que o nosso louvor\nnão seja um momento",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Lágrimas vazias\nSem avivamento",
+          "text": "Lágrimas vazias\nsem avivamento",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Que o nosso amor não seja fingido",
+          "text": "Que o nosso amor\nnão seja fingido",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Honrado com os lábios\nNos corações esquecido",
+          "text": "Honrado com os lábios\nnos corações esquecido",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Pois de que vale\nTer as poesias mais lindas",
+          "text": "Pois de que vale\nter as poesias mais lindas",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "As harmonias mais brilhantes\nSe não há verdade em nós?",
+          "text": "As harmonias mais brilhantes\nse não há verdade em nós?",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 9,
           "description": "",
-          "text": "Pois de que vale\nTer tudo e não ter nada?",
+          "text": "Pois de que vale\nter tudo e não ter nada?",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 10,
           "description": "",
-          "text": "Te dar meus lábios\nNão minha alma?",
+          "text": "Te dar meus lábios\nnão minha alma?",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 11,
           "description": "",
-          "text": "Quero me entregar a Ti",
+          "text": "Quero me entregar a Ti\nEntregar minha vida\ncomo adoração",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 12,
           "description": "",
-          "text": "Entregar minha vida\nComo adoração",
+          "text": "Não vale a pena só\nme emocionar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 13,
           "description": "",
-          "text": "Não vale a pena só me emocionar",
+          "text": "E buscar as canções\nmais lindas pra cantar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 14,
           "description": "",
-          "text": "E buscar as canções\nMais lindas pra cantar",
+          "text": "Se eu não for uma canção\nque alegra a Ti",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 15,
           "description": "",
-          "text": "Se eu não for uma canção\nQue alegra a Ti",
+          "text": "Se o meu coração\nnão queimar por Ti",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 16,
           "description": "",
-          "text": "Se o meu coração\nNão queimar por Ti",
+          "text": "O fogo arderá sobre o altar\nContinuamente sobre o altar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 17,
           "description": "",
-          "text": "O fogo arderá sobre o altar\nContinuamente sobre o altar",
+          "text": "E não se apagará",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 18,
           "description": "",
-          "text": "E não se apagará",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 19,
-          "description": "",
           "text": "O fogo arderá sobre o altar\nContinuamente sobre o altar",
           "text_with_comment": null,
           "translations": null
         },
         {
-          "number": 20,
+          "number": 19,
           "description": "",
           "text": "E não se apagará\nE não se apagará",
           "text_with_comment": null,
@@ -19564,7 +19668,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -20379,6 +20482,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/gabriela-rocha/nosso-general-e-cristo",
       "extra": ""
     }
@@ -21114,7 +21218,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -21292,7 +21395,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Sobre o trono está\nJesus, Santo\n\nDigno de adoração\nHonra e glória\n\nDigno é o Senhor\nO cordeiro que\nno trono está\n\nOutro igual não há\n\nToda a criação\nSó a Ele\nrende adoração\n\nOutro igual não há\n\nAo Rei nós coroamos\nAo Rei nós coroamos\n\nAo Rei nós coroamos\nDe tudo Ele é Senhor\n\nSomente o Rei é digno\nSomente o Rei é digno\n\nSomente o Rei é digno\nDe tudo Ele é Senhor",
+      "full_text": "Sobre o trono está\nJesus, Santo\n\nDigno de adoração\nhonra e glória\n\nDigno é o Senhor\nO cordeiro que no trono está\n\nOutro igual não há\n\nToda a criação\nsó a Ele rende adoração\n\nOutro igual não há\n\nAo Rei nós coroamos\nAo Rei nós coroamos\n\nAo Rei nós coroamos\nDe tudo Ele é Senhor\n\nSomente o Rei é digno\nSomente o Rei é digno\n\nSomente o Rei é digno\nDe tudo Ele é Senhor",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -21305,14 +21408,14 @@
         {
           "number": 2,
           "description": "",
-          "text": "Digno de adoração\nHonra e glória",
+          "text": "Digno de adoração\nhonra e glória",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "Digno é o Senhor\nO cordeiro que\nno trono está",
+          "text": "Digno é o Senhor\nO cordeiro que no trono está",
           "text_with_comment": null,
           "translations": null
         },
@@ -21326,7 +21429,7 @@
         {
           "number": 5,
           "description": "",
-          "text": "Toda a criação\nSó a Ele\nrende adoração",
+          "text": "Toda a criação\nsó a Ele rende adoração",
           "text_with_comment": null,
           "translations": null
         },
@@ -21384,7 +21487,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -22049,13 +22151,13 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Ao que está assentado no trono\nE ao Cordeiro seja o louvor\n\nSeja a honra, seja a glória\n\nSeja o domínio\nPelos séculos dos séculos\n\nPoderoso Deus\nPoderoso Deus\n\nPoderoso Deus\nMinh'alma anseia por Ti",
+      "full_text": "Ao que está\nassentado no trono\n\ne ao Cordeiro\nseja o louvor\n\nSeja a honra,\nseja a glória\n\nSeja o domínio\npelos séculos dos séculos\n\nPoderoso Deus\nPoderoso Deus\n\nPoderoso Deus\nminh'alma anseia por Ti",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Ao que está assentado no trono\nE ao Cordeiro seja o louvor",
+          "text": "Ao que está\nassentado no trono",
           "text_with_comment": null,
           "translations": {
             "Espanhol": "Al que está sentado en el trono\nY al Cordero sea la alabanza"
@@ -22064,23 +22166,30 @@
         {
           "number": 2,
           "description": "",
-          "text": "Seja a honra, seja a glória",
+          "text": "e ao Cordeiro\nseja o louvor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Seja a honra,\nseja a glória",
           "text_with_comment": null,
           "translations": {
             "Espanhol": "Sea el honor, sea la gloria"
           }
         },
         {
-          "number": 3,
+          "number": 4,
           "description": "",
-          "text": "Seja o domínio\nPelos séculos dos séculos",
+          "text": "Seja o domínio\npelos séculos dos séculos",
           "text_with_comment": null,
           "translations": {
             "Espanhol": "Sea el dominio\nDurante siglos de siglos"
           }
         },
         {
-          "number": 4,
+          "number": 5,
           "description": "",
           "text": "Poderoso Deus\nPoderoso Deus",
           "text_with_comment": null,
@@ -22089,9 +22198,9 @@
           }
         },
         {
-          "number": 5,
+          "number": 6,
           "description": "",
-          "text": "Poderoso Deus\nMinh'alma anseia por Ti",
+          "text": "Poderoso Deus\nminh'alma anseia por Ti",
           "text_with_comment": null,
           "translations": {
             "Espanhol": "Poderoso Dios\nMi alma te anhela"
@@ -22116,7 +22225,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/david-quinlan/poderoso-deus",
       "extra": ""
     }
@@ -23352,6 +23460,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -24134,6 +24243,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/julliany-souza/quem-e-esse",
       "extra": ""
     }
@@ -25776,7 +25886,7 @@
   },
   {
     "id": 1762265229986,
-    "title": "Seja Exaltado (ajustar letra com Samuel)",
+    "title": "Seja Exaltado",
     "artist": "SOZO",
     "author": "Josh Baldwin",
     "note": "",
@@ -25881,6 +25991,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/sozo/seja-exaltado",
       "extra": ""
     }
@@ -27047,6 +27158,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/florianopolis-house-of-prayer/sublime",
       "extra": ""
     }
@@ -27456,7 +27568,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "extra": ""
     }
   },
