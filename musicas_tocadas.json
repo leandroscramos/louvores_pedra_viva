@@ -18,25 +18,6 @@
     {
       "songs": [
         {
-          "id": "1784635578746",
-          "title": "Nada Mais",
-          "artist": "FHOP Music",
-          "author": "Cody Carnes, Hank Bentley, Jessie Early"
-        },
-        {
-          "id": "1771527481026",
-          "title": "Nada Mais + Uma Vez",
-          "artist": "Brasa Church",
-          "author": ""
-        }
-      ],
-      "occurrences": "9",
-      "occurrences_by_day": "5,0,0,0,4,0,0",
-      "timestamps": "1771803169,1772148176,1777240800,1777590000,1785103200,1789941600,1790290800,1792360800,1792710000"
-    },
-    {
-      "songs": [
-        {
           "id": "1764609596023",
           "title": "Escape",
           "artist": "Renascer Praise",
@@ -115,25 +96,6 @@
     {
       "songs": [
         {
-          "id": "1762266243905",
-          "title": "Me Ama",
-          "artist": "Diante do Trono",
-          "author": "Ana Paula Valadão, John Mark McMillan"
-        },
-        {
-          "id": "1790686257200",
-          "title": "Me Ama",
-          "artist": "Get Worship",
-          "author": ""
-        }
-      ],
-      "occurrences": "6",
-      "occurrences_by_day": "3,0,0,0,3,0,0",
-      "timestamps": "1774821600,1775171744,1786917600,1787266800,1791115200,1791500400"
-    },
-    {
-      "songs": [
-        {
           "id": "1764877280709",
           "title": "Outro Igual Não Há",
           "artist": "Gabriel Guedes",
@@ -143,25 +105,6 @@
       "occurrences": "6",
       "occurrences_by_day": "4,0,0,0,2,0,0",
       "timestamps": "1768168800,1768518000,1773961200,1779660000,1781474847,1794175200"
-    },
-    {
-      "songs": [
-        {
-          "id": "1762268854445",
-          "title": "Sublime",
-          "artist": "FHOP Music",
-          "author": "Caio Freitas, Débora Rabelo"
-        },
-        {
-          "id": "1781898756484",
-          "title": "Sublime + É Ele",
-          "artist": "Beth Ramos",
-          "author": ""
-        }
-      ],
-      "occurrences": "6",
-      "occurrences_by_day": "3,0,0,0,3,0,0",
-      "timestamps": "1767528000,1775390400,1775775600,1781823600,1785672000,1786057200"
     },
     {
       "songs": [
@@ -439,25 +382,6 @@
     {
       "songs": [
         {
-          "id": "1762266641384",
-          "title": "Oferta de Amor",
-          "artist": "Min. Koinonya de Louvor",
-          "author": "Willen Soares"
-        },
-        {
-          "id": "1762265565301",
-          "title": "Venho, Senhor, Minha Vida Oferecer",
-          "artist": "Igreja Cristã Maranata",
-          "author": "Willen Soares"
-        }
-      ],
-      "occurrences": "4",
-      "occurrences_by_day": "2,0,0,0,2,0,0",
-      "timestamps": "1774821600,1778198901,1788127200,1793919600"
-    },
-    {
-      "songs": [
-        {
           "id": "1762287221344",
           "title": "Quem É Esse?",
           "artist": "Julliany Souza",
@@ -610,25 +534,6 @@
       "occurrences": "3",
       "occurrences_by_day": "2,0,0,0,1,0,0",
       "timestamps": "1790546400,1790895600,1792965600"
-    },
-    {
-      "songs": [
-        {
-          "id": "1761050980354",
-          "title": "Em Espírito e Em Verdade",
-          "artist": "Min. Koinonya de Louvor",
-          "author": "Márcio Pereira"
-        },
-        {
-          "id": "1773271073472",
-          "title": "Meu Respirar + Meu Prazer",
-          "artist": "Gabriela Rocha",
-          "author": "Marie Barnett, Márcio Pereira"
-        }
-      ],
-      "occurrences": "3",
-      "occurrences_by_day": "1,0,0,0,2,0,0",
-      "timestamps": "1767913200,1773612000,1773961200"
     },
     {
       "songs": [
@@ -1084,25 +989,6 @@
       "occurrences": "2",
       "occurrences_by_day": "1,0,0,0,1,0,0",
       "timestamps": "1768773600,1769122800"
-    },
-    {
-      "songs": [
-        {
-          "id": "1761654263487",
-          "title": "Digno É o Senhor",
-          "artist": "Aline Barros",
-          "author": "Darlene Zschech"
-        },
-        {
-          "id": "1790686107135",
-          "title": "Digno É o Senhor",
-          "artist": "Gabi Sampaio, Carol Braga e Som do Céu",
-          "author": ""
-        }
-      ],
-      "occurrences": "2",
-      "occurrences_by_day": "2,0,0,0,0,0,0",
-      "timestamps": "1773612000,1791115200"
     },
     {
       "songs": [
