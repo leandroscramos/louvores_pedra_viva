@@ -1,7 +1,7 @@
 {
   "filter": {
     "start": "2026-01-01",
-    "end": "2026-11-08",
+    "end": "2026-11-15",
     "service": null,
     "days": [
       "sun",
@@ -122,6 +122,19 @@
     {
       "songs": [
         {
+          "id": "1762265206490",
+          "title": "Alfa e Ômega",
+          "artist": "Marine Friesen",
+          "author": "Marine Friesen"
+        }
+      ],
+      "occurrences": "5",
+      "occurrences_by_day": "3,0,0,0,2,0,0",
+      "timestamps": "1773007200,1778198550,1781475970,1781823600,1794780000"
+    },
+    {
+      "songs": [
+        {
           "id": "1769459589958",
           "title": "Autor da Vida",
           "artist": "Aline Barros",
@@ -213,15 +226,28 @@
     {
       "songs": [
         {
-          "id": "1762265206490",
-          "title": "Alfa e Ômega",
-          "artist": "Marine Friesen",
-          "author": "Marine Friesen"
+          "id": "1770293907538",
+          "title": "O Nosso General É Cristo (Revisar letra)",
+          "artist": "Gabriela Rocha",
+          "author": ""
         }
       ],
-      "occurrences": "4",
-      "occurrences_by_day": "2,0,0,0,2,0,0",
-      "timestamps": "1773007200,1778198550,1781475970,1781823600"
+      "occurrences": "5",
+      "occurrences_by_day": "3,0,0,0,2,0,0",
+      "timestamps": "1770588924,1781823600,1786917600,1787266800,1794780000"
+    },
+    {
+      "songs": [
+        {
+          "id": "1762287221344",
+          "title": "Quem É Esse?",
+          "artist": "Julliany Souza",
+          "author": "Léo Brandão"
+        }
+      ],
+      "occurrences": "5",
+      "occurrences_by_day": "3,0,0,0,2,0,0",
+      "timestamps": "1767528000,1769947200,1770332400,1780009200,1794780000"
     },
     {
       "songs": [
@@ -356,19 +382,6 @@
     {
       "songs": [
         {
-          "id": "1770293907538",
-          "title": "O Nosso General É Cristo",
-          "artist": "Gabriela Rocha",
-          "author": ""
-        }
-      ],
-      "occurrences": "4",
-      "occurrences_by_day": "2,0,0,0,2,0,0",
-      "timestamps": "1770588924,1781823600,1786917600,1787266800"
-    },
-    {
-      "songs": [
-        {
           "id": "1762266764409",
           "title": "O Que Sua Glória Fez Comigo",
           "artist": "Fernanda Brum",
@@ -378,19 +391,6 @@
       "occurrences": "4",
       "occurrences_by_day": "2,0,0,0,2,0,0",
       "timestamps": "1771200288,1771545954,1789336800,1789686000"
-    },
-    {
-      "songs": [
-        {
-          "id": "1762287221344",
-          "title": "Quem É Esse?",
-          "artist": "Julliany Souza",
-          "author": "Léo Brandão"
-        }
-      ],
-      "occurrences": "4",
-      "occurrences_by_day": "2,0,0,0,2,0,0",
-      "timestamps": "1767528000,1769947200,1770332400,1780009200"
     },
     {
       "songs": [
@@ -469,6 +469,19 @@
       "occurrences": "4",
       "occurrences_by_day": "2,0,0,0,2,0,0",
       "timestamps": "1769947200,1773357900,1783252800,1792105200"
+    },
+    {
+      "songs": [
+        {
+          "id": "1760470122230",
+          "title": "Abraça-me",
+          "artist": "André Valadão",
+          "author": "André Valadão"
+        }
+      ],
+      "occurrences": "3",
+      "occurrences_by_day": "1,0,0,0,2,0,0",
+      "timestamps": "1775171327,1783638000,1794780000"
     },
     {
       "songs": [
@@ -733,6 +746,19 @@
     {
       "songs": [
         {
+          "id": "1762265776585",
+          "title": "Te Agradeço",
+          "artist": "Diante do Trono",
+          "author": "Ana Paula Valadão, Dennis Jernigan"
+        }
+      ],
+      "occurrences": "3",
+      "occurrences_by_day": "1,0,0,0,2,0,0",
+      "timestamps": "1779062265,1779408138,1794524400"
+    },
+    {
+      "songs": [
+        {
           "id": "1787055522359",
           "title": "Tu És Santo (Príncipe da Paz)",
           "artist": "Andrea Fontes",
@@ -794,19 +820,6 @@
       "occurrences": "3",
       "occurrences_by_day": "2,0,0,0,1,0,0",
       "timestamps": "1777240800,1783036556,1792360800"
-    },
-    {
-      "songs": [
-        {
-          "id": "1760470122230",
-          "title": "Abraça-me",
-          "artist": "André Valadão",
-          "author": "André Valadão"
-        }
-      ],
-      "occurrences": "2",
-      "occurrences_by_day": "0,0,0,0,2,0,0",
-      "timestamps": "1775171327,1783638000"
     },
     {
       "songs": [
@@ -1084,6 +1097,19 @@
     {
       "songs": [
         {
+          "id": "1762264983850",
+          "title": "Jesus Em Tua Presença",
+          "artist": "Quatro Por Um e Aline Barros",
+          "author": "Asaph Borba"
+        }
+      ],
+      "occurrences": "2",
+      "occurrences_by_day": "0,0,0,0,2,0,0",
+      "timestamps": "1779405686,1794524400"
+    },
+    {
+      "songs": [
+        {
           "id": "1761570600378",
           "title": "Mais Alto",
           "artist": "Fernandinho",
@@ -1327,19 +1353,6 @@
       "occurrences": "2",
       "occurrences_by_day": "1,0,0,0,1,0,0",
       "timestamps": "1785672000,1786057200"
-    },
-    {
-      "songs": [
-        {
-          "id": "1762265776585",
-          "title": "Te Agradeço",
-          "artist": "Diante do Trono",
-          "author": "Ana Paula Valadão, Dennis Jernigan"
-        }
-      ],
-      "occurrences": "2",
-      "occurrences_by_day": "1,0,0,0,1,0,0",
-      "timestamps": "1779062265,1779408138"
     },
     {
       "songs": [
@@ -1708,6 +1721,19 @@
     {
       "songs": [
         {
+          "id": "1794339501643",
+          "title": "Fogo Em Teus Olhos",
+          "artist": "Carol Braga",
+          "author": ""
+        }
+      ],
+      "occurrences": "1",
+      "occurrences_by_day": "1,0,0,0,0,0,0",
+      "timestamps": "1794780000"
+    },
+    {
+      "songs": [
+        {
           "id": "1762287862268",
           "title": "Foi na Cruz | Nada Além do Sangue | O Rei está voltando",
           "artist": "Fernandinho e Gabriel Guedes",
@@ -1743,19 +1769,6 @@
       "occurrences": "1",
       "occurrences_by_day": "0,0,0,0,1,0,0",
       "timestamps": "1786057200"
-    },
-    {
-      "songs": [
-        {
-          "id": "1762264983850",
-          "title": "Jesus Em Tua Presença",
-          "artist": "Quatro Por Um e Aline Barros",
-          "author": "Asaph Borba"
-        }
-      ],
-      "occurrences": "1",
-      "occurrences_by_day": "0,0,0,0,1,0,0",
-      "timestamps": "1779405686"
     },
     {
       "songs": [
@@ -1886,6 +1899,19 @@
       "occurrences": "1",
       "occurrences_by_day": "1,0,0,0,0,0,0",
       "timestamps": "1780267077"
+    },
+    {
+      "songs": [
+        {
+          "id": "1762265682667",
+          "title": "Os Sonhos de Deus",
+          "artist": "Ludmila Ferber",
+          "author": "Ludmila Ferber"
+        }
+      ],
+      "occurrences": "1",
+      "occurrences_by_day": "0,0,0,0,1,0,0",
+      "timestamps": "1794524400"
     },
     {
       "songs": [
@@ -2215,6 +2241,19 @@
     {
       "songs": [
         {
+          "id": "1794942480691",
+          "title": "Alfa e Ômega",
+          "artist": "Aline Barros",
+          "author": ""
+        }
+      ],
+      "occurrences": "0",
+      "occurrences_by_day": "0,0,0,0,0,0,0",
+      "timestamps": ""
+    },
+    {
+      "songs": [
+        {
           "id": "1785185531832",
           "title": "Algo Novo",
           "artist": "Kemuel e Lukas Agustinho",
@@ -2397,19 +2436,6 @@
     {
       "songs": [
         {
-          "id": "1794339501643",
-          "title": "Fogo Em Teus Olhos",
-          "artist": "Carol Braga",
-          "author": ""
-        }
-      ],
-      "occurrences": "0",
-      "occurrences_by_day": "0,0,0,0,0,0,0",
-      "timestamps": ""
-    },
-    {
-      "songs": [
-        {
           "id": "1761050902558",
           "title": "Galileu",
           "artist": "Fernandinho",
@@ -2583,19 +2609,6 @@
           "title": "O Mapa do Tesouro",
           "artist": "Anderson Freire",
           "author": "Anderson Freire"
-        }
-      ],
-      "occurrences": "0",
-      "occurrences_by_day": "0,0,0,0,0,0,0",
-      "timestamps": ""
-    },
-    {
-      "songs": [
-        {
-          "id": "1762265682667",
-          "title": "Os Sonhos de Deus",
-          "artist": "Ludmila Ferber",
-          "author": "Ludmila Ferber"
         }
       ],
       "occurrences": "0",

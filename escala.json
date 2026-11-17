@@ -1,6 +1,6 @@
 {
   "start": "2026-01-01",
-  "end": "2026-11-19",
+  "end": "2026-11-22",
   "songs": [
     {
       "song": {
@@ -85,6 +85,15 @@
     },
     {
       "song": {
+        "id": "1762265206490",
+        "title": "Alfa e Ômega",
+        "artist": "Marine Friesen",
+        "author": "Marine Friesen"
+      },
+      "occurrences": "5"
+    },
+    {
+      "song": {
         "id": "1769459589958",
         "title": "Autor da Vida",
         "artist": "Aline Barros",
@@ -139,12 +148,21 @@
     },
     {
       "song": {
-        "id": "1762265206490",
-        "title": "Alfa e Ômega",
-        "artist": "Marine Friesen",
-        "author": "Marine Friesen"
+        "id": "1770293907538",
+        "title": "O Nosso General É Cristo (Revisar letra)",
+        "artist": "Gabriela Rocha",
+        "author": ""
       },
-      "occurrences": "4"
+      "occurrences": "5"
+    },
+    {
+      "song": {
+        "id": "1762287221344",
+        "title": "Quem É Esse?",
+        "artist": "Julliany Souza",
+        "author": "Léo Brandão"
+      },
+      "occurrences": "5"
     },
     {
       "song": {
@@ -247,28 +265,10 @@
     },
     {
       "song": {
-        "id": "1770293907538",
-        "title": "O Nosso General É Cristo",
-        "artist": "Gabriela Rocha",
-        "author": ""
-      },
-      "occurrences": "4"
-    },
-    {
-      "song": {
         "id": "1762266764409",
         "title": "O Que Sua Glória Fez Comigo",
         "artist": "Fernanda Brum",
         "author": "Duda Moon"
-      },
-      "occurrences": "4"
-    },
-    {
-      "song": {
-        "id": "1762287221344",
-        "title": "Quem É Esse?",
-        "artist": "Julliany Souza",
-        "author": "Léo Brandão"
       },
       "occurrences": "4"
     },
@@ -316,6 +316,15 @@
         "author": "Hananiel Eduardo, Heloisa Rosa"
       },
       "occurrences": "4"
+    },
+    {
+      "song": {
+        "id": "1760470122230",
+        "title": "Abraça-me",
+        "artist": "André Valadão",
+        "author": "André Valadão"
+      },
+      "occurrences": "3"
     },
     {
       "song": {
@@ -490,6 +499,15 @@
     },
     {
       "song": {
+        "id": "1762265776585",
+        "title": "Te Agradeço",
+        "artist": "Diante do Trono",
+        "author": "Ana Paula Valadão, Dennis Jernigan"
+      },
+      "occurrences": "3"
+    },
+    {
+      "song": {
         "id": "1787055522359",
         "title": "Tu És Santo (Príncipe da Paz)",
         "artist": "Andrea Fontes",
@@ -532,15 +550,6 @@
         "author": "Elimart De la Rosa"
       },
       "occurrences": "3"
-    },
-    {
-      "song": {
-        "id": "1760470122230",
-        "title": "Abraça-me",
-        "artist": "André Valadão",
-        "author": "André Valadão"
-      },
-      "occurrences": "2"
     },
     {
       "song": {
@@ -733,6 +742,15 @@
     },
     {
       "song": {
+        "id": "1762264983850",
+        "title": "Jesus Em Tua Presença",
+        "artist": "Quatro Por Um e Aline Barros",
+        "author": "Asaph Borba"
+      },
+      "occurrences": "2"
+    },
+    {
+      "song": {
         "id": "1761570600378",
         "title": "Mais Alto",
         "artist": "Fernandinho",
@@ -908,15 +926,6 @@
         "title": "Sublime + É Ele",
         "artist": "Beth Ramos",
         "author": ""
-      },
-      "occurrences": "2"
-    },
-    {
-      "song": {
-        "id": "1762265776585",
-        "title": "Te Agradeço",
-        "artist": "Diante do Trono",
-        "author": "Ana Paula Valadão, Dennis Jernigan"
       },
       "occurrences": "2"
     },
@@ -1183,6 +1192,15 @@
     },
     {
       "song": {
+        "id": "1794339501643",
+        "title": "Fogo Em Teus Olhos",
+        "artist": "Carol Braga",
+        "author": ""
+      },
+      "occurrences": "1"
+    },
+    {
+      "song": {
         "id": "1762287862268",
         "title": "Foi na Cruz | Nada Além do Sangue | O Rei está voltando",
         "artist": "Fernandinho e Gabriel Guedes",
@@ -1205,15 +1223,6 @@
         "title": "Isaías 9",
         "artist": "Rodolfo Abrantes",
         "author": "Rodolfo Abrantes"
-      },
-      "occurrences": "1"
-    },
-    {
-      "song": {
-        "id": "1762264983850",
-        "title": "Jesus Em Tua Presença",
-        "artist": "Quatro Por Um e Aline Barros",
-        "author": "Asaph Borba"
       },
       "occurrences": "1"
     },
@@ -1304,6 +1313,15 @@
         "title": "O Cheiro das Águas",
         "artist": "Diante do Trono",
         "author": "Ana Paula Valadão"
+      },
+      "occurrences": "1"
+    },
+    {
+      "song": {
+        "id": "1762265682667",
+        "title": "Os Sonhos de Deus",
+        "artist": "Ludmila Ferber",
+        "author": "Ludmila Ferber"
       },
       "occurrences": "1"
     },
@@ -1543,6 +1561,15 @@
     },
     {
       "song": {
+        "id": "1794942480691",
+        "title": "Alfa e Ômega",
+        "artist": "Aline Barros",
+        "author": ""
+      },
+      "occurrences": "0"
+    },
+    {
+      "song": {
         "id": "1785185531832",
         "title": "Algo Novo",
         "artist": "Kemuel e Lukas Agustinho",
@@ -1664,15 +1691,6 @@
         "title": "Fiel a Mim",
         "artist": "Eyshila",
         "author": "Eyshila"
-      },
-      "occurrences": "0"
-    },
-    {
-      "song": {
-        "id": "1794339501643",
-        "title": "Fogo Em Teus Olhos",
-        "artist": "Carol Braga",
-        "author": ""
       },
       "occurrences": "0"
     },
@@ -1804,15 +1822,6 @@
     },
     {
       "song": {
-        "id": "1762265682667",
-        "title": "Os Sonhos de Deus",
-        "artist": "Ludmila Ferber",
-        "author": "Ludmila Ferber"
-      },
-      "occurrences": "0"
-    },
-    {
-      "song": {
         "id": "1760469940568",
         "title": "Ousado Amor",
         "artist": "Isaias Saad",
@@ -1936,7 +1945,7 @@
         "name": "Diego"
       },
       "responsible": "0",
-      "scheduled": "37"
+      "scheduled": "35"
     },
     {
       "member": {
@@ -1952,7 +1961,7 @@
         "name": "Guilherme"
       },
       "responsible": "0",
-      "scheduled": "79"
+      "scheduled": "82"
     },
     {
       "member": {
@@ -1968,7 +1977,7 @@
         "name": "Juliana"
       },
       "responsible": "0",
-      "scheduled": "51"
+      "scheduled": "52"
     },
     {
       "member": {
@@ -1976,7 +1985,7 @@
         "name": "Karina"
       },
       "responsible": "0",
-      "scheduled": "46"
+      "scheduled": "49"
     },
     {
       "member": {
@@ -1984,7 +1993,7 @@
         "name": "Leandro"
       },
       "responsible": "0",
-      "scheduled": "55"
+      "scheduled": "56"
     },
     {
       "member": {
@@ -1992,7 +2001,7 @@
         "name": "Lucas"
       },
       "responsible": "0",
-      "scheduled": "66"
+      "scheduled": "67"
     },
     {
       "member": {
@@ -2000,7 +2009,7 @@
         "name": "Lukinhas"
       },
       "responsible": "0",
-      "scheduled": "46"
+      "scheduled": "47"
     },
     {
       "member": {
@@ -2008,7 +2017,7 @@
         "name": "Malú"
       },
       "responsible": "0",
-      "scheduled": "47"
+      "scheduled": "45"
     },
     {
       "member": {
@@ -2048,7 +2057,7 @@
         "name": "Samuel"
       },
       "responsible": "0",
-      "scheduled": "90"
+      "scheduled": "91"
     },
     {
       "member": {
@@ -2056,7 +2065,7 @@
         "name": "Vini"
       },
       "responsible": "0",
-      "scheduled": "22"
+      "scheduled": "23"
     },
     {
       "member": {

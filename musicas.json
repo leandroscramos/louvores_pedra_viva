@@ -775,7 +775,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -1834,6 +1833,90 @@
     }
   },
   {
+    "id": 1794942480691,
+    "title": "Alfa e Ômega",
+    "artist": "Aline Barros",
+    "author": "",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "F",
+    "bpm": 65.0,
+    "time_sig": "4/4",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Tu, que estás assentado no trono\nSempre reinando, soberano\n\nAnjos cantando, homens louvando\nDeus reunido com Seu povo\n\nÓ, ó, Alfa, Ômega, Cristo, Filho\nÓ, vem, ó, vem, ó, vem, Senhor Jesus\n\nAnsioso, espero a Sua volta\nO grande dia em que Tu virás\n\nEntão subiremos, Contigo estaremos\nPra todo o sempre, aleluia\n\nMaranata, Cristo, Filho, Mestre\nÓ, vem, ó, vem, ó, vem, Senhor Jesus",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Tu, que estás assentado no trono\nSempre reinando, soberano",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Anjos cantando, homens louvando\nDeus reunido com Seu povo",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Ó, ó, Alfa, Ômega, Cristo, Filho\nÓ, vem, ó, vem, ó, vem, Senhor Jesus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Ansioso, espero a Sua volta\nO grande dia em que Tu virás",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Então subiremos, Contigo estaremos\nPra todo o sempre, aleluia",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Maranata, Cristo, Filho, Mestre\nÓ, vem, ó, vem, ó, vem, Senhor Jesus",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "",
+        "youtube": "https://www.youtube.com/watch?v=qtXG37Aeg2M",
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
+      }
+    },
+    "extras": {
+      "playlist_semana": "s",
+      "nova": "s",
+      "extra": ""
+    }
+  },
+  {
     "id": 1762265206490,
     "title": "Alfa e Ômega",
     "artist": "Marine Friesen",
@@ -1933,7 +2016,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -6381,6 +6463,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -8810,6 +8893,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/adhemar-de-campos/ele-exaltado",
       "extra": ""
     }
@@ -11958,7 +12042,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Me aproximei, permaneci\nO Teu olhar me consumiu\n\nEu sou todo Teu\n\nO fogo em Teus olhos\nFez eu me apaixonar\n\nQueimou todos os\nOutros amores\n\nQueimou todos os\nOutros amores\n\nEu ainda tenho fome\nEu ainda tenho lenha\n\nPode vir queimar\nPode vir queimar\n\nNos tornamos responsáveis\nA chama não vai apagar",
+      "full_text": "Me aproximei, permaneci\nO Teu olhar me consumiu\n\nEu sou todo Teu\n\nMe aproximei, permaneci\nO Teu olhar me consumiu\n\nEu sou todo Teu\n\nO fogo em Teus olhos\nfez eu me apaixonar\n\nQueimou todos os\noutros amores\n\nQueimou todos os\noutros amores\n\nEu ainda tenho fome\nEu ainda tenho lenha\n\nPode vir queimar\nPode vir queimar\n\nEu ainda tenho fome\nEu ainda tenho lenha\n\nPode vir queimar\nPode vir queimar\n\nNos tornamos responsáveis\nA chama não vai apagar",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -11978,40 +12062,68 @@
         {
           "number": 3,
           "description": "",
-          "text": "O fogo em Teus olhos\nFez eu me apaixonar",
+          "text": "Me aproximei, permaneci\nO Teu olhar me consumiu",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Queimou todos os\nOutros amores",
+          "text": "Eu sou todo Teu",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Queimou todos os\nOutros amores",
+          "text": "O fogo em Teus olhos\nfez eu me apaixonar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Eu ainda tenho fome\nEu ainda tenho lenha",
+          "text": "Queimou todos os\noutros amores",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Pode vir queimar\nPode vir queimar",
+          "text": "Queimou todos os\noutros amores",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
+          "description": "",
+          "text": "Eu ainda tenho fome\nEu ainda tenho lenha",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Pode vir queimar\nPode vir queimar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Eu ainda tenho fome\nEu ainda tenho lenha",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Pode vir queimar\nPode vir queimar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
           "description": "",
           "text": "Nos tornamos responsáveis\nA chama não vai apagar",
           "text_with_comment": null,
@@ -13554,48 +13666,48 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Jesus, em Tua presença\nReunimo-nos aqui\n\nContemplamos Tua face\nE rendemo-nos a Ti\n\nPois um dia Tua morte\nTrouxe vida a todos nós\n\nE nos deu completo acesso\nAo coração do Pai\n\nE o véu que separava\nJá não separa mais\n\nA luz, outrora apagada\nAgora brilha\n\nE cada dia brilha mais\n\nSó pra Te adorar\nE fazer Teu nome grande\n\nE Te dar o louvor\nque é devido\nEstamos nós aqui\n\nEstamos nós aqui",
+      "full_text": "Jesus, em Tua presença\nreunimo-nos aqui\n\nContemplamos Tua face\ne rendemo-nos a Ti\n\nPois um dia Tua morte\ntrouxe vida a todos nós\n\nE nos deu completo acesso\nao coração do Pai\n\nE o véu que separava\njá não separa mais\n\nA luz, outrora apagada\nagora brilha\n\nE cada dia brilha mais\n\nSó pra Te adorar\ne fazer Teu nome grande\n\nE Te dar o louvor que é\ndevido estamos nós aqui\n\nEstamos nós aqui",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Jesus, em Tua presença\nReunimo-nos aqui",
+          "text": "Jesus, em Tua presença\nreunimo-nos aqui",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "Contemplamos Tua face\nE rendemo-nos a Ti",
+          "text": "Contemplamos Tua face\ne rendemo-nos a Ti",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "Pois um dia Tua morte\nTrouxe vida a todos nós",
+          "text": "Pois um dia Tua morte\ntrouxe vida a todos nós",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "E nos deu completo acesso\nAo coração do Pai",
+          "text": "E nos deu completo acesso\nao coração do Pai",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "E o véu que separava\nJá não separa mais",
+          "text": "E o véu que separava\njá não separa mais",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "A luz, outrora apagada\nAgora brilha",
+          "text": "A luz, outrora apagada\nagora brilha",
           "text_with_comment": null,
           "translations": null
         },
@@ -13609,14 +13721,14 @@
         {
           "number": 8,
           "description": "",
-          "text": "Só pra Te adorar\nE fazer Teu nome grande",
+          "text": "Só pra Te adorar\ne fazer Teu nome grande",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 9,
           "description": "",
-          "text": "E Te dar o louvor\nque é devido\nEstamos nós aqui",
+          "text": "E Te dar o louvor que é\ndevido estamos nós aqui",
           "text_with_comment": null,
           "translations": null
         },
@@ -14438,7 +14550,7 @@
     "streaming": {
       "audio": {
         "spotify": "https://open.spotify.com/track/5GNkiggfjGwNM1vOGfaIvq",
-        "youtube": "https://youtube.com/watch?v=EQnWuFGDhvQ",
+        "youtube": "https://www.youtube.com/watch?v=7rSOppdclBM",
         "deezer": "https://deezer.com/track/2656104552",
         "apple_music": "",
         "amazon_music": ""
@@ -14452,6 +14564,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/lu-alone/louve",
       "extra": "https://www.cifrashub.com.br/song/lu-alone/louve"
     }
@@ -20135,7 +20248,9 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/yasmin-teixeira/o-fogo-ardera-reacende-a-chama-acende-outra-vez",
+      "nova": "s",
       "extra": ""
     }
   },
@@ -20328,7 +20443,7 @@
   },
   {
     "id": 1770293907538,
-    "title": "O Nosso General É Cristo",
+    "title": "O Nosso General É Cristo (Revisar letra)",
     "artist": "Gabriela Rocha",
     "author": "",
     "note": "",
@@ -20341,7 +20456,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Pelo Senhor\nmarchamos sim\n\nO Seu exército poderoso é\nE Sua glória será vista \nem toda terra\n\nVamos cantar\no canto da vitória\n\nGlória Deus!\nVencemos a batalha\n\nToda arma contra\nnós perecerá\n\nO nosso general é Cristo\nSeguimos os Seus passos\n\nNenhum inimigo\nnos resistirá\n\nO nosso general é Cristo\nSeguimos os Seus passos\n\nNenhum inimigo\nnos resistirá\n\nPelo Messias\nmarchamos sim\n\nEm Suas mãos\na chave da vitória\n\nQue nos leva a possuir\na terra prometida\n\nO nosso general é Cristo\nSeguimos os Seus passos\n\nNenhum inimigo\nnos resistirá\n\nO nosso general é Cristo\nSeguimos os Seus passos\n\nNenhum inimigo\nnos resistirá\n\nNenhum inimigo\nnos resistirá",
+      "full_text": "Pelo Senhor\nmarchamos sim\n\nO Seu exército poderoso é\ne Sua glória será vista \nem toda terra\n\nVamos cantar\no canto da vitória\n\nGlória Deus!\nVencemos a batalha\n\nToda arma contra\nnós perecerá\n\nO nosso general é Cristo\nSeguimos os Seus passos\n\nNenhum inimigo\nnos resistirá\n\nO nosso general é Cristo\nSeguimos os Seus passos\n\nNenhum inimigo\nnos resistirá\n\nPelo Messias\nmarchamos sim\n\nEm Suas mãos\na chave da vitória\n\nQue nos leva a possuir\na terra prometida\n\nO nosso general é Cristo\nSeguimos os Seus passos\n\nNenhum inimigo\nnos resistirá\n\nO nosso general é Cristo\nSeguimos os Seus passos\n\nNenhum inimigo\nnos resistirá\n\nNenhum inimigo\nnos resistirá",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -20354,7 +20469,7 @@
         {
           "number": 2,
           "description": "",
-          "text": "O Seu exército poderoso é\nE Sua glória será vista \nem toda terra",
+          "text": "O Seu exército poderoso é\ne Sua glória será vista \nem toda terra",
           "text_with_comment": null,
           "translations": null
         },
@@ -20482,7 +20597,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/gabriela-rocha/nosso-general-e-cristo",
       "extra": ""
     }
@@ -20794,9 +20908,9 @@
     },
     "streaming": {
       "audio": {
-        "spotify": "https://open.spotify.com/track/0fLXW4Nn98fE571xO5qpMt",
-        "youtube": "https://youtube.com/watch?v=pB3Ie7779cw",
-        "deezer": "https://deezer.com/track/1802819877",
+        "spotify": "",
+        "youtube": "https://www.youtube.com/watch?v=1XqHlWsMThA",
+        "deezer": "",
         "apple_music": "",
         "amazon_music": ""
       },
@@ -20809,6 +20923,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/ana-nobrega/oceanos",
       "extra": ""
     }
@@ -21112,13 +21227,13 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Se tentaram\nMatar os teus sonhos\n\nSufocando o teu coração\n\nSe lançaram você numa cova\nE ferido, perdeu a visão\n\nNão desista\nNão pare de crer\n\nOs sonhos de Deus\nJamais vão morrer\n\nNão desista\nNão pare de lutar\n\nNão pare de adorar\n\nLevanta os teus olhos e vê\n\nDeus está restaurando\nOs teus sonhos, e a tua visão\n\nRecebe a cura\nRecebe a unção\n\nUnção de ousadia\nUnção de conquista\n\nUnção de multiplicação",
+      "full_text": "Se tentaram\nmatar os teus sonhos\n\nSufocando o teu coração\n\nSe lançaram você numa cova\ne ferido, perdeu a visão\n\nNão desista\nNão pare de crer\n\nOs sonhos de Deus\njamais vão morrer\n\nNão desista\nNão pare de lutar\n\nNão pare de adorar\nLevanta os teus olhos e vê\n\nDeus está restaurando\nos teus sonhos, e a tua visão\n\nRecebe a cura\nRecebe a unção\n\nUnção de ousadia\nUnção de conquista\n\nUnção de multiplicação",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Se tentaram\nMatar os teus sonhos",
+          "text": "Se tentaram\nmatar os teus sonhos",
           "text_with_comment": null,
           "translations": null
         },
@@ -21132,7 +21247,7 @@
         {
           "number": 3,
           "description": "",
-          "text": "Se lançaram você numa cova\nE ferido, perdeu a visão",
+          "text": "Se lançaram você numa cova\ne ferido, perdeu a visão",
           "text_with_comment": null,
           "translations": null
         },
@@ -21146,7 +21261,7 @@
         {
           "number": 5,
           "description": "",
-          "text": "Os sonhos de Deus\nJamais vão morrer",
+          "text": "Os sonhos de Deus\njamais vão morrer",
           "text_with_comment": null,
           "translations": null
         },
@@ -21160,40 +21275,33 @@
         {
           "number": 7,
           "description": "",
-          "text": "Não pare de adorar",
+          "text": "Não pare de adorar\nLevanta os teus olhos e vê",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Levanta os teus olhos e vê",
+          "text": "Deus está restaurando\nos teus sonhos, e a tua visão",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 9,
           "description": "",
-          "text": "Deus está restaurando\nOs teus sonhos, e a tua visão",
+          "text": "Recebe a cura\nRecebe a unção",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 10,
           "description": "",
-          "text": "Recebe a cura\nRecebe a unção",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 11,
-          "description": "",
           "text": "Unção de ousadia\nUnção de conquista",
           "text_with_comment": null,
           "translations": null
         },
         {
-          "number": 12,
+          "number": 11,
           "description": "",
           "text": "Unção de multiplicação",
           "text_with_comment": null,
@@ -23460,7 +23568,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -24095,7 +24202,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Eu me deparei com\nAquele Mestre escrevendo\n\nCom o dedo no chão ouvindo\nOs fariseus a lhes falar\n\nQue a lei de Moisés\nMe condenava por\nmeus erros\n\nMas nenhuma pedra\nEle pegou pra me apedrejar\n\nEu só tinha os\nMeus pecados\nPra Lhe oferecer\n\nMas mesmo assim\nMe amou\n\nMas mesmo assim\nMe amou\n\nCom uma frase:\n\"Atire a pedra\nQuem nunca pecou\"\n\nEle me perdoou\nEle me perdoou\n\nSua irresistível graça\nMe alcançou\n\nQuem é esse?\nQue era sem pecado\nE não me condenou\n\nNo lugar da morte\nVida me ofertou\n\nO Cordeiro que\nPor mim se entregou\nE os meus pecados levou\n\nEu não Te troco por nada\nNão há espaço pra mais nada\n\nTodo vazio que havia em mim\nHoje é Sua morada\n\nA minha alma buscava\nE nada me completava\n\nA Tua presença\nÉ o que faltava em mim\n\nMinha vida foi transformada",
+      "full_text": "Eu me deparei com\nAquele Mestre escrevendo\n\nCom o dedo no chão ouvindo\nos fariseus a lhes falar\n\nQue a lei de Moisés me\ncondenava por meus erros\n\nMas nenhuma pedra\nEle pegou pra me apedrejar\n\nEu só tinha os meus\npecados pra Lhe oferecer\n\nMas mesmo assim\nMe amou\n\nMas mesmo assim\nMe amou\n\nCom uma frase: \"Atire a\npedra quem nunca pecou\"\n\nEle me perdoou\nEle me perdoou\n\nSua irresistível graça\nme alcançou\n\nQuem é esse?\nQue era sem pecado\ne não me condenou\n\nNo lugar da morte\nvida me ofertou\n\nO Cordeiro que por mim Se\nentregou e os meus pecados levou\n\nEu não Te troco por nada\nNão há espaço pra mais nada\n\nTodo vazio que havia em mim\nhoje é Sua morada\n\nA minha alma buscava\ne nada me completava\n\nA Tua presença\né o que faltava em mim\n\nMinha vida foi transformada",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -24108,14 +24215,14 @@
         {
           "number": 2,
           "description": "",
-          "text": "Com o dedo no chão ouvindo\nOs fariseus a lhes falar",
+          "text": "Com o dedo no chão ouvindo\nos fariseus a lhes falar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "Que a lei de Moisés\nMe condenava por\nmeus erros",
+          "text": "Que a lei de Moisés me\ncondenava por meus erros",
           "text_with_comment": null,
           "translations": null
         },
@@ -24129,7 +24236,7 @@
         {
           "number": 5,
           "description": "",
-          "text": "Eu só tinha os\nMeus pecados\nPra Lhe oferecer",
+          "text": "Eu só tinha os meus\npecados pra Lhe oferecer",
           "text_with_comment": null,
           "translations": null
         },
@@ -24150,7 +24257,7 @@
         {
           "number": 8,
           "description": "",
-          "text": "Com uma frase:\n\"Atire a pedra\nQuem nunca pecou\"",
+          "text": "Com uma frase: \"Atire a\npedra quem nunca pecou\"",
           "text_with_comment": null,
           "translations": null
         },
@@ -24164,28 +24271,28 @@
         {
           "number": 10,
           "description": "",
-          "text": "Sua irresistível graça\nMe alcançou",
+          "text": "Sua irresistível graça\nme alcançou",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 11,
           "description": "",
-          "text": "Quem é esse?\nQue era sem pecado\nE não me condenou",
+          "text": "Quem é esse?\nQue era sem pecado\ne não me condenou",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 12,
           "description": "",
-          "text": "No lugar da morte\nVida me ofertou",
+          "text": "No lugar da morte\nvida me ofertou",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 13,
           "description": "",
-          "text": "O Cordeiro que\nPor mim se entregou\nE os meus pecados levou",
+          "text": "O Cordeiro que por mim Se\nentregou e os meus pecados levou",
           "text_with_comment": null,
           "translations": null
         },
@@ -24199,21 +24306,21 @@
         {
           "number": 15,
           "description": "",
-          "text": "Todo vazio que havia em mim\nHoje é Sua morada",
+          "text": "Todo vazio que havia em mim\nhoje é Sua morada",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 16,
           "description": "",
-          "text": "A minha alma buscava\nE nada me completava",
+          "text": "A minha alma buscava\ne nada me completava",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 17,
           "description": "",
-          "text": "A Tua presença\nÉ o que faltava em mim",
+          "text": "A Tua presença\né o que faltava em mim",
           "text_with_comment": null,
           "translations": null
         },
@@ -24243,7 +24350,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/julliany-souza/quem-e-esse",
       "extra": ""
     }
@@ -25991,7 +26097,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/sozo/seja-exaltado",
       "extra": ""
     }
@@ -27158,7 +27263,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/florianopolis-house-of-prayer/sublime",
       "extra": ""
     }
@@ -27490,7 +27594,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Por tudo o que tens feito\nPor tudo que vais fazer\n\nPor Tuas promessas\nE tudo o que és\n\nEu quero Te agradecer\nCom todo o meu ser\n\nTe agradeço, meu Senhor\nTe agradeço, meu Senhor\n\nTe agradeço por me\nlibertar e salvar\n\nPor ter morrido\nem meu lugar\n\nTe agradeço, Jesus,\nTe agradeço\n\nEu Te agradeço,\nTe agradeço",
+      "full_text": "Por tudo o que tens feito\nPor tudo que vais fazer\n\nPor Tuas promessas\ne tudo o que és\n\nEu quero Te agradecer\ncom todo o meu ser\n\nTe agradeço, meu Senhor\nTe agradeço, meu Senhor\n\nTe agradeço por me\nlibertar e salvar\n\nPor ter morrido\nem meu lugar\n\nTe agradeço, Jesus,\nTe agradeço\n\nEu Te agradeço,\nTe agradeço",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -27503,14 +27607,14 @@
         {
           "number": 2,
           "description": "",
-          "text": "Por Tuas promessas\nE tudo o que és",
+          "text": "Por Tuas promessas\ne tudo o que és",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "Eu quero Te agradecer\nCom todo o meu ser",
+          "text": "Eu quero Te agradecer\ncom todo o meu ser",
           "text_with_comment": null,
           "translations": null
         },
@@ -30805,6 +30909,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
