@@ -1,22 +1,22 @@
 {
   "start": "2026-01-01",
-  "end": "2026-11-22",
+  "end": "2026-12-03",
   "songs": [
-    {
-      "song": {
-        "id": "1764609596023",
-        "title": "Escape",
-        "artist": "Renascer Praise",
-        "author": "Pr. Lucas, Sonia Hernandes"
-      },
-      "occurrences": "8"
-    },
     {
       "song": {
         "id": "1770678833783",
         "title": "Louve",
         "artist": "Lu Alone",
         "author": "Brandon Lake, Chandler Moore, Chris Brown, Cody Carnes, Pat Barrett, Steven Furtick"
+      },
+      "occurrences": "9"
+    },
+    {
+      "song": {
+        "id": "1764609596023",
+        "title": "Escape",
+        "artist": "Renascer Praise",
+        "author": "Pr. Lucas, Sonia Hernandes"
       },
       "occurrences": "8"
     },
@@ -274,6 +274,15 @@
     },
     {
       "song": {
+        "id": "1761050941558",
+        "title": "Oceanos",
+        "artist": "Ana Nóbrega",
+        "author": "Joel Houston, Matt Crocker, Salomon Ligthelm"
+      },
+      "occurrences": "4"
+    },
+    {
+      "song": {
         "id": "1760703496009",
         "title": "Ruja o Leão, Que Se Abram Os Céus",
         "artist": "Isaias Saad e Nívea Soares",
@@ -364,6 +373,15 @@
     },
     {
       "song": {
+        "id": "1762265420949",
+        "title": "Diz",
+        "artist": "Gabriela Rocha",
+        "author": "Jason Ingram, Lauren Daigle, Paul Mabury"
+      },
+      "occurrences": "3"
+    },
+    {
+      "song": {
         "id": "1762267412513",
         "title": "Eu preciso de ti",
         "artist": "Filhos do Homem",
@@ -395,15 +413,6 @@
         "title": "Não Vou Calar Meus Lábios",
         "artist": "Marcos Góes",
         "author": "Marcelo Guimarães"
-      },
-      "occurrences": "3"
-    },
-    {
-      "song": {
-        "id": "1761050941558",
-        "title": "Oceanos",
-        "artist": "Ana Nóbrega",
-        "author": "Joel Houston, Matt Crocker, Salomon Ligthelm"
       },
       "occurrences": "3"
     },
@@ -472,6 +481,15 @@
     },
     {
       "song": {
+        "id": "1762265229986",
+        "title": "Seja Exaltado",
+        "artist": "SOZO",
+        "author": "Josh Baldwin"
+      },
+      "occurrences": "3"
+    },
+    {
+      "song": {
         "id": "1760984404211",
         "title": "Senhor, Te Quero",
         "artist": "Vineyard",
@@ -494,6 +512,15 @@
         "title": "Sonda-me, Usa-me",
         "artist": "Aline Barros",
         "author": "Aline Barros, Ana Feitosa, Edson Feitosa"
+      },
+      "occurrences": "3"
+    },
+    {
+      "song": {
+        "id": "1781898756484",
+        "title": "Sublime + É Ele",
+        "artist": "Beth Ramos",
+        "author": ""
       },
       "occurrences": "3"
     },
@@ -539,6 +566,15 @@
         "title": "Vida Aos Sepulcros",
         "artist": "Gabriela Rocha",
         "author": "Brandon Lake, Chris Brown, Steven Furtick, Tiffany Hudson"
+      },
+      "occurrences": "3"
+    },
+    {
+      "song": {
+        "id": "1762265244057",
+        "title": "Vim Para Adorar-Te",
+        "artist": "Adoração e Adoradores e Ana Paula Valadão",
+        "author": "Tim Hughes"
       },
       "occurrences": "3"
     },
@@ -670,15 +706,6 @@
     },
     {
       "song": {
-        "id": "1762265420949",
-        "title": "Diz",
-        "artist": "Gabriela Rocha",
-        "author": "Jason Ingram, Lauren Daigle, Paul Mabury"
-      },
-      "occurrences": "2"
-    },
-    {
-      "song": {
         "id": "1761050980354",
         "title": "Em Espírito e Em Verdade",
         "artist": "Min. Koinonya de Louvor",
@@ -728,6 +755,15 @@
         "title": "Faz Chover",
         "artist": "Fernandinho",
         "author": "Fernandinho"
+      },
+      "occurrences": "2"
+    },
+    {
+      "song": {
+        "id": "1794339501643",
+        "title": "Fogo Em Teus Olhos",
+        "artist": "Carol Braga",
+        "author": ""
       },
       "occurrences": "2"
     },
@@ -904,28 +940,10 @@
     },
     {
       "song": {
-        "id": "1762265229986",
-        "title": "Seja Exaltado",
-        "artist": "SOZO",
-        "author": "Josh Baldwin"
-      },
-      "occurrences": "2"
-    },
-    {
-      "song": {
         "id": "1762266563436",
         "title": "Sou Casa",
         "artist": "Elizeu Alves",
         "author": "Elizeu Alves"
-      },
-      "occurrences": "2"
-    },
-    {
-      "song": {
-        "id": "1781898756484",
-        "title": "Sublime + É Ele",
-        "artist": "Beth Ramos",
-        "author": ""
       },
       "occurrences": "2"
     },
@@ -944,15 +962,6 @@
         "title": "Uma Nova História",
         "artist": "Fernandinho",
         "author": "Fernandinho"
-      },
-      "occurrences": "2"
-    },
-    {
-      "song": {
-        "id": "1762265244057",
-        "title": "Vim Para Adorar-Te",
-        "artist": "Adoração e Adoradores e Ana Paula Valadão",
-        "author": "Tim Hughes"
       },
       "occurrences": "2"
     },
@@ -980,6 +989,15 @@
         "title": "Acende Outra Vez",
         "artist": "Jefferson \u0026 Suellen",
         "author": "Jeferson Rodrigo"
+      },
+      "occurrences": "1"
+    },
+    {
+      "song": {
+        "id": "1794942480691",
+        "title": "Alfa e Ômega",
+        "artist": "Aline Barros",
+        "author": ""
       },
       "occurrences": "1"
     },
@@ -1192,15 +1210,6 @@
     },
     {
       "song": {
-        "id": "1794339501643",
-        "title": "Fogo Em Teus Olhos",
-        "artist": "Carol Braga",
-        "author": ""
-      },
-      "occurrences": "1"
-    },
-    {
-      "song": {
         "id": "1762287862268",
         "title": "Foi na Cruz | Nada Além do Sangue | O Rei está voltando",
         "artist": "Fernandinho e Gabriel Guedes",
@@ -1318,6 +1327,15 @@
     },
     {
       "song": {
+        "id": "1778781999134",
+        "title": "O Fogo Arderá",
+        "artist": "Alexsander Lucio",
+        "author": "Alexsander Lucio"
+      },
+      "occurrences": "1"
+    },
+    {
+      "song": {
         "id": "1762265682667",
         "title": "Os Sonhos de Deus",
         "artist": "Ludmila Ferber",
@@ -1367,6 +1385,15 @@
         "title": "Preciso de Ti + Lindo Momento",
         "artist": "Áquila Amorim",
         "author": ""
+      },
+      "occurrences": "1"
+    },
+    {
+      "song": {
+        "id": "1762266525122",
+        "title": "Quão Grande É O Meu Deus",
+        "artist": "Soraya Moraes",
+        "author": "Chris Tomlin, Ed Cash, Jesse Reeves"
       },
       "occurrences": "1"
     },
@@ -1556,15 +1583,6 @@
         "title": "Além do Rio Azul",
         "artist": "Voz da Verdade",
         "author": "Carlos A. Moysés"
-      },
-      "occurrences": "0"
-    },
-    {
-      "song": {
-        "id": "1794942480691",
-        "title": "Alfa e Ômega",
-        "artist": "Aline Barros",
-        "author": ""
       },
       "occurrences": "0"
     },
@@ -1804,15 +1822,6 @@
     },
     {
       "song": {
-        "id": "1778781999134",
-        "title": "O Fogo Arderá",
-        "artist": "Alexsander Lucio",
-        "author": "Alexsander Lucio"
-      },
-      "occurrences": "0"
-    },
-    {
-      "song": {
         "id": "1792513738393",
         "title": "O Mapa do Tesouro",
         "artist": "Anderson Freire",
@@ -1853,15 +1862,6 @@
         "title": "Primeira Essência",
         "artist": "Felipe Rodrigues",
         "author": "Anderson Freire"
-      },
-      "occurrences": "0"
-    },
-    {
-      "song": {
-        "id": "1762266525122",
-        "title": "Quão Grande É O Meu Deus",
-        "artist": "Soraya Moraes",
-        "author": "Chris Tomlin, Ed Cash, Jesse Reeves"
       },
       "occurrences": "0"
     },
@@ -1930,6 +1930,15 @@
     },
     {
       "song": {
+        "id": "1795623325684",
+        "title": "Tu Sondas",
+        "artist": "Ronaldo Bezerra",
+        "author": "Ronaldo Bezerra, Saúl Morales"
+      },
+      "occurrences": "0"
+    },
+    {
+      "song": {
         "id": "1790891988242",
         "title": "Um Só Deus",
         "artist": "Daniel Souza",
@@ -1945,7 +1954,7 @@
         "name": "Diego"
       },
       "responsible": "0",
-      "scheduled": "35"
+      "scheduled": "37"
     },
     {
       "member": {
@@ -1953,7 +1962,7 @@
         "name": "Fernanda"
       },
       "responsible": "0",
-      "scheduled": "42"
+      "scheduled": "44"
     },
     {
       "member": {
@@ -1961,7 +1970,7 @@
         "name": "Guilherme"
       },
       "responsible": "0",
-      "scheduled": "82"
+      "scheduled": "85"
     },
     {
       "member": {
@@ -1969,7 +1978,7 @@
         "name": "Gustavo"
       },
       "responsible": "0",
-      "scheduled": "31"
+      "scheduled": "33"
     },
     {
       "member": {
@@ -1977,7 +1986,7 @@
         "name": "Juliana"
       },
       "responsible": "0",
-      "scheduled": "52"
+      "scheduled": "53"
     },
     {
       "member": {
@@ -1985,7 +1994,7 @@
         "name": "Karina"
       },
       "responsible": "0",
-      "scheduled": "49"
+      "scheduled": "50"
     },
     {
       "member": {
@@ -1993,7 +2002,7 @@
         "name": "Leandro"
       },
       "responsible": "0",
-      "scheduled": "56"
+      "scheduled": "59"
     },
     {
       "member": {
@@ -2001,7 +2010,7 @@
         "name": "Lucas"
       },
       "responsible": "0",
-      "scheduled": "67"
+      "scheduled": "70"
     },
     {
       "member": {
@@ -2009,7 +2018,7 @@
         "name": "Lukinhas"
       },
       "responsible": "0",
-      "scheduled": "47"
+      "scheduled": "49"
     },
     {
       "member": {
@@ -2017,7 +2026,7 @@
         "name": "Malú"
       },
       "responsible": "0",
-      "scheduled": "45"
+      "scheduled": "47"
     },
     {
       "member": {
@@ -2025,7 +2034,7 @@
         "name": "Marcelo"
       },
       "responsible": "0",
-      "scheduled": "8"
+      "scheduled": "9"
     },
     {
       "member": {
@@ -2049,7 +2058,7 @@
         "name": "Renan"
       },
       "responsible": "0",
-      "scheduled": "35"
+      "scheduled": "37"
     },
     {
       "member": {
@@ -2057,7 +2066,7 @@
         "name": "Samuel"
       },
       "responsible": "0",
-      "scheduled": "91"
+      "scheduled": "94"
     },
     {
       "member": {

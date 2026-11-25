@@ -1847,48 +1847,104 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Tu, que estás assentado no trono\nSempre reinando, soberano\n\nAnjos cantando, homens louvando\nDeus reunido com Seu povo\n\nÓ, ó, Alfa, Ômega, Cristo, Filho\nÓ, vem, ó, vem, ó, vem, Senhor Jesus\n\nAnsioso, espero a Sua volta\nO grande dia em que Tu virás\n\nEntão subiremos, Contigo estaremos\nPra todo o sempre, aleluia\n\nMaranata, Cristo, Filho, Mestre\nÓ, vem, ó, vem, ó, vem, Senhor Jesus",
+      "full_text": "Tu, que estás\nassentado no trono\n\nSempre reinando,\nsoberano\n\nAnjos cantando,\nhomens louvando\n\nDeus reunido com\nSeu povo\n\nÓ, ó, Alfa, Ômega,\nCristo, Filho\n\nÓ, vem, ó, vem,\nó, vem, Senhor Jesus\n\nAnsioso, espero a\nSua volta\n\nO grande dia em\nque Tu virás\n\nEntão subiremos,\nContigo estaremos\n\nPra todo o sempre, aleluia\n\nMaranata, Cristo,\nFilho, Mestre\n\nÓ, vem, ó, vem,\nó, vem, Senhor Jesus\n\nÓ, ó, Alfa, Ômega,\nCristo, Filho\n\nÓ, vem, ó, vem,\nó, vem, Senhor Jesus",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Tu, que estás assentado no trono\nSempre reinando, soberano",
+          "text": "Tu, que estás\nassentado no trono",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 2,
           "description": "",
-          "text": "Anjos cantando, homens louvando\nDeus reunido com Seu povo",
+          "text": "Sempre reinando,\nsoberano",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "Ó, ó, Alfa, Ômega, Cristo, Filho\nÓ, vem, ó, vem, ó, vem, Senhor Jesus",
+          "text": "Anjos cantando,\nhomens louvando",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Ansioso, espero a Sua volta\nO grande dia em que Tu virás",
+          "text": "Deus reunido com\nSeu povo",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Então subiremos, Contigo estaremos\nPra todo o sempre, aleluia",
+          "text": "Ó, ó, Alfa, Ômega,\nCristo, Filho",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Maranata, Cristo, Filho, Mestre\nÓ, vem, ó, vem, ó, vem, Senhor Jesus",
+          "text": "Ó, vem, ó, vem,\nó, vem, Senhor Jesus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Ansioso, espero a\nSua volta",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "O grande dia em\nque Tu virás",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Então subiremos,\nContigo estaremos",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Pra todo o sempre, aleluia",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 11,
+          "description": "",
+          "text": "Maranata, Cristo,\nFilho, Mestre",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 12,
+          "description": "",
+          "text": "Ó, vem, ó, vem,\nó, vem, Senhor Jesus",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 13,
+          "description": "",
+          "text": "Ó, ó, Alfa, Ômega,\nCristo, Filho",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 14,
+          "description": "",
+          "text": "Ó, vem, ó, vem,\nó, vem, Senhor Jesus",
           "text_with_comment": null,
           "translations": null
         }
@@ -6332,6 +6388,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -6463,7 +6520,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -6719,6 +6775,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -8893,7 +8950,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/adhemar-de-campos/ele-exaltado",
       "extra": ""
     }
@@ -9633,6 +9689,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -12148,8 +12205,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
-      "nova": "s",
       "extra": ""
     }
   },
@@ -14262,7 +14317,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Tudo o que tem fôlego\nLouve ao Senhor\nLouve ao Senhor\n\nTudo o que tem fôlego\nLouve ao Senhor\nLouve ao Senhor\n\nEu louvo nos vales, \nlouvo nos montes\n\nLouvo no dia e \nlouvo na noite\n\nEu louvo se vejo \nque estou cercado\n\nPois meus inimigos \nserão derrotados\n\nEnquanto eu viver\nMinh'alma irá cantar\n\nLouve ao Senhor\ntodo o meu ser\n\nLouve ao Senhor\ntodo o meu ser\n\nEu louvo se vejo\ne louvo se não\n\nEu louvo pois sei que\nEstou em Tuas mãos\n\nGuerreio louvando\nem adoração\n\nCom o meu louvor\nmuralhas cairão\n\nEnquanto eu viver\nMinh'alma irá cantar\n\nLouve ao Senhor\ntodo o meu ser\n\nLouve ao Senhor\ntodo o meu ser\n\nNão vou me calar,\nmeu Deus vivo está\nComo não Te adorar?\n\nLouve ao Senhor\nTodo o meu ser\n\nTudo o que tem fôlego\nLouve ao Senhor\nLouve ao Senhor\n\nTudo o que tem fôlego\nLouve ao Senhor\nLouve ao Senhor\n\nLouvo ao Rei,\nlouvo ao Senhor\n\nLouvo o Cristo\nque ressuscitou\n\nLouvo Aquele\nque é justo e fiel\n\nO Deus soberano\nna Terra e no Céu\n\nLouvo ao Rei,\nlouvo ao Senhor\n\nLouvo o Cristo\nque ressuscitou\n\nLouvo Aquele\nque é justo e fiel\n\nO Deus soberano\nna Terra e no Céu\n\nLouve ao Senhor\nTodo o meu ser\n\nLouve ao Senhor\nTodo o meu ser\n\nLouve ao Senhor\nTodo o meu ser\n\nLouve ao Senhor\nTodo o meu ser\n\nNão vou me calar,\nmeu Deus vivo está\nComo não Te adorar?\n\nNão vou me calar,\nmeu Deus vivo está\nComo não Te adorar?\n\nNão vou me calar,\nmeu Deus vivo está\nComo não Te adorar?\n\nLouve ao Senhor\nTodo o meu ser\n\nTudo o que tem fôlego\nLouve ao Senhor\nLouve ao Senhor\n\nTudo o que tem fôlego\nLouve ao Senhor\nLouve ao Senhor\n\nTudo o que tem fôlego\nLouve ao Senhor\nLouve ao Senhor\n\nTudo o que tem fôlego\nLouve ao Senhor\nLouve ao Senhor",
+      "full_text": "Tudo o que tem fôlego\nLouve ao Senhor\nLouve ao Senhor\n\nTudo o que tem fôlego\nLouve ao Senhor\nLouve ao Senhor\n\nEu louvo nos vales, \nlouvo nos montes\n\nLouvo no dia e \nlouvo na noite\n\nEu louvo se vejo \nque estou cercado\n\nPois meus inimigos \nserão derrotados\n\nEnquanto eu viver\nminh'alma irá cantar\n\nLouve ao Senhor\ntodo o meu ser\n\nLouve ao Senhor\ntodo o meu ser\n\nEu louvo se vejo\ne louvo se não\n\nEu louvo pois sei que\nestou em Tuas mãos\n\nGuerreio louvando\nem adoração\n\nCom o meu louvor\nmuralhas cairão\n\nEnquanto eu viver\nminh'alma irá cantar\n\nLouve ao Senhor\ntodo o meu ser\n\nLouve ao Senhor\ntodo o meu ser\n\nNão vou me calar,\nmeu Deus vivo está\nComo não Te adorar?\n\nLouve ao Senhor\ntodo o meu ser\n\nTudo o que tem fôlego\nLouve ao Senhor\nLouve ao Senhor\n\nTudo o que tem fôlego\nLouve ao Senhor\nLouve ao Senhor\n\nLouvo ao Rei,\nlouvo ao Senhor\n\nLouvo o Cristo\nque ressuscitou\n\nLouvo Aquele\nque é justo e fiel\n\nO Deus soberano\nna Terra e no Céu\n\nLouvo ao Rei,\nlouvo ao Senhor\n\nLouvo o Cristo\nque ressuscitou\n\nLouvo Aquele\nque é justo e fiel\n\nO Deus soberano\nna Terra e no Céu\n\nLouve ao Senhor\ntodo o meu ser\n\nLouve ao Senhor\ntodo o meu ser\n\nLouve ao Senhor\ntodo o meu ser\n\nLouve ao Senhor\ntodo o meu ser\n\nNão vou me calar,\nmeu Deus vivo está\nComo não Te adorar?\n\nNão vou me calar,\nmeu Deus vivo está\nComo não Te adorar?\n\nNão vou me calar,\nmeu Deus vivo está\nComo não Te adorar?\n\nLouve ao Senhor\ntodo o meu ser\n\nTudo o que tem fôlego\nLouve ao Senhor\nLouve ao Senhor\n\nTudo o que tem fôlego\nLouve ao Senhor\nLouve ao Senhor\n\nTudo o que tem fôlego\nLouve ao Senhor\nLouve ao Senhor\n\nTudo o que tem fôlego\nLouve ao Senhor\nLouve ao Senhor",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -14310,7 +14365,7 @@
         {
           "number": 7,
           "description": "",
-          "text": "Enquanto eu viver\nMinh'alma irá cantar",
+          "text": "Enquanto eu viver\nminh'alma irá cantar",
           "text_with_comment": null,
           "translations": null
         },
@@ -14338,7 +14393,7 @@
         {
           "number": 11,
           "description": "",
-          "text": "Eu louvo pois sei que\nEstou em Tuas mãos",
+          "text": "Eu louvo pois sei que\nestou em Tuas mãos",
           "text_with_comment": null,
           "translations": null
         },
@@ -14359,7 +14414,7 @@
         {
           "number": 14,
           "description": "",
-          "text": "Enquanto eu viver\nMinh'alma irá cantar",
+          "text": "Enquanto eu viver\nminh'alma irá cantar",
           "text_with_comment": null,
           "translations": null
         },
@@ -14387,7 +14442,7 @@
         {
           "number": 18,
           "description": "",
-          "text": "Louve ao Senhor\nTodo o meu ser",
+          "text": "Louve ao Senhor\ntodo o meu ser",
           "text_with_comment": null,
           "translations": null
         },
@@ -14464,28 +14519,28 @@
         {
           "number": 29,
           "description": "",
-          "text": "Louve ao Senhor\nTodo o meu ser",
+          "text": "Louve ao Senhor\ntodo o meu ser",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 30,
           "description": "",
-          "text": "Louve ao Senhor\nTodo o meu ser",
+          "text": "Louve ao Senhor\ntodo o meu ser",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 31,
           "description": "",
-          "text": "Louve ao Senhor\nTodo o meu ser",
+          "text": "Louve ao Senhor\ntodo o meu ser",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 32,
           "description": "",
-          "text": "Louve ao Senhor\nTodo o meu ser",
+          "text": "Louve ao Senhor\ntodo o meu ser",
           "text_with_comment": null,
           "translations": null
         },
@@ -14513,7 +14568,7 @@
         {
           "number": 36,
           "description": "",
-          "text": "Louve ao Senhor\nTodo o meu ser",
+          "text": "Louve ao Senhor\ntodo o meu ser",
           "text_with_comment": null,
           "translations": null
         },
@@ -14564,7 +14619,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/lu-alone/louve",
       "extra": "https://www.cifrashub.com.br/song/lu-alone/louve"
     }
@@ -19799,13 +19853,13 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Teu fogo arde em mim\nE muda o meu viver\n\nSou Teu Templo,\nsou Teu altar\n\nSacrifício vivo\nquero oferecer\n\nTeu fogo arde em mim\ne muda o meu viver\n\nSou Teu Templo,\nsou Teu altar\n\nSacrifício vivo\nquero oferecer\n\nQue o nosso louvor\nnão seja um momento\n\nLágrimas vazias,\nsem avivamento\n\nQue o nosso amor\nnão seja fingido\n\nHonrado com os lábios,\nnos corações esquecido\n\nPois de que vale ter as\npoesias mais lindas\n\nAs harmonias mais brilhantes,\nse não há verdade em nós?\n\nPois de que vale ter tudo\ne não ter nada?\n\nTe dar meus lábios,\nnão minha alma?\n\nEu quero me entregar a Ti\nEntregar minha vida\ncomo adoração\n\nNão vale a pena só\nme emocionar\n\nE buscar as canções mais\nlindas pra cantar\n\nSe eu não for uma canção\nque alegra a Ti\n\nSe o meu coração não\nqueimar por Ti\n\nNão vale a pena só\nme emocionar\n\nE buscar as canções\nmais lindas pra cantar\n\nSe eu não for uma canção\nque alegra a Ti\n\nSe o meu coração não\nqueimar por Ti\n\nPorque pararam de\nfalar do Céu\n\nAcham que Cristo\nnão vai mais voltar\n\nJá não se fala tanto\nem oração\n\nE santificação não\nquerem mais pregar\n\nPorque pararam de\nfalar do Céu\n\nE só se fala em\nbens materiais\n\nMas eu sei que\ndentro da igreja\nExiste uma igreja espiritual\n\nLevanta essa geração\nDesperta a igreja\nem oração\n\nFaz arder de novo\nReacende o fogo\n\nLevanta essa geração\nTraz de volta a visão\n\nOnde tudo começou\nDe volta ao primeiro amor\n\nReacende a chama\nVem nos restaurar\n\nComo em Atos 2\nDesce aqui nesse lugar\n\nReacende a chama\nVem nos restaurar\n\nComo em Atos 2\nDesce aqui nesse lugar\n\nReacende a chama\nVem nos restaurar\n\nComo em Atos 2\nDesce aqui nesse lugar\n\nReacende a chama\nVem nos restaurar\n\nComo em Atos 2\nDesce aqui nesse lugar\n\nAcende outra vez\nTua chama em nós\n\nAviva outra vez,\naviva outra vez\n\nAcende outra vez\nTua chama em nós\n\nAviva outra vez,\naviva outra vez\n\nA nossa geração tem\nlenha pra queimar\n\nE pode incendiar e\nvem nos batizar\n\nA nossa geração tem lenha\npra queimar\n\nE pode incendiar e vem\nnos batizar\n\nMe batiza com fogo\nReacende a chama em mim\n\nMe batiza com fogo\nReacende a chama em mim\n\nE o fogo arderá sobre o altar\nContinuamente sobre o altar\n\nE não se apagará\nE não se apagará\n\nO fogo arderá sobre o altar\nContinuamente sobre o altar\n\nE não se apagará\nE não se apagará\n\nPois de que vale ter as \npoesias mais lindas\n\nAs harmonias mais brilhantes,\nse não há verdade em nós?\n\nPois de que vale ter tudo\ne não ter nada?\n\nTe dar meus lábios,\nnão minha alma?\n\nEu quero me entregar a Ti\nEntregar minha vida\ncomo adoração",
+      "full_text": "Teu fogo arde em mim\ne muda o meu viver\n\nSou Teu Templo,\nsou Teu altar\n\nSacrifício vivo\nquero oferecer\n\nTeu fogo arde em mim\ne muda o meu viver\n\nSou Teu Templo,\nsou Teu altar\n\nSacrifício vivo\nquero oferecer\n\nQue o nosso louvor\nnão seja um momento\n\nLágrimas vazias,\nsem avivamento\n\nQue o nosso amor\nnão seja fingido\n\nHonrado com os lábios,\nnos corações esquecido\n\nPois de que vale ter as\npoesias mais lindas\n\nAs harmonias mais brilhantes,\nse não há verdade em nós?\n\nPois de que vale ter tudo\ne não ter nada?\n\nTe dar meus lábios,\nnão minha alma?\n\nEu quero me entregar a Ti\nEntregar minha vida\ncomo adoração\n\nNão vale a pena só\nme emocionar\n\nE buscar as canções mais\nlindas pra cantar\n\nSe eu não for uma canção\nque alegra a Ti\n\nSe o meu coração não\nqueimar por Ti\n\nNão vale a pena só\nme emocionar\n\nE buscar as canções\nmais lindas pra cantar\n\nSe eu não for uma canção\nque alegra a Ti\n\nSe o meu coração não\nqueimar por Ti\n\nPorque pararam de\nfalar do Céu\n\nAcham que Cristo\nnão vai mais voltar\n\nJá não se fala tanto\nem oração\n\nE santificação não\nquerem mais pregar\n\nPorque pararam de\nfalar do Céu\n\nE só se fala em\nbens materiais\n\nMas eu sei que\ndentro da igreja\nExiste uma igreja espiritual\n\nLevanta essa geração\nDesperta a igreja\nem oração\n\nFaz arder de novo\nReacende o fogo\n\nLevanta essa geração\nTraz de volta a visão\n\nOnde tudo começou\nDe volta ao primeiro amor\n\nReacende a chama\nVem nos restaurar\n\nComo em Atos 2\nDesce aqui nesse lugar\n\nReacende a chama\nVem nos restaurar\n\nComo em Atos 2\nDesce aqui nesse lugar\n\nReacende a chama\nVem nos restaurar\n\nComo em Atos 2\nDesce aqui nesse lugar\n\nReacende a chama\nVem nos restaurar\n\nComo em Atos 2\nDesce aqui nesse lugar\n\nAcende outra vez\nTua chama em nós\n\nAviva outra vez,\naviva outra vez\n\nAcende outra vez\nTua chama em nós\n\nAviva outra vez,\naviva outra vez\n\nA nossa geração tem\nlenha pra queimar\n\nE pode incendiar e\nvem nos batizar\n\nA nossa geração tem lenha\npra queimar\n\nE pode incendiar e vem\nnos batizar\n\nMe batiza com fogo\nReacende a chama em mim\n\nMe batiza com fogo\nReacende a chama em mim\n\nE o fogo arderá sobre o altar\nContinuamente sobre o altar\n\nE não se apagará\nE não se apagará\n\nO fogo arderá sobre o altar\nContinuamente sobre o altar\n\nE não se apagará\nE não se apagará\n\nPois de que vale ter as \npoesias mais lindas\n\nAs harmonias mais brilhantes,\nse não há verdade em nós?\n\nPois de que vale ter tudo\ne não ter nada?\n\nTe dar meus lábios,\nnão minha alma?\n\nEu quero me entregar a Ti\nEntregar minha vida\ncomo adoração",
       "full_text_with_comment": null,
       "paragraphs": [
         {
           "number": 1,
           "description": "",
-          "text": "Teu fogo arde em mim\nE muda o meu viver",
+          "text": "Teu fogo arde em mim\ne muda o meu viver",
           "text_with_comment": null,
           "translations": null
         },
@@ -20248,9 +20302,7 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/yasmin-teixeira/o-fogo-ardera-reacende-a-chama-acende-outra-vez",
-      "nova": "s",
       "extra": ""
     }
   },
@@ -20923,7 +20975,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "cifra": "https://www.cifrashub.com.br/song/ana-nobrega/oceanos",
       "extra": ""
     }
@@ -23455,7 +23506,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Quão grande é o meu Deus\n\nCantarei\nQuão grande é o meu Deus\n\nE todos hão de ver\nQuão grande é o meu Deus\n\nCom esplendor de um Rei\nEm Majestade e Luz\n\nFaz a terra se alegrar,\nFaz a terra se alegrar\n\nEle é a própria Luz\nE as trevas vão fugir\n\nTremer com Sua voz,\nTremer com Sua voz\n\nPor gerações Ele é\nO tempo está em Suas mãos\n\nO começo e o fim\nO começo e o fim\n\nTrês se formam em um\nFilho, Espírito e Pai\n\nCordeiro e Leão,\nCordeiro e Leão\n\nSobre todo nome é o Seu\nTu és digno do louvor\n\nEu cantarei\nQuão Grande é o Meu Deus",
+      "full_text": "Quão grande é o meu Deus\n\nCantarei quão grande\né o meu Deus\n\nE todos hão de ver\nquão grande é o meu Deus\n\nCom esplendor de um Rei\nEm Majestade e Luz\n\nFaz a terra se alegrar,\nfaz a terra se alegrar\n\nEle é a própria Luz\ne as trevas vão fugir\n\nTremer com Sua voz,\ntremer com Sua voz\n\nPor gerações Ele é\nO tempo está em Suas mãos\n\nO começo e o fim\nO começo e o fim\n\nTrês se formam em um\nFilho, Espírito e Pai\n\nCordeiro e Leão,\nCordeiro e Leão\n\nSobre todo nome é o Seu\nTu és digno do louvor\n\nEu cantarei quão Grande\né o Meu Deus",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -23468,14 +23519,14 @@
         {
           "number": 2,
           "description": "",
-          "text": "Cantarei\nQuão grande é o meu Deus",
+          "text": "Cantarei quão grande\né o meu Deus",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 3,
           "description": "",
-          "text": "E todos hão de ver\nQuão grande é o meu Deus",
+          "text": "E todos hão de ver\nquão grande é o meu Deus",
           "text_with_comment": null,
           "translations": null
         },
@@ -23489,21 +23540,21 @@
         {
           "number": 5,
           "description": "",
-          "text": "Faz a terra se alegrar,\nFaz a terra se alegrar",
+          "text": "Faz a terra se alegrar,\nfaz a terra se alegrar",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Ele é a própria Luz\nE as trevas vão fugir",
+          "text": "Ele é a própria Luz\ne as trevas vão fugir",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Tremer com Sua voz,\nTremer com Sua voz",
+          "text": "Tremer com Sua voz,\ntremer com Sua voz",
           "text_with_comment": null,
           "translations": null
         },
@@ -23545,7 +23596,7 @@
         {
           "number": 13,
           "description": "",
-          "text": "Eu cantarei\nQuão Grande é o Meu Deus",
+          "text": "Eu cantarei quão Grande\né o Meu Deus",
           "text_with_comment": null,
           "translations": null
         }
@@ -24877,6 +24928,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -26005,7 +26057,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Eu louvo o Teu nome\nLouvo o Teu nome\n\nNome que está\nSobre todo nome\n\nToda honra ao Teu nome\nHonras ao Teu nome\n\nO nome que é maior\nQue todo nome\n\nSeja exaltado\nSeja exaltado\n\nSeja exaltado\nExaltado\n\nTeu nome é amor\nO amor que\n\nSempre me encontra\nSempre me encontra\n\nTeu nome é vida\nTeu nome é\n\nEsperança em mim\nA esperança em mim",
+      "full_text": "Eu louvo o Teu nome\nLouvo o Teu nome\n\nO nome que está\nsobre todo nome\n\nToda honra ao Teu nome\nHonras ao Teu nome\n\nO nome que é maior\nque todo nome\n\nSeja exaltado\nSeja exaltado\n\nSeja exaltado\nExaltado\n\nTeu nome é vida\nTeu nome é esperança em mim\n\nA esperança em mim\n\nTeu nome é amor\nO amor que sempre me encontra\n\nSempre me encontra",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -26018,7 +26070,7 @@
         {
           "number": 2,
           "description": "",
-          "text": "Nome que está\nSobre todo nome",
+          "text": "O nome que está\nsobre todo nome",
           "text_with_comment": null,
           "translations": null
         },
@@ -26032,7 +26084,7 @@
         {
           "number": 4,
           "description": "",
-          "text": "O nome que é maior\nQue todo nome",
+          "text": "O nome que é maior\nque todo nome",
           "text_with_comment": null,
           "translations": null
         },
@@ -26053,28 +26105,28 @@
         {
           "number": 7,
           "description": "",
-          "text": "Teu nome é amor\nO amor que",
+          "text": "Teu nome é vida\nTeu nome é esperança em mim",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Sempre me encontra\nSempre me encontra",
+          "text": "A esperança em mim",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 9,
           "description": "",
-          "text": "Teu nome é vida\nTeu nome é",
+          "text": "Teu nome é amor\nO amor que sempre me encontra",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 10,
           "description": "",
-          "text": "Esperança em mim\nA esperança em mim",
+          "text": "Sempre me encontra",
           "text_with_comment": null,
           "translations": null
         }
@@ -27282,7 +27334,7 @@
     "order": "",
     "arrangements": [],
     "lyrics": {
-      "full_text": "Quem é como Tu, Jesus\nNão há ninguém além de Ti\n\nQue é manso e humilde assim\nNão há ninguém igual a Ti\n\nNão há!\n\nMaravilhoso, admirável\nTão sublime, glorioso\n\nTua presença\nÉ mais desejável\nDo que o ouro\n\nMelhor que a vida\nÉ o Teu amor\n\nQuem é como Tu, Jesus\nNão há ninguém além de Ti\n\nQue é manso e humilde assim\nNão há ninguém igual a Ti\n\nNão há igual!\n\nMaravilhoso, admirável\nTão sublime, glorioso\n\nTua presença\nÉ mais desejável\nDo que o ouro\n\nMelhor que a vida\nÉ o Teu amor\n\nMaravilhoso, admirável\nTão sublime, glorioso\n\nTua presença\nÉ mais desejável\nDo que o ouro\n\nMelhor que a vida\nÉ o Teu amor\n\nAh, como espero o dia\nEm que verei a face\nDo meu amado\n\nAh, como espero o dia\nEm que a alegria\nEnfim será completa\n\nE Ele virá soberano em poder\nEle virá e o governo está Nele\n\nVejam, Ele traz consigo\nA sua recompensa\n\nEle virá soberano em poder\nEle virá e o governo está Nele\n\nVejam, Ele traz consigo\nA sua recompensa",
+      "full_text": "Quem é como Tu, Jesus\nNão há ninguém além de Ti\n\nQue é manso e humilde assim\nNão há ninguém igual a Ti\n\nMaravilhoso, admirável\nTão sublime, glorioso\n\nTua presença é mais\ndesejável do que o ouro\n\nMelhor que a vida\né o Teu amor\n\nQuem é como Tu, Jesus\nNão há ninguém além de Ti\n\nQue é manso e humilde assim\nNão há ninguém igual a Ti\n\nMaravilhoso, admirável\nTão sublime, glorioso\n\nTua presença é mais\ndesejável do que o ouro\n\nMelhor que a vida\né o Teu amor\n\nMaravilhoso, admirável\nTão sublime, glorioso\n\nTua presença é mais\ndesejável do que o ouro\n\nMelhor que a vida\né o Teu amor\n\nAh, como espero o dia\nem que verei a face\ndo meu amado\n\nAh, como espero o dia\nem que a alegria\nenfim será completa\n\nE Ele virá soberano em poder\nEle virá e o governo está Nele\n\nVejam, Ele traz consigo\na sua recompensa\n\nEle virá soberano em poder\nEle virá e o governo está Nele\n\nVejam, Ele traz consigo\na sua recompensa",
       "full_text_with_comment": null,
       "paragraphs": [
         {
@@ -27302,133 +27354,119 @@
         {
           "number": 3,
           "description": "",
-          "text": "Não há!",
+          "text": "Maravilhoso, admirável\nTão sublime, glorioso",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 4,
           "description": "",
-          "text": "Maravilhoso, admirável\nTão sublime, glorioso",
+          "text": "Tua presença é mais\ndesejável do que o ouro",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 5,
           "description": "",
-          "text": "Tua presença\nÉ mais desejável\nDo que o ouro",
+          "text": "Melhor que a vida\né o Teu amor",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 6,
           "description": "",
-          "text": "Melhor que a vida\nÉ o Teu amor",
+          "text": "Quem é como Tu, Jesus\nNão há ninguém além de Ti",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 7,
           "description": "",
-          "text": "Quem é como Tu, Jesus\nNão há ninguém além de Ti",
+          "text": "Que é manso e humilde assim\nNão há ninguém igual a Ti",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 8,
           "description": "",
-          "text": "Que é manso e humilde assim\nNão há ninguém igual a Ti",
+          "text": "Maravilhoso, admirável\nTão sublime, glorioso",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 9,
           "description": "",
-          "text": "Não há igual!",
+          "text": "Tua presença é mais\ndesejável do que o ouro",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 10,
           "description": "",
-          "text": "Maravilhoso, admirável\nTão sublime, glorioso",
+          "text": "Melhor que a vida\né o Teu amor",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 11,
           "description": "",
-          "text": "Tua presença\nÉ mais desejável\nDo que o ouro",
+          "text": "Maravilhoso, admirável\nTão sublime, glorioso",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 12,
           "description": "",
-          "text": "Melhor que a vida\nÉ o Teu amor",
+          "text": "Tua presença é mais\ndesejável do que o ouro",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 13,
           "description": "",
-          "text": "Maravilhoso, admirável\nTão sublime, glorioso",
+          "text": "Melhor que a vida\né o Teu amor",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 14,
           "description": "",
-          "text": "Tua presença\nÉ mais desejável\nDo que o ouro",
+          "text": "Ah, como espero o dia\nem que verei a face\ndo meu amado",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 15,
           "description": "",
-          "text": "Melhor que a vida\nÉ o Teu amor",
+          "text": "Ah, como espero o dia\nem que a alegria\nenfim será completa",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 16,
           "description": "",
-          "text": "Ah, como espero o dia\nEm que verei a face\nDo meu amado",
+          "text": "E Ele virá soberano em poder\nEle virá e o governo está Nele",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 17,
           "description": "",
-          "text": "Ah, como espero o dia\nEm que a alegria\nEnfim será completa",
+          "text": "Vejam, Ele traz consigo\na sua recompensa",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 18,
           "description": "",
-          "text": "E Ele virá soberano em poder\nEle virá e o governo está Nele",
+          "text": "Ele virá soberano em poder\nEle virá e o governo está Nele",
           "text_with_comment": null,
           "translations": null
         },
         {
           "number": 19,
           "description": "",
-          "text": "Vejam, Ele traz consigo\nA sua recompensa",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 20,
-          "description": "",
-          "text": "Ele virá soberano em poder\nEle virá e o governo está Nele",
-          "text_with_comment": null,
-          "translations": null
-        },
-        {
-          "number": 21,
-          "description": "",
-          "text": "Vejam, Ele traz consigo\nA sua recompensa",
+          "text": "Vejam, Ele traz consigo\na sua recompensa",
           "text_with_comment": null,
           "translations": null
         }
@@ -27761,6 +27799,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -28785,6 +28824,117 @@
     },
     "extras": {
       "cifra": "https://www.cifrashub.com.br/song/michael-w-smith-musicas/tu-es-santo-principe-da-paz",
+      "extra": ""
+    }
+  },
+  {
+    "id": 1795623325684,
+    "title": "Tu Sondas",
+    "artist": "Ronaldo Bezerra",
+    "author": "Ronaldo Bezerra, Saúl Morales",
+    "note": "",
+    "copyright": "",
+    "language": "",
+    "key": "G",
+    "bpm": 0.0,
+    "time_sig": "",
+    "midi": null,
+    "order": "",
+    "arrangements": [],
+    "lyrics": {
+      "full_text": "Teus olhos revelam que eu\nNada posso esconder\n\nQue não sou nada sem Ti\nÓ fiel Senhor\n\nTudo Tu sabes de mim\nQuando sondas o meu coração\n\nEis que tudo podes ver\nBem dentro de mim\n\nLeva minha vida\nA uma só verdade\n\nQue quando me sondas\nNada posso ocultar\n\nSei que Tua fidelidade\nLeva minha vida mais além\n\nDo que eu posso imaginar\n\nSei e não posso negar\nQue os Teus olhos sobre mim\n\nMe enchem da Tua paz",
+      "full_text_with_comment": null,
+      "paragraphs": [
+        {
+          "number": 1,
+          "description": "",
+          "text": "Teus olhos revelam que eu\nNada posso esconder",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 2,
+          "description": "",
+          "text": "Que não sou nada sem Ti\nÓ fiel Senhor",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 3,
+          "description": "",
+          "text": "Tudo Tu sabes de mim\nQuando sondas o meu coração",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 4,
+          "description": "",
+          "text": "Eis que tudo podes ver\nBem dentro de mim",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 5,
+          "description": "",
+          "text": "Leva minha vida\nA uma só verdade",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 6,
+          "description": "",
+          "text": "Que quando me sondas\nNada posso ocultar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 7,
+          "description": "",
+          "text": "Sei que Tua fidelidade\nLeva minha vida mais além",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 8,
+          "description": "",
+          "text": "Do que eu posso imaginar",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 9,
+          "description": "",
+          "text": "Sei e não posso negar\nQue os Teus olhos sobre mim",
+          "text_with_comment": null,
+          "translations": null
+        },
+        {
+          "number": 10,
+          "description": "",
+          "text": "Me enchem da Tua paz",
+          "text_with_comment": null,
+          "translations": null
+        }
+      ]
+    },
+    "streaming": {
+      "audio": {
+        "spotify": "",
+        "youtube": "https://www.youtube.com/watch?v=MvMRg1cNxWo",
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
+      },
+      "backing_track": {
+        "spotify": "",
+        "youtube": "",
+        "deezer": "",
+        "apple_music": "",
+        "amazon_music": ""
+      }
+    },
+    "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -30909,7 +31059,6 @@
       }
     },
     "extras": {
-      "playlist_semana": "s",
       "extra": ""
     }
   },
@@ -31062,6 +31211,7 @@
       }
     },
     "extras": {
+      "playlist_semana": "s",
       "extra": ""
     }
   },
